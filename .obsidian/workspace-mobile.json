@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "0af2960aa66261ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "dffe84fd78863f1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ec8ae1a6a79d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-inbox/overtimesam-lectures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "overtimesam-lectures"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "842bc88e1a682155",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3c92490f93346322",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
+        }
+      },
+      {
+        "id": "09a54a9855405e39",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "검색"
+        }
+      },
+      {
+        "id": "f63cda0415955604",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "태그"
+        }
+      },
+      {
+        "id": "c5b49cbb5d8c6f59",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "모든 속성"
+        }
+      },
+      {
+        "id": "9b6dad3799f5cd0e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "북마크"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dd1d0fd68b338ec8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a1184fee07c71c0c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "백링크"
+        }
+      },
+      {
+        "id": "86dee7b151d91014",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "나가는 링크"
+        }
+      },
+      {
+        "id": "eb83d09e7ce15a76",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "개요"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "09ec8ae1a6a79d90",
+  "lastOpenFiles": [
+    "01-inbox/overtimesam-lectures.md",
+    "01-inbox/MOC.md",
+    "01-inbox",
+    "README.md",
+    "05-resources/MOC.md",
+    "05-resources/pmpo-guide-book.md",
+    "05-resources",
+    "06-archives/MOC.md",
+    "06-archives",
+    "99-meta/MOC.md",
+    "99-meta",
+    "04-areas/MOC.md",
+    "04-areas",
+    "03-projects/MOC.md",
+    "03-projects",
+    "CLAUDE.md",
+    "JunVector/CLAUDE.md",
+    "JunVector/99-meta/MOC.md",
+    "JunVector/99-meta",
+    "JunVector/05-resources/MOC.md",
+    "JunVector/05-resources/pmpo-guide-book.md",
+    "JunVector/05-resources",
+    "JunVector/03-projects/MOC.md",
+    "JunVector/03-projects",
+    "JunVector/README.md",
+    "JunVector/01-inbox/overtimesam-lectures.md",
+    "JunVector/01-inbox/MOC.md",
+    "JunVector/01-inbox",
+    "JunVector/04-areas/MOC.md",
+    "JunVector/06-archives/MOC.md"
+  ]
+}

@@ -10,6 +10,4 @@ source: "https://publish.obsidian.md/overtimesam/03-projects/overtimesam/lecture
 
 > 크롤링 제한으로 본문을 가져오지 못했습니다. 아래 링크에서 직접 확인하세요.
 
-원문: https://publish.obsidian.md/overtimesam/03-projects/overtimesam/lectures/lectures
-
-TEST
+원문: https://publish.obsidian.md/overtimesam/03-projects/overtimesam/lectures/lecture
