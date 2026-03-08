@@ -1,3 +1,9 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+---
+
 # Obsidian Vault — Claude 운영 규칙
 
 ## 볼트 구조 (PARA)
@@ -13,6 +19,18 @@
 | `05-resources/` | 참고 자료, 관심사 |
 | `06-archives/` | 완료된 프로젝트 |
 | `99-meta/` | 템플릿, 첨부파일 |
+
+---
+
+## 스킬 파일 위치
+
+커스텀 스킬은 `.claude/skills/` 아래에 각각 `SKILL.md`로 정의되어 있다:
+
+| 스킬 | 파일 경로 | 역할 |
+|------|-----------|------|
+| `/save` | `.claude/skills/save/SKILL.md` | URL·텍스트를 노트로 변환해 `01-inbox/`에 저장 |
+| `/organize` | `.claude/skills/organize/SKILL.md` | `01-inbox/` 노트를 PARA 폴더로 분류·이동 |
+| `/deep-dive` | `.claude/skills/deep-dive/SKILL.md` | 노트 주제를 대화로 탐구하고 원본 노트에 추가 |
 
 ---
 
