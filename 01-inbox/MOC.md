@@ -14,3 +14,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 
 <!-- 노트가 추가되면 여기에 링크를 추가한다 -->
 - [[agent-skill-0-to-1|Agent Skill 0 to 1]] — 2026-03-08
+- [[top-claude-skills-ui-ux-engineers|UI/UX 엔지니어를 위한 Top 8 Claude 스킬]] — 2026-03-09
