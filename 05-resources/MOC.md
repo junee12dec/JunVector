@@ -13,3 +13,5 @@ description: "참고 자료 및 관심사 목차. 나중에 유용할 수 있는
 
 <!-- 리소스 노트가 추가되면 여기에 링크를 추가한다 -->
 - [[pmpo-guide-book|PMPO 가이드북]] — 2026-03-07
+- [[unclejobs-ai-threads|엉클잡스 AI — Threads 링크]] — 2026-03-08
+- [[overtimesam-lectures|Overtimesam 강의 목록]] — 2026-03-07
