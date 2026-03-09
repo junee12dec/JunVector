@@ -15,3 +15,6 @@ description: "참고 자료 및 관심사 목차. 나중에 유용할 수 있는
 - [[pmpo-guide-book|PMPO 가이드북]] — 2026-03-07
 - [[unclejobs-ai-threads|엉클잡스 AI — Threads 링크]] — 2026-03-08
 - [[overtimesam-lectures|Overtimesam 강의 목록]] — 2026-03-07
+- [[agent-skill-0-to-1|Agent Skill 0 to 1]] — 2026-03-08
+- [[top-claude-skills-ui-ux-engineers|UI/UX 엔지니어를 위한 Top 8 Claude 스킬]] — 2026-03-09
+- [[agency-agents|The Agency — 61개 전문 AI 에이전트 컬렉션]] — 2026-03-09
