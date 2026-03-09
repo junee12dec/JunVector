@@ -31,6 +31,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | `/save` | `.claude/skills/save/SKILL.md` | URL·텍스트를 노트로 변환해 `01-inbox/`에 저장 |
 | `/organize` | `.claude/skills/organize/SKILL.md` | `01-inbox/` 노트를 PARA 폴더로 분류·이동 |
 | `/deep-dive` | `.claude/skills/deep-dive/SKILL.md` | 노트 주제를 대화로 탐구하고 원본 노트에 추가 |
+| `/fix-notes` | `.claude/skills/fix-notes/SKILL.md` | save 규칙을 따르지 않는 노트를 일괄 정규화 |
 
 ---
 
@@ -86,6 +87,7 @@ source: "https://..."   # URL에서 저장했을 때만
 | 기록 요청 | `/save` 스킬 실행 |
 | 딥다이브 요청 | `/deep-dive` 스킬 실행 |
 | 정리 요청 | `/organize` 스킬 실행 |
+| 직접 추가한 노트 정규화 요청 | `/fix-notes` 스킬 실행 |
 
 ---
 
