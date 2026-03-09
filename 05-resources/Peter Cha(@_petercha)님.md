@@ -1,1 +1,0 @@
-[Peter Cha(@_petercha)님](https://www.threads.com/@_petercha/post/DVq35qeASz9?xmt=AQF0AxZ7TMQLpRyAYs97vkqPBQqBeSnOqDz6peRgnqc5RmiURQoEUG5Km7N6NYx5oKetmMo&slof=1)
