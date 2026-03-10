@@ -14,3 +14,6 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 
 <!-- 노트가 추가되면 여기에 링크를 추가한다 -->
 - [[instagram-reel-dvqk74qj63x|Instagram 릴 — DVqk74qj63x]] — 2026-03-09
+- [[nano-banana-2-with-claude-code|Nano Banana 2 with Claude Code]] — 2026-03-10
+- [[eopla-magazine-40068|EO 매거진 — 아티클 40068]] — 2026-03-10
+- [[natural-to-dev-flow-lovable|Natural-to-Dev Flow — Lovable.app 데모]] — 2026-03-10
