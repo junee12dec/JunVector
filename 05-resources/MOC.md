@@ -21,3 +21,8 @@ description: "참고 자료 및 관심사 목차. 나중에 유용할 수 있는
 - [[peter-cha-threads-post|Peter Cha(@_petercha) Threads 게시물]] — 2026-03-09
 - [[youtube-ml1twncklw|YouTube 영상 — Ml1TwnCkK4w]] — 2026-03-09
 - [[quantumjump-club-ai-automation-instagram|퀀텀점프클럽 — AI 자동화 Instagram]] — 2026-03-09
+- [[instagram-reel-dvqk74qj63x|Kimi Claw — 핸드폰으로 AI 비서 자동화 시스템]] — 2026-03-09
+- [[nano-banana-2-with-claude-code|Nano Banana 2 with Claude Code]] — 2026-03-10
+- [[eopla-magazine-40068|EO 매거진 — 아티클 40068]] — 2026-03-10
+- [[natural-to-dev-flow-lovable|Natural-to-Dev Flow — Lovable.app 데모]] — 2026-03-10
+- [[obsidian-claude-code-second-brain-setup|Obsidian + Claude Code로 AI 세컨드 브레인 구축하기]] — 2026-03-10
