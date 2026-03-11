@@ -17,3 +17,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[nano-banana-2-with-claude-code|Nano Banana 2 with Claude Code]] — 2026-03-10
 - [[eopla-magazine-40068|EO 매거진 — 아티클 40068]] — 2026-03-10
 - [[natural-to-dev-flow-lovable|Natural-to-Dev Flow — Lovable.app 데모]] — 2026-03-10
+- [[obsidian-claude-code-second-brain-setup|Obsidian + Claude Code로 AI 세컨드 브레인 구축하기]] — 2026-03-10
