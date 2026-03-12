@@ -14,3 +14,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 
 <!-- 노트가 추가되면 여기에 링크를 추가한다 -->
 - [[claude-code-notebooklm-zero-token-research|Claude Code + NotebookLM — Zero-Token 리서치 파이프라인]] — 2026-03-12
+- [[obsidian-claude-code-no-mcp-canvas|옵시디언 + Claude Code — MCP 없이 바로 연동, Canvas 시각화]] — 2026-03-12
