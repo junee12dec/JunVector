@@ -29,3 +29,7 @@ Claude Code가 직접 읽고 쓸 수 있는 포맷이라, Notion 같은 앱과 �
 3. `CLAUDE.md`에 폴더 구조 + 저장 규칙 작성
 
 → `CLAUDE.md`에 규칙을 적어두면 Claude Code가 매 세션마다 그대로 알아서 정리한다.
+
+## 상세 가이드
+
+- [Claude Code 설정 가이드 (Notion)](https://devdesign-kr.notion.site/Claude-Code-321f8939a2c380289fe9ff24b4fbfcf4)
