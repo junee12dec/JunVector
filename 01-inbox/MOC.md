@@ -20,3 +20,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-code-4-business-prompts|Claude Code로 비즈니스를 실행하는 4가지 프롬프트]] — 2026-03-13
 - [[claude-notebooklm-local-agent-ppt|Claude + NotebookLM 로컬 연결 — 명령 한 줄로 마케팅 PPT 생성]] — 2026-03-13
 - [[claude-notebooklm-30slide-ppt-workflow|Claude + NotebookLM으로 30장 PPT 만드는 3단계 워크플로우]] — 2026-03-13
+- [[pm-skills-ko-ai-plugin-system|PM Skills 한국어판 — 제품 의사결정을 위한 AI 스킬 8종 모음]] — 2026-03-13
