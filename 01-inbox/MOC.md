@@ -18,3 +18,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[be-my-butler-multi-agent-orchestration|Be My Butler — Claude Code 다중 에이전트 오케스트레이션 시스템]] — 2026-03-12
 - [[oh-my-prompt-ai-prompt-history-scoring|Oh My Prompt — AI 프롬프트 자동 기록 & 품질 스코어링 도구]] — 2026-03-12
 - [[claude-code-4-business-prompts|Claude Code로 비즈니스를 실행하는 4가지 프롬프트]] — 2026-03-13
+- [[claude-notebooklm-local-agent-ppt|Claude + NotebookLM 로컬 연결 — 명령 한 줄로 마케팅 PPT 생성]] — 2026-03-13
