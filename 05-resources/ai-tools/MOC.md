@@ -17,3 +17,4 @@ description: "AI 도구, 에이전트, 자동화 관련 자료 목차."
 - [[top-claude-skills-ui-ux-engineers|UI/UX 엔지니어를 위한 Top 8 Claude 스킬]] — 2026-03-09
 - [[instagram-reel-dvqk74qj63x|Kimi Claw — 핸드폰으로 AI 비서 자동화 시스템]] — 2026-03-09
 - [[quantumjump-club-ai-automation-instagram|퀀텀점프클럽 — AI 자동화 Instagram]] — 2026-03-09
+- [[oh-my-prompt-ai-prompt-history-scoring|Oh My Prompt — AI 프롬프트 자동 기록 & 품질 스코어링 도구]] — 2026-03-12
