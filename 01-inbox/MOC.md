@@ -13,3 +13,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 ## 노트 목록
 
 <!-- 노트가 추가되면 여기에 링크를 추가한다 -->
+- [[garry-tan-gstack-claude-code-setup|Garry Tan의 gstack — Claude Code를 전문가 팀으로 바꾸는 오픈소스 셋업]] — 2026-03-14
