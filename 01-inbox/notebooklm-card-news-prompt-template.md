@@ -7,6 +7,30 @@ description: "NotebookLM 주제로 SNS 카드뉴스(20슬라이드)를 만들기
 
 # NotebookLM 카드뉴스 제작 프롬프트 템플릿
 
+## 원문 프롬프트 (영어)
+
+```
+Rules:
+- Design in 4:5 from the start; never adapt landscape to portrait.
+- If content is too wide, split into more portrait slides.
+- Never widen canvas, keep wide compositions, or use tiny text.
+- Use vertical top-to-bottom flow only.
+- Convert tables/comparisons into stacked cards or vertical sections.
+- Timelines/processes must be vertical: Step 1 → Step 2 → Step 3
+- Crop landscape images to 4:5.
+- No horizontal overflow; keep generous margins.
+
+Validate each slide before finalizing:
+4:5? width<height? vertical flow? no overflow? no wide elements?
+If any answer is no, rebuild in 4:5 or split content. Do not output failed slides.
+
+Deck: 1 cover / 2-5 context / 6-12 process / 13-17 KPI / 18-19 summary / 20 CTA
+Style: business infographic, light bg, dark text, blue-green-orange accents, bold sans-serif,
+large KPI numbers, isometric vector icons, no photorealism.
+```
+
+---
+
 ## 디자인 규칙
 
 - 처음부터 4:5로 디자인. 가로 → 세로 변환 금지
