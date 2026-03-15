@@ -1,0 +1,75 @@
+---
+title: "NotebookLM 카드뉴스 제작 프롬프트 템플릿"
+date: 2026-03-14
+tags: [ai/notebooklm, productivity/content]
+description: "NotebookLM 주제로 SNS 카드뉴스(20슬라이드)를 만들기 위한 프롬프트 구조. 슬라이드 구성, 검증 규칙, 스타일 가이드를 포함한다."
+---
+
+# NotebookLM 카드뉴스 제작 프롬프트 템플릿
+
+## 원문 프롬프트 (영어)
+
+```
+Rules:
+- Design in 4:5 from the start; never adapt landscape to portrait.
+- If content is too wide, split into more portrait slides.
+- Never widen canvas, keep wide compositions, or use tiny text.
+- Use vertical top-to-bottom flow only.
+- Convert tables/comparisons into stacked cards or vertical sections.
+- Timelines/processes must be vertical: Step 1 → Step 2 → Step 3
+- Crop landscape images to 4:5.
+- No horizontal overflow; keep generous margins.
+
+Validate each slide before finalizing:
+4:5? width<height? vertical flow? no overflow? no wide elements?
+If any answer is no, rebuild in 4:5 or split content. Do not output failed slides.
+
+Deck: 1 cover / 2-5 context / 6-12 process / 13-17 KPI / 18-19 summary / 20 CTA
+Style: business infographic, light bg, dark text, blue-green-orange accents, bold sans-serif,
+large KPI numbers, isometric vector icons, no photorealism.
+```
+
+---
+
+## 디자인 규칙
+
+- 처음부터 4:5로 디자인. 가로 → 세로 변환 금지
+- 콘텐츠가 너무 넓으면 슬라이드를 더 분할
+- 캔버스를 넓히거나 가로 구성 유지하거나 작은 텍스트 사용 금지
+- 세로(위→아래) 흐름만 사용
+- 표/비교는 세로 카드 또는 수직 섹션으로 변환
+- 타임라인·프로세스는 세로 배치: Step 1 → Step 2 → Step 3
+- 가로 이미지는 4:5로 크롭
+- 가로 overflow 금지, 여백 충분히 확보
+
+## 슬라이드 검증 규칙
+
+슬라이드 확정 전 아래 항목을 모두 확인:
+
+- 비율 4:5 (세로)인가?
+- 세로 흐름인가?
+- 내용 overflow 없는가?
+- 넓은 요소 없는가?
+
+하나라도 실패하면 재설계하거나 콘텐츠를 분리. 실패한 슬라이드는 출력하지 않음.
+
+## 덱 구성 (20슬라이드)
+
+| 슬라이드 | 역할 |
+|----------|------|
+| 1 | 커버 |
+| 2–5 | 컨텍스트 |
+| 6–12 | 프로세스 |
+| 13–17 | KPI |
+| 18–19 | 요약 |
+| 20 | CTA |
+
+## 스타일 가이드
+
+- 배경: 밝은 계열
+- 텍스트: 어두운 색
+- 강조 컬러: 블루 · 그린 · 오렌지
+- 폰트: 굵은 산세리프
+- KPI 숫자: 크게 강조
+- 아이콘: 아이소메트릭 벡터
+- 사실적 사진 사용 금지
