@@ -18,3 +18,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[notebooklm-card-news-prompt-template|NotebookLM 카드뉴스 제작 프롬프트 템플릿]] — 2026-03-14
 - [[ppt-claude-ai-design-3steps|PPT에서 Claude AI로 디자인하는 3단계 워크플로우]] — 2026-03-15
 - [[claude-skills-2-upgrade-framework|Claude Skills 2.0 업그레이드 프레임워크]] — 2026-03-15
+- [[notebooklm-slide-ppt-design-reference|NotebookLM 슬라이드용 PPT 디자인 레퍼런스]] — 2026-03-15
