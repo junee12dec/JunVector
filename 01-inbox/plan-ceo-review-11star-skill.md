@@ -30,6 +30,15 @@ Airbnb가 제품을 설계할 때 쓰는 사고 실험.
 /plan-ceo-review
 ```
 
+## 추가 메모
+
+**Garry Tan (Y Combinator CEO)**이 스킬/에이전트 세팅을 무료로 공개했는데,
+그 세팅 중 `/plan-ceo-review` 스킬이 실제로 써보니 대박이라는 평가.
+
+→ [[garry-tan-gstack-claude-code-setup|Garry Tan의 gstack 셋업]]과 연결되는 맥락.
+
+---
+
 ## 관련 링크
 
 - Threads 원문: https://www.threads.com/@gptersorg/post/DV8U4oIkS4n
