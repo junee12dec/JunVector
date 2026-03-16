@@ -20,3 +20,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-skills-2-upgrade-framework|Claude Skills 2.0 업그레이드 프레임워크]] — 2026-03-15
 - [[notebooklm-slide-ppt-design-reference|NotebookLM 슬라이드용 PPT 디자인 레퍼런스]] — 2026-03-15
 - [[awesome-notebooklm-prompts|Awesome NotebookLM Prompts — 슬라이드 생성 프롬프트 모음]] — 2026-03-15
+- [[taste-skill-ai-frontend-design|Taste Skill — AI 프론트엔드 디자인 품질을 높이는 4개 스킬 모음]] — 2026-03-16
+- [[plan-ceo-review-11star-skill|/plan-ceo-review — Brian Chesky의 11-star 프레임워크를 구현한 Claude 스킬]] — 2026-03-16
