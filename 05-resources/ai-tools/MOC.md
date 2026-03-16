@@ -18,3 +18,6 @@ description: "AI 도구, 에이전트, 자동화 관련 자료 목차."
 - [[instagram-reel-dvqk74qj63x|Kimi Claw — 핸드폰으로 AI 비서 자동화 시스템]] — 2026-03-09
 - [[quantumjump-club-ai-automation-instagram|퀀텀점프클럽 — AI 자동화 Instagram]] — 2026-03-09
 - [[oh-my-prompt-ai-prompt-history-scoring|Oh My Prompt — AI 프롬프트 자동 기록 & 품질 스코어링 도구]] — 2026-03-12
+- [[ppt-claude-ai-design-3steps|PPT에서 Claude AI로 디자인하는 3단계 워크플로우]] — 2026-03-15
+- [[taste-skill-ai-frontend-design|Taste Skill — AI 프론트엔드 디자인 품질을 높이는 4개 스킬 모음]] — 2026-03-16
+- [[10-essential-agent-skills-production|프로덕션 AI 에이전트를 위한 10가지 필수 스킬]] — 2026-03-16

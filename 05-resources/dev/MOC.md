@@ -12,3 +12,4 @@ description: "개발 도구, no-code, vibe-coding 관련 자료 목차."
 ## 노트 목록
 
 - [[natural-to-dev-flow-lovable|Natural-to-Dev Flow — Lovable.app 데모]] — 2026-03-10
+- [[public-apis-collection|Public APIs — 무료 공개 API 종합 목록]] — 2026-03-14
