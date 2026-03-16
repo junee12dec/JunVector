@@ -20,6 +20,24 @@ Claude Code에 **Excalidraw 스킬**을 달면:
 
 → 코드 분석 → 다이어그램 생성까지 **전 과정을 에이전트가 처리**.
 
+## 설치 방법
+
+### 방법 1 — 공식 MCP 서버
+
+```bash
+claude mcp add excalidraw \
+  npx @anthropic/excalidraw-mcp
+```
+
+### 방법 2 — SKILL 방식 (coleam00)
+
+```bash
+git clone github.com/coleam00/excalidraw-diagram-skill
+cp -r skill/ .claude/skills/
+```
+
+→ 설치 후 "아키텍처 그려줘" 한마디면 끝.
+
 ## 활용 포인트
 
 - 코드 문서화 시간을 대폭 단축
