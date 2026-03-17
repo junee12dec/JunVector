@@ -19,3 +19,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[free-certification-resources-aws-cissp-cisa-cism|무료 자격증 학습 자료 모음 — AWS, CISSP, CISA, CISM, 디지털 마케팅]] — 2026-03-17
 - [[obsidian-agent-client-ai-ide|Obsidian Agent Client — 노트에서 Claude Code·Gemini·Codex 직접 실행]] — 2026-03-17
 - [[unsloth-studio-llm-finetuning-web-ui|Unsloth Studio — LLM 파인튜닝 오픈소스 웹 UI]] — 2026-03-17
+- [[claude-code-12hour-free-course|Claude Code 12시간 무료 코스 — CLAUDE.md부터 MCP까지]] — 2026-03-17
