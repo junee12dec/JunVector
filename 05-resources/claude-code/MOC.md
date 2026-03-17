@@ -20,3 +20,5 @@ description: "Claude Code 활용 가이드, 에이전트, 워크플로우 관련
 - [[claude-skills-2-upgrade-framework|Claude Skills 2.0 업그레이드 프레임워크]] — 2026-03-15
 - [[plan-ceo-review-11star-skill|/plan-ceo-review — Brian Chesky의 11-star 프레임워크를 구현한 Claude 스킬]] — 2026-03-16
 - [[claude-code-excalidraw-skill-architecture-diagram|Claude Code + Excalidraw 스킬 — 아키텍처 다이어그램 자동 생성]] — 2026-03-16
+- [[superpowers-skill-ai-coding-automation|Superpowers — AI 코딩 필수 스킬, LLM 추론을 시스템 액션으로 자동화]] — 2026-03-17
+- [[claude-code-12hour-free-course|Claude Code 12시간 무료 코스 — CLAUDE.md부터 MCP까지]] — 2026-03-17

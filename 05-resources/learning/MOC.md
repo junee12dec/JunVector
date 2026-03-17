@@ -12,3 +12,4 @@ description: "강의, 튜토리얼, 학습 자료 목차."
 ## 노트 목록
 
 - [[overtimesam-lectures|Overtimesam 강의 목록]] — 2026-03-07
+- [[free-certification-resources-aws-cissp-cisa-cism|무료 자격증 학습 자료 모음 — AWS, CISSP, CISA, CISM, 디지털 마케팅]] — 2026-03-17

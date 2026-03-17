@@ -12,3 +12,4 @@ description: "개인 지식 관리(PKM), Obsidian, 세컨드 브레인 관련 �
 ## 노트 목록
 
 - [[obsidian-claude-code-second-brain-setup|Obsidian + Claude Code로 AI 세컨드 브레인 구축하기]] — 2026-03-10
+- [[obsidian-agent-client-ai-ide|Obsidian Agent Client — 노트에서 Claude Code·Gemini·Codex 직접 실행]] — 2026-03-17
