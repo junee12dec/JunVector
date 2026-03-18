@@ -21,3 +21,5 @@ description: "Claude Code 활용 가이드, 에이전트, 워크플로우 관련
 - [[plan-ceo-review-11star-skill|/plan-ceo-review — Brian Chesky의 11-star 프레임워크를 구현한 Claude 스킬]] — 2026-03-16
 - [[claude-code-excalidraw-skill-architecture-diagram|Claude Code + Excalidraw 스킬 — 아키텍처 다이어그램 자동 생성]] — 2026-03-16
 - [[superpowers-skill-ai-coding-automation|Superpowers — AI 코딩 필수 스킬, LLM 추론을 시스템 액션으로 자동화]] — 2026-03-17
+- [[tax-accountant-claude-code-mcp-automation|세무사의 Claude Code + MCP 전사 자동화 — 60곳 장부를 혼자 돌리는 법]] — 2026-03-18
+- [[understand-anything-codebase-knowledge-graph|Understand Anything — Codebase를 Knowledge Graph로 변환하는 Claude Code 플러그인]] — 2026-03-18
