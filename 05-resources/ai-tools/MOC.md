@@ -23,3 +23,4 @@ description: "AI 도구, 에이전트, 자동화 관련 자료 목차."
 - [[10-essential-agent-skills-production|프로덕션 AI 에이전트를 위한 10가지 필수 스킬]] — 2026-03-16
 - [[openjarvis-stanford-local-ai-assistant|OpenJarvis — 스탠퍼드가 만든 무료 로컬 AI 비서]] — 2026-03-16
 - [[unsloth-studio-llm-finetuning-web-ui|Unsloth Studio — LLM 파인튜닝 오픈소스 웹 UI]] — 2026-03-17
+- [[context-hub-andrew-ng-api-docs-cli|Context Hub — 앤드류 응의 AI 코딩 에이전트용 최신 API 문서 CLI 도구]] — 2026-03-18
