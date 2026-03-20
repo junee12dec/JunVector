@@ -18,3 +18,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[shadcn-cli-v4-design-presets|Shadcn CLI v4 — AI 친화적 디자인 시스템 프리셋 (2026-03)]] — 2026-03-19
 - [[opendataloader-pdf-structured-extraction|opendataloader-pdf — PDF 구조화 데이터 추출 라이브러리 (GitHub Trending 1위)]] — 2026-03-19
 - [[portfolio-10min-ai-scroll-animation|10분 만에 완성하는 스크롤 애니메이션 포트폴리오 (AI 도구 활용)]] — 2026-03-19
+- [[claude-code-insights-report-2026-03|Claude Code 사용 패턴 인사이트 리포트 (2026-03)]] — 2026-03-19
