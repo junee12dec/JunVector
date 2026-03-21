@@ -24,3 +24,5 @@ description: "AI 도구, 에이전트, 자동화 관련 자료 목차."
 - [[openjarvis-stanford-local-ai-assistant|OpenJarvis — 스탠퍼드가 만든 무료 로컬 AI 비서]] — 2026-03-16
 - [[unsloth-studio-llm-finetuning-web-ui|Unsloth Studio — LLM 파인튜닝 오픈소스 웹 UI]] — 2026-03-17
 - [[context-hub-andrew-ng-api-docs-cli|Context Hub — 앤드류 응의 AI 코딩 에이전트용 최신 API 문서 CLI 도구]] — 2026-03-18
+- [[ai-1person-devteam-caio-blueprint|AI로 1인 개발팀 만드는 법 — Caio Blueprint 가이드 (초급 + 중급)]] — 2026-03-18
+- [[harness-engineering-oh-my-agent|하네스 엔지니어링 — AI 에이전트가 실수하지 않는 구조 설계 (oh-my-agent)]] — 2026-03-18
