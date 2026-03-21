@@ -23,3 +23,5 @@ description: "Claude Code 활용 가이드, 에이전트, 워크플로우 관련
 - [[superpowers-skill-ai-coding-automation|Superpowers — AI 코딩 필수 스킬, LLM 추론을 시스템 액션으로 자동화]] — 2026-03-17
 - [[tax-accountant-claude-code-mcp-automation|세무사의 Claude Code + MCP 전사 자동화 — 60곳 장부를 혼자 돌리는 법]] — 2026-03-18
 - [[understand-anything-codebase-knowledge-graph|Understand Anything — Codebase를 Knowledge Graph로 변환하는 Claude Code 플러그인]] — 2026-03-18
+- [[claude-code-insights-report-2026-03|Claude Code 사용 패턴 인사이트 리포트 (2026-03)]] — 2026-03-19
+- [[claude-code-youtube-notebooklm-insights|Claude Code로 YouTube 영상 50개 분석 — NotebookLM-py 활용]] — 2026-03-21
