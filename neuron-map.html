@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>JunVector — Neuron Map</title>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="d3.min.js"></script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{background:#07080f;color:#e0e0e0;font-family:'Segoe UI',system-ui,sans-serif;overflow:hidden;height:100vh}
@@ -202,12 +202,16 @@ const zoom=d3.zoom().scaleExtent([0.2,4]).on('zoom',e=>g.attr('transform',e.tran
 svg.call(zoom);
 svg.on('click',e=>{if(e.target===svgEl||e.target.tagName==='g')closeSidebar()});
 
-// ── SIMULATION ────────────────────────────────────────────────────────────
+// ── SIMULATION — pre-settle then animate ──────────────────────────────────
 const sim=d3.forceSimulation(NODES)
   .force('link',d3.forceLink(LINKS).id(d=>d.id).distance(d=>100-d.strength*15).strength(0.4))
-  .force('charge',d3.forceManyBody().strength(-180))
+  .force('charge',d3.forceManyBody().strength(-200))
   .force('center',d3.forceCenter(0,0))
-  .force('collision',d3.forceCollide(22));
+  .force('collision',d3.forceCollide(24))
+  .stop();
+
+// run 300 ticks synchronously so nodes have initial positions
+for(let i=0;i<300;++i) sim.tick();
 
 // ── LINKS ─────────────────────────────────────────────────────────────────
 const linkSel=g.append('g').selectAll('line').data(LINKS).join('line')
@@ -243,12 +247,16 @@ sim.on('tick',()=>{
   nodeSel.attr('transform',d=>`translate(${d.x},${d.y})`);
 });
 
-// center on first render
-sim.on('end',()=>{
-  const t=d3.zoomIdentity.translate(W()/2,H()/2).scale(0.9);
-  svg.transition().duration(600).call(zoom.transform,t);
-});
-svg.call(zoom.transform,d3.zoomIdentity.translate(W()/2,H()/2));
+// center on settled positions
+const xs=NODES.map(d=>d.x), ys=NODES.map(d=>d.y);
+const cx=(Math.min(...xs)+Math.max(...xs))/2;
+const cy=(Math.min(...ys)+Math.max(...ys))/2;
+const spanX=Math.max(...xs)-Math.min(...xs), spanY=Math.max(...ys)-Math.min(...ys);
+const sc=Math.min(0.9, Math.min((W()-80)/spanX, (H()-80)/spanY));
+svg.call(zoom.transform, d3.zoomIdentity.translate(W()/2-cx*sc, H()/2-cy*sc).scale(sc));
+
+// restart for interactive dragging
+sim.alpha(0.1).restart();
 
 // ── SIDEBAR ───────────────────────────────────────────────────────────────
 function openSidebar(d){
