@@ -13,3 +13,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 ## 노트 목록
 
 <!-- 노트가 추가되면 여기에 링크를 추가한다 -->
+- [[gitdiagram-github-architecture-visualizer|GitDiagram — GitHub 레포지토리 아키텍처 다이어그램 자동 변환]] — 2026-03-22
