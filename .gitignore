@@ -8,3 +8,5 @@
 
 # Obsidian Git 플러그인 임시 파일
 /conflict-files-obsidian-git.md
+
+node_modules/

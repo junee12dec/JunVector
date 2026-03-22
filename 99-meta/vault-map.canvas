@@ -1,0 +1,327 @@
+{
+  "nodes": [
+    {
+      "id": "vault-title",
+      "type": "text",
+      "text": "# JunVector Vault\n\n**PARA 기반 지식 관리 시스템**\n총 45+ 노트 · 9개 서브폴더 · 5개 커스텀 스킬 (`/save` `/organize` `/organize-resources` `/deep-dive` `/fix-notes`)",
+      "x": -185,
+      "y": -1130,
+      "width": 730,
+      "height": 130,
+      "color": "3"
+    },
+    {
+      "id": "para-group",
+      "type": "group",
+      "x": -1010,
+      "y": -870,
+      "width": 2080,
+      "height": 470,
+      "label": "PARA 구조"
+    },
+    {
+      "id": "inbox",
+      "type": "file",
+      "file": "01-inbox/MOC.md",
+      "x": -980,
+      "y": -840,
+      "width": 270,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "projects",
+      "type": "file",
+      "file": "03-projects/MOC.md",
+      "x": -670,
+      "y": -840,
+      "width": 270,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "areas",
+      "type": "file",
+      "file": "04-areas/MOC.md",
+      "x": -360,
+      "y": -840,
+      "width": 270,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "resources",
+      "type": "file",
+      "file": "05-resources/MOC.md",
+      "x": -50,
+      "y": -840,
+      "width": 270,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "archives",
+      "type": "file",
+      "file": "06-archives/MOC.md",
+      "x": 260,
+      "y": -840,
+      "width": 270,
+      "height": 400
+    },
+    {
+      "id": "meta",
+      "type": "file",
+      "file": "99-meta/MOC.md",
+      "x": 570,
+      "y": -840,
+      "width": 270,
+      "height": 400
+    },
+    {
+      "id": "res-group",
+      "type": "group",
+      "x": -350,
+      "y": -330,
+      "width": 990,
+      "height": 1150,
+      "label": "05-resources 서브폴더"
+    },
+    {
+      "id": "res-claude-code",
+      "type": "file",
+      "file": "05-resources/claude-code/MOC.md",
+      "x": -320,
+      "y": -300,
+      "width": 280,
+      "height": 340,
+      "color": "6"
+    },
+    {
+      "id": "res-ai-tools",
+      "type": "file",
+      "file": "05-resources/ai-tools/MOC.md",
+      "x": 10,
+      "y": -300,
+      "width": 280,
+      "height": 340,
+      "color": "5"
+    },
+    {
+      "id": "res-notebooklm",
+      "type": "file",
+      "file": "05-resources/notebooklm/MOC.md",
+      "x": 340,
+      "y": -300,
+      "width": 280,
+      "height": 340,
+      "color": "3"
+    },
+    {
+      "id": "res-pm",
+      "type": "file",
+      "file": "05-resources/pm/MOC.md",
+      "x": -320,
+      "y": 90,
+      "width": 280,
+      "height": 340,
+      "color": "4"
+    },
+    {
+      "id": "res-pkm",
+      "type": "file",
+      "file": "05-resources/pkm/MOC.md",
+      "x": 10,
+      "y": 90,
+      "width": 280,
+      "height": 340,
+      "color": "4"
+    },
+    {
+      "id": "res-dev",
+      "type": "file",
+      "file": "05-resources/dev/MOC.md",
+      "x": 340,
+      "y": 90,
+      "width": 280,
+      "height": 340,
+      "color": "2"
+    },
+    {
+      "id": "res-learning",
+      "type": "file",
+      "file": "05-resources/learning/MOC.md",
+      "x": -320,
+      "y": 480,
+      "width": 280,
+      "height": 310
+    },
+    {
+      "id": "res-media",
+      "type": "file",
+      "file": "05-resources/media/MOC.md",
+      "x": 10,
+      "y": 480,
+      "width": 280,
+      "height": 310
+    },
+    {
+      "id": "res-people",
+      "type": "file",
+      "file": "05-resources/people/MOC.md",
+      "x": 340,
+      "y": 480,
+      "width": 280,
+      "height": 310
+    },
+    {
+      "id": "projects-sub-group",
+      "type": "group",
+      "x": -980,
+      "y": -330,
+      "width": 590,
+      "height": 430,
+      "label": "03-projects 서브폴더"
+    },
+    {
+      "id": "proj-second-brain",
+      "type": "file",
+      "file": "03-projects/second-brain-setup/MOC.md",
+      "x": -950,
+      "y": -300,
+      "width": 260,
+      "height": 370,
+      "color": "4"
+    },
+    {
+      "id": "proj-vue-spring",
+      "type": "file",
+      "file": "03-projects/vue-springboot-mini-project/MOC.md",
+      "x": -660,
+      "y": -300,
+      "width": 260,
+      "height": 370,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-title-inbox",
+      "fromNode": "vault-title",
+      "toNode": "inbox",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-title-projects",
+      "fromNode": "vault-title",
+      "toNode": "projects",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-title-areas",
+      "fromNode": "vault-title",
+      "toNode": "areas",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-title-resources",
+      "fromNode": "vault-title",
+      "toNode": "resources",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-title-archives",
+      "fromNode": "vault-title",
+      "toNode": "archives",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-title-meta",
+      "fromNode": "vault-title",
+      "toNode": "meta",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-projects-brain",
+      "fromNode": "projects",
+      "toNode": "proj-second-brain",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-projects-vue",
+      "fromNode": "projects",
+      "toNode": "proj-vue-spring",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-res-cc",
+      "fromNode": "resources",
+      "toNode": "res-claude-code",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-res-ai",
+      "fromNode": "resources",
+      "toNode": "res-ai-tools",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-res-nlm",
+      "fromNode": "resources",
+      "toNode": "res-notebooklm",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-res-pm",
+      "fromNode": "resources",
+      "toNode": "res-pm",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-res-pkm",
+      "fromNode": "resources",
+      "toNode": "res-pkm",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-res-dev",
+      "fromNode": "resources",
+      "toNode": "res-dev",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-res-learn",
+      "fromNode": "resources",
+      "toNode": "res-learning",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-res-media",
+      "fromNode": "resources",
+      "toNode": "res-media",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "e-res-people",
+      "fromNode": "resources",
+      "toNode": "res-people",
+      "fromSide": "bottom",
+      "toSide": "top"
+    }
+  ]
+}
