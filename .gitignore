@@ -1,0 +1,10 @@
+
+# Obsidian — 자주 변하는 설정 파일 (충돌 방지)
+/.obsidian/workspace.json
+/.obsidian/workspace-mobile.json
+/.obsidian/community-plugins.json
+/.obsidian/core-plugins.json
+/.obsidian/graph.json
+
+# Obsidian Git 플러그인 임시 파일
+/conflict-files-obsidian-git.md
