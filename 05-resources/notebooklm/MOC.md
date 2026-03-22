@@ -16,3 +16,4 @@ description: "NotebookLM 활용 및 PPT 자동화 워크플로우 관련 자료 
 - [[notebooklm-card-news-prompt-template|NotebookLM 카드뉴스 제작 프롬프트 템플릿]] — 2026-03-14
 - [[notebooklm-slide-ppt-design-reference|NotebookLM 슬라이드용 PPT 디자인 레퍼런스]] — 2026-03-15
 - [[awesome-notebooklm-prompts|Awesome NotebookLM Prompts — 슬라이드 생성 프롬프트 모음]] — 2026-03-15
+- [[city-in-letters-typography-diorama-prompt|글자 속 도시 — 3D 타이포그래피 다이오라마 나노바나나 프롬프트]] — 2026-03-22

@@ -25,3 +25,4 @@ description: "Claude Code 활용 가이드, 에이전트, 워크플로우 관련
 - [[understand-anything-codebase-knowledge-graph|Understand Anything — Codebase를 Knowledge Graph로 변환하는 Claude Code 플러그인]] — 2026-03-18
 - [[claude-code-insights-report-2026-03|Claude Code 사용 패턴 인사이트 리포트 (2026-03)]] — 2026-03-19
 - [[claude-code-youtube-notebooklm-insights|Claude Code로 YouTube 영상 50개 분석 — NotebookLM-py 활용]] — 2026-03-21
+- [[everything-claude-code-repo|Everything Claude Code — 토큰 비용 절감 & 생산성 극대화 레포지토리]] — 2026-03-22

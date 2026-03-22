@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JunVector — Neuron Map</title>
+<script src="d3.min.js"></script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#07080f;color:#e0e0e0;font-family:'Segoe UI',system-ui,sans-serif;overflow:hidden;height:100vh}
+#app{display:flex;flex-direction:column;height:100vh}
+#topbar{padding:12px 20px;display:flex;align-items:center;gap:12px;flex-wrap:wrap;background:rgba(7,8,15,0.95);border-bottom:1px solid rgba(255,255,255,0.07);z-index:10;flex-shrink:0}
+#title{font-size:15px;font-weight:700;color:#a78bfa;letter-spacing:1px;white-space:nowrap}
+#search{background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);border-radius:20px;padding:5px 14px;color:#e0e0e0;font-size:12px;width:160px;outline:none}
+#search::placeholder{color:#666}
+#search:focus{border-color:rgba(167,139,250,0.5);background:rgba(255,255,255,0.09)}
+#filters{display:flex;gap:6px;flex-wrap:wrap;flex:1}
+.chip{padding:4px 10px;border-radius:12px;font-size:11px;cursor:pointer;border:1px solid transparent;transition:all .2s;opacity:.55;white-space:nowrap}
+.chip.active{opacity:1;border-color:currentColor}
+#canvas-wrap{flex:1;position:relative;overflow:hidden}
+svg{width:100%;height:100%}
+.link{stroke:rgba(255,255,255,0.08);stroke-width:1}
+.node circle{stroke:rgba(0,0,0,0.4);stroke-width:1.5;cursor:pointer;transition:r .15s}
+.node:hover circle{stroke-width:2.5}
+.node text{font-size:9px;fill:rgba(255,255,255,0.55);pointer-events:none;text-anchor:middle;dominant-baseline:central}
+.node.dimmed{opacity:.15}
+.node.highlighted circle{stroke:#fff;stroke-width:2.5}
+#sidebar{position:absolute;right:0;top:0;height:100%;width:300px;background:rgba(10,10,20,0.97);border-left:1px solid rgba(255,255,255,0.08);padding:20px;overflow-y:auto;transform:translateX(100%);transition:transform .25s;z-index:5}
+#sidebar.open{transform:translateX(0)}
+#sidebar h2{font-size:14px;line-height:1.4;margin-bottom:8px;color:#e0e0e0}
+#sidebar .meta{font-size:11px;color:#888;margin-bottom:12px}
+.tag-pill{display:inline-block;padding:2px 8px;border-radius:10px;font-size:10px;background:rgba(255,255,255,0.08);margin:2px}
+#sidebar .desc{font-size:12px;line-height:1.6;color:#bbb;margin:12px 0}
+#sidebar a{display:block;font-size:11px;color:#7c6af7;word-break:break-all;text-decoration:none}
+#sidebar a:hover{text-decoration:underline}
+#close-btn{position:absolute;top:14px;right:14px;background:none;border:none;color:#666;font-size:18px;cursor:pointer;line-height:1}
+#close-btn:hover{color:#e0e0e0}
+#legend{position:absolute;bottom:14px;left:14px;display:flex;flex-direction:column;gap:4px;z-index:5}
+.legend-item{display:flex;align-items:center;gap:6px;font-size:10px;color:#888}
+.legend-dot{width:8px;height:8px;border-radius:50%}
+#node-count{position:absolute;bottom:14px;right:14px;font-size:10px;color:#555;z-index:5}
+</style>
+</head>
+<body>
+<div id="app">
+  <div id="topbar">
+    <div id="title">⬡ NEURON MAP</div>
+    <input id="search" type="text" placeholder="노트 검색...">
+    <div id="filters"></div>
+  </div>
+  <div id="canvas-wrap">
+    <svg id="graph"></svg>
+    <div id="legend"></div>
+    <div id="node-count"></div>
+    <div id="sidebar">
+      <button id="close-btn">✕</button>
+      <h2 id="sb-title"></h2>
+      <div class="meta" id="sb-meta"></div>
+      <div id="sb-tags"></div>
+      <div class="desc" id="sb-desc"></div>
+      <a id="sb-source" target="_blank" rel="noopener"></a>
+    </div>
+  </div>
+</div>
+<script>
+// ── DATA ──────────────────────────────────────────────────────────────────
+const NODES = [];
+const FOLDER_COLORS = {
+  'ai-tools': '#00d4ff',
+  'dev':      '#a78bfa',
+  'learning': '#34d399',
+  'media':    '#fbbf24',
+  'notebooklm':'#f472b6',
+  'people':   '#fb923c',
+  'pkm':      '#22d3ee',
+  'pm':       '#86efac'
+};
+</script>
+<script id="data-script">
+const RAW = [
+{id:"10-essential-agent-skills-production",folder:"ai-tools",title:"프로덕션 AI 에이전트를 위한 10가지 필수 스킬",date:"2026-03-16",tags:["ai/agent-skills","tool/skill","productivity/automation","dev/claude-code"],desc:"Claude Code, Cursor 등 AI 코딩 에이전트에 도입해야 할 10가지 핵심 스킬 목록.",source:"https://www.threads.com/@kanjseok/post/DV7kyKakhFM"},
+{id:"agency-agents",folder:"ai-tools",title:"The Agency — 역할 기반 AI 에이전트 조직 템플릿 라이브러리",date:"2026-03-18",tags:["ai/agent","dev/tools","productivity/automation","ai/claude-code"],desc:"Claude Code를 원형으로 하는 역할 기반 AI 에이전트 조직 템플릿. 150+ 에이전트 병렬 조합.",source:"https://github.com/msitarzewski/agency-agents"},
+{id:"agent-skill-0-to-1",folder:"ai-tools",title:"Agent Skill 0 to 1",date:"2026-03-08",tags:["ai/agent","learning/course"],desc:"AI 에이전트 스킬을 처음부터 구축하는 방법을 다루는 페이지.",source:"https://agent-skill-0-to-1.lovable.app/"},
+{id:"ai-1person-devteam-caio-blueprint",folder:"ai-tools",title:"AI로 1인 개발팀 만드는 법 — Caio Blueprint 가이드",date:"2026-03-18",tags:["ai/agent","productivity/automation","dev/workflow"],desc:"AI로 1인 개발팀을 구성하는 두 단계 가이드. 24개 AI 부서 구성법.",source:"https://caio-blueprint.vercel.app"},
+{id:"context-hub-andrew-ng",folder:"ai-tools",title:"Context Hub — 앤드류 응의 AI 코딩 에이전트용 API 문서 CLI",date:"2026-03-18",tags:["ai/tools","dev/cli","productivity/automation"],desc:"앤드류 응 교수가 만든 오픈소스 CLI 도구. AI 에이전트가 최신 API 문서를 검색·활용.",source:"https://www.threads.com/@gptersorg/post/DWAmG6EEYEZ"},
+{id:"harness-engineering-oh-my-agent",folder:"ai-tools",title:"하네스 엔지니어링 — AI 에이전트가 실수하지 않는 구조 설계",date:"2026-03-18",tags:["ai/agent","dev/workflow","productivity/automation"],desc:"에이전트가 실수하지 않는 구조(하네스)를 설계하는 접근법. oh-my-agent 프레임워크.",source:"https://github.com/first-fluke/oh-my-agent"},
+{id:"instagram-reel-dvqk74qj63x",folder:"ai-tools",title:"Kimi Claw — 핸드폰으로 AI 비서 자동화 시스템",date:"2026-03-09",tags:["ai/automation","productivity/tools"],desc:"핸드폰 명령 한 번으로 자료조사·엑셀 정리·콘텐츠 생성을 AI가 자동 처리.",source:"https://www.instagram.com/reel/DVqk74qj63x/"},
+{id:"oh-my-prompt",folder:"ai-tools",title:"Oh My Prompt — AI 프롬프트 자동 기록 & 품질 스코어링",date:"2026-03-12",tags:["ai/prompt","productivity/automation","dev/tools"],desc:"AI 코딩 에이전트의 모든 프롬프트를 자동 기록하고 품질 스코어링해주는 오픈소스 도구.",source:"https://www.threads.com/@aisolutiondev/post/DVyfFvRlMvu"},
+{id:"openjarvis-stanford",folder:"ai-tools",title:"OpenJarvis — 스탠퍼드가 만든 무료 로컬 AI 비서",date:"2026-03-16",tags:["ai/local","ai/open-source","productivity/automation"],desc:"스탠퍼드 연구팀 온디바이스 AI 비서. 인터넷·구독료 없이 로컬에서 직접 실행.",source:"https://www.threads.com/@manag.erkim/post/DV9AXXYGW-9"},
+{id:"quantumjump-club",folder:"ai-tools",title:"퀀텀점프클럽 — AI 자동화 시스템",date:"2026-03-09",tags:["ai/automation","business/1인기업"],desc:"AI 자동화 시스템 관련 Instagram 게시물. Claude Code 디자인 UI/UX 카드뉴스.",source:"https://www.instagram.com/p/DVnHWBlEwtw/"},
+{id:"taste-skill-ai-frontend",folder:"ai-tools",title:"Taste Skill — AI 프론트엔드 디자인 품질을 높이는 4개 스킬",date:"2026-03-16",tags:["dev/frontend","ai/claude","tool/skill","productivity/vibe-coding"],desc:"바이브코딩 결과물에서 AI 티를 제거하는 오픈소스 스킬 모음 4종.",source:"https://www.threads.com/@unclejobs.ai/post/DV7oKhnidGz"},
+{id:"unsloth-studio",folder:"ai-tools",title:"Unsloth Studio — LLM 파인튜닝 오픈소스 웹 UI",date:"2026-03-17",tags:["ai/fine-tuning","ai/llm","dev/tools"],desc:"VRAM 70% 절감·훈련 속도 2배 향상, 자동 데이터셋 생성 기능의 LLM 파인튜닝 UI.",source:"https://www.threads.com/@choi.openai/post/DV_1JfbD-NU"},
+{id:"gitnexus",folder:"dev",title:"GitNexus — 브라우저 코드 지식 그래프 + Graph RAG",date:"2026-03-17",tags:["dev/tools","ai/rag","dev/code-analysis"],desc:"GitHub 레포를 드래그앤드롭하면 브라우저에서 코드 지식 그래프가 즉시 생성.",source:"https://github.com/abhigyanpatwari/GitNexus"},
+{id:"natural-to-dev-flow",folder:"dev",title:"Natural-to-Dev Flow — Lovable.app 데모",date:"2026-03-10",tags:["dev/no-code","ai/vibe-coding"],desc:"자연어로 앱을 만드는 흐름을 보여주는 Lovable.app 기반 풀스택 자동 생성 데모.",source:"https://natural-to-dev-flow.lovable.app/"},
+{id:"opendataloader-pdf",folder:"dev",title:"opendataloader-pdf — PDF 구조화 데이터 추출 (GitHub Trending 1위)",date:"2026-03-19",tags:["dev/python","ai/data","dev/llm-tooling"],desc:"PDF에서 Markdown·JSON·HTML로 구조화된 데이터를 추출하는 오픈소스 라이브러리.",source:"https://github.com/opendataloader-project/opendataloader-pdf"},
+{id:"portfolio-10min",folder:"dev",title:"10분 만에 완성하는 스크롤 애니메이션 포트폴리오",date:"2026-03-19",tags:["dev/frontend","productivity/vibe-coding","dev/portfolio"],desc:"Google Whisk·ezgif·Antigravity 조합 스크롤 애니메이션 포트폴리오 10분 완성 가이드.",source:""},
+{id:"public-apis",folder:"dev",title:"Public APIs — 무료 공개 API 종합 목록",date:"2026-03-14",tags:["dev/api","dev/resources"],desc:"커뮤니티가 큐레이션한 50개+ 카테고리 무료 공개 API 종합 목록.",source:"https://github.com/public-apis/public-apis"},
+{id:"shadcn-cli-v4",folder:"dev",title:"Shadcn CLI v4 — AI 친화적 디자인 시스템 프리셋",date:"2026-03-19",tags:["dev/frontend","dev/ui","productivity/vibe-coding"],desc:"Shadcn CLI v4 디자인 프리셋, AI 에이전트 스킬, 드라이런 플래그로 바이브코딩 최적화.",source:"https://ui.shadcn.com/docs/changelog/2026-03-cli-v4"},
+{id:"free-certification",folder:"learning",title:"무료 자격증 학습 자료 — AWS, CISSP, CISA, CISM",date:"2026-03-17",tags:["certification/cloud","certification/security","resource/free"],desc:"AWS·CISSP·CISA·CISM·디지털 마케팅 자격증 무료 학습 자료 Google Drive 공유 모음.",source:"https://www.threads.com/@vikas.learn.ai/post/DV-Bla7GOC6"},
+{id:"overtimesam-lectures",folder:"learning",title:"Overtimesam 강의 목록",date:"2026-03-07",tags:["learning/lectures"],desc:"Overtimesam의 Obsidian Publish 볼트에 공개된 강의 목록 페이지.",source:"https://publish.obsidian.md/overtimesam/"},
+{id:"eopla-magazine",folder:"media",title:"EO 매거진 — 아티클 40068",date:"2026-03-10",tags:["media/article"],desc:"eopla.net 매거진 아티클. 접근 차단(403)으로 URL만 저장.",source:"https://eopla.net/magazines/40068"},
+{id:"youtube-ml1twncklw",folder:"media",title:"YouTube 영상 — Ml1TwnCkK4w",date:"2026-03-09",tags:["video/youtube"],desc:"YouTube 영상 링크. 크롤링 불가로 URL만 보존.",source:"https://youtube.com/watch?v=Ml1TwnCkK4w"},
+{id:"awesome-notebooklm-prompts",folder:"notebooklm",title:"Awesome NotebookLM Prompts — 슬라이드 생성 프롬프트 모음",date:"2026-03-15",tags:["ai/notebooklm","productivity/presentation","tool/prompt"],desc:"NotebookLM과 Kael.im에서 논문·노트를 슬라이드로 변환하는 프롬프트 템플릿 모음.",source:"https://github.com/serenakeyitan/awesome-notebookLM-prompts"},
+{id:"notebooklm-card-news",folder:"notebooklm",title:"NotebookLM 카드뉴스 제작 프롬프트 템플릿",date:"2026-03-14",tags:["ai/notebooklm","productivity/content"],desc:"NotebookLM 주제로 SNS 카드뉴스(20슬라이드)를 만들기 위한 프롬프트 구조.",source:""},
+{id:"notebooklm-slide-ppt",folder:"notebooklm",title:"NotebookLM 슬라이드용 PPT 디자인 레퍼런스",date:"2026-03-15",tags:["productivity/ppt","design/color","design/typography"],desc:"색상 코드·폰트·핵심 효과 스펙이 포함된 PPT 디자인 가이드.",source:"https://www.threads.com/@smart.honey9/post/DV6ITVME9RU"},
+{id:"peter-cha-threads",folder:"people",title:"Peter Cha(@_petercha) Threads 게시물",date:"2026-03-09",tags:["people/creator"],desc:"Peter Cha(@_petercha)의 Threads 게시물. 크롤링 불가로 URL만 보존.",source:"https://www.threads.com/@_petercha/post/DVq35qeASz9"},
+{id:"unclejobs-ai-threads",folder:"people",title:"엉클잡스 AI — Threads 링크",date:"2026-03-08",tags:["ai/content"],desc:"AI 시대 돈이 되는 정보 전달을 주제로 하는 Threads 계정 포스트.",source:"https://www.threads.com/@unclejobs.ai/post/DVftxYSCfZm"},
+{id:"obsidian-agent-client",folder:"pkm",title:"Obsidian Agent Client — 노트에서 Claude Code·Gemini·Codex 직접 실행",date:"2026-03-17",tags:["tool/obsidian","ai/claude-code","productivity/pkm"],desc:"Obsidian 노트에서 터미널 없이 AI 에이전트를 직접 실행. 출시 6개월 75,000 다운로드.",source:"https://www.threads.com/@aisolutiondev/post/DV-iL8wFKwP"},
+{id:"pm-skills-ai-toolkit",folder:"pm",title:"PM Skills — AI 기반 PM 업무 자동화 툴킷",date:"2026-03-17",tags:["productivity/pm","ai/tools"],desc:"기획서 작성·경쟁사 분석·시장 조사 등 PM 업무 65개를 AI가 처리하는 오픈소스 마켓플레이스.",source:"https://github.com/phuryn/pm-skills"},
+{id:"pm-skills-ko",folder:"pm",title:"PM Skills 한국어판 — 제품 의사결정을 위한 AI 스킬 8종",date:"2026-03-13",tags:["productivity/pm","ai/claude","dev/tools","productivity/automation"],desc:"Claude Code·Cursor·Gemini CLI 등에 적용 가능한 PM 전용 한국어 스킬 8개.",source:"https://www.threads.com/@lucas_flatwhite/post/DV0MUcCkafG"},
+{id:"pmpo-guide-book",folder:"pm",title:"PMPO 가이드북",date:"2026-03-07",tags:["productivity/pm"],desc:"PMPO(Product Manager / Product Owner) 관련 가이드북.",source:"https://www.onlydecks.app/deck/pmpo-guide-book"}
+];
+
+RAW.forEach(d => {
+  d.color = FOLDER_COLORS[d.folder] || '#999';
+  NODES.push(d);
+});
+</script>
+<script id="viz-script">
+// ── LINKS: connect nodes sharing ≥1 tag ──────────────────────────────────
+const LINKS = [];
+for(let i=0;i<NODES.length;i++){
+  for(let j=i+1;j<NODES.length;j++){
+    const shared = NODES[i].tags.filter(t=>NODES[j].tags.includes(t));
+    if(shared.length>0) LINKS.push({source:NODES[i].id,target:NODES[j].id,strength:shared.length});
+  }
+}
+
+// ── STATE ─────────────────────────────────────────────────────────────────
+let activeFolder = null;
+let searchQuery = '';
+let selectedNode = null;
+
+// ── FILTER CHIPS ──────────────────────────────────────────────────────────
+const filtersEl = document.getElementById('filters');
+const folders = Object.keys(FOLDER_COLORS);
+const allChip = document.createElement('div');
+allChip.className='chip active';allChip.textContent='전체';
+allChip.style.color='#e0e0e0';allChip.style.borderColor='#e0e0e0';
+allChip.onclick=()=>{activeFolder=null;updateChips();applyFilter()};
+filtersEl.appendChild(allChip);
+
+folders.forEach(f=>{
+  const c=document.createElement('div');
+  c.className='chip';c.textContent=f;c.style.color=FOLDER_COLORS[f];
+  c.onclick=()=>{activeFolder=(activeFolder===f?null:f);updateChips();applyFilter()};
+  filtersEl.appendChild(c);
+});
+
+function updateChips(){
+  const chips=[...filtersEl.querySelectorAll('.chip')];
+  chips[0].classList.toggle('active',!activeFolder);
+  folders.forEach((f,i)=>{
+    chips[i+1].classList.toggle('active',activeFolder===f);
+    if(activeFolder===f) chips[i+1].style.borderColor=FOLDER_COLORS[f];
+    else chips[i+1].style.borderColor='transparent';
+  });
+}
+
+// ── SEARCH ────────────────────────────────────────────────────────────────
+document.getElementById('search').addEventListener('input',e=>{
+  searchQuery=e.target.value.toLowerCase();applyFilter();
+});
+
+function applyFilter(){
+  const nodeEls=svg.selectAll('.node');
+  nodeEls.each(function(d){
+    const matchFolder=!activeFolder||d.folder===activeFolder;
+    const matchSearch=!searchQuery||d.title.toLowerCase().includes(searchQuery)||d.tags.join(' ').toLowerCase().includes(searchQuery);
+    d3.select(this).classed('dimmed',!(matchFolder&&matchSearch));
+    d3.select(this).classed('highlighted',false);
+  });
+  updateCount();
+}
+
+function updateCount(){
+  const visible=NODES.filter(d=>{
+    const mf=!activeFolder||d.folder===activeFolder;
+    const ms=!searchQuery||d.title.toLowerCase().includes(searchQuery)||d.tags.join(' ').toLowerCase().includes(searchQuery);
+    return mf&&ms;
+  }).length;
+  document.getElementById('node-count').textContent=`${visible} / ${NODES.length} 노트`;
+}
+
+// ── SVG SETUP ─────────────────────────────────────────────────────────────
+const svgEl=document.getElementById('graph');
+const svg=d3.select(svgEl);
+const W=()=>svgEl.clientWidth, H=()=>svgEl.clientHeight;
+
+// defs: glow filter
+const defs=svg.append('defs');
+const filter=defs.append('filter').attr('id','glow').attr('x','-50%').attr('y','-50%').attr('width','200%').attr('height','200%');
+filter.append('feGaussianBlur').attr('stdDeviation','3').attr('result','blur');
+const merge=filter.append('feMerge');
+merge.append('feMergeNode').attr('in','blur');
+merge.append('feMergeNode').attr('in','SourceGraphic');
+
+const g=svg.append('g');
+
+// ── ZOOM ──────────────────────────────────────────────────────────────────
+const zoom=d3.zoom().scaleExtent([0.2,4]).on('zoom',e=>g.attr('transform',e.transform));
+svg.call(zoom);
+svg.on('click',e=>{if(e.target===svgEl||e.target.tagName==='g')closeSidebar()});
+
+// ── SIMULATION — pre-settle then animate ──────────────────────────────────
+const sim=d3.forceSimulation(NODES)
+  .force('link',d3.forceLink(LINKS).id(d=>d.id).distance(d=>100-d.strength*15).strength(0.4))
+  .force('charge',d3.forceManyBody().strength(-200))
+  .force('center',d3.forceCenter(0,0))
+  .force('collision',d3.forceCollide(24))
+  .stop();
+
+// run 300 ticks synchronously so nodes have initial positions
+for(let i=0;i<300;++i) sim.tick();
+
+// ── LINKS ─────────────────────────────────────────────────────────────────
+const linkSel=g.append('g').selectAll('line').data(LINKS).join('line')
+  .attr('class','link')
+  .attr('stroke-width',d=>d.strength>1?1.5:0.8);
+
+// ── NODES ─────────────────────────────────────────────────────────────────
+const nodeSel=g.append('g').selectAll('.node').data(NODES).join('g')
+  .attr('class','node')
+  .call(d3.drag()
+    .on('start',(e,d)=>{if(!e.active)sim.alphaTarget(0.3).restart();d.fx=d.x;d.fy=d.y})
+    .on('drag',(e,d)=>{d.fx=e.x;d.fy=e.y})
+    .on('end',(e,d)=>{if(!e.active)sim.alphaTarget(0);d.fx=null;d.fy=null}))
+  .on('click',(e,d)=>{e.stopPropagation();openSidebar(d);
+    svg.selectAll('.node').classed('highlighted',n=>n.id===d.id);
+  });
+
+nodeSel.append('circle')
+  .attr('r',d=>10+d.tags.length*2)
+  .attr('fill',d=>d.color+'33')
+  .attr('stroke',d=>d.color)
+  .attr('filter','url(#glow)');
+
+nodeSel.append('text')
+  .attr('dy',d=>14+d.tags.length*2)
+  .text(d=>d.title.length>18?d.title.slice(0,17)+'…':d.title);
+
+// ── TICK ──────────────────────────────────────────────────────────────────
+sim.on('tick',()=>{
+  linkSel
+    .attr('x1',d=>d.source.x).attr('y1',d=>d.source.y)
+    .attr('x2',d=>d.target.x).attr('y2',d=>d.target.y);
+  nodeSel.attr('transform',d=>`translate(${d.x},${d.y})`);
+});
+
+// center on settled positions
+const xs=NODES.map(d=>d.x), ys=NODES.map(d=>d.y);
+const cx=(Math.min(...xs)+Math.max(...xs))/2;
+const cy=(Math.min(...ys)+Math.max(...ys))/2;
+const spanX=Math.max(...xs)-Math.min(...xs), spanY=Math.max(...ys)-Math.min(...ys);
+const sc=Math.min(0.9, Math.min((W()-80)/spanX, (H()-80)/spanY));
+svg.call(zoom.transform, d3.zoomIdentity.translate(W()/2-cx*sc, H()/2-cy*sc).scale(sc));
+
+// restart for interactive dragging
+sim.alpha(0.1).restart();
+
+// ── SIDEBAR ───────────────────────────────────────────────────────────────
+function openSidebar(d){
+  selectedNode=d;
+  document.getElementById('sb-title').textContent=d.title;
+  document.getElementById('sb-meta').textContent=`${d.folder} · ${d.date}`;
+  const tagsEl=document.getElementById('sb-tags');
+  tagsEl.innerHTML=d.tags.map(t=>`<span class="tag-pill">${t}</span>`).join('');
+  document.getElementById('sb-desc').textContent=d.desc;
+  const src=document.getElementById('sb-source');
+  if(d.source){src.href=d.source;src.textContent='→ 원본 링크';}
+  else{src.textContent='';}
+  document.getElementById('sidebar').classList.add('open');
+}
+function closeSidebar(){
+  document.getElementById('sidebar').classList.remove('open');
+  svg.selectAll('.node').classed('highlighted',false);
+}
+document.getElementById('close-btn').onclick=closeSidebar;
+
+// ── LEGEND ────────────────────────────────────────────────────────────────
+const legendEl=document.getElementById('legend');
+folders.forEach(f=>{
+  const count=NODES.filter(n=>n.folder===f).length;
+  const item=document.createElement('div');item.className='legend-item';
+  item.innerHTML=`<div class="legend-dot" style="background:${FOLDER_COLORS[f]};box-shadow:0 0 6px ${FOLDER_COLORS[f]}"></div><span>${f} (${count})</span>`;
+  legendEl.appendChild(item);
+});
+
+updateCount();
+</script>
+</body>
+</html>
