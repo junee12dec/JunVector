@@ -124,7 +124,21 @@ search_log "ERROR"
 search_log "payment" /var/log/payment.log
 ```
 
-함수로 만들면 매번 긴 명령어를 타이핑하지 않아도 된다.
+날짜를 인수로 받아 결과를 파일로도 저장하는 심화 예제:
+
+```bash
+# 날짜별 에러 검색 + 파일 저장
+search_errors() {
+    local date=$1  # 날짜 인수
+    grep "$date" /var/log/app.log | grep -i "error" | tee "errors_$date.txt"
+    echo "Results saved to errors_$date.txt"
+}
+
+# 사용: search_errors 2024-11-18
+# 결과: 화면 출력 + errors_2024-11-18.txt 파일 저장
+```
+
+`tee` 명령어로 화면 출력과 파일 저장을 동시에 할 수 있다. 매개변수를 활용하면 날짜, 키워드 등을 유연하게 변경하며 재사용할 수 있다.
 
 ---
 
