@@ -19,6 +19,8 @@ description: "Claude Code·AI 에이전트용 스킬, 플러그인, 자동화 �
 - [[claude-skills-2-upgrade-framework|Claude Skills 2.0 업그레이드 프레임워크]] — 2026-03-15
 - [[plan-ceo-review-11star-skill|/plan-ceo-review — Brian Chesky의 11-star 프레임워크를 구현한 Claude 스킬]] — 2026-03-16
 - [[superpowers-skill-ai-coding-automation|Superpowers — AI 코딩 필수 스킬, LLM 추론을 시스템 액션으로 자동화]] — 2026-03-17
-- [[pm-skills-ai-pm-toolkit|PM Skills — AI 기반 PM 업무 자동화 툴킷]] — 2026-03-17
-- [[pm-skills-ko-ai-plugin-system|PM Skills 한국어판 — 제품 의사결정을 위한 AI 스킬 8종 모음]] — 2026-03-13
 - [[minimax-ai-agent-skills-opensource|MiniMax AI 에이전트 스킬 오픈소스 공개]] — 2026-03-23
+
+## PM 스킬
+
+→ [[skills/pm/MOC|PM Skills MOC]] 참고
