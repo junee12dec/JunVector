@@ -13,3 +13,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 ## 노트 목록
 
 <!-- 노트가 추가되면 여기에 링크를 추가한다 -->
+- [[paper-banana-skill-claude-code-figure-generation|Paper-Banana를 Claude Code 스킬로 — 논문 그림 생성 자동화]] — 2026-03-23
