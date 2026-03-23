@@ -13,7 +13,3 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 ## 노트 목록
 
 <!-- 노트가 추가되면 여기에 링크를 추가한다 -->
-- [[gitdiagram-github-architecture-visualizer|GitDiagram — GitHub 레포지토리 아키텍처 다이어그램 자동 변환]] — 2026-03-22
-- [[bash-log-search-script-guide|Bash 로그 검색 스크립트 실전 가이드]] — 2026-03-23
-- [[supermemory-asmr-agent-memory-99percent|Supermemory ASMR — 벡터 DB 없이 에이전트 메모리 98.6% 달성]] — 2026-03-23
-- [[ccaf-claude-certified-architect-foundations-exam-guide|CCAF 시험 완전 정복 가이드 — Claude Certified Architect Foundations]] — 2026-03-23

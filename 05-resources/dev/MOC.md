@@ -17,3 +17,5 @@ description: "개발 도구, no-code, vibe-coding 관련 자료 목차."
 - [[shadcn-cli-v4-design-presets|Shadcn CLI v4 — AI 친화적 디자인 시스템 프리셋 (2026-03)]] — 2026-03-19
 - [[opendataloader-pdf-structured-extraction|opendataloader-pdf — PDF 구조화 데이터 추출 라이브러리 (GitHub Trending 1위)]] — 2026-03-19
 - [[portfolio-10min-ai-scroll-animation|10분 만에 완성하는 스크롤 애니메이션 포트폴리오 (AI 도구 활용)]] — 2026-03-19
+- [[gitdiagram-github-architecture-visualizer|GitDiagram — GitHub 레포지토리 아키텍처 다이어그램 자동 변환]] — 2026-03-22
+- [[bash-log-search-script-guide|Bash 로그 검색 스크립트 실전 가이드]] — 2026-03-23
