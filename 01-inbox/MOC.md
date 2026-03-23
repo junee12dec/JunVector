@@ -13,3 +13,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 ## 노트 목록
 
 <!-- 노트가 추가되면 여기에 링크를 추가한다 -->
+- [[ccaf-certification-opportunity-overview|CCAF 자격증 — 지금 잡아야 할 비대칭 기회]] — 2026-03-23
