@@ -12,6 +12,7 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 
 ## 노트 목록
 
+- [[10-claude-mcp-skills-workflow-upgrade|워크플로우를 업그레이드하는 10가지 Claude MCP 스킬]] — 2026-03-24
 - [[naminsoo-ai-learn-claude-with-gemini|학습도 AI화 — Gemini로 Claude 마스터 가이드북 빠르게 파악하기]] — 2026-03-24
 - [[top-17-claude-skills-github-repos-ai|Top 17 Claude Skills & GitHub Repos — AI 필수 목록 (06~22번)]] — 2026-03-24
 - [[hancom-open-data-loader-v2-github-trending|한컴 open-data-loader v2.0 — GitHub 트렌딩 1위, PDF → AI 데이터 변환 오픈소스]] — 2026-03-24
