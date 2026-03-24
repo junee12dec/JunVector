@@ -12,4 +12,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 
 ## 노트 목록
 
-<!-- 노트가 추가되면 여기에 링크를 추가한다 -->
+- [[gptaku-skillers-suda-plugin-skill-generator|gptaku — /skillers-suda: 프롬프트 한 줄로 Claude Code 스킬 자동 생성 플러그인]] — 2026-03-24
+- [[gptaku-cc101-claude-code-korean-intro|gptaku — CC101: Claude Code 한국어 입문 사이트 (20섹션 오픈소스)]] — 2026-03-24
