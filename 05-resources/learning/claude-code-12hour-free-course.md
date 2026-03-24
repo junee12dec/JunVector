@@ -20,3 +20,4 @@ Claude Code를 제대로 배울 수 있는 12시간 무료 코스가 공개되�
 
 - Threads 원문: https://www.threads.com/@aisolutiondev/post/DV_GHW0lB_N
 - X(트위터) 원문: https://x.com/andrewbrown/status/2033345035912028456
+- YouTube: https://youtu.be/brLhhkUqcn4?si=sOh1VqzedP2i_Uer
