@@ -13,6 +13,7 @@ description: "템플릿, 첨부파일 등 볼트 운영에 필요한 메타 파�
 
 <!-- 템플릿 파일이 추가되면 여기에 링크를 추가한다 -->
 
-## 첨부파일
+## Canvas
 
-<!-- 첨부파일이 추가되면 여기에 링크를 추가한다 -->
+- [[vault-map|Vault Map — PARA 폴더 구조 전체 지도]]
+- [[claude-workflow|Claude Workflow — 볼트 관리 워크플로우 (스킬 → Git → Obsidian)]]
