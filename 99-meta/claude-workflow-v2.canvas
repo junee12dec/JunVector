@@ -1,0 +1,65 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# JunVector Vault 워크플로우 v2\n\n인사이트 리포트 (2026-03-08~18) 기반 개선안","x":-100,"y":-1120,"width":640,"height":90,"color":"3"},
+		{"id":"n-improved","type":"text","text":"## ✅ 3가지 핵심 개선\n1. **URL 크롤링 실패** → 스텁 노트 자동 생성 (재시도 1회 제한)\n2. **Fast-Lane 패턴** → 저장 즉시 PARA 직행, inbox 경유 생략\n3. **Auto-commit Hook** → Write/Edit 후 자동 커밋, 수동 단계 제거","x":620,"y":-1120,"width":440,"height":120,"color":"2"},
+
+		{"id":"g-input","type":"group","x":-1450,"y":-880,"width":310,"height":670,"label":"① 입력"},
+		{"id":"n-url","type":"text","text":"🌐 **URL**\n웹 아티클 · YouTube · GitHub","x":-1430,"y":-850,"width":270,"height":80},
+		{"id":"n-threads","type":"text","text":"📱 **Threads / Instagram**\n로그인 장벽 → 텍스트 직접 붙여넣기\n_(크롤링 시도 금지)_","x":-1430,"y":-750,"width":270,"height":90,"color":"4"},
+		{"id":"n-idea","type":"text","text":"💡 **텍스트 / 아이디어**\n메모 · 인사이트 · 요약","x":-1430,"y":-640,"width":270,"height":80},
+		{"id":"n-direct","type":"text","text":"📋 **직접 작성 노트**\nObsidian에서 바로 작성","x":-1430,"y":-540,"width":270,"height":70},
+		{"id":"n-stub","type":"text","text":"⚠️ **크롤링 실패 Fallback** _(개선)_\n스텁 노트 자동 생성\nURL + 제목만 보존\n→ `01-inbox/` 임시 저장","x":-1430,"y":-420,"width":270,"height":130,"color":"1"},
+
+		{"id":"g-cc","type":"group","x":-1000,"y":-900,"width":320,"height":700,"label":"② Claude Code 스킬"},
+		{"id":"n-save","type":"text","text":"**`/save`**\nURL·텍스트 → frontmatter 포함\n노트 변환 → `01-inbox/` 저장","x":-980,"y":-870,"width":280,"height":100,"color":"2"},
+		{"id":"n-fastlane","type":"text","text":"⚡ **Fast-Lane 패턴** _(개선)_\n_\"inbox 두지 말고 바로 분류해줘\"_\n→ `/save` + `/organize-resources`\n연속 실행, PARA 서브폴더 직행","x":-980,"y":-750,"width":280,"height":120,"color":"3"},
+		{"id":"n-fix","type":"text","text":"**`/fix-notes`**\nfrontmatter 누락 교정\n파일명 kebab-case 정규화","x":-980,"y":-610,"width":280,"height":90,"color":"4"},
+		{"id":"n-organize","type":"text","text":"**`/organize`**\n`01-inbox` → PARA 폴더 분류\nMOC.md 링크 자동 추가","x":-980,"y":-500,"width":280,"height":90,"color":"5"},
+		{"id":"n-orgres","type":"text","text":"**`/organize-resources`**\n`05-resources` 서브폴더까지\n2단계 세밀 분류","x":-980,"y":-390,"width":280,"height":90,"color":"6"},
+		{"id":"n-deepdive","type":"text","text":"**`/deep-dive`**\n주제 대화 탐구\n원본 노트에 인사이트 보강","x":-980,"y":-280,"width":280,"height":80,"color":"3"},
+
+		{"id":"g-vault","type":"group","x":-540,"y":-900,"width":300,"height":700,"label":"③ Vault (PARA)"},
+		{"id":"n-inbox","type":"file","file":"01-inbox/MOC.md","x":-520,"y":-870,"width":260,"height":150,"color":"2"},
+		{"id":"n-para","type":"text","text":"**PARA 폴더**\n`03-projects/` `04-areas/`\n`05-resources/` `06-archives/`","x":-520,"y":-700,"width":260,"height":110},
+		{"id":"n-ressub","type":"text","text":"**05-resources 서브폴더**\nagent · claude-code · design\ndev · ai-tools · pkm · pm\nlearning · media · people","x":-520,"y":-570,"width":260,"height":120},
+		{"id":"n-moc","type":"text","text":"**MOC.md 자동 업데이트**\n분류 이동 시 링크 추가","x":-520,"y":-430,"width":260,"height":80},
+		{"id":"n-canvas","type":"file","file":"99-meta/vault-map.canvas","x":-520,"y":-330,"width":260,"height":90},
+
+		{"id":"g-hook","type":"group","x":-90,"y":-780,"width":290,"height":330,"label":"④ Auto-commit Hook ✨신규"},
+		{"id":"n-hook","type":"text","text":"**PostToolUse Hook**\n\nWrite / Edit 실행 후 자동:\n```\ngit add -A\ngit commit -m 'auto: ...'\n```\n\n✅ 수동 커밋 단계 완전 제거","x":-70,"y":-750,"width":250,"height":270,"color":"3"},
+
+		{"id":"g-git","type":"group","x":280,"y":-780,"width":270,"height":330,"label":"⑤ Git"},
+		{"id":"n-git","type":"text","text":"```\ngit push -u origin\n  claude/<branch>\n```\n\n항상 feature 브랜치\nmain 직접 push 금지 ✅","x":300,"y":-750,"width":230,"height":270},
+
+		{"id":"g-github","type":"group","x":620,"y":-780,"width":270,"height":330,"label":"⑥ GitHub"},
+		{"id":"n-github","type":"text","text":"PR 생성\n↓\n리뷰\n↓\n**main 브랜치 merge**\n\n✅ 변경사항 확정 반영","x":640,"y":-750,"width":230,"height":270},
+
+		{"id":"g-obsidian","type":"group","x":960,"y":-780,"width":270,"height":330,"label":"⑦ Obsidian 동기화"},
+		{"id":"n-obsidian","type":"text","text":"**git pull** (main 기준)\n↓\n노트 확인 · 읽기\nGraph View 탐색\n검색 · 링크 탐색\nCanvas 열람","x":980,"y":-750,"width":230,"height":270},
+
+		{"id":"g-roadmap","type":"group","x":-1000,"y":-30,"width":1600,"height":220,"label":"🗺️ 자동화 로드맵"},
+		{"id":"n-roadmap","type":"text","text":"**단기 (현재 적용)** — PostToolUse Hook으로 Write/Edit 후 자동 commit\n**중기** — `/save` + `/organize-resources` 단일 커맨드 통합 → 저장 즉시 PARA 분류 (inbox 완전 생략)\n**장기** — `01-inbox/` 감시 에이전트 → 새 노트 자동 분류 · MOC 업데이트 · commit\n**고급** — 병렬 에이전트로 수십 URL 동시 처리 + 크롤링 실패 fallback 파이프라인","x":-980,"y":0,"width":1560,"height":170,"color":"4"}
+	],
+	"edges":[
+		{"id":"e-url-save","fromNode":"n-url","toNode":"n-save","fromSide":"right","toSide":"left"},
+		{"id":"e-url-stub","fromNode":"n-url","toNode":"n-stub","fromSide":"bottom","toSide":"top","color":"1","label":"크롤링 실패"},
+		{"id":"e-threads-save","fromNode":"n-threads","toNode":"n-save","fromSide":"right","toSide":"left"},
+		{"id":"e-idea-save","fromNode":"n-idea","toNode":"n-save","fromSide":"right","toSide":"left"},
+		{"id":"e-direct-fix","fromNode":"n-direct","toNode":"n-fix","fromSide":"right","toSide":"left"},
+
+		{"id":"e-stub-inbox","fromNode":"n-stub","toNode":"n-inbox","fromSide":"right","toSide":"left","color":"1"},
+		{"id":"e-save-inbox","fromNode":"n-save","toNode":"n-inbox","fromSide":"right","toSide":"left"},
+		{"id":"e-fastlane-para","fromNode":"n-fastlane","toNode":"n-para","fromSide":"right","toSide":"left","color":"3","label":"inbox 생략"},
+		{"id":"e-fix-inbox","fromNode":"n-fix","toNode":"n-inbox","fromSide":"right","toSide":"left"},
+		{"id":"e-organize-para","fromNode":"n-organize","toNode":"n-para","fromSide":"right","toSide":"left"},
+		{"id":"e-orgres-sub","fromNode":"n-orgres","toNode":"n-ressub","fromSide":"right","toSide":"left"},
+		{"id":"e-deepdive-para","fromNode":"n-deepdive","toNode":"n-para","fromSide":"right","toSide":"left"},
+
+		{"id":"e-inbox-hook","fromNode":"n-inbox","toNode":"n-hook","fromSide":"right","toSide":"left"},
+		{"id":"e-para-hook","fromNode":"n-para","toNode":"n-hook","fromSide":"right","toSide":"left"},
+
+		{"id":"e-hook-git","fromNode":"n-hook","toNode":"n-git","fromSide":"right","toSide":"left","color":"3"},
+		{"id":"e-git-github","fromNode":"n-git","toNode":"n-github","fromSide":"right","toSide":"left"},
+		{"id":"e-github-obsidian","fromNode":"n-github","toNode":"n-obsidian","fromSide":"right","toSide":"left"}
+	]
+}

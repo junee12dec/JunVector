@@ -16,4 +16,5 @@ description: "템플릿, 첨부파일 등 볼트 운영에 필요한 메타 파�
 ## Canvas
 
 - [[vault-map|Vault Map — PARA 폴더 구조 전체 지도]]
-- [[claude-workflow|Claude Workflow — 볼트 관리 워크플로우 (스킬 → Git → Obsidian)]]
+- [[claude-workflow|Claude Workflow v1 — 기본 워크플로우 (스킬 → Git → Obsidian)]]
+- [[claude-workflow-v2|Claude Workflow v2 — 인사이트 리포트 기반 개선안 (Fallback · Fast-Lane · Auto-commit)]]
