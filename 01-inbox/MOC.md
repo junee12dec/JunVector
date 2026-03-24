@@ -20,3 +20,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[gptaku-skillers-suda-plugin-skill-generator|gptaku — /skillers-suda: 프롬프트 한 줄로 Claude Code 스킬 자동 생성 플러그인]] — 2026-03-24
 - [[gptaku-cc101-claude-code-korean-intro|gptaku — CC101: Claude Code 한국어 입문 사이트 (20섹션 오픈소스)]] — 2026-03-24
 - [[jina-reader-url-prefix-ai-tip|URL 앞에 r.jina.ai/ 붙이면 AI가 웹을 깔끔하게 읽는다]] — 2026-03-24
+- [[notebooklm-chrome-extensions-6|NotebookLM 생산성 10배 올리는 크롬 확장 프로그램 6가지]] — 2026-03-24
