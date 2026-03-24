@@ -11,7 +11,6 @@ description: "AI 도구, 에이전트, 자동화 관련 자료 목차."
 
 ## 노트 목록
 
-- [[agency-agents|The Agency — 61개 전문 AI 에이전트 컬렉션]] — 2026-03-09
 - [[nano-banana-2-with-claude-code|Nano Banana 2 with Claude Code]] — 2026-03-10
 - [[instagram-reel-dvqk74qj63x|Kimi Claw — 핸드폰으로 AI 비서 자동화 시스템]] — 2026-03-09
 - [[quantumjump-club-ai-automation-instagram|퀀텀점프클럽 — AI 자동화 Instagram]] — 2026-03-09
@@ -21,5 +20,3 @@ description: "AI 도구, 에이전트, 자동화 관련 자료 목차."
 - [[unsloth-studio-llm-finetuning-web-ui|Unsloth Studio — LLM 파인튜닝 오픈소스 웹 UI]] — 2026-03-17
 - [[context-hub-andrew-ng-api-docs-cli|Context Hub — 앤드류 응의 AI 코딩 에이전트용 최신 API 문서 CLI 도구]] — 2026-03-18
 - [[ai-1person-devteam-caio-blueprint|AI로 1인 개발팀 만드는 법 — Caio Blueprint 가이드 (초급 + 중급)]] — 2026-03-18
-- [[harness-engineering-oh-my-agent|하네스 엔지니어링 — AI 에이전트가 실수하지 않는 구조 설계 (oh-my-agent)]] — 2026-03-18
-- [[supermemory-asmr-agent-memory-99percent|Supermemory ASMR — 벡터 DB 없이 에이전트 메모리 98.6% 달성]] — 2026-03-23

@@ -20,3 +20,4 @@ description: "참고 자료 및 관심사 목차. 나중에 유용할 수 있는
 - [[media/MOC|Media]] — 아티클, 영상
 - [[claude-code/MOC|Claude Code]] — Claude Code 가이드, 에이전트, 실전 활용
 - [[notebooklm/MOC|NotebookLM]] — NotebookLM PPT 자동화 워크플로우
+- [[research/MOC|Research]] — 논문 작업, 연구 도구, 학술 워크플로우
