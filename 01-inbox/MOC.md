@@ -23,3 +23,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[notebooklm-chrome-extensions-6|NotebookLM 생산성 10배 올리는 크롬 확장 프로그램 6가지]] — 2026-03-24
 - [[500-ai-agents-projects-github|500+ AI 에이전트 프로젝트 — 산업별 분류 오픈소스 모음]] — 2026-03-25
 - [[claude-code-must-have-plugins-3|Claude Code 필수 플러그인 3가지 — Superpowers, Oh My Claude Code, BKIT]] — 2026-03-25
+- [[10-github-repos-for-claude-code|Claude Code 프로젝트를 10배 향상시키는 GitHub 레포 10개]] — 2026-03-25
