@@ -20,3 +20,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[interactive-ui-trend-references|인터랙티브 UI 트렌드 레퍼런스 모음]] — 2026-03-25
 - [[garry-tan-yc-13-claude-commands|Garry Tan의 YC 운영 방식 — Claude Code 슬래시 커맨드 13개 전체 목록]] — 2026-03-25
 - [[ai-design-tools-5-bookmarks|AI·디자인 유용 웹사이트 5개 북마크]] — 2026-03-25
+- [[character-design-sheet-prompt-v2|캐릭터 일관성 유지 디자인 시트 프롬프트 2탄]] — 2026-03-25
