@@ -17,3 +17,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[openhands-ai-agent-fullstack|OpenHands — 코드·터미널·웹을 혼자 다 하는 오픈소스 AI 에이전트]] — 2026-03-25
 - [[ai-carousel-1min-guide|AI 캐러셀 1분만에 만들기]] — 2026-03-25
 - [[online-course-quality-benchmark-boostcourse|강의 퀄리티 기준 — 네이버 부스트코스 무료강의 이상이어야 팔린다]] — 2026-03-25
+- [[interactive-ui-trend-references|인터랙티브 UI 트렌드 레퍼런스 모음]] — 2026-03-25
