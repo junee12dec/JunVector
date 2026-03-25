@@ -20,3 +20,5 @@ description: "AI 도구, 에이전트, 자동화 관련 자료 목차."
 - [[unsloth-studio-llm-finetuning-web-ui|Unsloth Studio — LLM 파인튜닝 오픈소스 웹 UI]] — 2026-03-17
 - [[context-hub-andrew-ng-api-docs-cli|Context Hub — 앤드류 응의 AI 코딩 에이전트용 최신 API 문서 CLI 도구]] — 2026-03-18
 - [[ai-1person-devteam-caio-blueprint|AI로 1인 개발팀 만드는 법 — Caio Blueprint 가이드 (초급 + 중급)]] — 2026-03-18
+- [[jina-reader-url-prefix-ai-tip|URL 앞에 r.jina.ai/ 붙이면 AI가 웹을 깔끔하게 읽는다]] — 2026-03-24
+- [[500-ai-agents-projects-github|500+ AI 에이전트 프로젝트 — 산업별 분류 오픈소스 모음]] — 2026-03-25

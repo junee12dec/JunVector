@@ -18,3 +18,4 @@ description: "개발 도구, no-code, vibe-coding 관련 자료 목차."
 - [[portfolio-10min-ai-scroll-animation|10분 만에 완성하는 스크롤 애니메이션 포트폴리오 (AI 도구 활용)]] — 2026-03-19
 - [[gitdiagram-github-architecture-visualizer|GitDiagram — GitHub 레포지토리 아키텍처 다이어그램 자동 변환]] — 2026-03-22
 - [[bash-log-search-script-guide|Bash 로그 검색 스크립트 실전 가이드]] — 2026-03-23
+- [[hancom-open-data-loader-v2-github-trending|한컴 open-data-loader v2.0 — GitHub 트렌딩 1위, PDF → AI 데이터 변환 오픈소스]] — 2026-03-24
