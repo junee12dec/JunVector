@@ -16,3 +16,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-pptx-skill-anthropics-skills|Claude PPTX Skill — 코드로 만드는 픽셀 단위 슬라이드]] — 2026-03-25
 - [[openhands-ai-agent-fullstack|OpenHands — 코드·터미널·웹을 혼자 다 하는 오픈소스 AI 에이전트]] — 2026-03-25
 - [[ai-carousel-1min-guide|AI 캐러셀 1분만에 만들기]] — 2026-03-25
+- [[online-course-quality-benchmark-boostcourse|강의 퀄리티 기준 — 네이버 부스트코스 무료강의 이상이어야 팔린다]] — 2026-03-25
