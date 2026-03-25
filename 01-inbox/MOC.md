@@ -19,3 +19,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[online-course-quality-benchmark-boostcourse|강의 퀄리티 기준 — 네이버 부스트코스 무료강의 이상이어야 팔린다]] — 2026-03-25
 - [[interactive-ui-trend-references|인터랙티브 UI 트렌드 레퍼런스 모음]] — 2026-03-25
 - [[garry-tan-yc-13-claude-commands|Garry Tan의 YC 운영 방식 — Claude Code 슬래시 커맨드 13개 전체 목록]] — 2026-03-25
+- [[ai-design-tools-5-bookmarks|AI·디자인 유용 웹사이트 5개 북마크]] — 2026-03-25
