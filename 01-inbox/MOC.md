@@ -21,3 +21,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[garry-tan-yc-13-claude-commands|Garry Tan의 YC 운영 방식 — Claude Code 슬래시 커맨드 13개 전체 목록]] — 2026-03-25
 - [[ai-design-tools-5-bookmarks|AI·디자인 유용 웹사이트 5개 북마크]] — 2026-03-25
 - [[character-design-sheet-prompt-v2|캐릭터 일관성 유지 디자인 시트 프롬프트 2탄]] — 2026-03-25
+- [[ai-engineering-interview-questions-repo|AI/ML 면접 준비 완전 가이드 — 300+ Q&A GitHub 레포]] — 2026-03-25
