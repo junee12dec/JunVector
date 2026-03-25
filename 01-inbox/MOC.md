@@ -23,3 +23,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[character-design-sheet-prompt-v2|캐릭터 일관성 유지 디자인 시트 프롬프트 2탄]] — 2026-03-25
 - [[ai-engineering-interview-questions-repo|AI/ML 면접 준비 완전 가이드 — 300+ Q&A GitHub 레포]] — 2026-03-25
 - [[ppt-ai-tools-5-productivity|PPT 퀄리티 3배, 작업 시간 3배 단축해주는 AI 툴 5가지]] — 2026-03-25
+- [[claude-6-custom-skills-10x-useful|Claude를 10배 더 유용하게 만드는 커스텀 스킬 6가지]] — 2026-03-25
