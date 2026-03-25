@@ -22,3 +22,11 @@ description: "Claude Code 활용 가이드, 에이전트, 워크플로우 관련
 - [[claude-code-insights-report-2026-03|Claude Code 사용 패턴 인사이트 리포트 (2026-03)]] — 2026-03-19
 - [[claude-code-youtube-notebooklm-insights|Claude Code로 YouTube 영상 50개 분석 — NotebookLM-py 활용]] — 2026-03-21
 - [[everything-claude-code-repo|Everything Claude Code — 토큰 비용 절감 & 생산성 극대화 레포지토리]] — 2026-03-22
+- [[storyfox-cc|Claude Code Cheat Sheet v2.1.81]] — 2026-03-24
+- [[10-claude-mcp-skills-workflow-upgrade|워크플로우를 업그레이드하는 10가지 Claude MCP 스킬]] — 2026-03-24
+- [[naminsoo-ai-learn-claude-with-gemini|학습도 AI화 — Gemini로 Claude 마스터 가이드북 빠르게 파악하기]] — 2026-03-24
+- [[top-17-claude-skills-github-repos-ai|Top 17 Claude Skills & GitHub Repos — AI 필수 목록 (06~22번)]] — 2026-03-24
+- [[gptaku-skillers-suda-plugin-skill-generator|gptaku — /skillers-suda: 프롬프트 한 줄로 Claude Code 스킬 자동 생성 플러그인]] — 2026-03-24
+- [[gptaku-cc101-claude-code-korean-intro|gptaku — CC101: Claude Code 한국어 입문 사이트 (20섹션 오픈소스)]] — 2026-03-24
+- [[claude-code-must-have-plugins-3|Claude Code 필수 플러그인 3가지 — Superpowers, Oh My Claude Code, BKIT]] — 2026-03-25
+- [[10-github-repos-for-claude-code|Claude Code 프로젝트를 10배 향상시키는 GitHub 레포 10개]] — 2026-03-25
