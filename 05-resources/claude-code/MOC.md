@@ -30,3 +30,6 @@ description: "Claude Code 활용 가이드, 에이전트, 워크플로우 관련
 - [[gptaku-cc101-claude-code-korean-intro|gptaku — CC101: Claude Code 한국어 입문 사이트 (20섹션 오픈소스)]] — 2026-03-24
 - [[claude-code-must-have-plugins-3|Claude Code 필수 플러그인 3가지 — Superpowers, Oh My Claude Code, BKIT]] — 2026-03-25
 - [[10-github-repos-for-claude-code|Claude Code 프로젝트를 10배 향상시키는 GitHub 레포 10개]] — 2026-03-25
+- [[claude-6-custom-skills-10x-useful|Claude를 10배 더 유용하게 만드는 커스텀 스킬 6가지]] — 2026-03-25
+- [[claude-pptx-skill-anthropics-skills|Claude PPTX Skill — 코드로 만드는 픽셀 단위 슬라이드]] — 2026-03-25
+- [[garry-tan-yc-13-claude-commands|Garry Tan의 YC 운영 방식 — Claude Code 슬래시 커맨드 13개 전체 목록]] — 2026-03-25
