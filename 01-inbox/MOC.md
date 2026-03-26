@@ -12,6 +12,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 
 ## 노트 목록
 
-- [[feynman-research-ai-agent|Feynman — 논문 분석·실험 복제·피어 리뷰까지 하는 연구용 AI 에이전트]] — 2026-03-26
-- [[productivity-tools-5-bookmarks|생산성 꿀팁 웹사이트 5개 — 이메일·이미지·파일 도구 모음]] — 2026-03-26
 

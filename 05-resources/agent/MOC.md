@@ -17,3 +17,4 @@ description: "AI 에이전트 프레임워크, 메모리, 설계 패턴 관련 �
 - [[harness-engineering-oh-my-agent|하네스 엔지니어링 — AI 에이전트가 실수하지 않는 구조 설계 (oh-my-agent)]] — 2026-03-18
 - [[supermemory-asmr-agent-memory-99percent|Supermemory ASMR — 벡터 DB 없이 에이전트 메모리 98.6% 달성]] — 2026-03-23
 - [[openhands-ai-agent-fullstack|OpenHands — 코드·터미널·웹을 혼자 다 하는 오픈소스 AI 에이전트]] — 2026-03-25
+- [[feynman-research-ai-agent|Feynman — 논문 분석·실험 복제·피어 리뷰까지 하는 연구용 AI 에이전트]] — 2026-03-26
