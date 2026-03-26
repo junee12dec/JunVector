@@ -22,3 +22,6 @@ description: "AI 도구, 에이전트, 자동화 관련 자료 목차."
 - [[ai-1person-devteam-caio-blueprint|AI로 1인 개발팀 만드는 법 — Caio Blueprint 가이드 (초급 + 중급)]] — 2026-03-18
 - [[jina-reader-url-prefix-ai-tip|URL 앞에 r.jina.ai/ 붙이면 AI가 웹을 깔끔하게 읽는다]] — 2026-03-24
 - [[500-ai-agents-projects-github|500+ AI 에이전트 프로젝트 — 산업별 분류 오픈소스 모음]] — 2026-03-25
+- [[agent-deck-terminal-manager|agent-deck — AI 에이전트 세션 통합 터미널 관리 도구]] — 2026-03-25
+- [[ai-carousel-1min-guide|AI 캐러셀 1분만에 만들기]] — 2026-03-25
+- [[ppt-ai-tools-5-productivity|PPT 퀄리티 3배, 작업 시간 3배 단축해주는 AI 툴 5가지]] — 2026-03-25
