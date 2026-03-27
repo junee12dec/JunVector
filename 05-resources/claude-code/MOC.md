@@ -33,3 +33,4 @@ description: "Claude Code 활용 가이드, 에이전트, 워크플로우 관련
 - [[claude-6-custom-skills-10x-useful|Claude를 10배 더 유용하게 만드는 커스텀 스킬 6가지]] — 2026-03-25
 - [[claude-pptx-skill-anthropics-skills|Claude PPTX Skill — 코드로 만드는 픽셀 단위 슬라이드]] — 2026-03-25
 - [[garry-tan-yc-13-claude-commands|Garry Tan의 YC 운영 방식 — Claude Code 슬래시 커맨드 13개 전체 목록]] — 2026-03-25
+- [[claude-code-organizer-dashboard|Claude Code Organizer — 메모리·스킬·MCP·훅을 스코프별로 관리하는 대시보드]] — 2026-03-26
