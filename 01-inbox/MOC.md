@@ -14,4 +14,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 
 - [[prompt-reference-sites-4|프롬프트 레퍼런스 사이트 4가지 북마크]] — 2026-03-26
 - [[claude-code-organizer-dashboard|Claude Code Organizer — 메모리·스킬·MCP·훅을 스코프별로 관리하는 대시보드]] — 2026-03-26
+- [[awesome-ai-agents-repo|awesome-ai-agents — AI 에이전트 전체 지도 큐레이션 레포 (⭐25.8K)]] — 2026-03-26
 
