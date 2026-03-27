@@ -12,6 +12,3 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 
 ## 노트 목록
 
-- [[recordly-screen-recorder|Recordly — 자동 줌·커서 애니메이션으로 프로 데모 영상 만드는 오픈소스 화면 녹화 툴]] — 2026-03-26
-- [[github-trending-top8-2026-03-26|GitHub 트렌딩 오픈소스 TOP 8 — 2026-03-26]] — 2026-03-26
-
