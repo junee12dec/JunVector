@@ -12,3 +12,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 
 ## 노트 목록
 
+- [[stanford-ai-courses-free-youtube|스탠포드 무료 AI 강좌 5개 — 유튜브 공개 CS 과정 (10만 달러 가치)]] — 2026-03-27
+
