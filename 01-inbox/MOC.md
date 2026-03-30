@@ -15,4 +15,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[rip-mckinsey|RIP McKinsey]] — 2026-03-16
 - [[hermes-agent-launch-announcement|hermes-agent 출시 — LLM 만든 팀이 설계한 에이전트 프레임워크]] — 2026-03-30
 - [[claude-code-15-hidden-features|Claude Code 15가지 숨겨진 기능 — Boris Cherny가 직접 공개]] — 2026-03-30
+- [[google-stitch-claude-code-design-workflow|Google Stitch 2.0 + Claude Code 디자인 워크플로우]] — 2026-03-30
 
