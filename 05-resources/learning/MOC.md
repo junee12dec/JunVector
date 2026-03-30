@@ -17,3 +17,4 @@ description: "강의, 튜토리얼, 학습 자료 목차."
 - [[ccaf-claude-certified-architect-foundations-exam-guide|CCAF 시험 완전 정복 가이드 — Claude Certified Architect Foundations]] — 2026-03-23
 - [[ccaf-certification-opportunity-overview|CCAF 자격증 — 지금 잡아야 할 비대칭 기회]] — 2026-03-23
 - [[ai-engineering-interview-questions-repo|AI/ML 면접 준비 완전 가이드 — 300+ Q&A GitHub 레포]] — 2026-03-25
+- [[stanford-ai-courses-free-youtube|스탠포드 무료 AI 강좌 5개 — 유튜브 공개 CS 과정 (10만 달러 가치)]] — 2026-03-27

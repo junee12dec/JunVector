@@ -18,3 +18,4 @@ description: "NotebookLM 활용 및 PPT 자동화 워크플로우 관련 자료 
 - [[awesome-notebooklm-prompts|Awesome NotebookLM Prompts — 슬라이드 생성 프롬프트 모음]] — 2026-03-15
 - [[city-in-letters-typography-diorama-prompt|글자 속 도시 — 3D 타이포그래피 다이오라마 나노바나나 프롬프트]] — 2026-03-22
 - [[notebooklm-chrome-extensions-6|NotebookLM 생산성 10배 올리는 크롬 확장 프로그램 6가지]] — 2026-03-24
+- [[notebooklm-youtube-channel-8-prompts|Google NotebookLM으로 유튜브 채널 분석·복제하는 8개 프롬프트]] — 2026-03-27

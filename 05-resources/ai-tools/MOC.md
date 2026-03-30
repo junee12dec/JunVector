@@ -25,3 +25,4 @@ description: "AI 도구, 에이전트, 자동화 관련 자료 목차."
 - [[agent-deck-terminal-manager|agent-deck — AI 에이전트 세션 통합 터미널 관리 도구]] — 2026-03-25
 - [[ai-carousel-1min-guide|AI 캐러셀 1분만에 만들기]] — 2026-03-25
 - [[ppt-ai-tools-5-productivity|PPT 퀄리티 3배, 작업 시간 3배 단축해주는 AI 툴 5가지]] — 2026-03-25
+- [[sourceloop-ai-notebooklm-research-agent|SourceLoop — AI와 NotebookLM이 대화하는 자동 자료수집 에이전트]] — 2026-03-27
