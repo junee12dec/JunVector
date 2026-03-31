@@ -17,4 +17,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-code-15-hidden-features|Claude Code 15가지 숨겨진 기능 — Boris Cherny가 직접 공개]] — 2026-03-30
 - [[google-stitch-claude-code-design-workflow|Google Stitch 2.0 + Claude Code 디자인 워크플로우]] — 2026-03-30
 - [[claude-code-source-leak-collective-intelligence|Claude Code 소스 코드 유출과 집단 지성의 해체]] — 2026-03-31
+- [[claude-code-system-prompt-architecture|Claude Code 시스템 프롬프트 아키텍처]] — 2026-03-31
 
