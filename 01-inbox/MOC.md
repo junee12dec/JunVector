@@ -19,4 +19,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-code-source-leak-collective-intelligence|Claude Code 소스 코드 유출과 집단 지성의 해체]] — 2026-03-31
 - [[claude-code-system-prompt-architecture|Claude Code 시스템 프롬프트 아키텍처]] — 2026-03-31
 - [[yc-office-hours-claude-skill|YC Office Hours Claude 스킬 — 냉철한 비즈니스 분석 도구]] — 2026-03-31
+- [[slides-grab-ai-presentation-tool|slides-grab — AI 에이전트 + 드래그 편집 슬라이드 도구]] — 2026-03-31
 
