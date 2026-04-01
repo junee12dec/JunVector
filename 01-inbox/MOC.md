@@ -24,4 +24,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[harness-plugin-claude-code-auto-agent-team|Harness — Claude Code 에이전트 팀 자동 구성 플러그인]] — 2026-04-01
 - [[supanova-design-skill-korean-vibe-coding|Supanova Design Skill — 한국어 서비스 AI 디자인 티 제거 스킬]] — 2026-04-01
 - [[tony-cho-flowkater-blog-ai-as-smart-as-you|Tony Cho(flowkater) 블로그 — AI는 당신만큼 똑똑하다]] — 2026-04-01
+- [[agentos-rivet-v8-isolate-agent-runtime|agentOS — 크롬 V8 격리 기술로 에이전트를 탭처럼 돌리는 런타임]] — 2026-04-01
 
