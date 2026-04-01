@@ -18,3 +18,4 @@ description: "강의, 튜토리얼, 학습 자료 목차."
 - [[ccaf-certification-opportunity-overview|CCAF 자격증 — 지금 잡아야 할 비대칭 기회]] — 2026-03-23
 - [[ai-engineering-interview-questions-repo|AI/ML 면접 준비 완전 가이드 — 300+ Q&A GitHub 레포]] — 2026-03-25
 - [[stanford-ai-courses-free-youtube|스탠포드 무료 AI 강좌 5개 — 유튜브 공개 CS 과정 (10만 달러 가치)]] — 2026-03-27
+- [[ai-trend-onboarding-guide|AI 온보딩 완벽 가이드 — 챕터별 입문 사이트]] — 2026-03-31

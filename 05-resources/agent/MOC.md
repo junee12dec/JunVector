@@ -19,3 +19,5 @@ description: "AI 에이전트 프레임워크, 메모리, 설계 패턴 관련 �
 - [[openhands-ai-agent-fullstack|OpenHands — 코드·터미널·웹을 혼자 다 하는 오픈소스 AI 에이전트]] — 2026-03-25
 - [[feynman-research-ai-agent|Feynman — 논문 분석·실험 복제·피어 리뷰까지 하는 연구용 AI 에이전트]] — 2026-03-26
 - [[awesome-ai-agents-repo|awesome-ai-agents — AI 에이전트 전체 지도 큐레이션 레포 (⭐25.8K)]] — 2026-03-26
+- [[hermes-agent-launch-announcement|hermes-agent 출시 — LLM 만든 팀이 설계한 에이전트 프레임워크]] — 2026-03-30
+- [[agentos-rivet-v8-isolate-agent-runtime|agentOS — 크롬 V8 격리 기술로 에이전트를 탭처럼 돌리는 런타임]] — 2026-04-01

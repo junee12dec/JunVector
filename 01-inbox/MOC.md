@@ -12,17 +12,3 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 
 ## 노트 목록
 
-- [[rip-mckinsey|RIP McKinsey]] — 2026-03-16
-- [[hermes-agent-launch-announcement|hermes-agent 출시 — LLM 만든 팀이 설계한 에이전트 프레임워크]] — 2026-03-30
-- [[claude-code-15-hidden-features|Claude Code 15가지 숨겨진 기능 — Boris Cherny가 직접 공개]] — 2026-03-30
-- [[google-stitch-claude-code-design-workflow|Google Stitch 2.0 + Claude Code 디자인 워크플로우]] — 2026-03-30
-- [[claude-code-source-leak-collective-intelligence|Claude Code 소스 코드 유출과 집단 지성의 해체]] — 2026-03-31
-- [[claude-code-system-prompt-architecture|Claude Code 시스템 프롬프트 아키텍처]] — 2026-03-31
-- [[yc-office-hours-claude-skill|YC Office Hours Claude 스킬 — 냉철한 비즈니스 분석 도구]] — 2026-03-31
-- [[slides-grab-ai-presentation-tool|slides-grab — AI 에이전트 + 드래그 편집 슬라이드 도구]] — 2026-03-31
-- [[ai-trend-onboarding-guide|AI 온보딩 완벽 가이드 — 챕터별 입문 사이트]] — 2026-03-31
-- [[harness-plugin-claude-code-auto-agent-team|Harness — Claude Code 에이전트 팀 자동 구성 플러그인]] — 2026-04-01
-- [[supanova-design-skill-korean-vibe-coding|Supanova Design Skill — 한국어 서비스 AI 디자인 티 제거 스킬]] — 2026-04-01
-- [[tony-cho-flowkater-blog-ai-as-smart-as-you|Tony Cho(flowkater) 블로그 — AI는 당신만큼 똑똑하다]] — 2026-04-01
-- [[agentos-rivet-v8-isolate-agent-runtime|agentOS — 크롬 V8 격리 기술로 에이전트를 탭처럼 돌리는 런타임]] — 2026-04-01
-

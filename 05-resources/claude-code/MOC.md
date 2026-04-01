@@ -34,3 +34,9 @@ description: "Claude Code 활용 가이드, 에이전트, 워크플로우 관련
 - [[claude-pptx-skill-anthropics-skills|Claude PPTX Skill — 코드로 만드는 픽셀 단위 슬라이드]] — 2026-03-25
 - [[garry-tan-yc-13-claude-commands|Garry Tan의 YC 운영 방식 — Claude Code 슬래시 커맨드 13개 전체 목록]] — 2026-03-25
 - [[claude-code-organizer-dashboard|Claude Code Organizer — 메모리·스킬·MCP·훅을 스코프별로 관리하는 대시보드]] — 2026-03-26
+- [[claude-code-15-hidden-features|Claude Code 15가지 숨겨진 기능 — Boris Cherny가 직접 공개]] — 2026-03-30
+- [[google-stitch-claude-code-design-workflow|Google Stitch 2.0 + Claude Code 디자인 워크플로우]] — 2026-03-30
+- [[claude-code-source-leak-collective-intelligence|Claude Code 소스 코드 유출과 집단 지성의 해체]] — 2026-03-31
+- [[claude-code-system-prompt-architecture|Claude Code 시스템 프롬프트 아키텍처]] — 2026-03-31
+- [[yc-office-hours-claude-skill|YC Office Hours Claude 스킬 — 냉철한 비즈니스 분석 도구]] — 2026-03-31
+- [[harness-plugin-claude-code-auto-agent-team|Harness — Claude Code 에이전트 팀 자동 구성 플러그인]] — 2026-04-01
