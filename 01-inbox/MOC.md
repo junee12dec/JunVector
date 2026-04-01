@@ -21,4 +21,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[yc-office-hours-claude-skill|YC Office Hours Claude 스킬 — 냉철한 비즈니스 분석 도구]] — 2026-03-31
 - [[slides-grab-ai-presentation-tool|slides-grab — AI 에이전트 + 드래그 편집 슬라이드 도구]] — 2026-03-31
 - [[ai-trend-onboarding-guide|AI 온보딩 완벽 가이드 — 챕터별 입문 사이트]] — 2026-03-31
+- [[harness-plugin-claude-code-auto-agent-team|Harness — Claude Code 에이전트 팀 자동 구성 플러그인]] — 2026-04-01
 
