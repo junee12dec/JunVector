@@ -9,6 +9,7 @@ source: "https://www.threads.com/@grit_with_me/post/DWltdc4kvdS"
 # Supanova Design Skill — 한국어 서비스 AI 디자인 티 제거 스킬
 
 - **GitHub**: https://github.com/uxjoseph/supanova-design-skill
+- **영상**: https://youtu.be/2sNQ0Nvngdc?si=IZOyJjSg19-C6Xs8
 - **대상**: 바이브코딩으로 한국어 서비스를 만드는 개발자
 
 ## 문제 인식
