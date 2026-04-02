@@ -12,3 +12,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 
 ## 노트 목록
 
+- [[notebooklm-tools-chrome-extension|NotebookLM Tools — 클릭 한 번으로 소스 추가하는 크롬 확장]] — 2026-04-01
+
