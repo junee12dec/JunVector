@@ -18,4 +18,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[design-md-ai-design-system|DESIGN.md — AI 코딩 에이전트에 디자인 시스템 이식하는 법]] — 2026-04-02
 - [[specialized-icon-sites|도메인 특화 아이콘 사이트 7선]] — 2026-04-02
 - [[multi-agent-automation-personas|9개 에이전트로 일상 99% 자동화 — 멀티 에이전트 설계 원칙]] — 2026-04-02
+- [[k-skill-korean-agent-skills|케이-스킬 — 한국인을 위한 AI 에이전트 스킬 모음]] — 2026-04-02
 
