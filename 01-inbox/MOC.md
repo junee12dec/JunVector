@@ -19,4 +19,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[specialized-icon-sites|도메인 특화 아이콘 사이트 7선]] — 2026-04-02
 - [[multi-agent-automation-personas|9개 에이전트로 일상 99% 자동화 — 멀티 에이전트 설계 원칙]] — 2026-04-02
 - [[k-skill-korean-agent-skills|케이-스킬 — 한국인을 위한 AI 에이전트 스킬 모음]] — 2026-04-02
+- [[claude-code-best-practice-shanraisshan|Claude Code Best Practice — 클로드 코드 학습의 필수 레퍼런스 (31.4k stars)]] — 2026-04-03
 
