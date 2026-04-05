@@ -25,4 +25,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[karpathy-knowledge-base-llm-wiki|Karpathy의 Knowledge Base — LLM이 사관이 되는 개인 위키]] — 2026-04-05
 - [[obsidian-mind-vault-template-claude-code|Obsidian Mind — 엔지니어를 위한 완성형 Claude Code 외부 뇌]] — 2026-04-05
 - [[notebooklm-youtube-channel-clone-8-prompts|NotebookLM으로 유튜브 채널 복제하는 8개 프롬프트]] — 2026-04-05
+- [[gstack-browse-headed-browser-agent|GStack Browse — Claude Code 에이전트에 눈을 달다]] — 2026-04-05
 
