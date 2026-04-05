@@ -22,4 +22,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-code-best-practice-shanraisshan|Claude Code Best Practice — 클로드 코드 학습의 필수 레퍼런스 (31.4k stars)]] — 2026-04-03
 - [[drawio-mcp-official-server|draw.io 공식 MCP 서버 — Claude에게 말하면 다이어그램이 바로 나온다]] — 2026-04-03
 - [[openclaw-multi-agent-setup-tutorial|OpenClaw Multi-Agent 설정 튜토리얼 — 스펀지밥 세계관으로 배우는 멀티 에이전트]] — 2026-04-05
+- [[karpathy-knowledge-base-llm-wiki|Karpathy의 Knowledge Base — LLM이 사관이 되는 개인 위키]] — 2026-04-05
 
