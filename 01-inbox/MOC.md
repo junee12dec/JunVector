@@ -27,4 +27,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[notebooklm-youtube-channel-clone-8-prompts|NotebookLM으로 유튜브 채널 복제하는 8개 프롬프트]] — 2026-04-05
 - [[gstack-browse-headed-browser-agent|GStack Browse — Claude Code 에이전트에 눈을 달다]] — 2026-04-05
 - [[claude-web-agent-auto-setup-guide|Claude Code 웹 에이전트 팀 자동 세팅 가이드 파일 — 시몬]] — 2026-04-05
+- [[ccunpacked-claude-code-reverse-engineering-visualization|CCUnpacked — 클로드 코드 소스 리버스 엔지니어링 인터랙티브 시각화]] — 2026-04-06
 
