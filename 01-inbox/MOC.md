@@ -28,4 +28,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[gstack-browse-headed-browser-agent|GStack Browse — Claude Code 에이전트에 눈을 달다]] — 2026-04-05
 - [[claude-web-agent-auto-setup-guide|Claude Code 웹 에이전트 팀 자동 세팅 가이드 파일 — 시몬]] — 2026-04-05
 - [[ccunpacked-claude-code-reverse-engineering-visualization|CCUnpacked — 클로드 코드 소스 리버스 엔지니어링 인터랙티브 시각화]] — 2026-04-06
+- [[loopy-era-trend-harvester-ai-system-upgrade|loopy-era-trend-harvester — AI 트렌드를 Claude Code 시스템에 자동 반영하는 스킬]] — 2026-04-06
 
