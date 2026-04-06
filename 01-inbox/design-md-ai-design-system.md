@@ -24,6 +24,18 @@ README.md에 코드 설명을 적듯, `DESIGN.md`에는 **색상, 폰트, 여백
 AI가 생성하는 UI가 엉성하고 일관성이 없었던 문제를 **텍스트 파일 하나**로 해결.
 전문적인 디자인 시스템을 그대로 이식할 수 있게 됨.
 
+## 포함된 사이트 목록
+
+| 카테고리 | 사이트 |
+|----------|--------|
+| AI 툴 | Claude, Cursor, ElevenLabs, Mistral, Ollama |
+| 디자인/빌더 | Notion, Figma, Framer, Webflow |
+| 브랜드 | Spotify, SpaceX, Coinbase, Revolut |
+
+## 팁
+
+"Apple 느낌으로 만들어줘"처럼 모호한 지시보다 해당 서비스의 `DESIGN.md`를 프로젝트 루트에 넣고 Claude Code / Cursor에게 넘기는 게 훨씬 정확한 결과를 낸다.
+
 ## 참고
 
 - GitHub: [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
