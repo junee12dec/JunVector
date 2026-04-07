@@ -32,4 +32,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-code-cardnews-pipeline-ai-agents|AI 에이전트 파이프라인으로 카드뉴스 자동 생성하기]] — 2026-04-06
 - [[llm-knowledge-base-team-wiki-practice|LLM Knowledge Base 실전 구현 — 개인 위키에서 팀 위키로]] — 2026-04-06
 - [[addy-osmani-agent-skills-workflow|Addy Osmani의 agent-skills — AI 에이전트에 시니어 엔지니어 습관 심기]] — 2026-04-06
+- [[ai-skill-20-reusable-instructions|AI 스킬 20개 — 반복 지시를 파일 하나로 끝내는 법]] — 2026-04-07
 
