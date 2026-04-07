@@ -34,4 +34,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[addy-osmani-agent-skills-workflow|Addy Osmani의 agent-skills — AI 에이전트에 시니어 엔지니어 습관 심기]] — 2026-04-06
 - [[ai-skill-20-reusable-instructions|AI 스킬 20개 — 반복 지시를 파일 하나로 끝내는 법]] — 2026-04-07
 - [[vibe-coding-reference-resources|바이브코딩 참고자료 모음 — 클로드 코드 가이드·전자책·디자인 가이드]] — 2026-04-07
+- [[deeptutor-document-to-interactive-course|DeepTutor — 문서를 맞춤형 인터랙티브 학습 코스로 변환하는 오픈소스]] — 2026-04-07
 
