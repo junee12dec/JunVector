@@ -42,4 +42,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[ai-younggle-man-teacher-obsidian-openclo-hermes|영글맨 — 현직교사 Obsidian·OpenClo·에르메스 활용 고수]] — 2026-04-08
 - [[children-picturebook-top7-age6-7|유아(6~7세) 추천 그림책 Top7 — 25탄]] — 2026-04-08
 - [[claude-code-visual-guide-osp|Claude Code 비주얼 가이드 — 예제 중심 copy-paste 템플릿 사이트]] — 2026-04-08
+- [[ccaf101-bitboom-learning-notes-updated|bitboom의 CCAF101 학습 노트 업데이트 — 자격증 개념 총정리]] — 2026-04-08
 
