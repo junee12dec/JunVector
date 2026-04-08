@@ -39,4 +39,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[photo-to-3d-character-nanobana2-prompt|사진 한 장으로 3D 캐릭터 만들기 — 나노바나나2 무료 워크플로우 + 프롬프트]] — 2026-04-07
 - [[claude-official-use-cases-guide|클로드 공식 Use Case 페이지 — 입문자를 위한 최고의 시작점]] — 2026-04-08
 - [[karpathy-llm-wiki-obsidian-auto-system|Karpathy LLM 위키 — Obsidian 노트를 자동 연결하는 AI 지식 시스템]] — 2026-04-08
+- [[ai-younggle-man-teacher-obsidian-openclo-hermes|영글맨 — 현직교사 Obsidian·OpenClo·에르메스 활용 고수]] — 2026-04-08
 
