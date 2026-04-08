@@ -30,4 +30,17 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[ccunpacked-claude-code-reverse-engineering-visualization|CCUnpacked — 클로드 코드 소스 리버스 엔지니어링 인터랙티브 시각화]] — 2026-04-06
 - [[loopy-era-trend-harvester-ai-system-upgrade|loopy-era-trend-harvester — AI 트렌드를 Claude Code 시스템에 자동 반영하는 스킬]] — 2026-04-06
 - [[claude-code-cardnews-pipeline-ai-agents|AI 에이전트 파이프라인으로 카드뉴스 자동 생성하기]] — 2026-04-06
+- [[llm-knowledge-base-team-wiki-practice|LLM Knowledge Base 실전 구현 — 개인 위키에서 팀 위키로]] — 2026-04-06
+- [[addy-osmani-agent-skills-workflow|Addy Osmani의 agent-skills — AI 에이전트에 시니어 엔지니어 습관 심기]] — 2026-04-06
+- [[ai-skill-20-reusable-instructions|AI 스킬 20개 — 반복 지시를 파일 하나로 끝내는 법]] — 2026-04-07
+- [[vibe-coding-reference-resources|바이브코딩 참고자료 모음 — 클로드 코드 가이드·전자책·디자인 가이드]] — 2026-04-07
+- [[deeptutor-document-to-interactive-course|DeepTutor — 문서를 맞춤형 인터랙티브 학습 코스로 변환하는 오픈소스]] — 2026-04-07
+- [[ai-slide-json-guide-template|AI 슬라이드 JSON 가이드 코드 — 회사 PPT 양식을 한 번만 세팅하면 끝]] — 2026-04-07
+- [[photo-to-3d-character-nanobana2-prompt|사진 한 장으로 3D 캐릭터 만들기 — 나노바나나2 무료 워크플로우 + 프롬프트]] — 2026-04-07
+- [[claude-official-use-cases-guide|클로드 공식 Use Case 페이지 — 입문자를 위한 최고의 시작점]] — 2026-04-08
+- [[karpathy-llm-wiki-obsidian-auto-system|Karpathy LLM 위키 — Obsidian 노트를 자동 연결하는 AI 지식 시스템]] — 2026-04-08
+- [[ai-younggle-man-teacher-obsidian-openclo-hermes|영글맨 — 현직교사 Obsidian·OpenClo·에르메스 활용 고수]] — 2026-04-08
+- [[children-picturebook-top7-age6-7|유아(6~7세) 추천 그림책 Top7 — 25탄]] — 2026-04-08
+- [[claude-code-visual-guide-osp|Claude Code 비주얼 가이드 — 예제 중심 copy-paste 템플릿 사이트]] — 2026-04-08
+- [[ccaf101-bitboom-learning-notes-updated|bitboom의 CCAF101 학습 노트 업데이트 — 자격증 개념 총정리]] — 2026-04-08
 
