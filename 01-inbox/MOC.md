@@ -40,4 +40,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-official-use-cases-guide|클로드 공식 Use Case 페이지 — 입문자를 위한 최고의 시작점]] — 2026-04-08
 - [[karpathy-llm-wiki-obsidian-auto-system|Karpathy LLM 위키 — Obsidian 노트를 자동 연결하는 AI 지식 시스템]] — 2026-04-08
 - [[ai-younggle-man-teacher-obsidian-openclo-hermes|영글맨 — 현직교사 Obsidian·OpenClo·에르메스 활용 고수]] — 2026-04-08
+- [[children-picturebook-top7-age6-7|유아(6~7세) 추천 그림책 Top7 — 25탄]] — 2026-04-08
 
