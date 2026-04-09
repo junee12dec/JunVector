@@ -47,4 +47,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[mit-winston-how-to-speak-claude-prompts|MIT Patrick Winston 발표 프레임워크 — 클로드 프롬프트 6가지]] — 2026-04-09
 - [[junvector-claude-md-vault-rules|JunVector CLAUDE.md — Obsidian 볼트 Claude 운영 규칙]] — 2026-04-09
 - [[deeptutor-2layer-plugin-architecture-multi-agent|DeepTutor 아키텍처 심층 분석 — 2-Layer Plugin과 멀티에이전트 파이프라인]] — 2026-04-09
+- [[claude-designer-skills-6-ui-design|디자이너를 위한 Claude Skills 6가지 — AI 티 없는 UI 만드는 법]] — 2026-04-09
 
