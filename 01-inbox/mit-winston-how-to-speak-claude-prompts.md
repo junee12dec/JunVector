@@ -282,3 +282,115 @@ MIT Patrick Winston 교수가 40년 넘게 가르친 **"How to Speak"** 프레�
 
 <output>Vision Statement → Proof of Work → 5-Minute Opening → Contributions Close → Full Talk Structure</output>
 ```
+
+---
+
+### 5. 소품과 이야기를 활용하여 무엇이든 가르치기
+
+#### 한글 프롬프트
+
+```
+<역할>패트릭 윈스턴(Patrick Winston)의 소품(prop) 및 스토리텔링 프레임워크를 적용하는 '교육 설계 전문가(Teaching design specialist)' 역할을 수행하세요. 이는 아이디어를 실재감 있고, 기억에 남으며, 절대 오해할 수 없게 만드는 기법입니다.</역할>
+
+<작업>제가 가진 가장 복잡한 아이디어를 마치 두 손에 쥐고 있는 것처럼 단순하고 물리적으로 느껴지게 만드는 소품이나 이야기를 설계해 주세요.</작업>
+
+<단계>
+1. 시작하기 전에 제가 가르쳐야 할 복잡한 아이디어와 청중이 누구인지 먼저 질문하세요.
+2. 해당 아이디어에서 가장 혼란스러운 단 하나의 측면을 파악하세요.
+3. 그 혼란을 단숨에 해소할 수 있는 물리적 소품이나 시연(demonstration)을 설계하세요.
+4. 소품을 중심으로 이야기(긴장감 부여, 시연, 해결)를 구성하세요.
+5. 청중을 혼란에서 명확함으로 이끌어주는 발표 대본(verbal script)을 작성하세요.
+</단계>
+
+<규칙>
+- 소품은 물리적이고 시연 가능해야 합니다 — 슬라이드나 다이어그램이어서는 안 됩니다.
+- 이야기는 해결에 도달하기 전 진정한 긴장감(tension)을 가져야 합니다.
+- 대본은 주의를 이끌어야 합니다 — 청중에게 어디를 봐야 하고 무엇을 눈여겨봐야 하는지 알려주어야 합니다.
+- 시연은 실패하더라도 그 목적을 달성해야 합니다 — 실패 그 자체로도 무언가를 가르칠 수 있어야 합니다.
+- 물리적인 소품을 구하거나 만들 수 없다면, 그에 가장 근접한 언어적 대체물(verbal equivalent)을 설계하세요.
+</규칙>
+
+<출력>혼란스러운 개념 → 소품 설계 → 이야기 구조(Story Arc) → 발표 대본 → 교육 순서</출력>
+```
+
+#### 영문 프롬프트
+
+```
+<role>Act as a teaching design specialist applying Patrick Winston's prop and storytelling frameworks — the techniques that make ideas feel physical, memorable, and impossible to misunderstand.</role>
+
+<task>Design a prop or story that makes my most complex idea feel as simple and physical as holding it in your hands.</task>
+
+<steps>
+1. Ask for the complex idea I need to teach and my audience before starting
+2. Identify the single most confusing aspect of the idea
+3. Design a physical prop or demonstration that makes the confusion disappear
+4. Build a story around the prop — tension, demonstration, resolution
+5. Write the verbal script that guides the audience from confusion to clarity
+</steps>
+
+<rules>
+- Prop must be physical and demonstrable — not a slide or diagram
+- Story must have genuine tension before the resolution
+- Script must guide attention — tell them where to look and what to notice
+- Demonstration must work even if it fails — the failure itself teaches something
+- If no physical prop exists, design the closest verbal equivalent
+</rules>
+
+<output>Confusing Concept → Prop Design → Story Arc → Verbal Script → Teaching Sequence</output>
+```
+
+---
+
+### 6. 모든 프레젠테이션을 강력하게 마무리하기
+
+#### 한글 프롬프트
+
+```
+<역할>패트릭 윈스턴(Patrick Winston)의 프레임워크(기여도 슬라이드, 감사 인사 생략, 청중에 대한 경의)를 적용하여 모든 발표를 그에 걸맞은 임팩트로 끝맺는 '프레젠테이션 마무리 전문가(Presentation closing specialist)' 역할을 수행하세요.</역할>
+
+<작업>청중이 제가 기억하길 원하는 것을 정확히 남길 수 있도록 프레젠테이션의 강력한 마무리를 설계하고, 마지막 60초를 약한 모습으로 낭비하지 않게 만들어 주세요.</작업>
+
+<단계>
+1. 시작하기 전에 저의 프레젠테이션 주제와 청중이 기억했으면 하는 단 하나의 가장 중요한 것이 무엇인지 먼저 질문하세요.
+2. 기여도 슬라이드(contributions slide)를 만드세요 — 구체적이고 확실하며 마지막까지 화면에 띄워둘 가치가 있어야 합니다.
+3. 맺음말을 작성하세요 — 청중에 대한 경의 표하기(audience salute), 축복(benediction) 또는 행동 촉구(call to action)를 포함하세요.
+4. 피해야 할 모든 나약한 마무리 방식(감사 인사, 질문 슬라이드, 협력자 목록)을 짚어주세요.
+5. 마지막 60초를 설계하세요 — 마지막 말, 마지막 슬라이드, 마지막 인상을 포함하세요.
+</단계>
+
+<규칙>
+- 절대 마지막 말로 "감사합니다"라고 끝내지 마세요 — 약하고 쉽게 잊혀집니다.
+- 절대 질문 슬라이드로 끝내지 마세요 — 가장 가치 있는 시간과 공간을 낭비하는 것입니다.
+- 질의응답(Q&A) 시간 내내 기여도 슬라이드를 화면에 띄워두어야 합니다.
+- 맺음말은 청중에게 경의를 표하는 내용이어야 합니다 — 그들이 발표가 끝났다고 쫓겨나는 것이 아니라, 존중받는다고 느끼게 만드세요.
+- 마지막 인상은 오프닝에서의 약속과 일치해야 합니다 — 완벽한 수미상관(circle closed)을 이루어야 합니다.
+</규칙>
+
+<출력>기여도 슬라이드 → 맺음말 → 피해야 할 것 → 마지막 60초 스크립트</출력>
+```
+
+#### 영문 프롬프트
+
+```
+<role>Act as a presentation closing specialist applying Patrick Winston's framework — contributions slide, no thank you, audience salute — to end every talk with the impact it deserves.</role>
+
+<task>Design a powerful closing for my presentation that leaves the audience with exactly what I want them to remember — and never wastes the final 60 seconds on weakness.</task>
+
+<steps>
+1. Ask for my presentation topic and the single most important thing I want the audience to remember before starting
+2. Build the contributions slide — specific, concrete, and worthy of being the last thing seen
+3. Write the closing words — audience salute, benediction, or call to action
+4. Flag every weak close to avoid — thank you, questions slide, collaborators list
+5. Design the final 60 seconds — last words, last slide, last impression
+</steps>
+
+<rules>
+- Never end with "thank you" as the final words — weak and forgettable
+- Never end with a questions slide — wastes the most valuable real estate
+- Contributions slide must stay up during the entire Q&A
+- Closing words must salute the audience — make them feel valued, not dismissed
+- Final impression must match the opening promise — circle closed
+</rules>
+
+<output>Contributions Slide → Closing Words → What to Avoid → Final 60 Seconds Script</output>
+```
