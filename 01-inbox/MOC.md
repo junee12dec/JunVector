@@ -44,4 +44,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-code-visual-guide-osp|Claude Code 비주얼 가이드 — 예제 중심 copy-paste 템플릿 사이트]] — 2026-04-08
 - [[ccaf101-bitboom-learning-notes-updated|bitboom의 CCAF101 학습 노트 업데이트 — 자격증 개념 총정리]] — 2026-04-08
 - [[ai-coding-agent-frameworks-comparison|4대 AI 코딩 에이전트 프레임워크 비교 — oh-my-claudecode · everything-claude-code · gstack · superpowers]] — 2026-04-09
+- [[mit-winston-how-to-speak-claude-prompts|MIT Patrick Winston 발표 프레임워크 — 클로드 프롬프트 6가지]] — 2026-04-09
 
