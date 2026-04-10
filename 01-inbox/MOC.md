@@ -43,4 +43,10 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[children-picturebook-top7-age6-7|유아(6~7세) 추천 그림책 Top7 — 25탄]] — 2026-04-08
 - [[claude-code-visual-guide-osp|Claude Code 비주얼 가이드 — 예제 중심 copy-paste 템플릿 사이트]] — 2026-04-08
 - [[ccaf101-bitboom-learning-notes-updated|bitboom의 CCAF101 학습 노트 업데이트 — 자격증 개념 총정리]] — 2026-04-08
+- [[ai-coding-agent-frameworks-comparison|4대 AI 코딩 에이전트 프레임워크 비교 — oh-my-claudecode · everything-claude-code · gstack · superpowers]] — 2026-04-09
+- [[mit-winston-how-to-speak-claude-prompts|MIT Patrick Winston 발표 프레임워크 — 클로드 프롬프트 6가지]] — 2026-04-09
+- [[junvector-claude-md-vault-rules|JunVector CLAUDE.md — Obsidian 볼트 Claude 운영 규칙]] — 2026-04-09
+- [[deeptutor-2layer-plugin-architecture-multi-agent|DeepTutor 아키텍처 심층 분석 — 2-Layer Plugin과 멀티에이전트 파이프라인]] — 2026-04-09
+- [[claude-designer-skills-6-ui-design|디자이너를 위한 Claude Skills 6가지 — AI 티 없는 UI 만드는 법]] — 2026-04-09
+- [[anthropic-2026-agentic-coding-trends-report|Anthropic 2026 Agentic Coding Trends Report — 개발자는 오케스트레이터로 진화한다]] — 2026-04-10
 
