@@ -54,4 +54,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[openclis-rust-cli-ecosystem|OpenClis — Rust 싱글 바이너리 CLI 도구 생태계]] — 2026-04-11
 - [[dot-studio-multi-agent-choreography|dot-studio — drag & drop 멀티 에이전트 런타임과 Choreography]] — 2026-04-11
 - [[llm-wiki-obsidian-claudian-second-brain-review|LLM Wiki + Obsidian 세컨드 브레인 직접 구축 후기]] — 2026-04-11
+- [[markitdown-llm-input-layer|MarkItDown — LLM 입력 정리 레이어로 보는 마이크로소프트 오픈소스]] — 2026-04-11
 
