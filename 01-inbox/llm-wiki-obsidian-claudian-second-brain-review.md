@@ -48,3 +48,9 @@ Obsidian에 기록된 153개 파일을 투입한 결과:
 - 기존 노트가 많을수록 즉시 효과가 크다 (153개 → 즉시 활용 가능한 지식 네트워크)
 - 엔티티 추출로 기업·인물·기술 관계를 자동 매핑
 - "쌓을수록 똑똑해진다"는 지식 복리 구조가 핵심 가치
+
+---
+
+## 실제 활용기
+
+- 상세 구현 가이드: [LLM Wiki in Obsidian for 2nd Brain](https://aboutcorelab.com/llm-wiki-in-obsidian-for-2nd-brain/)
