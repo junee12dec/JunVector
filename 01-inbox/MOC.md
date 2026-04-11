@@ -52,4 +52,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[3d-design-resources-4-tools|랜딩페이지 몰입감을 높이는 3D 리소스 4가지]] — 2026-04-10
 - [[reclip-opensource-video-audio-downloader|ReClip — 광고 없는 오픈소스 영상·오디오 다운로더]] — 2026-04-11
 - [[openclis-rust-cli-ecosystem|OpenClis — Rust 싱글 바이너리 CLI 도구 생태계]] — 2026-04-11
+- [[dot-studio-multi-agent-choreography|dot-studio — drag & drop 멀티 에이전트 런타임과 Choreography]] — 2026-04-11
 
