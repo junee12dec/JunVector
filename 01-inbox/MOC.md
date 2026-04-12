@@ -49,4 +49,11 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[deeptutor-2layer-plugin-architecture-multi-agent|DeepTutor 아키텍처 심층 분석 — 2-Layer Plugin과 멀티에이전트 파이프라인]] — 2026-04-09
 - [[claude-designer-skills-6-ui-design|디자이너를 위한 Claude Skills 6가지 — AI 티 없는 UI 만드는 법]] — 2026-04-09
 - [[anthropic-2026-agentic-coding-trends-report|Anthropic 2026 Agentic Coding Trends Report — 개발자는 오케스트레이터로 진화한다]] — 2026-04-10
+- [[3d-design-resources-4-tools|랜딩페이지 몰입감을 높이는 3D 리소스 4가지]] — 2026-04-10
+- [[reclip-opensource-video-audio-downloader|ReClip — 광고 없는 오픈소스 영상·오디오 다운로더]] — 2026-04-11
+- [[openclis-rust-cli-ecosystem|OpenClis — Rust 싱글 바이너리 CLI 도구 생태계]] — 2026-04-11
+- [[dot-studio-multi-agent-choreography|dot-studio — drag & drop 멀티 에이전트 런타임과 Choreography]] — 2026-04-11
+- [[llm-wiki-obsidian-claudian-second-brain-review|LLM Wiki + Obsidian 세컨드 브레인 직접 구축 후기]] — 2026-04-11
+- [[markitdown-llm-input-layer|MarkItDown — LLM 입력 정리 레이어로 보는 마이크로소프트 오픈소스]] — 2026-04-11
+- [[garry-tan-gbrain-opensource-ai-memory|GBrain — YC CEO 개리 탄의 AI 메모리 시스템 오픈소스 공개]] — 2026-04-11
 
