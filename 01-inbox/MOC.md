@@ -56,4 +56,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[llm-wiki-obsidian-claudian-second-brain-review|LLM Wiki + Obsidian 세컨드 브레인 직접 구축 후기]] — 2026-04-11
 - [[markitdown-llm-input-layer|MarkItDown — LLM 입력 정리 레이어로 보는 마이크로소프트 오픈소스]] — 2026-04-11
 - [[garry-tan-gbrain-opensource-ai-memory|GBrain — YC CEO 개리 탄의 AI 메모리 시스템 오픈소스 공개]] — 2026-04-11
+- [[korean-ai-experts-recommended-channels|국내 AI 고수들이 보는 채널 6선]] — 2026-04-12
 
