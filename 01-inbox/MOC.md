@@ -59,4 +59,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[korean-ai-experts-recommended-channels|국내 AI 고수들이 보는 채널 6선]] — 2026-04-12
 - [[slideland-tech-presentation-tool|Slideland — 슬라이드 제작 플랫폼]] — 2026-04-13
 - [[claude-code-best-practice-32k-workflow-guide|Claude Code Best Practice 32k — 워크플로우 선택 기준과 84개 실전 팁]] — 2026-04-13
+- [[markitdown-100k-why-markdown-for-llm|MarkItDown 10만 스타 — LLM 파이프라인에서 Markdown이어야 하는 이유]] — 2026-04-14
 
