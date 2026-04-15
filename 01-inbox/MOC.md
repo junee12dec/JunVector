@@ -62,4 +62,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[markitdown-100k-why-markdown-for-llm|MarkItDown 10만 스타 — LLM 파이프라인에서 Markdown이어야 하는 이유]] — 2026-04-14
 - [[para-knowledge-base-obsidian-claude-plugin|para-knowledge-base — PARA + Obsidian 최적화 Claude Code 지식 컴파일러]] — 2026-04-14
 - [[architecture-diagram-generator-claude-skill|architecture-diagram-generator — 코드베이스 아키텍처 다이어그램 자동 생성 스킬]] — 2026-04-15
+- [[andrej-karpathy-skills-claude-md|andrej-karpathy-skills — 카파시 LLM 코딩 철학을 CLAUDE.md로 이식하기]] — 2026-04-15
 
