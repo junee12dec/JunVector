@@ -64,4 +64,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[architecture-diagram-generator-claude-skill|architecture-diagram-generator — 코드베이스 아키텍처 다이어그램 자동 생성 스킬]] — 2026-04-15
 - [[andrej-karpathy-skills-claude-md|andrej-karpathy-skills — 카파시 LLM 코딩 철학을 CLAUDE.md로 이식하기]] — 2026-04-15
 - [[gemini-3d-travel-infographic-poster-prompt|Gemini 3D 여행 인포그래픽 포스터 프롬프트 — 나라/도시 이름만 넣으면 완성]] — 2026-04-15
+- [[graphify-code-knowledge-graph-tool|Graphify — 코드 폴더를 즉시 쿼리 가능한 지식 그래프로 변환]] — 2026-04-15
 
