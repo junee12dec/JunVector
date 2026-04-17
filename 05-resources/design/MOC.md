@@ -18,3 +18,4 @@ description: "디자인 시스템, UI/UX, 타이포그래피, AI 디자인 도�
 - [[character-design-sheet-prompt-v2|캐릭터 일관성 유지 디자인 시트 프롬프트 2탄]] — 2026-03-25
 - [[interactive-ui-trend-references|인터랙티브 UI 트렌드 레퍼런스 모음]] — 2026-03-25
 - [[supanova-design-skill-korean-vibe-coding|Supanova Design Skill — 한국어 서비스 AI 디자인 티 제거 스킬]] — 2026-04-01
+- [[frontend-design-tools-3-developer-icons-impeccable-bglayers|프론트엔드 개발자를 위한 디자인 도구 3선 — Developer Icons · Impeccable · bg.layers]] — 2026-04-16

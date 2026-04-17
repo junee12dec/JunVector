@@ -66,5 +66,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[gemini-3d-travel-infographic-poster-prompt|Gemini 3D 여행 인포그래픽 포스터 프롬프트 — 나라/도시 이름만 넣으면 완성]] — 2026-04-15
 - [[graphify-code-knowledge-graph-tool|Graphify — 코드 폴더를 즉시 쿼리 가능한 지식 그래프로 변환]] — 2026-04-15
 - [[clawd-on-desk-claude-code-desktop-pet|Clawd on Desk — Claude Code 작업 상태를 12가지 애니메이션으로 보여주는 데스크톱 펫]] — 2026-04-15
-- [[frontend-design-tools-3-developer-icons-impeccable-bglayers|프론트엔드 개발자를 위한 디자인 도구 3선 — Developer Icons · Impeccable · bg.layers]] — 2026-04-16
+
 
