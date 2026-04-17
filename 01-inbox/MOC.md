@@ -67,5 +67,7 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[graphify-code-knowledge-graph-tool|Graphify — 코드 폴더를 즉시 쿼리 가능한 지식 그래프로 변환]] — 2026-04-15
 - [[clawd-on-desk-claude-code-desktop-pet|Clawd on Desk — Claude Code 작업 상태를 12가지 애니메이션으로 보여주는 데스크톱 펫]] — 2026-04-15
 - [[ai-ppt-infographic-tools-5-felo-canva-gamma-ideogram-mymap|AI PPT·인포그래픽 도구 5선 — Felo · Canva · Gamma · Ideogram · MyMap AI]] — 2026-04-16
+- [[autoskills-codebase-auto-ai-skill-generator|Autoskills — 코드베이스를 자동으로 이해하는 AI 스킬 생성기]] — 2026-04-17
+- [[oh-my-design-korean-design-system-reference|oh-my-design — 토스·당근·카카오·배민 디자인 시스템을 DESIGN.md로 뽑는 도구]] — 2026-04-17
 
 
