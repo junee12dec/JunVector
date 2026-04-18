@@ -33,6 +33,11 @@ Claude Code 작업 상태를 데스크톱 위에 귀여운 캐릭터 애니메�
 - 무료로 사용 가능
 - GitHub에서 바로 설치 가능
 
+## 설치법 (Claude Code로 바로 설치)
+
+1. Claude Code에 GitHub 링크 붙여넣고 `"설치해줘"` 입력
+2. 설치 완료 후 `"실행해줘"` 입력
+
 ## 링크
 
 - GitHub: https://github.com/rullerzhou-afk/clawd-on-desk
