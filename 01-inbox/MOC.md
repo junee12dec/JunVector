@@ -71,5 +71,6 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[oh-my-design-korean-design-system-reference|oh-my-design — 토스·당근·카카오·배민 디자인 시스템을 DESIGN.md로 뽑는 도구]] — 2026-04-17
 - [[claude-code-89page-seminar-slide|Claude Code 잘 사용하기 — 89페이지 전사 세미나 슬라이드]] — 2026-04-17
 - [[diagram-design-editorial-brand-color-skill|diagram-design — 웹사이트 컬러 추출해 에디토리얼 퀄리티 다이어그램 생성하는 스킬]] — 2026-04-18
+- [[agentic-design-patterns-421-google-engineer|Agentic Design Patterns — Google 시니어 엔지니어의 421페이지 AI 에이전트 설계 바이블]] — 2026-04-18
 
 
