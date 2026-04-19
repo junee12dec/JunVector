@@ -57,4 +57,21 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[markitdown-llm-input-layer|MarkItDown — LLM 입력 정리 레이어로 보는 마이크로소프트 오픈소스]] — 2026-04-11
 - [[garry-tan-gbrain-opensource-ai-memory|GBrain — YC CEO 개리 탄의 AI 메모리 시스템 오픈소스 공개]] — 2026-04-11
 - [[korean-ai-experts-recommended-channels|국내 AI 고수들이 보는 채널 6선]] — 2026-04-12
+- [[slideland-tech-presentation-tool|Slideland — 슬라이드 제작 플랫폼]] — 2026-04-13
+- [[claude-code-best-practice-32k-workflow-guide|Claude Code Best Practice 32k — 워크플로우 선택 기준과 84개 실전 팁]] — 2026-04-13
+- [[markitdown-100k-why-markdown-for-llm|MarkItDown 10만 스타 — LLM 파이프라인에서 Markdown이어야 하는 이유]] — 2026-04-14
+- [[para-knowledge-base-obsidian-claude-plugin|para-knowledge-base — PARA + Obsidian 최적화 Claude Code 지식 컴파일러]] — 2026-04-14
+- [[architecture-diagram-generator-claude-skill|architecture-diagram-generator — 코드베이스 아키텍처 다이어그램 자동 생성 스킬]] — 2026-04-15
+- [[andrej-karpathy-skills-claude-md|andrej-karpathy-skills — 카파시 LLM 코딩 철학을 CLAUDE.md로 이식하기]] — 2026-04-15
+- [[gemini-3d-travel-infographic-poster-prompt|Gemini 3D 여행 인포그래픽 포스터 프롬프트 — 나라/도시 이름만 넣으면 완성]] — 2026-04-15
+- [[graphify-code-knowledge-graph-tool|Graphify — 코드 폴더를 즉시 쿼리 가능한 지식 그래프로 변환]] — 2026-04-15
+- [[clawd-on-desk-claude-code-desktop-pet|Clawd on Desk — Claude Code 작업 상태를 12가지 애니메이션으로 보여주는 데스크톱 펫]] — 2026-04-15
+- [[ai-ppt-infographic-tools-5-felo-canva-gamma-ideogram-mymap|AI PPT·인포그래픽 도구 5선 — Felo · Canva · Gamma · Ideogram · MyMap AI]] — 2026-04-16
+- [[autoskills-codebase-auto-ai-skill-generator|Autoskills — 코드베이스를 자동으로 이해하는 AI 스킬 생성기]] — 2026-04-17
+- [[oh-my-design-korean-design-system-reference|oh-my-design — 토스·당근·카카오·배민 디자인 시스템을 DESIGN.md로 뽑는 도구]] — 2026-04-17
+- [[claude-code-89page-seminar-slide|Claude Code 잘 사용하기 — 89페이지 전사 세미나 슬라이드]] — 2026-04-17
+- [[diagram-design-editorial-brand-color-skill|diagram-design — 웹사이트 컬러 추출해 에디토리얼 퀄리티 다이어그램 생성하는 스킬]] — 2026-04-18
+- [[agentic-design-patterns-421-google-engineer|Agentic Design Patterns — Google 시니어 엔지니어의 421페이지 AI 에이전트 설계 바이블]] — 2026-04-18
+- [[hyperframes-heygen-ai-video-framework|HyperFrames — HeyGen이 오픈소스로 푼 AI 전용 영상 프레임워크]] — 2026-04-18
+
 
