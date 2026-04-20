@@ -73,5 +73,6 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[diagram-design-editorial-brand-color-skill|diagram-design — 웹사이트 컬러 추출해 에디토리얼 퀄리티 다이어그램 생성하는 스킬]] — 2026-04-18
 - [[agentic-design-patterns-421-google-engineer|Agentic Design Patterns — Google 시니어 엔지니어의 421페이지 AI 에이전트 설계 바이블]] — 2026-04-18
 - [[hyperframes-heygen-ai-video-framework|HyperFrames — HeyGen이 오픈소스로 푼 AI 전용 영상 프레임워크]] — 2026-04-18
+- [[docufinder-local-document-content-search|Docufinder v2.5.0 — 파일 내용으로 PC 문서 전체를 검색하는 로컬 도구]] — 2026-04-19
 
 
