@@ -75,5 +75,6 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[hyperframes-heygen-ai-video-framework|HyperFrames — HeyGen이 오픈소스로 푼 AI 전용 영상 프레임워크]] — 2026-04-18
 - [[docufinder-local-document-content-search|Docufinder v2.5.0 — 파일 내용으로 PC 문서 전체를 검색하는 로컬 도구]] — 2026-04-19
 - [[motionsites-ai-motion-prompt-collection|motionsites.ai — 모션 사이트 제작용 복붙 프롬프트 모음]] — 2026-04-19
+- [[chatgpt-image2-korean-ad-prompts-4types|ChatGPT Image2 실전 프롬프트 4종 — 광고·매거진·건축·기술 해설 이미지]] — 2026-04-19
 
 
