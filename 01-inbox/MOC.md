@@ -78,5 +78,6 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[chatgpt-image2-korean-ad-prompts-4types|ChatGPT Image2 실전 프롬프트 4종 — 광고·매거진·건축·기술 해설 이미지]] — 2026-04-19
 - [[gemini-gem-youtube-content-analyst-prompt|Gemini Gem — 유튜브 영상 전문 콘텐츠 분석가 프롬프트]] — 2026-04-20
 - [[ralftone-harness-engineering-slide|랄프톤 하네스 엔지니어링 발표 자료 — 에이전트 구성과 하네스 입문]] — 2026-04-20
+- [[gpt-design-system-image-prompt|GPT 이미지로 디자인 시스템 생성하는 프롬프트 — 8px 그리드·타이포그래피·컬러 시스템]] — 2026-04-20
 
 
