@@ -77,5 +77,6 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[motionsites-ai-motion-prompt-collection|motionsites.ai — 모션 사이트 제작용 복붙 프롬프트 모음]] — 2026-04-19
 - [[chatgpt-image2-korean-ad-prompts-4types|ChatGPT Image2 실전 프롬프트 4종 — 광고·매거진·건축·기술 해설 이미지]] — 2026-04-19
 - [[gemini-gem-youtube-content-analyst-prompt|Gemini Gem — 유튜브 영상 전문 콘텐츠 분석가 프롬프트]] — 2026-04-20
+- [[ralftone-harness-engineering-slide|랄프톤 하네스 엔지니어링 발표 자료 — 에이전트 구성과 하네스 입문]] — 2026-04-20
 
 
