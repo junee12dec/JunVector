@@ -73,5 +73,12 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[diagram-design-editorial-brand-color-skill|diagram-design — 웹사이트 컬러 추출해 에디토리얼 퀄리티 다이어그램 생성하는 스킬]] — 2026-04-18
 - [[agentic-design-patterns-421-google-engineer|Agentic Design Patterns — Google 시니어 엔지니어의 421페이지 AI 에이전트 설계 바이블]] — 2026-04-18
 - [[hyperframes-heygen-ai-video-framework|HyperFrames — HeyGen이 오픈소스로 푼 AI 전용 영상 프레임워크]] — 2026-04-18
+- [[docufinder-local-document-content-search|Docufinder v2.5.0 — 파일 내용으로 PC 문서 전체를 검색하는 로컬 도구]] — 2026-04-19
+- [[motionsites-ai-motion-prompt-collection|motionsites.ai — 모션 사이트 제작용 복붙 프롬프트 모음]] — 2026-04-19
+- [[chatgpt-image2-korean-ad-prompts-4types|ChatGPT Image2 실전 프롬프트 4종 — 광고·매거진·건축·기술 해설 이미지]] — 2026-04-19
+- [[gemini-gem-youtube-content-analyst-prompt|Gemini Gem — 유튜브 영상 전문 콘텐츠 분석가 프롬프트]] — 2026-04-20
+- [[ralftone-harness-engineering-slide|랄프톤 하네스 엔지니어링 발표 자료 — 에이전트 구성과 하네스 입문]] — 2026-04-20
+- [[gpt-design-system-image-prompt|GPT 이미지로 디자인 시스템 생성하는 프롬프트 — 8px 그리드·타이포그래피·컬러 시스템]] — 2026-04-20
+- [[claude-code-marketing-agent-team-pipeline|Claude Code로 마케팅 에이전트 팀 구축하기 — 4단계 실전 파이프라인]] — 2026-04-20
 
 
