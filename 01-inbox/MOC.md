@@ -80,5 +80,6 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[ralftone-harness-engineering-slide|랄프톤 하네스 엔지니어링 발표 자료 — 에이전트 구성과 하네스 입문]] — 2026-04-20
 - [[gpt-design-system-image-prompt|GPT 이미지로 디자인 시스템 생성하는 프롬프트 — 8px 그리드·타이포그래피·컬러 시스템]] — 2026-04-20
 - [[claude-code-marketing-agent-team-pipeline|Claude Code로 마케팅 에이전트 팀 구축하기 — 4단계 실전 파이프라인]] — 2026-04-20
+- [[codex-image-claude-skill-gpt-oauth|Codex 이미지 생성 Claude 스킬 — GPT 구독 OAuth로 API 과금 없이]] — 2026-04-23
 
 
