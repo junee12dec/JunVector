@@ -84,5 +84,6 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[huashu-design-claude-design-opensource|Huashu Design — Claude Design 역설계 오픈소스, 토큰 절약형 디자인 스킬]] — 2026-04-23
 - [[uiux-claude-skills-4-interface-canvas-webartifacts-taste|UI/UX 엔지니어를 위한 Claude 스킬 4선 — interface-design · canvas-design · web-artifacts-builder · taste-skill]] — 2026-04-24
 - [[langfuse-llm-observability-debug-tool|Langfuse — LLM 디버깅을 console.log에서 벗어나게 해주는 옵저버빌리티 툴]] — 2026-04-24
+- [[chatgpt-image-personal-report-prompts-10|ChatGPT 이미지로 나만의 보고서 만들기 — 재미있는 프롬프트 10선]] — 2026-04-24
 
 
