@@ -82,5 +82,6 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-code-marketing-agent-team-pipeline|Claude Code로 마케팅 에이전트 팀 구축하기 — 4단계 실전 파이프라인]] — 2026-04-20
 - [[codex-image-claude-skill-gpt-oauth|Codex 이미지 생성 Claude 스킬 — GPT 구독 OAuth로 API 과금 없이]] — 2026-04-23
 - [[huashu-design-claude-design-opensource|Huashu Design — Claude Design 역설계 오픈소스, 토큰 절약형 디자인 스킬]] — 2026-04-23
+- [[uiux-claude-skills-4-interface-canvas-webartifacts-taste|UI/UX 엔지니어를 위한 Claude 스킬 4선 — interface-design · canvas-design · web-artifacts-builder · taste-skill]] — 2026-04-24
 
 
