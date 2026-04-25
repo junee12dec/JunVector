@@ -87,5 +87,6 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[chatgpt-image-personal-report-prompts-10|ChatGPT 이미지로 나만의 보고서 만들기 — 재미있는 프롬프트 10선]] — 2026-04-24
 - [[chatgpt-image-aesthetic-photo-annotation-prompt|ChatGPT 이미지 감성 손그림 주석 프롬프트 — 인스타 스토리풍 꾸미기]] — 2026-04-24
 - [[opensre-ai-sre-agent-incident-investigation|OpenSRE — 프로덕션 인시던트를 자동 조사하는 오픈소스 AI SRE 에이전트]] — 2026-04-25
+- [[oh-my-agent-harness-workflow-obsidian|oh-my-agent — 실전 회사원이 만든 하네스 워크플로우 오픈소스]] — 2026-04-25
 
 
