@@ -90,5 +90,6 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[oh-my-agent-harness-workflow-obsidian|oh-my-agent — 실전 회사원이 만든 하네스 워크플로우 오픈소스]] — 2026-04-25
 - [[rag-anything-multimodal-rag-framework|RAG-Anything — PDF 표·수식·차트까지 이해하는 멀티모달 RAG 프레임워크]] — 2026-04-25
 - [[lost-in-country-travel-poster-image-prompt|LOST IN [country] — AI 여행 포스터 그래픽 콜라주 이미지 생성 프롬프트]] — 2026-04-25
+- [[nemotron-personas-korea-nvidia-dataset|Nemotron-Personas-Korea — NVIDIA의 700만 한국어 페르소나 데이터셋]] — 2026-04-25
 
 
