@@ -80,5 +80,18 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[ralftone-harness-engineering-slide|랄프톤 하네스 엔지니어링 발표 자료 — 에이전트 구성과 하네스 입문]] — 2026-04-20
 - [[gpt-design-system-image-prompt|GPT 이미지로 디자인 시스템 생성하는 프롬프트 — 8px 그리드·타이포그래피·컬러 시스템]] — 2026-04-20
 - [[claude-code-marketing-agent-team-pipeline|Claude Code로 마케팅 에이전트 팀 구축하기 — 4단계 실전 파이프라인]] — 2026-04-20
+- [[codex-image-claude-skill-gpt-oauth|Codex 이미지 생성 Claude 스킬 — GPT 구독 OAuth로 API 과금 없이]] — 2026-04-23
+- [[huashu-design-claude-design-opensource|Huashu Design — Claude Design 역설계 오픈소스, 토큰 절약형 디자인 스킬]] — 2026-04-23
+- [[uiux-claude-skills-4-interface-canvas-webartifacts-taste|UI/UX 엔지니어를 위한 Claude 스킬 4선 — interface-design · canvas-design · web-artifacts-builder · taste-skill]] — 2026-04-24
+- [[langfuse-llm-observability-debug-tool|Langfuse — LLM 디버깅을 console.log에서 벗어나게 해주는 옵저버빌리티 툴]] — 2026-04-24
+- [[chatgpt-image-personal-report-prompts-10|ChatGPT 이미지로 나만의 보고서 만들기 — 재미있는 프롬프트 10선]] — 2026-04-24
+- [[chatgpt-image-aesthetic-photo-annotation-prompt|ChatGPT 이미지 감성 손그림 주석 프롬프트 — 인스타 스토리풍 꾸미기]] — 2026-04-24
+- [[opensre-ai-sre-agent-incident-investigation|OpenSRE — 프로덕션 인시던트를 자동 조사하는 오픈소스 AI SRE 에이전트]] — 2026-04-25
+- [[oh-my-agent-harness-workflow-obsidian|oh-my-agent — 실전 회사원이 만든 하네스 워크플로우 오픈소스]] — 2026-04-25
+- [[rag-anything-multimodal-rag-framework|RAG-Anything — PDF 표·수식·차트까지 이해하는 멀티모달 RAG 프레임워크]] — 2026-04-25
+- [[lost-in-country-travel-poster-image-prompt|LOST IN [country] — AI 여행 포스터 그래픽 콜라주 이미지 생성 프롬프트]] — 2026-04-25
+- [[nemotron-personas-korea-nvidia-dataset|Nemotron-Personas-Korea — NVIDIA의 700만 한국어 페르소나 데이터셋]] — 2026-04-25
+- [[mattpocock-skills-real-engineer-claude-code|mattpocock/skills — 진짜 엔지니어링을 위한 Claude Code 에이전트 스킬 모음]] — 2026-04-26
+- [[slides-grab-html-cardnews-generator|slides-grab — HTML 카드뉴스 자동 생성 시스템 (프롬프트 + 검증 + 에디터)]] — 2026-04-26
 
 
