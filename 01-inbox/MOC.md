@@ -91,5 +91,6 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[rag-anything-multimodal-rag-framework|RAG-Anything — PDF 표·수식·차트까지 이해하는 멀티모달 RAG 프레임워크]] — 2026-04-25
 - [[lost-in-country-travel-poster-image-prompt|LOST IN [country] — AI 여행 포스터 그래픽 콜라주 이미지 생성 프롬프트]] — 2026-04-25
 - [[nemotron-personas-korea-nvidia-dataset|Nemotron-Personas-Korea — NVIDIA의 700만 한국어 페르소나 데이터셋]] — 2026-04-25
+- [[mattpocock-skills-real-engineer-claude-code|mattpocock/skills — 진짜 엔지니어링을 위한 Claude Code 에이전트 스킬 모음]] — 2026-04-26
 
 
