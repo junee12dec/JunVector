@@ -92,5 +92,6 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[lost-in-country-travel-poster-image-prompt|LOST IN [country] — AI 여행 포스터 그래픽 콜라주 이미지 생성 프롬프트]] — 2026-04-25
 - [[nemotron-personas-korea-nvidia-dataset|Nemotron-Personas-Korea — NVIDIA의 700만 한국어 페르소나 데이터셋]] — 2026-04-25
 - [[mattpocock-skills-real-engineer-claude-code|mattpocock/skills — 진짜 엔지니어링을 위한 Claude Code 에이전트 스킬 모음]] — 2026-04-26
+- [[slides-grab-html-cardnews-generator|slides-grab — HTML 카드뉴스 자동 생성 시스템 (프롬프트 + 검증 + 에디터)]] — 2026-04-26
 
 
