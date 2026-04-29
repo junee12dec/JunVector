@@ -80,16 +80,26 @@ Always read DESIGN.md at project root before generating any UI.
 
 ---
 
-## awesome-design-md 커뮤니티
+## awesome-design-md 커뮤니티 & getdesign.md
 
-발표 직후 폭발적 반응 → **69개 이상** 실제 브랜드 DESIGN.md 수집
+발표 직후 폭발적 반응 → **69개 이상** 실제 브랜드 DESIGN.md 수집  
+VoltAgent의 awesome-design-md: **GitHub 64,000+ ⭐**
 
-포함 브랜드: Stripe, Vercel, Linear, Cursor, Claude, Anthropic, Spotify, Apple, Tesla…  
+포함 브랜드: Stripe, Apple, Notion, Vercel, Linear, Cursor, Claude, Anthropic, Spotify, Tesla…  
 각 폴더: `DESIGN.md` + `preview.html` + `preview-dark.html` 세트
 
-- GitHub: https://github.com/VoltAgent/awesome-design-md
+**웹 포털**: https://getdesign.md/ — 브랜드 파일 바로 다운로드  
+**GitHub**: https://github.com/VoltAgent/awesome-design-md
 
 ---
+
+## 디자이너의 역할이 바뀐다
+
+> "피그마 단계를 건너뛰고 바로 구현으로 넘어갈 수 있다" — Reddit, 긱뉴스 논의
+
+디자이너의 일이 **캔버스에 그리는 것** → **AI가 읽을 수 있는 명세를 설계하는 것**으로 이동.
+
+Claude 디자인 파일도 포함 — 디자인을 몰라도 Claude 스타일 UI를 바로 생성 가능.
 
 ## Figma와의 관계
 
