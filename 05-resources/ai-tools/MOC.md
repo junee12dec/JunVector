@@ -27,3 +27,11 @@ description: "AI 도구, 에이전트, 자동화 관련 자료 목차."
 - [[ppt-ai-tools-5-productivity|PPT 퀄리티 3배, 작업 시간 3배 단축해주는 AI 툴 5가지]] — 2026-03-25
 - [[sourceloop-ai-notebooklm-research-agent|SourceLoop — AI와 NotebookLM이 대화하는 자동 자료수집 에이전트]] — 2026-03-27
 - [[slides-grab-ai-presentation-tool|slides-grab — AI 에이전트 + 드래그 편집 슬라이드 도구]] — 2026-03-31
+- [[markitdown-llm-input-layer|MarkItDown — LLM 입력 정리 레이어로 보는 마이크로소프트 오픈소스]] — 2026-04-11
+- [[garry-tan-gbrain-opensource-ai-memory|GBrain — YC CEO 개리 탄의 AI 메모리 시스템 오픈소스 공개]] — 2026-04-11
+- [[markitdown-100k-why-markdown-for-llm|MarkItDown 10만 스타 — LLM 파이프라인에서 Markdown이어야 하는 이유]] — 2026-04-14
+- [[hyperframes-heygen-ai-video-framework|HyperFrames — HeyGen이 오픈소스로 푼 AI 전용 영상 프레임워크]] — 2026-04-18
+- [[gemini-gem-youtube-content-analyst-prompt|Gemini Gem — 유튜브 영상 전문 콘텐츠 분석가 프롬프트]] — 2026-04-20
+- [[ai-coding-agent-frameworks-comparison|4대 AI 코딩 에이전트 프레임워크 비교 — oh-my-claudecode · everything-claude-code · gstack · superpowers]] — 2026-04-09
+- [[langfuse-llm-observability-debug-tool|Langfuse — LLM 디버깅을 console.log에서 벗어나게 해주는 옵저버빌리티 툴]] — 2026-04-24
+- [[slides-grab-html-cardnews-generator|slides-grab — HTML 카드뉴스 자동 생성 시스템 (프롬프트 + 검증 + 에디터)]] — 2026-04-26
