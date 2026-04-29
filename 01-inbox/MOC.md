@@ -12,3 +12,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 
 ## 노트 목록
 
+- [[open-design-claude-design-95-opensource|Open Design — Claude Design 95% 재현 오픈소스 (30+ 스킬, 71+ 브랜드)]] — 2026-04-27
