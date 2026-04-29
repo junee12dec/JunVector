@@ -21,3 +21,8 @@ description: "AI 에이전트 프레임워크, 메모리, 설계 패턴 관련 �
 - [[awesome-ai-agents-repo|awesome-ai-agents — AI 에이전트 전체 지도 큐레이션 레포 (⭐25.8K)]] — 2026-03-26
 - [[hermes-agent-launch-announcement|hermes-agent 출시 — LLM 만든 팀이 설계한 에이전트 프레임워크]] — 2026-03-30
 - [[agentos-rivet-v8-isolate-agent-runtime|agentOS — 크롬 V8 격리 기술로 에이전트를 탭처럼 돌리는 런타임]] — 2026-04-01
+- [[multi-agent-automation-personas|9개 에이전트로 일상 99% 자동화 — 멀티 에이전트 설계 원칙]] — 2026-04-02
+- [[dot-studio-multi-agent-choreography|dot-studio — drag & drop 멀티 에이전트 런타임과 Choreography]] — 2026-04-11
+- [[anthropic-2026-agentic-coding-trends-report|Anthropic 2026 Agentic Coding Trends Report — 개발자는 오케스트레이터로 진화한다]] — 2026-04-10
+- [[agentic-design-patterns-421-google-engineer|Agentic Design Patterns — Google 시니어 엔지니어의 421페이지 AI 에이전트 설계 바이블]] — 2026-04-18
+- [[opensre-ai-sre-agent-incident-investigation|OpenSRE — 프로덕션 인시던트를 자동 조사하는 오픈소스 AI SRE 에이전트]] — 2026-04-25

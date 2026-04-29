@@ -19,3 +19,5 @@ description: "강의, 튜토리얼, 학습 자료 목차."
 - [[ai-engineering-interview-questions-repo|AI/ML 면접 준비 완전 가이드 — 300+ Q&A GitHub 레포]] — 2026-03-25
 - [[stanford-ai-courses-free-youtube|스탠포드 무료 AI 강좌 5개 — 유튜브 공개 CS 과정 (10만 달러 가치)]] — 2026-03-27
 - [[ai-trend-onboarding-guide|AI 온보딩 완벽 가이드 — 챕터별 입문 사이트]] — 2026-03-31
+- [[deeptutor-document-to-interactive-course|DeepTutor — 문서를 맞춤형 인터랙티브 학습 코스로 변환하는 오픈소스]] — 2026-04-07
+- [[ccaf101-bitboom-learning-notes-updated|bitboom의 CCAF101 학습 노트 업데이트 — 자격증 개념 총정리]] — 2026-04-08
