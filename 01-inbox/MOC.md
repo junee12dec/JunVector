@@ -17,3 +17,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[old-photo-restoration-colorize-prompt|옛날 사진 복원·컬러화 프롬프트 — 인물 원본 100% 유지 + 고해상도 업스케일]] — 2026-04-29
 - [[claude-team-agent-kit-tmux-5roles|Claude Code 팀 에이전트 키트 — tmux로 기획자·FE·BE·QA·리더 5개 동시 실행]] — 2026-04-29
 - [[llm-wiki-self-updating-knowledge-base-karpathy|LLM Wiki — 문서를 자기 갱신 위키로 만드는 Karpathy 패턴]] — 2026-04-29
+- [[chromex-codex-chrome-sidepark-ai-extension|Chromex — Codex 기반 Chrome 사이드패널 AI 어시스턴트 (이미지 프롬프트 추출·웹 요약·PPT)]] — 2026-04-29
