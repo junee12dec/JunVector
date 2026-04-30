@@ -20,3 +20,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[chromex-codex-chrome-sidepark-ai-extension|Chromex — Codex 기반 Chrome 사이드패널 AI 어시스턴트 (이미지 프롬프트 추출·웹 요약·PPT)]] — 2026-04-29
 - [[y2k-tamagotchi-pixel-prompt-gpt-image2|Y2K 다마고치 픽셀 변환 프롬프트 — GPT Image 2 (2종)]] — 2026-04-29
 - [[felt-miniature-diorama-travel-country-prompt|국가별 펠트 미니어처 디오라마 여행 이미지 프롬프트 — ChatGPT (나라명만 입력)]] — 2026-04-29
+- [[awesome-agent-skills-largest-curated-library|Awesome Agent Skills — AI 에이전트 스킬 최대 큐레이션 라이브러리 (1000+ 스킬)]] — 2026-04-29
