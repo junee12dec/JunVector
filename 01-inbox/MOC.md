@@ -21,3 +21,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[y2k-tamagotchi-pixel-prompt-gpt-image2|Y2K 다마고치 픽셀 변환 프롬프트 — GPT Image 2 (2종)]] — 2026-04-29
 - [[felt-miniature-diorama-travel-country-prompt|국가별 펠트 미니어처 디오라마 여행 이미지 프롬프트 — ChatGPT (나라명만 입력)]] — 2026-04-29
 - [[awesome-agent-skills-largest-curated-library|Awesome Agent Skills — AI 에이전트 스킬 최대 큐레이션 라이브러리 (1000+ 스킬)]] — 2026-04-29
+- [[refero-styles-design-md-2000-products-library|Refero Styles — 세계 최고 제품 2,000개의 DESIGN.md 파일 라이브러리]] — 2026-04-30
