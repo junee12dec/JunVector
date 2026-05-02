@@ -23,3 +23,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[awesome-agent-skills-largest-curated-library|Awesome Agent Skills — AI 에이전트 스킬 최대 큐레이션 라이브러리 (1000+ 스킬)]] — 2026-04-29
 - [[refero-styles-design-md-2000-products-library|Refero Styles — 세계 최고 제품 2,000개의 DESIGN.md 파일 라이브러리]] — 2026-04-30
 - [[ilyamiro-nixos-configuration-dotfiles|ilyamiro NixOS Configuration — QML 기반 데스크톱 환경 설정 (3.7k stars)]] — 2026-04-30
+- [[flowise-drag-drop-ai-agent-builder|Flowise — 드래그 앤 드롭으로 AI 에이전트 빌드하는 노코드 플랫폼 (52.5k stars)]] — 2026-04-30
