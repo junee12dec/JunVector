@@ -27,3 +27,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[cocoindex-realtime-incremental-rag-pipeline|CocoIndex — 실시간 증분 RAG 데이터 파이프라인 엔진 (7.3k stars)]] — 2026-04-30
 - [[llm-ppt-design-workflow-getdesign-md|LLM PPT 디자인 개선 워크플로우 — getdesign.md 디자인 시스템 활용 5단계]] — 2026-05-01
 - [[risograph-minimal-illustration-prompt-gpt|리소그라프 인쇄풍 미니멀 일러스트 프롬프트 — GPT Image (주제·색상만 입력)]] — 2026-05-01
+- [[cli-anything-software-to-agent-cli-converter|CLI-Anything — 모든 소프트웨어를 에이전트용 CLI로 변환하는 도구 (명령어 1개)]] — 2026-05-01
