@@ -26,3 +26,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[flowise-drag-drop-ai-agent-builder|Flowise — 드래그 앤 드롭으로 AI 에이전트 빌드하는 노코드 플랫폼 (52.5k stars)]] — 2026-04-30
 - [[cocoindex-realtime-incremental-rag-pipeline|CocoIndex — 실시간 증분 RAG 데이터 파이프라인 엔진 (7.3k stars)]] — 2026-04-30
 - [[llm-ppt-design-workflow-getdesign-md|LLM PPT 디자인 개선 워크플로우 — getdesign.md 디자인 시스템 활용 5단계]] — 2026-05-01
+- [[risograph-minimal-illustration-prompt-gpt|리소그라프 인쇄풍 미니멀 일러스트 프롬프트 — GPT Image (주제·색상만 입력)]] — 2026-05-01
