@@ -29,3 +29,7 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[risograph-minimal-illustration-prompt-gpt|리소그라프 인쇄풍 미니멀 일러스트 프롬프트 — GPT Image (주제·색상만 입력)]] — 2026-05-01
 - [[cli-anything-software-to-agent-cli-converter|CLI-Anything — 모든 소프트웨어를 에이전트용 CLI로 변환하는 도구 (명령어 1개)]] — 2026-05-01
 - [[obsidian-beautiful-setup-cupertino-easy-dashboard|Obsidian 예쁘게 세팅하기 — Cupertino 테마 + easy-dashboard 플러그인 3단계]] — 2026-05-01
+- [[production-ai-agent-architecture-4layers|프로덕션 AI 에이전트 아키텍처 — security·evaluation·observability·.claude 4계층]] — 2026-05-09
+- [[korea-city-minimal-lineart-poster-prompt|한국 도시 미니멀 라인아트 여행 포스터 프롬프트 — 지역명만 바꾸면 완성 (8K)]] — 2026-05-09
+- [[food-abstract-graphic-poster-prompt-system|음식 사진 → 추상 그래픽 아트 포스터 변환 프롬프트 시스템 — Matisse×스위스 미니멀]] — 2026-05-09
+- [[top10-ai-github-repos-expert-mindset-2026|세계 최고 개발자 사고방식을 담은 AI GitHub 저장소 10선 (2026)]] — 2026-05-09
