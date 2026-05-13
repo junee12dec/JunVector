@@ -33,3 +33,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[korea-city-minimal-lineart-poster-prompt|한국 도시 미니멀 라인아트 여행 포스터 프롬프트 — 지역명만 바꾸면 완성 (8K)]] — 2026-05-09
 - [[food-abstract-graphic-poster-prompt-system|음식 사진 → 추상 그래픽 아트 포스터 변환 프롬프트 시스템 — Matisse×스위스 미니멀]] — 2026-05-09
 - [[top10-ai-github-repos-expert-mindset-2026|세계 최고 개발자 사고방식을 담은 AI GitHub 저장소 10선 (2026)]] — 2026-05-09
+- [[claude-code-4-plugins-superpowers-gstack-omc-gsd|Claude Code 4대 플러그인 완전 가이드 — Superpowers·G-stack·OMC·GSD 조합 전략]] — 2026-05-09
