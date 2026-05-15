@@ -40,3 +40,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[openkb-llmwiki-llm-knowledge-base-tools|openkb·llmwiki로 LLM 지식베이스 구축하기 — 설치·사용법 실전 가이드]] — 2026-05-15
 - [[hermes-desktop-electron-app-github-actions|Hermes Desktop — GitHub Actions로 자동 배포하는 Hermes Agent 데스크톱 앱]] — 2026-05-15
 - [[academic-research-skills-claude-code-plugin|Academic Research Skills — Claude Code로 논문 작성 전 과정 자동화 플러그인 (7.4k⭐)]] — 2026-05-15
+- [[claude-codebase-architecture-html-json-prompt|Claude로 코드베이스 아키텍처를 HTML+JSON으로 매핑하는 프롬프트 — 에이전트 핸드오프용]] — 2026-05-15
