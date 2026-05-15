@@ -39,3 +39,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[gstack-superpowers-ai-dev-workflow-6steps|G-Stack + SuperPowers 조합 AI 개발 워크플로우 6단계 — Claude Code·Codex]] — 2026-05-09
 - [[openkb-llmwiki-llm-knowledge-base-tools|openkb·llmwiki로 LLM 지식베이스 구축하기 — 설치·사용법 실전 가이드]] — 2026-05-15
 - [[hermes-desktop-electron-app-github-actions|Hermes Desktop — GitHub Actions로 자동 배포하는 Hermes Agent 데스크톱 앱]] — 2026-05-15
+- [[academic-research-skills-claude-code-plugin|Academic Research Skills — Claude Code로 논문 작성 전 과정 자동화 플러그인 (7.4k⭐)]] — 2026-05-15
