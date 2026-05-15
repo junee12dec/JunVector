@@ -37,3 +37,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[ai-agent-production-failure-scientific-skills-sandboxed-runtime|AI 에이전트 프로덕션 실패 해부 — Scientific Agent Skills와 Sandboxed Runtime]] — 2026-05-09
 - [[awesome-selfhosted-picks-60-projects|Awesome Selfhosted Picks — 셀프호스팅 오픈소스 60개 큐레이션]] — 2026-05-09
 - [[gstack-superpowers-ai-dev-workflow-6steps|G-Stack + SuperPowers 조합 AI 개발 워크플로우 6단계 — Claude Code·Codex]] — 2026-05-09
+- [[openkb-llmwiki-llm-knowledge-base-tools|openkb·llmwiki로 LLM 지식베이스 구축하기 — 설치·사용법 실전 가이드]] — 2026-05-15
