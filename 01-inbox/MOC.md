@@ -41,3 +41,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[hermes-desktop-electron-app-github-actions|Hermes Desktop — GitHub Actions로 자동 배포하는 Hermes Agent 데스크톱 앱]] — 2026-05-15
 - [[academic-research-skills-claude-code-plugin|Academic Research Skills — Claude Code로 논문 작성 전 과정 자동화 플러그인 (7.4k⭐)]] — 2026-05-15
 - [[claude-codebase-architecture-html-json-prompt|Claude로 코드베이스 아키텍처를 HTML+JSON으로 매핑하는 프롬프트 — 에이전트 핸드오프용]] — 2026-05-15
+- [[agentmemory-long-term-memory-for-coding-agents|agentmemory — AI 코딩 에이전트용 장기 기억 저장소 오픈소스 (11.2k⭐)]] — 2026-05-15
