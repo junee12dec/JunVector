@@ -44,3 +44,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[agentmemory-long-term-memory-for-coding-agents|agentmemory — AI 코딩 에이전트용 장기 기억 저장소 오픈소스 (11.2k⭐)]] — 2026-05-15
 - [[claude-code-team-automation-wikidocs-guide|Claude Code 팀 자동화 완성 — 에이전트·원격 제어 실전 가이드 (위키독스)]] — 2026-05-15
 - [[sie-superlinked-inference-engine-rag-unified-api|SIE — 임베딩·리랭킹·추출을 하나로 통합한 RAG 추론 API (Superlinked)]] — 2026-05-15
+- [[semble-code-search-mcp-server-for-agents|Semble — AI 에이전트용 초고속 코드 검색 MCP 서버 (CPU 전용, 2k⭐)]] — 2026-05-15
