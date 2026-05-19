@@ -46,3 +46,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[sie-superlinked-inference-engine-rag-unified-api|SIE — 임베딩·리랭킹·추출을 하나로 통합한 RAG 추론 API (Superlinked)]] — 2026-05-15
 - [[semble-code-search-mcp-server-for-agents|Semble — AI 에이전트용 초고속 코드 검색 MCP 서버 (CPU 전용, 2k⭐)]] — 2026-05-15
 - [[quarkdown-markdown-superpowers-typesetting|Quarkdown — 논문·프레젠테이션·웹사이트·책을 하나의 Markdown 문법으로 (14k⭐)]] — 2026-05-15
+- [[harness-engineering-lecture01-why-capable-agents-fail|Harness Engineering 강의 1 — 강력한 모델이 실제 작업에서 실패하는 이유]] — 2026-05-15
