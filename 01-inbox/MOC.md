@@ -47,3 +47,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[semble-code-search-mcp-server-for-agents|Semble — AI 에이전트용 초고속 코드 검색 MCP 서버 (CPU 전용, 2k⭐)]] — 2026-05-15
 - [[quarkdown-markdown-superpowers-typesetting|Quarkdown — 논문·프레젠테이션·웹사이트·책을 하나의 Markdown 문법으로 (14k⭐)]] — 2026-05-15
 - [[harness-engineering-lecture01-why-capable-agents-fail|Harness Engineering 강의 1 — 강력한 모델이 실제 작업에서 실패하는 이유]] — 2026-05-15
+- [[12-factor-agents-production-ai-engineering|12-Factor Agents — 데모를 넘어 프로덕션 AI 에이전트를 만드는 12가지 원칙 (20.6k⭐)]] — 2026-05-15
