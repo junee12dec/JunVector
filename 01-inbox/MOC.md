@@ -49,3 +49,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[harness-engineering-lecture01-why-capable-agents-fail|Harness Engineering 강의 1 — 강력한 모델이 실제 작업에서 실패하는 이유]] — 2026-05-15
 - [[12-factor-agents-production-ai-engineering|12-Factor Agents — 데모를 넘어 프로덕션 AI 에이전트를 만드는 12가지 원칙 (20.6k⭐)]] — 2026-05-15
 - [[pixel-agents-vscode-extension-ai-pixel-art|Pixel Agents — AI 에이전트를 픽셀 아트 캐릭터로 시각화하는 VS Code 확장 (7.6k⭐)]] — 2026-05-15
+- [[prompt-engineering-skills-multi-platform|Prompt Engineering Skills — Claude Code·GPTs·Gemini Gems 공용 프롬프트 엔지니어링 스킬 모음]] — 2026-05-15
