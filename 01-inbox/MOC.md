@@ -51,3 +51,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[pixel-agents-vscode-extension-ai-pixel-art|Pixel Agents — AI 에이전트를 픽셀 아트 캐릭터로 시각화하는 VS Code 확장 (7.6k⭐)]] — 2026-05-15
 - [[prompt-engineering-skills-multi-platform|Prompt Engineering Skills — Claude Code·GPTs·Gemini Gems 공용 프롬프트 엔지니어링 스킬 모음]] — 2026-05-15
 - [[windmill-script-to-workflow-ui-platform|Windmill — 스크립트를 웹훅·워크플로우·UI로 변환하는 오픈소스 개발자 플랫폼 (16.5k⭐)]] — 2026-05-15
+- [[storybook-ui-component-workshop|Storybook — UI 컴포넌트 격리 개발·문서화·테스트 업계 표준 워크숍 (90k⭐)]] — 2026-05-15
