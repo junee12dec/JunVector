@@ -33,3 +33,22 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[korea-city-minimal-lineart-poster-prompt|한국 도시 미니멀 라인아트 여행 포스터 프롬프트 — 지역명만 바꾸면 완성 (8K)]] — 2026-05-09
 - [[food-abstract-graphic-poster-prompt-system|음식 사진 → 추상 그래픽 아트 포스터 변환 프롬프트 시스템 — Matisse×스위스 미니멀]] — 2026-05-09
 - [[top10-ai-github-repos-expert-mindset-2026|세계 최고 개발자 사고방식을 담은 AI GitHub 저장소 10선 (2026)]] — 2026-05-09
+- [[claude-code-4-plugins-superpowers-gstack-omc-gsd|Claude Code 4대 플러그인 완전 가이드 — Superpowers·G-stack·OMC·GSD 조합 전략]] — 2026-05-09
+- [[ai-agent-production-failure-scientific-skills-sandboxed-runtime|AI 에이전트 프로덕션 실패 해부 — Scientific Agent Skills와 Sandboxed Runtime]] — 2026-05-09
+- [[awesome-selfhosted-picks-60-projects|Awesome Selfhosted Picks — 셀프호스팅 오픈소스 60개 큐레이션]] — 2026-05-09
+- [[gstack-superpowers-ai-dev-workflow-6steps|G-Stack + SuperPowers 조합 AI 개발 워크플로우 6단계 — Claude Code·Codex]] — 2026-05-09
+- [[openkb-llmwiki-llm-knowledge-base-tools|openkb·llmwiki로 LLM 지식베이스 구축하기 — 설치·사용법 실전 가이드]] — 2026-05-15
+- [[hermes-desktop-electron-app-github-actions|Hermes Desktop — GitHub Actions로 자동 배포하는 Hermes Agent 데스크톱 앱]] — 2026-05-15
+- [[academic-research-skills-claude-code-plugin|Academic Research Skills — Claude Code로 논문 작성 전 과정 자동화 플러그인 (7.4k⭐)]] — 2026-05-15
+- [[claude-codebase-architecture-html-json-prompt|Claude로 코드베이스 아키텍처를 HTML+JSON으로 매핑하는 프롬프트 — 에이전트 핸드오프용]] — 2026-05-15
+- [[agentmemory-long-term-memory-for-coding-agents|agentmemory — AI 코딩 에이전트용 장기 기억 저장소 오픈소스 (11.2k⭐)]] — 2026-05-15
+- [[claude-code-team-automation-wikidocs-guide|Claude Code 팀 자동화 완성 — 에이전트·원격 제어 실전 가이드 (위키독스)]] — 2026-05-15
+- [[sie-superlinked-inference-engine-rag-unified-api|SIE — 임베딩·리랭킹·추출을 하나로 통합한 RAG 추론 API (Superlinked)]] — 2026-05-15
+- [[semble-code-search-mcp-server-for-agents|Semble — AI 에이전트용 초고속 코드 검색 MCP 서버 (CPU 전용, 2k⭐)]] — 2026-05-15
+- [[quarkdown-markdown-superpowers-typesetting|Quarkdown — 논문·프레젠테이션·웹사이트·책을 하나의 Markdown 문법으로 (14k⭐)]] — 2026-05-15
+- [[harness-engineering-lecture01-why-capable-agents-fail|Harness Engineering 강의 1 — 강력한 모델이 실제 작업에서 실패하는 이유]] — 2026-05-15
+- [[12-factor-agents-production-ai-engineering|12-Factor Agents — 데모를 넘어 프로덕션 AI 에이전트를 만드는 12가지 원칙 (20.6k⭐)]] — 2026-05-15
+- [[pixel-agents-vscode-extension-ai-pixel-art|Pixel Agents — AI 에이전트를 픽셀 아트 캐릭터로 시각화하는 VS Code 확장 (7.6k⭐)]] — 2026-05-15
+- [[prompt-engineering-skills-multi-platform|Prompt Engineering Skills — Claude Code·GPTs·Gemini Gems 공용 프롬프트 엔지니어링 스킬 모음]] — 2026-05-15
+- [[windmill-script-to-workflow-ui-platform|Windmill — 스크립트를 웹훅·워크플로우·UI로 변환하는 오픈소스 개발자 플랫폼 (16.5k⭐)]] — 2026-05-15
+- [[storybook-ui-component-workshop|Storybook — UI 컴포넌트 격리 개발·문서화·테스트 업계 표준 워크숍 (90k⭐)]] — 2026-05-15
