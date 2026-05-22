@@ -53,3 +53,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[windmill-script-to-workflow-ui-platform|Windmill — 스크립트를 웹훅·워크플로우·UI로 변환하는 오픈소스 개발자 플랫폼 (16.5k⭐)]] — 2026-05-15
 - [[storybook-ui-component-workshop|Storybook — UI 컴포넌트 격리 개발·문서화·테스트 업계 표준 워크숍 (90k⭐)]] — 2026-05-15
 - [[agency-agents-147-ai-agents-company-structure|Agency Agents — 회사 조직 구조로 짜인 147개 AI 에이전트 라이브러리 (100k⭐)]] — 2026-05-22
+- [[hermes-workspace-web-ui-native-workspace|Hermes Workspace — Hermes Agent용 네이티브 Web UI 통합 작업공간 (4.7k⭐)]] — 2026-05-22
