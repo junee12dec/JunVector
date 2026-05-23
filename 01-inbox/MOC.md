@@ -56,3 +56,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[hermes-workspace-web-ui-native-workspace|Hermes Workspace — Hermes Agent용 네이티브 Web UI 통합 작업공간 (4.7k⭐)]] — 2026-05-22
 - [[architecture-diagram-generator-claude-skill-html-svg|Architecture Diagram Generator — 아키텍처 다이어그램을 HTML/SVG로 자동 생성하는 Claude 스킬 (5.2k⭐)]] — 2026-05-22
 - [[n8n-workflow-collections-github-curated|n8n 워크플로 모음집 — GitHub 4대 큐레이션 레포 정리 (최대 54.6k⭐)]] — 2026-05-23
+- [[agent-of-empires-tui-multi-agent-commander|Agent of Empires — 다중 코딩 에이전트를 한 TUI 화면에서 지휘하는 도구 (1.6k⭐)]] — 2026-05-23
