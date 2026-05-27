@@ -53,3 +53,12 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[windmill-script-to-workflow-ui-platform|Windmill — 스크립트를 웹훅·워크플로우·UI로 변환하는 오픈소스 개발자 플랫폼 (16.5k⭐)]] — 2026-05-15
 - [[storybook-ui-component-workshop|Storybook — UI 컴포넌트 격리 개발·문서화·테스트 업계 표준 워크숍 (90k⭐)]] — 2026-05-15
 - [[agency-agents-147-ai-agents-company-structure|Agency Agents — 회사 조직 구조로 짜인 147개 AI 에이전트 라이브러리 (100k⭐)]] — 2026-05-22
+- [[hermes-workspace-web-ui-native-workspace|Hermes Workspace — Hermes Agent용 네이티브 Web UI 통합 작업공간 (4.7k⭐)]] — 2026-05-22
+- [[architecture-diagram-generator-claude-skill-html-svg|Architecture Diagram Generator — 아키텍처 다이어그램을 HTML/SVG로 자동 생성하는 Claude 스킬 (5.2k⭐)]] — 2026-05-22
+- [[n8n-workflow-collections-github-curated|n8n 워크플로 모음집 — GitHub 4대 큐레이션 레포 정리 (최대 54.6k⭐)]] — 2026-05-23
+- [[agent-of-empires-tui-multi-agent-commander|Agent of Empires — 다중 코딩 에이전트를 한 TUI 화면에서 지휘하는 도구 (1.6k⭐)]] — 2026-05-23
+- [[rmux-rust-terminal-multiplexer-ai-agents|RMUX — Rust로 만든 AI 에이전트용 터미널 멀티플렉서 (tmux 호환 + 타입 SDK)]] — 2026-05-23
+- [[arckit-enterprise-architecture-ai-toolkit|ArcKit — AI 네이티브 엔터프라이즈 아키텍처 거버넌스 툴킷 (68개 슬래시 명령, 10개 자율 에이전트)]] — 2026-05-23
+- [[claude-24-installs-plugins-skills-mcp-curated|Claude 성능 2배로 만드는 24가지 설치 목록 — 플러그인·스킬·MCP 서버 큐레이션]] — 2026-05-23
+- [[design-diversity-claude-design-pack-100|Design Diversity — Claude Code 산출물 디자인 다양성 확보 프롬프트형 디자인 팩 100종 카탈로그]] — 2026-05-26
+- [[rowboat-local-ai-coworker-knowledge-graph|Rowboat — Gmail·회의 노트를 지식 그래프로 만드는 로컬 AI 코워커 (14.5k⭐)]] — 2026-05-26
