@@ -61,3 +61,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[arckit-enterprise-architecture-ai-toolkit|ArcKit — AI 네이티브 엔터프라이즈 아키텍처 거버넌스 툴킷 (68개 슬래시 명령, 10개 자율 에이전트)]] — 2026-05-23
 - [[claude-24-installs-plugins-skills-mcp-curated|Claude 성능 2배로 만드는 24가지 설치 목록 — 플러그인·스킬·MCP 서버 큐레이션]] — 2026-05-23
 - [[design-diversity-claude-design-pack-100|Design Diversity — Claude Code 산출물 디자인 다양성 확보 프롬프트형 디자인 팩 100종 카탈로그]] — 2026-05-26
+- [[rowboat-local-ai-coworker-knowledge-graph|Rowboat — Gmail·회의 노트를 지식 그래프로 만드는 로컬 AI 코워커 (14.5k⭐)]] — 2026-05-26
