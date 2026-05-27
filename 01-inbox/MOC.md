@@ -64,3 +64,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[rowboat-local-ai-coworker-knowledge-graph|Rowboat — Gmail·회의 노트를 지식 그래프로 만드는 로컬 AI 코워커 (14.5k⭐)]] — 2026-05-26
 - [[rl-environment-llm-agents-e-t-h-v-s-c-framework|LLM 에이전트 RL 환경 공식 — E={T,H,V,S,C} 프레임워크]] — 2026-05-27
 - [[icon-explorer-infinite-canvas-iconify|Icon Explorer — 무한 캔버스로 탐색하는 아이콘 브라우저 (Iconify 200,000개)]] — 2026-05-27
+- [[meigen-gallery-ai-image-prompt-library|MeiGen Gallery — AI 이미지·영상 프롬프트 Pinterest (1,000+ 바이럴 프롬프트 무료 라이브러리)]] — 2026-05-27
