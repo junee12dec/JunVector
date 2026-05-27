@@ -65,3 +65,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[rl-environment-llm-agents-e-t-h-v-s-c-framework|LLM 에이전트 RL 환경 공식 — E={T,H,V,S,C} 프레임워크]] — 2026-05-27
 - [[icon-explorer-infinite-canvas-iconify|Icon Explorer — 무한 캔버스로 탐색하는 아이콘 브라우저 (Iconify 200,000개)]] — 2026-05-27
 - [[meigen-gallery-ai-image-prompt-library|MeiGen Gallery — AI 이미지·영상 프롬프트 Pinterest (1,000+ 바이럴 프롬프트 무료 라이브러리)]] — 2026-05-27
+- [[harness-engineering-enterprise-lecture-slides-free|하네스 엔지니어링 기업 강의자료 무료 공개 — 에이전트에게 일 잘 시키는 원칙과 방법]] — 2026-05-27
