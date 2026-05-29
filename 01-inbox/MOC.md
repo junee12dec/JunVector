@@ -67,3 +67,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[meigen-gallery-ai-image-prompt-library|MeiGen Gallery — AI 이미지·영상 프롬프트 Pinterest (1,000+ 바이럴 프롬프트 무료 라이브러리)]] — 2026-05-27
 - [[harness-engineering-enterprise-lecture-slides-free|하네스 엔지니어링 기업 강의자료 무료 공개 — 에이전트에게 일 잘 시키는 원칙과 방법]] — 2026-05-27
 - [[codegraph-code-knowledge-graph-token-saving|CodeGraph — AI 코딩 에이전트용 코드 지식 그래프 인덱서 (토큰 57% 절감, 31k⭐)]] — 2026-05-28
+- [[book-to-skill-pdf-epub-claude-code-converter|Book-to-SKILL — 기술서적 PDF·EPUB을 Claude Code 스킬로 자동 변환하는 오픈소스 (2.3k⭐)]] — 2026-05-28
