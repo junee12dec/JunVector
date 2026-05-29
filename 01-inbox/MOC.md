@@ -68,3 +68,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[harness-engineering-enterprise-lecture-slides-free|하네스 엔지니어링 기업 강의자료 무료 공개 — 에이전트에게 일 잘 시키는 원칙과 방법]] — 2026-05-27
 - [[codegraph-code-knowledge-graph-token-saving|CodeGraph — AI 코딩 에이전트용 코드 지식 그래프 인덱서 (토큰 57% 절감, 31k⭐)]] — 2026-05-28
 - [[book-to-skill-pdf-epub-claude-code-converter|Book-to-SKILL — 기술서적 PDF·EPUB을 Claude Code 스킬로 자동 변환하는 오픈소스 (2.3k⭐)]] — 2026-05-28
+- [[oh-my-skills-local-skill-dashboard|oh-my-skills — Codex·Claude Code 설치 스킬을 한눈에 관리하는 로컬 대시보드]] — 2026-05-28
