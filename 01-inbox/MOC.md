@@ -71,3 +71,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[oh-my-skills-local-skill-dashboard|oh-my-skills — Codex·Claude Code 설치 스킬을 한눈에 관리하는 로컬 대시보드]] — 2026-05-28
 - [[iii-three-eye-unified-backend-runtime|iii (three eye) — API·큐·스케줄러·옵저버빌리티를 하나로 합친 오픈소스 백엔드 런타임 (17k⭐)]] — 2026-05-29
 - [[spectrum-free-svg-library-framer|Spectrum — 무료 SVG 라이브러리 100개+ (랜딩 페이지·썸네일·브랜드 비주얼용)]] — 2026-05-29
+- [[sia-self-improving-ai-framework-mle-bench|SIA — 스스로 하네스·모델·메모리를 개선하는 자기 향상 AI 프레임워크 (MLE-Bench 1위)]] — 2026-05-29
