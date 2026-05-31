@@ -73,3 +73,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[spectrum-free-svg-library-framer|Spectrum — 무료 SVG 라이브러리 100개+ (랜딩 페이지·썸네일·브랜드 비주얼용)]] — 2026-05-29
 - [[sia-self-improving-ai-framework-mle-bench|SIA — 스스로 하네스·모델·메모리를 개선하는 자기 향상 AI 프레임워크 (MLE-Bench 1위)]] — 2026-05-29
 - [[graph-r1-rl-graphrag-iterative-reasoning|Graph-R1 — RL로 훈련된 반복적 GraphRAG 추론 시스템 (생각→쿼리→서브그래프→다시 생각)]] — 2026-05-29
+- [[satgat-kami-korean-design-skill|satgat — KAMI 기반 한국형 문서 디자인 스킬 (한국어 사용자를 위한 입구)]] — 2026-05-30
