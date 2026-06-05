@@ -77,3 +77,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[prd-taskmaster-claude-code-skill-product-spec|PRD-Taskmaster — 코딩 시작 전 제품 요구사항을 명확히 정의하는 Claude Code 스킬 (477⭐)]] — 2026-05-31
 - [[taste-skill-anti-slop-frontend-ai-design|Taste Skill — AI가 만든 티 나지 않는 UI를 위한 안티 슬롭 프론트엔드 스킬 프레임워크 (30.9k⭐)]] — 2026-06-01
 - [[odysseus-pewdiepie-selfhosted-ai-workspace|Odysseus — PewDiePie가 공개한 셀프호스팅 AI 워크스페이스 (출시 24시간 만에 15k⭐)]] — 2026-06-02
+- [[github-copilot-sdk-embed-agent-byok|GitHub Copilot SDK — 내 앱에 Copilot 에이전트를 직접 심는 멀티 언어 SDK (Python·TS·Go·.NET·Java·Rust)]] — 2026-06-05
