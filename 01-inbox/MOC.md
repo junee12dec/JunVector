@@ -80,3 +80,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[github-copilot-sdk-embed-agent-byok|GitHub Copilot SDK — 내 앱에 Copilot 에이전트를 직접 심는 멀티 언어 SDK (Python·TS·Go·.NET·Java·Rust)]] — 2026-06-05
 - [[antigravity-awesome-skills-1500-agent-library|Antigravity Awesome Skills — 1,500+ 에이전트 스킬 설치형 라이브러리 (Claude·Gemini·Codex·Cursor·Copilot)]] — 2026-06-05
 - [[obsidian-claude-llmwiki-graphrag-agent-guide|Obsidian + Claude Code로 LLM Wiki·GraphRAG·AI 에이전트 봇 구축하기 — 원리부터 실전 가이드]] — 2026-06-05
+- [[cli-wizard-terminal-tools-5-bottom-starship-eza-zoxide-atuin|CLI 마법사가 되는 터미널 도구 5선 — bottom·starship·eza·zoxide·atuin]] — 2026-06-05
