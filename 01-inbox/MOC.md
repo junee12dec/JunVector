@@ -82,3 +82,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[obsidian-claude-llmwiki-graphrag-agent-guide|Obsidian + Claude Code로 LLM Wiki·GraphRAG·AI 에이전트 봇 구축하기 — 원리부터 실전 가이드]] — 2026-06-05
 - [[cli-wizard-terminal-tools-5-bottom-starship-eza-zoxide-atuin|CLI 마법사가 되는 터미널 도구 5선 — bottom·starship·eza·zoxide·atuin]] — 2026-06-05
 - [[ai-engineering-from-scratch-503-lessons-curriculum|AI Engineering from Scratch — 수학부터 자율 에이전트까지 503개 레슨 커리큘럼 (30.6k⭐)]] — 2026-06-05
+- [[obsidian-graph-view-5-plugins-comparison|Obsidian 그래프뷰 5종 비교 — 기본·3D·Juggl·Living·Extended 언제 무엇을 쓸까]] — 2026-06-05
