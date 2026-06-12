@@ -83,3 +83,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[cli-wizard-terminal-tools-5-bottom-starship-eza-zoxide-atuin|CLI 마법사가 되는 터미널 도구 5선 — bottom·starship·eza·zoxide·atuin]] — 2026-06-05
 - [[ai-engineering-from-scratch-503-lessons-curriculum|AI Engineering from Scratch — 수학부터 자율 에이전트까지 503개 레슨 커리큘럼 (30.6k⭐)]] — 2026-06-05
 - [[obsidian-graph-view-5-plugins-comparison|Obsidian 그래프뷰 5종 비교 — 기본·3D·Juggl·Living·Extended 언제 무엇을 쓸까]] — 2026-06-05
+- [[wiki-obsidian-ggq-korean-llm-wiki-template|wiki-obsidian-ggq — PDF·HWP·이미지·OCR·벡터 검색을 한 번에 통합한 한국형 Obsidian LLM 위키]] — 2026-06-05
