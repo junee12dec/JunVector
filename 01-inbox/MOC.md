@@ -86,3 +86,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[wiki-obsidian-ggq-korean-llm-wiki-template|wiki-obsidian-ggq — PDF·HWP·이미지·OCR·벡터 검색을 한 번에 통합한 한국형 Obsidian LLM 위키]] — 2026-06-05
 - [[github-spec-kit-spec-driven-development|GitHub Spec Kit — 아이디어를 빌드 준비 스펙으로 바꾸는 스펙 주도 개발 도구 (112k⭐)]] — 2026-06-05
 - [[moai-adk-claude-code-agent-dev-kit|Moai-ADK — Claude Code용 하네스 엔지니어링 기반 AI 에이전트 개발 키트 (1.1k⭐)]] — 2026-06-05
+- [[deerflow-bytedance-super-agent-framework|DeerFlow 2.0 — ByteDance의 오픈소스 슈퍼 에이전트 (리서치·코딩·제작 자동화, 71k⭐)]] — 2026-06-15
