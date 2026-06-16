@@ -90,3 +90,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[google-new-sdlc-vibe-coding-whitepaper|구글 'The New SDLC with Vibe Coding' 리포트 — 바이브 코딩 이후 개발 방식 51페이지 무료 공개]] — 2026-06-15
 - [[tufte-ai-ascii-charts|tufte.ai — 텍스트 기반 ASCII 차트 생성 도구]] — 2026-06-15
 - [[generative-ai-for-beginners-microsoft-21-lessons|Generative AI for Beginners — Microsoft의 무료 21강 생성형 AI 입문 커리큘럼 (112k⭐)]] — 2026-06-16
+- [[agent-reach-internet-access-no-api-key|Agent-Reach — API 키 없이 AI 에이전트에게 인터넷 절반을 연결하는 Python CLI (31.9k⭐)]] — 2026-06-16
