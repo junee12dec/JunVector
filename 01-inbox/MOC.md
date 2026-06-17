@@ -13,4 +13,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 ## 노트 목록
 
 - [[gpt-image-ad-poster-prompt|GPT Image로 1분 만에 상업용 광고 포스터 만들기]] — 2026-06-17
+- [[leann-vector-db-97-percent-smaller|LEANN — 벡터 DB 저장 공간 97% 절감, 로컬 완전 프라이빗 RAG]] — 2026-06-17
 
