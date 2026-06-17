@@ -15,4 +15,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[gpt-image-ad-poster-prompt|GPT Image로 1분 만에 상업용 광고 포스터 만들기]] — 2026-06-17
 - [[leann-vector-db-97-percent-smaller|LEANN — 벡터 DB 저장 공간 97% 절감, 로컬 완전 프라이빗 RAG]] — 2026-06-17
 - [[path-to-senior-engineer-handbook|시니어 엔지니어 핸드북 — 성장 리소스 모음집]] — 2026-06-17
+- [[chip-huyen-ai-engineering-book-repo|Chip Huyen의 AI Engineering 책 동반 레포 — 무료 학습 자료 전집]] — 2026-06-17
 
