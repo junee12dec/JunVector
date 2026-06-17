@@ -71,3 +71,15 @@ description: "Claude Code 활용 가이드, 에이전트, 워크플로우 관련
 - [[oh-my-agent-harness-workflow-obsidian|oh-my-agent — 실전 회사원이 만든 하네스 워크플로우 오픈소스]] — 2026-04-25
 - [[mattpocock-skills-real-engineer-claude-code|mattpocock/skills — 진짜 엔지니어링을 위한 Claude Code 에이전트 스킬 모음]] — 2026-04-26
 - [[harness-agent-team-architecture-factory|Harness — 프로젝트 설명 한 줄로 에이전트 팀 아키텍처를 찍어내는 factory]] — 2026-04-27
+- [[academic-research-skills-claude-code-plugin|Academic Research Skills — Claude Code로 논문 작성 전 과정 자동화 플러그인 (7.4k⭐)]] — 2026-05-15
+- [[architecture-diagram-generator-claude-skill-html-svg|Architecture Diagram Generator — 아키텍처 다이어그램을 HTML/SVG로 자동 생성하는 Claude 스킬 (5.2k⭐)]] — 2026-05-22
+- [[claude-24-installs-plugins-skills-mcp-curated|Claude 성능 2배로 만드는 24가지 설치 목록 — 플러그인·스킬·MCP 서버 큐레이션]] — 2026-05-23
+- [[claude-code-4-plugins-superpowers-gstack-omc-gsd|Claude Code 4대 플러그인 완전 가이드 — Superpowers·G-stack·OMC·GSD 조합 전략]] — 2026-05-09
+- [[claude-code-team-automation-wikidocs-guide|Claude Code 팀 자동화 완성 — 에이전트·원격 제어 실전 가이드 (위키독스)]] — 2026-05-15
+- [[claude-codebase-architecture-html-json-prompt|Claude로 코드베이스 아키텍처를 HTML+JSON으로 매핑하는 프롬프트 — 에이전트 핸드오프용]] — 2026-05-15
+- [[claude-team-agent-kit-tmux-5roles|Claude Code 팀 에이전트 키트 — tmux로 기획자·FE·BE·QA·리더 5개 동시 실행]] — 2026-04-29
+- [[gstack-superpowers-ai-dev-workflow-6steps|G-Stack + SuperPowers 조합 AI 개발 워크플로우 6단계 — Claude Code·Codex]] — 2026-05-09
+- [[moai-adk-claude-code-agent-dev-kit|Moai-ADK — Claude Code용 하네스 엔지니어링 기반 AI 에이전트 개발 키트 (1.1k⭐)]] — 2026-06-05
+- [[oh-my-skills-local-skill-dashboard|oh-my-skills — Codex·Claude Code 설치 스킬을 한눈에 관리하는 로컬 대시보드]] — 2026-05-28
+- [[prd-taskmaster-claude-code-skill-product-spec|PRD-Taskmaster — 코딩 시작 전 제품 요구사항을 명확히 정의하는 Claude Code 스킬 (477⭐)]] — 2026-05-31
+- [[prompt-engineering-skills-multi-platform|Prompt Engineering Skills — Claude Code·GPTs·Gemini Gems 공용 프롬프트 엔지니어링 스킬 모음]] — 2026-05-15

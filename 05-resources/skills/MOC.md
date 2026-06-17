@@ -24,3 +24,6 @@ description: "Claude Code·AI 에이전트용 스킬, 플러그인, 자동화 �
 ## PM 스킬
 
 → [[skills/pm/MOC|PM Skills MOC]] 참고
+- [[antigravity-awesome-skills-1500-agent-library|Antigravity Awesome Skills — 1,500+ 에이전트 스킬 설치형 라이브러리 (Claude·Gemini·Codex·Cursor·Copilot)]] — 2026-06-05
+- [[awesome-agent-skills-largest-curated-library|Awesome Agent Skills — AI 에이전트 스킬 최대 큐레이션 라이브러리 (1000+ 스킬)]] — 2026-04-29
+- [[book-to-skill-pdf-epub-claude-code-converter|Book-to-SKILL — 기술서적 PDF·EPUB을 Claude Code 스킬로 자동 변환하는 오픈소스 (2.3k⭐)]] — 2026-05-28
