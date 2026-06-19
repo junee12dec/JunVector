@@ -18,4 +18,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[chip-huyen-ai-engineering-book-repo|Chip Huyen의 AI Engineering 책 동반 레포 — 무료 학습 자료 전집]] — 2026-06-17
 - [[loop-engineering-agentic-workflow|루프 엔지니어링 — 프롬프트 대신 자동화 루프 설계하기]] — 2026-06-17
 - [[dify-open-source-ai-chatbot-builder|Dify — 코드 없이 사업용 AI 챗봇 만드는 오픈소스 (140k⭐)]] — 2026-06-17
+- [[repo2rlenv-github-to-rl-training-env|Repo2RLEnv — GitHub 레포를 코딩 AI 강화학습 환경으로 자동 변환 (HuggingFace)]] — 2026-06-17
 
