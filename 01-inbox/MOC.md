@@ -22,4 +22,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[trellis-ai-coding-config-unified|Trellis — AI 코딩 툴 설정 파일을 16개 플랫폼에 자동 통합]] — 2026-06-17
 - [[saaskorea-korean-saas-directory|SaaS Korea — 국산 SaaS 310개 AI 추천 디렉터리]] — 2026-06-17
 - [[system-design-notes-alex-xu-28-chapters|System Design Notes — Alex Xu 책 챕터별 무료 정리 노트 (28개 시스템)]] — 2026-06-21
+- [[recall-claude-code-session-memory-plugin|Recall — Claude Code 세션 기억을 이어주는 로컬 플러그인]] — 2026-06-21
 
