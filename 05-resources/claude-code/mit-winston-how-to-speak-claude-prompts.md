@@ -44,6 +44,8 @@ MIT Patrick Winston 교수가 40년 넘게 가르친 **"How to Speak"** 프레�
 #### 한글 프롬프트
 
 ```
+**프롬프트:**
+
 <역할>패트릭 윈스턴(Patrick Winston)의 MIT 프레임워크를 적용하는 프레젠테이션 코치 역할을 수행하세요. 모든 발표는 청중이 시작할 때는 몰랐지만 끝날 때는 정확히 무엇을 알게 될지 알려주는 '역량 강화 약속(empowerment promise)'으로 시작해야 합니다.</역할>
 
 <작업>청중이 왜 이 자리에 끝까지 남아있는 것이 매 분마다 가치 있는 일인지 즉각적으로 이해할 수 있도록, 제 프레젠테이션의 강력한 오프닝을 작성해 주세요.</작업>
@@ -70,6 +72,8 @@ MIT Patrick Winston 교수가 40년 넘게 가르친 **"How to Speak"** 프레�
 #### 영문 프롬프트
 
 ```
+Prompt:
+
 <role>Act as a presentation coach applying Patrick Winston's MIT framework — every talk must open with an empowerment promise that tells the audience exactly what they will know by the end that they didn't know at the beginning.</role>
 
 <task>Write a powerful opening for my presentation that makes the audience immediately understand why staying is worth every minute of their time.</task>
@@ -100,6 +104,8 @@ MIT Patrick Winston 교수가 40년 넘게 가르친 **"How to Speak"** 프레�
 #### 한글 프롬프트
 
 ```
+**프롬프트:**
+
 <역할>패트릭 윈스턴(Patrick Winston)의 MIT 프레임워크를 적용하는 '슬라이드 범죄 조사관' 역할을 수행하세요. 청중을 졸게 만드는 모든 프레젠테이션 범죄를 찾아내어 기소하고 제거해야 합니다.</역할>
 
 <작업>제 프레젠테이션 슬라이드를 검토(audit)하고, 청중의 집중력을 떨어뜨리거나, 졸게 만들거나, 딴생각을 하게 만드는 윈스턴이 지적한 모든 범죄 요소를 제거해 주세요.</작업>
@@ -136,6 +142,8 @@ MIT Patrick Winston 교수가 40년 넘게 가르친 **"How to Speak"** 프레�
 #### 영문 프롬프트
 
 ```
+Prompt:
+
 <role>Act as a slide crime investigator applying Patrick Winston's MIT framework — every presentation crime that puts audiences to sleep gets identified, prosecuted, and eliminated.</role>
 
 <task>Audit my presentation slides and eliminate every crime Winston identified that makes audiences disengage, sleep, or leave mentally.</task>
@@ -176,6 +184,8 @@ MIT Patrick Winston 교수가 40년 넘게 가르친 **"How to Speak"** 프레�
 #### 한글 프롬프트
 
 ```
+**프롬프트:**
+
 <역할>패트릭 윈스턴(Patrick Winston)의 스타(Star) 프레임워크인 상징(Symbol), 슬로건(Slogan), 놀라움(Surprise), 핵심 아이디어(Salient idea), 이야기(Story)를 적용하여 어떤 아이디어든 절대 잊을 수 없게 만드는 퍼스널 브랜드 아키텍트(Personal brand architect) 역할을 수행하세요.</역할>
 
 <작업>제 핵심 아이디어에 윈스턴의 스타 프레임워크를 적용하여, 프레젠테이션이 끝난 후에도 오랫동안 모든 청중의 뇌리에 깊이 박히도록 만드세요.</작업>
@@ -203,6 +213,8 @@ MIT Patrick Winston 교수가 40년 넘게 가르친 **"How to Speak"** 프레�
 #### 영문 프롬프트
 
 ```
+Prompt:
+
 <role>Act as a personal brand architect applying Patrick Winston's Star framework — Symbol, Slogan, Surprise, Salient idea, and Story — to make any idea impossible to forget.</role>
 
 <task>Apply Winston's Star to my core idea so it sticks in every audience's mind long after the presentation ends.</task>
@@ -234,6 +246,8 @@ MIT Patrick Winston 교수가 40년 넘게 가르친 **"How to Speak"** 프레�
 #### 한글 프롬프트
 
 ```
+**프롬프트:**
+
 <역할>패트릭 윈스턴(Patrick Winston)의 구직 발표(job talk) 프레임워크인 비전(vision), 작업 증명(proof of work), 기여(contributions)를 활용하여, 설득하고, 전환을 유도하며, 목표를 성사시켜야 하는 모든 프레젠테이션에 적용하는 '설득 아키텍트(Persuasion architect)' 역할을 수행하세요.</역할>
 
 <작업>청중이 제 비전을 이해하고, 제가 중요한 일을 해냈다고 믿으며, 제가 기여한 바를 정확히 기억할 수 있도록 발표 구조를 짜주세요. 이 모든 것은 처음 5분 안에 이루어져야 합니다.</작업>
@@ -260,6 +274,8 @@ MIT Patrick Winston 교수가 40년 넘게 가르친 **"How to Speak"** 프레�
 #### 영문 프롬프트
 
 ```
+Prompt:
+
 <role>Act as a persuasion architect applying Patrick Winston's job talk framework — vision, proof of work, and contributions — to any presentation that needs to convince, convert, or close.</role>
 
 <task>Structure my talk so the audience knows my vision, believes I've done something significant, and remembers exactly what I contributed — all within the first 5 minutes.</task>
@@ -290,6 +306,8 @@ MIT Patrick Winston 교수가 40년 넘게 가르친 **"How to Speak"** 프레�
 #### 한글 프롬프트
 
 ```
+**프롬프트:**
+
 <역할>패트릭 윈스턴(Patrick Winston)의 소품(prop) 및 스토리텔링 프레임워크를 적용하는 '교육 설계 전문가(Teaching design specialist)' 역할을 수행하세요. 이는 아이디어를 실재감 있고, 기억에 남으며, 절대 오해할 수 없게 만드는 기법입니다.</역할>
 
 <작업>제가 가진 가장 복잡한 아이디어를 마치 두 손에 쥐고 있는 것처럼 단순하고 물리적으로 느껴지게 만드는 소품이나 이야기를 설계해 주세요.</작업>
@@ -316,6 +334,8 @@ MIT Patrick Winston 교수가 40년 넘게 가르친 **"How to Speak"** 프레�
 #### 영문 프롬프트
 
 ```
+Prompt:
+
 <role>Act as a teaching design specialist applying Patrick Winston's prop and storytelling frameworks — the techniques that make ideas feel physical, memorable, and impossible to misunderstand.</role>
 
 <task>Design a prop or story that makes my most complex idea feel as simple and physical as holding it in your hands.</task>
@@ -346,6 +366,8 @@ MIT Patrick Winston 교수가 40년 넘게 가르친 **"How to Speak"** 프레�
 #### 한글 프롬프트
 
 ```
+**프롬프트:**
+
 <역할>패트릭 윈스턴(Patrick Winston)의 프레임워크(기여도 슬라이드, 감사 인사 생략, 청중에 대한 경의)를 적용하여 모든 발표를 그에 걸맞은 임팩트로 끝맺는 '프레젠테이션 마무리 전문가(Presentation closing specialist)' 역할을 수행하세요.</역할>
 
 <작업>청중이 제가 기억하길 원하는 것을 정확히 남길 수 있도록 프레젠테이션의 강력한 마무리를 설계하고, 마지막 60초를 약한 모습으로 낭비하지 않게 만들어 주세요.</작업>
@@ -372,6 +394,8 @@ MIT Patrick Winston 교수가 40년 넘게 가르친 **"How to Speak"** 프레�
 #### 영문 프롬프트
 
 ```
+Prompt:
+
 <role>Act as a presentation closing specialist applying Patrick Winston's framework — contributions slide, no thank you, audience salute — to end every talk with the impact it deserves.</role>
 
 <task>Design a powerful closing for my presentation that leaves the audience with exactly what I want them to remember — and never wastes the final 60 seconds on weakness.</task>
