@@ -25,4 +25,5 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[recall-claude-code-session-memory-plugin|Recall — Claude Code 세션 기억을 이어주는 로컬 플러그인]] — 2026-06-21
 - [[free-github-repos-5-python-ml-learning|무료 GitHub 레포 5개 — Python·ML·프로젝트 학습 완전판]] — 2026-06-21
 - [[flat-vector-city-travel-poster-prompt|프리미엄 미니멀 플랫벡터 도시 여행 포스터 프롬프트]] — 2026-06-21
+- [[design-md-google-ai-design-system-standard|DESIGN.md — AI 코딩 에이전트용 디자인 시스템 파일 표준 (구글 OSS, 16.5k⭐)]] — 2026-06-25
 
