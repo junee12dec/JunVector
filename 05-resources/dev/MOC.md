@@ -29,3 +29,11 @@ description: "개발 도구, no-code, vibe-coding 관련 자료 목차."
 - [[openclaw-multi-agent-setup-tutorial|OpenClaw Multi-Agent 설정 튜토리얼 — 스펀지밥 세계관으로 배우는 멀티 에이전트]] — 2026-04-05
 - [[rag-anything-multimodal-rag-framework|RAG-Anything — PDF 표·수식·차트까지 이해하는 멀티모달 RAG 프레임워크]] — 2026-04-25
 - [[nemotron-personas-korea-nvidia-dataset|Nemotron-Personas-Korea — NVIDIA의 700만 한국어 페르소나 데이터셋]] — 2026-04-25
+- [[cli-wizard-terminal-tools-5-bottom-starship-eza-zoxide-atuin|CLI 마법사가 되는 터미널 도구 5선 — bottom·starship·eza·zoxide·atuin]] — 2026-06-05
+- [[github-spec-kit-spec-driven-development|GitHub Spec Kit — 아이디어를 빌드 준비 스펙으로 바꾸는 스펙 주도 개발 도구 (112k⭐)]] — 2026-06-05
+- [[iii-three-eye-unified-backend-runtime|iii (three eye) — API·큐·스케줄러·옵저버빌리티를 하나로 합친 오픈소스 백엔드 런타임 (17k⭐)]] — 2026-05-29
+- [[ilyamiro-nixos-configuration-dotfiles|ilyamiro NixOS Configuration — QML 기반 데스크톱 환경 설정 (3.7k stars)]] — 2026-04-30
+- [[n8n-workflow-collections-github-curated|n8n 워크플로 모음집 — GitHub 4대 큐레이션 레포 정리 (최대 54.6k⭐)]] — 2026-05-23
+- [[quarkdown-markdown-superpowers-typesetting|Quarkdown — 논문·프레젠테이션·웹사이트·책을 하나의 Markdown 문법으로 (14k⭐)]] — 2026-05-15
+- [[storybook-ui-component-workshop|Storybook — UI 컴포넌트 격리 개발·문서화·테스트 업계 표준 워크숍 (90k⭐)]] — 2026-05-15
+- [[windmill-script-to-workflow-ui-platform|Windmill — 스크립트를 웹훅·워크플로우·UI로 변환하는 오픈소스 개발자 플랫폼 (16.5k⭐)]] — 2026-05-15

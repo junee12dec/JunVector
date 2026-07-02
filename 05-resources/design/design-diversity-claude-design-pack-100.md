@@ -66,6 +66,18 @@ catalog.json          ← 100종 전체 머신 리더블 인덱스
 
 ---
 
+## 실전 활용 워크플로우 — 강의안 PPT 제작
+
+> "Canva에서 가내 수공업처럼 PPT 만들다가, 이거 쓰고 나선 그냥 Claude Code로 강의안 다 제작합니다"
+
+**추천 워크플로우**:
+1. 기존에 쓰던 PPT 스타일을 **템플릿으로 정의**
+2. design-diversity 설치 후 "내 템플릿 적용해서 PPT 만들어줘" 요청
+3. Claude Code가 생성한 PPT를 **초안**으로 사용
+4. Canva에서 **최종 다듬기**
+
+---
+
 ## 관련 노트
 
 - [[open-design-claude-design-95-opensource]] — Claude Design 95% 재현 오픈소스 디자인 시스템 (같은 Claude 디자인 생태계)

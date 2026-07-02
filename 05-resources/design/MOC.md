@@ -32,3 +32,22 @@ description: "디자인 시스템, UI/UX, 타이포그래피, AI 디자인 도�
 - [[chatgpt-image-personal-report-prompts-10|ChatGPT 이미지로 나만의 보고서 만들기 — 재미있는 프롬프트 10선]] — 2026-04-24
 - [[chatgpt-image-aesthetic-photo-annotation-prompt|ChatGPT 이미지 감성 손그림 주석 프롬프트 — 인스타 스토리풍 꾸미기]] — 2026-04-24
 - [[lost-in-country-travel-poster-image-prompt|LOST IN [country] — AI 여행 포스터 그래픽 콜라주 이미지 생성 프롬프트]] — 2026-04-25
+- [[city-travel-guide-infographic-poster-prompt|도시 여행 가이드 인포그래픽 포스터 프롬프트 템플릿 — 소년잡지풍 애니메이션 스타일]] — 2026-04-29
+- [[design-diversity-claude-design-pack-100|Design Diversity — Claude Code 산출물 디자인 다양성 확보 프롬프트형 디자인 팩 100종 카탈로그]] — 2026-05-26
+- [[felt-miniature-diorama-travel-country-prompt|국가별 펠트 미니어처 디오라마 여행 이미지 프롬프트 — ChatGPT (나라명만 입력)]] — 2026-04-29
+- [[food-abstract-graphic-poster-prompt-system|음식 사진 → 추상 그래픽 아트 포스터 변환 프롬프트 시스템 — Matisse×스위스 미니멀]] — 2026-05-09
+- [[icon-explorer-infinite-canvas-iconify|Icon Explorer — 무한 캔버스로 탐색하는 아이콘 브라우저 (Iconify 200,000개)]] — 2026-05-27
+- [[korea-city-minimal-lineart-poster-prompt|한국 도시 미니멀 라인아트 여행 포스터 프롬프트 — 지역명만 바꾸면 완성 (8K)]] — 2026-05-09
+- [[llm-ppt-design-workflow-getdesign-md|LLM PPT 디자인 개선 워크플로우 — getdesign.md 디자인 시스템 활용 5단계]] — 2026-05-01
+- [[meigen-gallery-ai-image-prompt-library|MeiGen Gallery — AI 이미지·영상 프롬프트 Pinterest (1,000+ 바이럴 프롬프트 무료 라이브러리)]] — 2026-05-27
+- [[old-photo-restoration-colorize-prompt|옛날 사진 복원·컬러화 프롬프트 — 인물 원본 100% 유지 + 고해상도 업스케일]] — 2026-04-29
+- [[open-design-claude-design-95-opensource|Open Design — Claude Design 95% 재현 오픈소스 (30+ 스킬, 71+ 브랜드)]] — 2026-04-27
+- [[refero-styles-design-md-2000-products-library|Refero Styles — 세계 최고 제품 2,000개의 DESIGN.md 파일 라이브러리]] — 2026-04-30
+- [[risograph-minimal-illustration-prompt-gpt|리소그라프 인쇄풍 미니멀 일러스트 프롬프트 — GPT Image (주제·색상만 입력)]] — 2026-05-01
+- [[satgat-kami-korean-design-skill|satgat — KAMI 기반 한국형 문서 디자인 스킬 (한국어 사용자를 위한 입구)]] — 2026-05-30
+- [[spectrum-free-svg-library-framer|Spectrum — 무료 SVG 라이브러리 100개+ (랜딩 페이지·썸네일·브랜드 비주얼용)]] — 2026-05-29
+- [[taste-skill-anti-slop-frontend-ai-design|Taste Skill — AI가 만든 티 나지 않는 UI를 위한 안티 슬롭 프론트엔드 스킬 프레임워크 (30.9k⭐)]] — 2026-06-01
+- [[tufte-ai-ascii-charts|tufte.ai — 텍스트 기반 ASCII 차트 생성 도구]] — 2026-06-15
+- [[y2k-tamagotchi-pixel-prompt-gpt-image2|Y2K 다마고치 픽셀 변환 프롬프트 — GPT Image 2 (2종)]] — 2026-04-29
+- [[gpt-image-ad-poster-prompt|GPT Image로 1분 만에 상업용 광고 포스터 만들기]] — 2026-06-17
+- [[flat-vector-city-travel-poster-prompt|프리미엄 미니멀 플랫벡터 도시 여행 포스터 프롬프트]] — 2026-06-21

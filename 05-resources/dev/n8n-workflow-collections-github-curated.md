@@ -51,6 +51,27 @@ n8n 자동화 워크플로를 모아놓은 GitHub 레포 4개. 규모·정리 �
 
 ---
 
+## enescingoz/awesome-n8n-templates 실무 적용 3가지
+
+**GitHub**: https://github.com/enescingoz/awesome-n8n-templates  
+**⭐ 22,992** / 6,149 forks (2025-05 생성 → 1년 만에 달성)
+
+> "AI agent 제품에서 가장 느린 건 모델 연결이 아니라 '실제 업무 흐름'을 정의하는 일이다."
+
+### 1. 세일즈·CS 자동화 검증
+폼 제출 → Slack 알림 → Notion/DB 기록 → follow-up 메일 초안  
+→ 개발 전환 전에 **하루 안에 병목을 발견**할 수 있다
+
+### 2. AI 교육·온보딩
+`n8n + OpenAI + Google Drive` 템플릿을 주면  
+→ 수강생이 **30분 안에 자기 업무 자동화 1개** 완성
+
+### 3. 에이전트 제품 사전 검증
+Claude/Codex로 코드 짜기 전, n8n 템플릿으로  
+→ 입력·출력·예외 케이스를 **프로토타입으로 먼저 굴리기**
+
+---
+
 ## 관련 노트
 
 - [[windmill-script-to-workflow-ui-platform]] — 스크립트를 워크플로·UI로 변환하는 오픈소스 (유사한 자동화 플랫폼)
