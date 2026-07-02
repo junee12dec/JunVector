@@ -49,3 +49,5 @@ description: "디자인 시스템, UI/UX, 타이포그래피, AI 디자인 도�
 - [[taste-skill-anti-slop-frontend-ai-design|Taste Skill — AI가 만든 티 나지 않는 UI를 위한 안티 슬롭 프론트엔드 스킬 프레임워크 (30.9k⭐)]] — 2026-06-01
 - [[tufte-ai-ascii-charts|tufte.ai — 텍스트 기반 ASCII 차트 생성 도구]] — 2026-06-15
 - [[y2k-tamagotchi-pixel-prompt-gpt-image2|Y2K 다마고치 픽셀 변환 프롬프트 — GPT Image 2 (2종)]] — 2026-04-29
+- [[gpt-image-ad-poster-prompt|GPT Image로 1분 만에 상업용 광고 포스터 만들기]] — 2026-06-17
+- [[flat-vector-city-travel-poster-prompt|프리미엄 미니멀 플랫벡터 도시 여행 포스터 프롬프트]] — 2026-06-21

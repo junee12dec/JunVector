@@ -57,3 +57,5 @@ description: "AI 도구, 에이전트, 자동화 관련 자료 목차."
 - [[semble-code-search-mcp-server-for-agents|Semble — AI 에이전트용 초고속 코드 검색 MCP 서버 (CPU 전용, 2k⭐)]] — 2026-05-15
 - [[sia-self-improving-ai-framework-mle-bench|SIA — 스스로 하네스·모델·메모리를 개선하는 자기 향상 AI 프레임워크 (MLE-Bench 1위)]] — 2026-05-29
 - [[sie-superlinked-inference-engine-rag-unified-api|SIE — 임베딩·리랭킹·추출을 하나로 통합한 RAG 추론 API (Superlinked)]] — 2026-05-15
+- [[leann-vector-db-97-percent-smaller|LEANN — 벡터 DB 저장 공간 97% 절감, 로컬 완전 프라이빗 RAG]] — 2026-06-17
+- [[dify-open-source-ai-chatbot-builder|Dify — 코드 없이 사업용 AI 챗봇 만드는 오픈소스 (140k⭐)]] — 2026-06-17

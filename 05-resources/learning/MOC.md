@@ -26,3 +26,7 @@ description: "강의, 튜토리얼, 학습 자료 목차."
 - [[harness-engineering-enterprise-lecture-slides-free|하네스 엔지니어링 기업 강의자료 무료 공개 — 에이전트에게 일 잘 시키는 원칙과 방법]] — 2026-05-27
 - [[harness-engineering-lecture01-why-capable-agents-fail|Harness Engineering 강의 1 — 강력한 모델이 실제 작업에서 실패하는 이유]] — 2026-05-15
 - [[top10-ai-github-repos-expert-mindset-2026|세계 최고 개발자 사고방식을 담은 AI GitHub 저장소 10선 (2026)]] — 2026-05-09
+- [[path-to-senior-engineer-handbook|시니어 엔지니어 핸드북 — 성장 리소스 모음집]] — 2026-06-17
+- [[chip-huyen-ai-engineering-book-repo|Chip Huyen의 AI Engineering 책 동반 레포 — 무료 학습 자료 전집]] — 2026-06-17
+- [[system-design-notes-alex-xu-28-chapters|System Design Notes — Alex Xu 책 챕터별 무료 정리 노트 (28개 시스템)]] — 2026-06-21
+- [[free-github-repos-5-python-ml-learning|무료 GitHub 레포 5개 — Python·ML·프로젝트 학습 완전판]] — 2026-06-21

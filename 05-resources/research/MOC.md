@@ -18,3 +18,4 @@ description: "논문 작업, 연구 도구, 학술 워크플로우 관련 자료
 - [[google-new-sdlc-vibe-coding-whitepaper|구글 'The New SDLC with Vibe Coding' 리포트 — 바이브 코딩 이후 개발 방식 51페이지 무료 공개]] — 2026-06-15
 - [[production-ai-agent-architecture-4layers|프로덕션 AI 에이전트 아키텍처 — security·evaluation·observability·.claude 4계층]] — 2026-05-09
 - [[rl-environment-llm-agents-e-t-h-v-s-c-framework|LLM 에이전트 RL 환경 공식 — E={T,H,V,S,C} 프레임워크]] — 2026-05-27
+- [[repo2rlenv-github-to-rl-training-env|Repo2RLEnv — GitHub 레포를 코딩 AI 강화학습 환경으로 자동 변환 (HuggingFace)]] — 2026-06-17

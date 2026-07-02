@@ -83,3 +83,7 @@ description: "Claude Code 활용 가이드, 에이전트, 워크플로우 관련
 - [[oh-my-skills-local-skill-dashboard|oh-my-skills — Codex·Claude Code 설치 스킬을 한눈에 관리하는 로컬 대시보드]] — 2026-05-28
 - [[prd-taskmaster-claude-code-skill-product-spec|PRD-Taskmaster — 코딩 시작 전 제품 요구사항을 명확히 정의하는 Claude Code 스킬 (477⭐)]] — 2026-05-31
 - [[prompt-engineering-skills-multi-platform|Prompt Engineering Skills — Claude Code·GPTs·Gemini Gems 공용 프롬프트 엔지니어링 스킬 모음]] — 2026-05-15
+- [[loop-engineering-agentic-workflow|루프 엔지니어링 — 프롬프트 대신 자동화 루프 설계하기]] — 2026-06-17
+- [[trellis-ai-coding-config-unified|Trellis — AI 코딩 툴 설정 파일을 16개 플랫폼에 자동 통합]] — 2026-06-17
+- [[recall-claude-code-session-memory-plugin|Recall — Claude Code 세션 기억을 이어주는 로컬 플러그인]] — 2026-06-21
+- [[design-md-google-ai-design-system-standard|DESIGN.md — AI 코딩 에이전트용 디자인 시스템 파일 표준 (구글 OSS, 16.5k⭐)]] — 2026-06-25
