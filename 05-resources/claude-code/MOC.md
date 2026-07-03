@@ -87,3 +87,4 @@ description: "Claude Code 활용 가이드, 에이전트, 워크플로우 관련
 - [[trellis-ai-coding-config-unified|Trellis — AI 코딩 툴 설정 파일을 16개 플랫폼에 자동 통합]] — 2026-06-17
 - [[recall-claude-code-session-memory-plugin|Recall — Claude Code 세션 기억을 이어주는 로컬 플러그인]] — 2026-06-21
 - [[design-md-google-ai-design-system-standard|DESIGN.md — AI 코딩 에이전트용 디자인 시스템 파일 표준 (구글 OSS, 16.5k⭐)]] — 2026-06-25
+- [[openwiki-codebase-docs-auto-cli|OpenWiki — 코드베이스 문서를 자동으로 쓰고 유지하는 CLI (LangChain AI)]] — 2026-07-03

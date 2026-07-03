@@ -14,3 +14,4 @@ description: "생산성 도구, 워크플로우, 유틸리티 관련 자료 목�
 - [[productivity-tools-5-bookmarks|생산성 꿀팁 웹사이트 5개 — 이메일·이미지·파일 도구 모음]] — 2026-03-26
 - [[prompt-reference-sites-4|프롬프트 레퍼런스 사이트 4가지 북마크]] — 2026-03-26
 - [[recordly-screen-recorder|Recordly — 자동 줌·커서 애니메이션으로 프로 데모 영상 만드는 오픈소스 화면 녹화 툴]] — 2026-03-26
+- [[jasoseo-gpt-prompts-6|자소서 GPT 프롬프트 6종 — 지원동기부터 첨삭까지]] — 2026-07-03
