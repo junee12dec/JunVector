@@ -16,3 +16,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[hermes-agent-intro-guide-eric|헤르메스 에이전트 입문 가이드 A to Z — Eric 작성]] — 2026-07-05
 - [[archify-diagram-agent-skill|Archify — 채팅 한 줄로 아키텍처 다이어그램을 그려주는 에이전트 스킬]] — 2026-07-15
 - [[build-your-own-x-github-learning-repo|Build Your Own X — 직접 만들며 배우는 개발 학습 오픈소스 모음]] — 2026-07-16
+- [[langwatch-llm-observability-prompt-optimizer|LangWatch — LLM 사용량 분석 및 프롬프트 최적화 오픈소스 플랫폼]] — 2026-07-19
