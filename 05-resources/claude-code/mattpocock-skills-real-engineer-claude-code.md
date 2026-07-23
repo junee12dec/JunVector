@@ -11,16 +11,30 @@ source: "https://www.threads.com/@lucas_flatwhite/post/DXnbJxwD7bu"
 > "Real engineering — not vibe coding"
 
 **GitHub**: https://github.com/mattpocock/skills  
-**작성자**: Matt Pocock (TypeScript 교육으로 유명)  
-**GitHub Stars**: 27,702 ⭐ (하루 만에 +5,551개, GitHub 트렌딩 1위)
+**작성자**: Matt Pocock (TypeScript 교육으로 유명, 전 Vercel 개발자)  
+**GitHub Stars**: ⭐ 179k (최초 27,702 → 급속 성장)
 
 ```bash
-npx skills@latest add mattpocock/skills/<skill-name>
+npx skills@latest add mattpocock/skills
 ```
 
 ---
 
-## 전체 스킬 22개 (4개 카테고리)
+## 바로 써볼 스킬 TOP 7 (추천)
+
+| 스킬 | 역할 |
+|------|------|
+| `grill-with-docs` | 계획을 문서 기반으로 끝까지 인터뷰 |
+| `code-review` | diff 단위 코드 리뷰 (문법이 아닌 로직 검토) |
+| `diagnosing-bugs` | 버그를 체계적 루프로 진단 |
+| `research` | 1차 소스(공식 문서·원본) 기반 조사 |
+| `grill-me` | 계획이 흐릿해질 때까지 추궁 |
+| `handoff` | 전체 세션을 하나로 압축 |
+| `writing-great-skills` | 재현 가능한 스킬 작성법 |
+
+---
+
+## 전체 스킬 26개 (4개 카테고리)
 
 ### 📐 Planning — 코드 짜기 전에 생각 먼저
 
