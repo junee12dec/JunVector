@@ -21,3 +21,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[axton-obsidian-ai-diagram-plugin|Axton — AI로 다이어그램을 생성하는 Obsidian 플러그인]] — 2026-07-21
 - [[pageindex-reasoning-rag-no-vectordb|PageIndex — 벡터DB·청킹 없이 동작하는 Reasoning 기반 RAG 오픈소스]] — 2026-07-21
 - [[anthropic-knowledge-work-plugins-cowork|Anthropic Knowledge Work Plugins — Claude를 직무 전문가로 만드는 공식 플러그인 모음]] — 2026-07-22
+- [[claude-youtube-channel-7-prompts-monetize|Claude로 AI 유튜브 채널 운영하는 프롬프트 7종 — 90일 수익화 로드맵]] — 2026-07-22
