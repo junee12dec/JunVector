@@ -18,3 +18,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[build-your-own-x-github-learning-repo|Build Your Own X — 직접 만들며 배우는 개발 학습 오픈소스 모음]] — 2026-07-16
 - [[langwatch-llm-observability-prompt-optimizer|LangWatch — LLM 사용량 분석 및 프롬프트 최적화 오픈소스 플랫폼]] — 2026-07-19
 - [[10-github-repos-passive-income-ai|자동으로 수익을 만드는 GitHub 레포 10선 — 트레이딩·광고·SEO·AI 도구]] — 2026-07-21
+- [[axton-obsidian-ai-diagram-plugin|Axton — AI로 다이어그램을 생성하는 Obsidian 플러그인]] — 2026-07-21
