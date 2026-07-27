@@ -23,3 +23,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[anthropic-knowledge-work-plugins-cowork|Anthropic Knowledge Work Plugins — Claude를 직무 전문가로 만드는 공식 플러그인 모음]] — 2026-07-22
 - [[claude-youtube-channel-7-prompts-monetize|Claude로 AI 유튜브 채널 운영하는 프롬프트 7종 — 90일 수익화 로드맵]] — 2026-07-22
 - [[higgsfield-ai-video-prompts-community-free|Higgsfield AI 영상 프롬프트 구조 공개 — 실제 프롬프트·레퍼런스·설정값 무료]] — 2026-07-22
+- [[learn-coding-by-games-10-sites|게임으로 코딩 배우는 사이트 10선 — Kubernetes·Git·Python·보안까지]] — 2026-07-23
