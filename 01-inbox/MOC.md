@@ -24,3 +24,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-youtube-channel-7-prompts-monetize|Claude로 AI 유튜브 채널 운영하는 프롬프트 7종 — 90일 수익화 로드맵]] — 2026-07-22
 - [[higgsfield-ai-video-prompts-community-free|Higgsfield AI 영상 프롬프트 구조 공개 — 실제 프롬프트·레퍼런스·설정값 무료]] — 2026-07-22
 - [[learn-coding-by-games-10-sites|게임으로 코딩 배우는 사이트 10선 — Kubernetes·Git·Python·보안까지]] — 2026-07-23
+- [[free-design-image-font-resources-20|무료 디자인·이미지·폰트 리소스 20선 — 폰트·스톡·아이콘·애니메이션·컬러]] — 2026-07-24
