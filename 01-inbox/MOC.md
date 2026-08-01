@@ -26,3 +26,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[learn-coding-by-games-10-sites|게임으로 코딩 배우는 사이트 10선 — Kubernetes·Git·Python·보안까지]] — 2026-07-23
 - [[free-design-image-font-resources-20|무료 디자인·이미지·폰트 리소스 20선 — 폰트·스톡·아이콘·애니메이션·컬러]] — 2026-07-24
 - [[clean-architecture-skills-nathankim|clean-architecture-skills — 로버트 마틴 클린 아키텍처 + 켄트 백 리팩토링 Claude Code 스킬]] — 2026-07-25
+- [[foodibear-clean-object-editorial-poster-prompt|FOODIBEAR 클린 오브제 에디토리얼 포스터 프롬프트 v1.0]] — 2026-07-25
