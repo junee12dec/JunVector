@@ -28,3 +28,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[clean-architecture-skills-nathankim|clean-architecture-skills — 로버트 마틴 클린 아키텍처 + 켄트 백 리팩토링 Claude Code 스킬]] — 2026-07-25
 - [[foodibear-clean-object-editorial-poster-prompt|FOODIBEAR 클린 오브제 에디토리얼 포스터 프롬프트 v1.0]] — 2026-07-25
 - [[yc-qm-multi-agent-harness-startup|YC QM — 스타트업 전체를 에이전트로 돌리는 멀티 에이전트 하네스 오픈소스]] — 2026-07-26
+- [[garage-webui-s3-admin-dashboard|Garage Web UI — 셀프호스팅 S3 스토리지를 브라우저로 관리하는 어드민 대시보드]] — 2026-07-26
