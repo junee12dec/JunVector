@@ -31,3 +31,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[garage-webui-s3-admin-dashboard|Garage Web UI — 셀프호스팅 S3 스토리지를 브라우저로 관리하는 어드민 대시보드]] — 2026-07-26
 - [[prompt-resources-and-customization-tips|AI 프롬프트 리소스 4선 + 남의 프롬프트 내 걸로 만드는 3가지 관점]] — 2026-08-03
 - [[koboyo-handdrawn-diagram-canvas-icons|Koboyo — 손그림 스타일 무한 캔버스 다이어그램 도구 + 9만 개 SVG 아이콘 무료 제공]] — 2026-08-05
+- [[claude-code-web-motion-reference-site-tip|Claude Code에 레퍼런스 사이트 링크 던지고 웹 모션 구현하기]] — 2026-08-05
