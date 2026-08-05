@@ -30,3 +30,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[yc-qm-multi-agent-harness-startup|YC QM — 스타트업 전체를 에이전트로 돌리는 멀티 에이전트 하네스 오픈소스]] — 2026-07-26
 - [[garage-webui-s3-admin-dashboard|Garage Web UI — 셀프호스팅 S3 스토리지를 브라우저로 관리하는 어드민 대시보드]] — 2026-07-26
 - [[prompt-resources-and-customization-tips|AI 프롬프트 리소스 4선 + 남의 프롬프트 내 걸로 만드는 3가지 관점]] — 2026-08-03
+- [[koboyo-handdrawn-diagram-canvas-icons|Koboyo — 손그림 스타일 무한 캔버스 다이어그램 도구 + 9만 개 SVG 아이콘 무료 제공]] — 2026-08-05
