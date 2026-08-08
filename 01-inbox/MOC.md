@@ -33,3 +33,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[koboyo-handdrawn-diagram-canvas-icons|Koboyo — 손그림 스타일 무한 캔버스 다이어그램 도구 + 9만 개 SVG 아이콘 무료 제공]] — 2026-08-05
 - [[claude-code-web-motion-reference-site-tip|Claude Code에 레퍼런스 사이트 링크 던지고 웹 모션 구현하기]] — 2026-08-05
 - [[mengto-complete-shelf-3d-ebook-bookshelf|Complete Shelf — MengTo의 3D 웹 서재 오픈소스 + 전자책 포장을 바꾸는 방법]] — 2026-08-05
+- [[loopx-stateful-control-plane-long-running-agent|LoopX — 장기 실행 AI 에이전트 팀을 위한 상태 커널 오픈소스]] — 2026-08-08
