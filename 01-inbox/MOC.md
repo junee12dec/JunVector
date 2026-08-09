@@ -35,3 +35,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[mengto-complete-shelf-3d-ebook-bookshelf|Complete Shelf — MengTo의 3D 웹 서재 오픈소스 + 전자책 포장을 바꾸는 방법]] — 2026-08-05
 - [[loopx-stateful-control-plane-long-running-agent|LoopX — 장기 실행 AI 에이전트 팀을 위한 상태 커널 오픈소스]] — 2026-08-08
 - [[github-trending-agent-repos-prime-agent-witr|GitHub 하루 급상승 에이전트 레포 3선 — prime-agent·agent-skills·witr]] — 2026-08-08
+- [[stanford-cs329a-lecture5-planning-agent-review|스탠포드 CS329A 5강 — 자기 개선 AI 에이전트의 Planning 구조 후기]] — 2026-08-08
