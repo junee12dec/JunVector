@@ -37,3 +37,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[github-trending-agent-repos-prime-agent-witr|GitHub 하루 급상승 에이전트 레포 3선 — prime-agent·agent-skills·witr]] — 2026-08-08
 - [[stanford-cs329a-lecture5-planning-agent-review|스탠포드 CS329A 5강 — 자기 개선 AI 에이전트의 Planning 구조 후기]] — 2026-08-08
 - [[prime-agent-rlm-continual-harness-deep|Prime Agent 기술 심화 — RLM + Continual Harness로 ARC-AGI-3 인간 전문가 돌파]] — 2026-08-08
+- [[dspy-stanford-auto-prompt-optimization-framework|DSPy — 프롬프트 대신 파이썬 코드로 LLM 파이프라인을 정의하고 자동 최적화하는 스탠포드 프레임워크]] — 2026-08-08
