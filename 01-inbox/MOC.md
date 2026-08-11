@@ -39,3 +39,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[prime-agent-rlm-continual-harness-deep|Prime Agent 기술 심화 — RLM + Continual Harness로 ARC-AGI-3 인간 전문가 돌파]] — 2026-08-08
 - [[dspy-stanford-auto-prompt-optimization-framework|DSPy — 프롬프트 대신 파이썬 코드로 LLM 파이프라인을 정의하고 자동 최적화하는 스탠포드 프레임워크]] — 2026-08-08
 - [[code-graph-rag-monorepo-knowledge-graph|code-graph-rag — 모노레포를 지식 그래프로 만들어 AI가 자연어로 코드를 검색·편집하는 RAG]] — 2026-08-08
+- [[hallmark-ai-web-design-skill-anti-pattern|Hallmark — 'AI가 만든 티' 나는 웹디자인을 없애주는 디자인 매뉴얼 스킬 (★23,700)]] — 2026-08-08
