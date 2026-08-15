@@ -41,3 +41,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[code-graph-rag-monorepo-knowledge-graph|code-graph-rag — 모노레포를 지식 그래프로 만들어 AI가 자연어로 코드를 검색·편집하는 RAG]] — 2026-08-08
 - [[hallmark-ai-web-design-skill-anti-pattern|Hallmark — 'AI가 만든 티' 나는 웹디자인을 없애주는 디자인 매뉴얼 스킬 (★23,700)]] — 2026-08-08
 - [[ml-system-design-case-studies-300-top-companies|ML 시스템 디자인 케이스 스터디 300+ — 탑 기업 실제 사례 무료 큐레이션]] — 2026-08-08
+- [[andrew-ng-ai-engineering-skills-map|앤드류 응의 AI 엔지니어링 스킬 맵 — 모든 개발자가 갖춰야 할 4가지 역량]] — 2026-08-08
