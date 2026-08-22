@@ -46,3 +46,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[n8n-self-hosted-ai-starter-kit|n8n Self-Hosted AI Starter Kit — n8n·Ollama·Qdrant·Postgres로 로컬 AI 워크플로우 환경 구축]] — 2026-08-08
 - [[claude-code-5-essential-plugins|Claude Code 필수 플러그인 5선 — Context7·Strix·Playwright·Supabase·Skill UI]] — 2026-08-08
 - [[kepano-obsidian-skills-ai-note-taking|kepano/obsidian-skills — Steph Ango의 Obsidian AI 노트 관리 스킬 5종 오픈소스]] — 2026-08-19
+- [[eli5-claude-code-community-skill-thariq|ELI5 — Anthropic 사내 유행 Claude Code 스킬 (글 줄이고 그림 키운 HTML 한 장 설명)]] — 2026-08-22
