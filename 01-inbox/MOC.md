@@ -48,3 +48,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[kepano-obsidian-skills-ai-note-taking|kepano/obsidian-skills — Steph Ango의 Obsidian AI 노트 관리 스킬 5종 오픈소스]] — 2026-08-19
 - [[eli5-claude-code-community-skill-thariq|ELI5 — Anthropic 사내 유행 Claude Code 스킬 (글 줄이고 그림 키운 HTML 한 장 설명)]] — 2026-08-22
 - [[dashi-ppt-skill-ai-editable-presentation|dashi-ppt-skill — AI가 짜고 브라우저에서 직접 고치는 편집 가능한 발표자료 도구]] — 2026-08-22
+- [[cloudflare-os-ai-enterprise-infrastructure|cloudflare/cloudflare-os — Cloudflare 전 직원이 쓰는 사내 AI 운영체제 오픈소스 공개]] — 2026-08-22
