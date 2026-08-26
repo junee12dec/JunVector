@@ -29,3 +29,24 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[foodibear-clean-object-editorial-poster-prompt|FOODIBEAR 클린 오브제 에디토리얼 포스터 프롬프트 v1.0]] — 2026-07-25
 - [[yc-qm-multi-agent-harness-startup|YC QM — 스타트업 전체를 에이전트로 돌리는 멀티 에이전트 하네스 오픈소스]] — 2026-07-26
 - [[garage-webui-s3-admin-dashboard|Garage Web UI — 셀프호스팅 S3 스토리지를 브라우저로 관리하는 어드민 대시보드]] — 2026-07-26
+- [[prompt-resources-and-customization-tips|AI 프롬프트 리소스 4선 + 남의 프롬프트 내 걸로 만드는 3가지 관점]] — 2026-08-03
+- [[koboyo-handdrawn-diagram-canvas-icons|Koboyo — 손그림 스타일 무한 캔버스 다이어그램 도구 + 9만 개 SVG 아이콘 무료 제공]] — 2026-08-05
+- [[claude-code-web-motion-reference-site-tip|Claude Code에 레퍼런스 사이트 링크 던지고 웹 모션 구현하기]] — 2026-08-05
+- [[mengto-complete-shelf-3d-ebook-bookshelf|Complete Shelf — MengTo의 3D 웹 서재 오픈소스 + 전자책 포장을 바꾸는 방법]] — 2026-08-05
+- [[loopx-stateful-control-plane-long-running-agent|LoopX — 장기 실행 AI 에이전트 팀을 위한 상태 커널 오픈소스]] — 2026-08-08
+- [[github-trending-agent-repos-prime-agent-witr|GitHub 하루 급상승 에이전트 레포 3선 — prime-agent·agent-skills·witr]] — 2026-08-08
+- [[stanford-cs329a-lecture5-planning-agent-review|스탠포드 CS329A 5강 — 자기 개선 AI 에이전트의 Planning 구조 후기]] — 2026-08-08
+- [[prime-agent-rlm-continual-harness-deep|Prime Agent 기술 심화 — RLM + Continual Harness로 ARC-AGI-3 인간 전문가 돌파]] — 2026-08-08
+- [[dspy-stanford-auto-prompt-optimization-framework|DSPy — 프롬프트 대신 파이썬 코드로 LLM 파이프라인을 정의하고 자동 최적화하는 스탠포드 프레임워크]] — 2026-08-08
+- [[code-graph-rag-monorepo-knowledge-graph|code-graph-rag — 모노레포를 지식 그래프로 만들어 AI가 자연어로 코드를 검색·편집하는 RAG]] — 2026-08-08
+- [[hallmark-ai-web-design-skill-anti-pattern|Hallmark — 'AI가 만든 티' 나는 웹디자인을 없애주는 디자인 매뉴얼 스킬 (★23,700)]] — 2026-08-08
+- [[ml-system-design-case-studies-300-top-companies|ML 시스템 디자인 케이스 스터디 300+ — 탑 기업 실제 사례 무료 큐레이션]] — 2026-08-08
+- [[andrew-ng-ai-engineering-skills-map|앤드류 응의 AI 엔지니어링 스킬 맵 — 모든 개발자가 갖춰야 할 4가지 역량]] — 2026-08-08
+- [[opencode-everything-developer-guide|OpenCode 완전 개발자 가이드 — 에이전트·스킬·플러그인·MCP 통합 총정리]] — 2026-08-08
+- [[n8n-self-hosted-ai-starter-kit|n8n Self-Hosted AI Starter Kit — n8n·Ollama·Qdrant·Postgres로 로컬 AI 워크플로우 환경 구축]] — 2026-08-08
+- [[claude-code-5-essential-plugins|Claude Code 필수 플러그인 5선 — Context7·Strix·Playwright·Supabase·Skill UI]] — 2026-08-08
+- [[kepano-obsidian-skills-ai-note-taking|kepano/obsidian-skills — Steph Ango의 Obsidian AI 노트 관리 스킬 5종 오픈소스]] — 2026-08-19
+- [[eli5-claude-code-community-skill-thariq|ELI5 — Anthropic 사내 유행 Claude Code 스킬 (글 줄이고 그림 키운 HTML 한 장 설명)]] — 2026-08-22
+- [[dashi-ppt-skill-ai-editable-presentation|dashi-ppt-skill — AI가 짜고 브라우저에서 직접 고치는 편집 가능한 발표자료 도구]] — 2026-08-22
+- [[cloudflare-os-ai-enterprise-infrastructure|cloudflare/cloudflare-os — Cloudflare 전 직원이 쓰는 사내 AI 운영체제 오픈소스 공개]] — 2026-08-22
+- [[aitmpl-claude-code-components-collection|AITMPL — Claude Code 컴포넌트 대규모 오픈소스 모음 (스킬·에이전트·훅·MCP·플러그인)]] — 2026-08-22
