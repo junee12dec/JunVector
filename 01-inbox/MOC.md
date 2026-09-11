@@ -55,3 +55,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[ai-knowledge-graph-llm-unstructured-text|ai-knowledge-graph — LLM으로 비정형 텍스트를 지식 그래프로 변환하는 오픈소스]] — 2026-09-07
 - [[semiotic-react-dataviz-mcp|Semiotic — MCP 서버 내장 React 데이터 시각화 오픈소스 (실시간·네트워크 그래프·대시보드)]] — 2026-09-07
 - [[pr-lens-architecture-diagram-code-review|PR Lens — PR 코드 변경을 아키텍처 다이어그램·데이터 흐름 애니메이션으로 자동 시각화]] — 2026-09-08
+- [[appllama-skills-mobile-ui-pattern-agent|Appllama Skills — 상위 매출 앱 UI 패턴을 학습해 Expo·React Native로 구현하는 에이전트 스킬]] — 2026-09-11
