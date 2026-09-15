@@ -57,3 +57,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[pr-lens-architecture-diagram-code-review|PR Lens — PR 코드 변경을 아키텍처 다이어그램·데이터 흐름 애니메이션으로 자동 시각화]] — 2026-09-08
 - [[appllama-skills-mobile-ui-pattern-agent|Appllama Skills — 상위 매출 앱 UI 패턴을 학습해 Expo·React Native로 구현하는 에이전트 스킬]] — 2026-09-11
 - [[prompts-chat-open-source-prompt-library|prompts.chat — 전 세계 사용자가 공유하는 오픈소스 Prompt Library]] — 2026-09-11
+- [[html-anything-ai-poster-card-news-generator|html-anything — 글·표를 붙여넣으면 AI가 카드뉴스·포스터·발표자료로 변환해주는 오픈소스]] — 2026-09-15
