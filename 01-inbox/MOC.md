@@ -58,3 +58,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[appllama-skills-mobile-ui-pattern-agent|Appllama Skills — 상위 매출 앱 UI 패턴을 학습해 Expo·React Native로 구현하는 에이전트 스킬]] — 2026-09-11
 - [[prompts-chat-open-source-prompt-library|prompts.chat — 전 세계 사용자가 공유하는 오픈소스 Prompt Library]] — 2026-09-11
 - [[html-anything-ai-poster-card-news-generator|html-anything — 글·표를 붙여넣으면 AI가 카드뉴스·포스터·발표자료로 변환해주는 오픈소스]] — 2026-09-15
+- [[ai-learning-resources-10-with-prompts|링크만 저장 말고 직접 만들기 — AI 공부 자료 10선 + AI에게 시킬 프롬프트]] — 2026-09-17
