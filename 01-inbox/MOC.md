@@ -59,6 +59,7 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[prompts-chat-open-source-prompt-library|prompts.chat — 전 세계 사용자가 공유하는 오픈소스 Prompt Library]] — 2026-09-11
 - [[html-anything-ai-poster-card-news-generator|html-anything — 글·표를 붙여넣으면 AI가 카드뉴스·포스터·발표자료로 변환해주는 오픈소스]] — 2026-09-15
 - [[ai-learning-resources-10-with-prompts|링크만 저장 말고 직접 만들기 — AI 공부 자료 10선 + AI에게 시킬 프롬프트]] — 2026-09-17
+- [[rea-ai-reverse-engineering-code-restore|REA — AI 에이전트가 완성된 앱을 역공학으로 원본 수준 코드로 복원하는 오픈소스]] — 2026-10-11
 - [[skillry-opus-55-viral-videos-389-prompts|skillry.dev/ai-videos — Opus 5.5로 만든 바이럴 영상 389개 + 프롬프트 모음]] — 2026-09-29
 - [[claude-opus-55-vector-illustration-animation-rigging|Claude Opus 5.5로 정지된 벡터 일러스트를 캐릭터 애니메이션으로 만들기 (리깅 없이)]] — 2026-09-29
 - [[ruflo-claude-flow-multi-agent-dev-team|Ruflo (구 Claude Flow) — Claude Code에 역할별 AI 개발팀을 붙이는 무료 오픈소스]] — 2026-10-01
