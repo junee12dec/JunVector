@@ -50,3 +50,15 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[dashi-ppt-skill-ai-editable-presentation|dashi-ppt-skill — AI가 짜고 브라우저에서 직접 고치는 편집 가능한 발표자료 도구]] — 2026-08-22
 - [[cloudflare-os-ai-enterprise-infrastructure|cloudflare/cloudflare-os — Cloudflare 전 직원이 쓰는 사내 AI 운영체제 오픈소스 공개]] — 2026-08-22
 - [[aitmpl-claude-code-components-collection|AITMPL — Claude Code 컴포넌트 대규모 오픈소스 모음 (스킬·에이전트·훅·MCP·플러그인)]] — 2026-08-22
+- [[elk-to-clickhouse-migration-trend|ELK → ClickHouse 전환 트렌드 — 비용 70~90% 절감·표준 SQL·대용량 로그 처리]] — 2026-09-05
+- [[agents-md-skill-audit-prompt|AGENTS.md·Skill 파일 감사 프롬프트 — 불명확·충돌·중복 지침 찾아 정리하는 법]] — 2026-09-06
+- [[ai-knowledge-graph-llm-unstructured-text|ai-knowledge-graph — LLM으로 비정형 텍스트를 지식 그래프로 변환하는 오픈소스]] — 2026-09-07
+- [[semiotic-react-dataviz-mcp|Semiotic — MCP 서버 내장 React 데이터 시각화 오픈소스 (실시간·네트워크 그래프·대시보드)]] — 2026-09-07
+- [[pr-lens-architecture-diagram-code-review|PR Lens — PR 코드 변경을 아키텍처 다이어그램·데이터 흐름 애니메이션으로 자동 시각화]] — 2026-09-08
+- [[appllama-skills-mobile-ui-pattern-agent|Appllama Skills — 상위 매출 앱 UI 패턴을 학습해 Expo·React Native로 구현하는 에이전트 스킬]] — 2026-09-11
+- [[prompts-chat-open-source-prompt-library|prompts.chat — 전 세계 사용자가 공유하는 오픈소스 Prompt Library]] — 2026-09-11
+- [[html-anything-ai-poster-card-news-generator|html-anything — 글·표를 붙여넣으면 AI가 카드뉴스·포스터·발표자료로 변환해주는 오픈소스]] — 2026-09-15
+- [[ai-learning-resources-10-with-prompts|링크만 저장 말고 직접 만들기 — AI 공부 자료 10선 + AI에게 시킬 프롬프트]] — 2026-09-17
+- [[skillry-opus-55-viral-videos-389-prompts|skillry.dev/ai-videos — Opus 5.5로 만든 바이럴 영상 389개 + 프롬프트 모음]] — 2026-09-29
+- [[claude-opus-55-vector-illustration-animation-rigging|Claude Opus 5.5로 정지된 벡터 일러스트를 캐릭터 애니메이션으로 만들기 (리깅 없이)]] — 2026-09-29
+- [[ruflo-claude-flow-multi-agent-dev-team|Ruflo (구 Claude Flow) — Claude Code에 역할별 AI 개발팀을 붙이는 무료 오픈소스]] — 2026-10-01
