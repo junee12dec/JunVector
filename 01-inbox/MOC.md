@@ -65,3 +65,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-opus-55-vector-illustration-animation-rigging|Claude Opus 5.5로 정지된 벡터 일러스트를 캐릭터 애니메이션으로 만들기 (리깅 없이)]] — 2026-09-29
 - [[ruflo-claude-flow-multi-agent-dev-team|Ruflo (구 Claude Flow) — Claude Code에 역할별 AI 개발팀을 붙이는 무료 오픈소스]] — 2026-10-01
 - [[ajd-ax-builder-organization-250-cases|아정당 AX 빌더 조직 구축 참고자료 250건 — 국내외 24개 회사 전환 사례 큐레이션]] — 2026-10-20
+- [[hycli-website-reverse-deterministic-cli-automation|Hycli — 웹사이트를 리버싱해서 결정론적 CLI로 자동화하는 도구]] — 2026-10-21
