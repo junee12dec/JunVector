@@ -67,3 +67,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[ajd-ax-builder-organization-250-cases|아정당 AX 빌더 조직 구축 참고자료 250건 — 국내외 24개 회사 전환 사례 큐레이션]] — 2026-10-20
 - [[hycli-website-reverse-deterministic-cli-automation|Hycli — 웹사이트를 리버싱해서 결정론적 CLI로 자동화하는 도구]] — 2026-10-21
 - [[html-plan-claude-code-interactive-plan-plugin|html-plan — 구현 계획을 인터랙티브 HTML 한 장으로 만드는 Claude Code 커뮤니티 플러그인]] — 2026-10-23
+- [[knowledge-layer-trends-report-2026-rag-ontology|지식 레이어 최신 동향 리포트 (2026.10) — RAG·LLM Wiki·Ontology 계층화 6개월 조사]] — 2026-10-23
