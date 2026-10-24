@@ -70,3 +70,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[knowledge-layer-trends-report-2026-rag-ontology|지식 레이어 최신 동향 리포트 (2026.10) — RAG·LLM Wiki·Ontology 계층화 6개월 조사]] — 2026-10-23
 - [[anthropic-knowledge-work-plugins-11-opensource|Anthropic knowledge-work-plugins — 사무직 AI 비서 플러그인 11종 오픈소스]] — 2026-10-23
 - [[toss-dataops-ai-skill-tacit-knowledge|토스 DataOps — 담당자 머릿속 맥락을 AI 스킬로 꺼내 팀 전체가 쓰게 만든 이야기]] — 2026-10-24
+- [[ego-lite-ai-agent-browser-fast-auth-session|ego-lite — AI 에이전트용 경량 고속 브라우저 자동화 (GitHub 트렌딩 1위)]] — 2026-10-24
