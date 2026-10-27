@@ -71,3 +71,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[anthropic-knowledge-work-plugins-11-opensource|Anthropic knowledge-work-plugins — 사무직 AI 비서 플러그인 11종 오픈소스]] — 2026-10-23
 - [[toss-dataops-ai-skill-tacit-knowledge|토스 DataOps — 담당자 머릿속 맥락을 AI 스킬로 꺼내 팀 전체가 쓰게 만든 이야기]] — 2026-10-24
 - [[ego-lite-ai-agent-browser-fast-auth-session|ego-lite — AI 에이전트용 경량 고속 브라우저 자동화 (GitHub 트렌딩 1위)]] — 2026-10-24
+- [[paperswithcode-huggingface-opensource-fastapi-mcp|Papers with Code 오픈소스 공개 — AI 논문·SOTA 리더보드 추적 플랫폼 전체 코드]] — 2026-10-27
