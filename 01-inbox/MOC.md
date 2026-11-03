@@ -73,3 +73,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[ego-lite-ai-agent-browser-fast-auth-session|ego-lite — AI 에이전트용 경량 고속 브라우저 자동화 (GitHub 트렌딩 1위)]] — 2026-10-24
 - [[paperswithcode-huggingface-opensource-fastapi-mcp|Papers with Code 오픈소스 공개 — AI 논문·SOTA 리더보드 추적 플랫폼 전체 코드]] — 2026-10-27
 - [[ai-company-official-prompt-libraries-4|AI 회사 공식 프롬프트 모음 4곳 — OpenAI·Google·MS·Anthropic 무료 한국어 지원]] — 2026-11-03
+- [[claude-motion-skills-10-hyperframes-reference|Claude 모션 영상 스킬 10선 + 레퍼런스 사이트 3곳 — /hyperframes로 기획부터 MP4까지]] — 2026-11-03
