@@ -76,3 +76,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-motion-skills-10-hyperframes-reference|Claude 모션 영상 스킬 10선 + 레퍼런스 사이트 3곳 — /hyperframes로 기획부터 MP4까지]] — 2026-11-03
 - [[corevis-library-ai-design-llmstxt-mcp|COREVIS Library — AI를 위한 디자인 자료실 1,273점 (llms.txt + MCP 지원)]] — 2026-11-04
 - [[nvidia-auto-ontology-rag-sql-enterprise-ai|NVIDIA auto-ontology — 기업 AI 환각을 잡는 자동 온톨로지 오픈소스]] — 2026-11-05
+- [[kami-ai-agent-typesetting-skill-pdf-pptx|Kami — 에이전트가 만드는 문서의 조판을 맡는 스킬 (PDF·PNG·PPTX 출력)]] — 2026-11-05
