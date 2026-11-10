@@ -77,3 +77,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[corevis-library-ai-design-llmstxt-mcp|COREVIS Library — AI를 위한 디자인 자료실 1,273점 (llms.txt + MCP 지원)]] — 2026-11-04
 - [[nvidia-auto-ontology-rag-sql-enterprise-ai|NVIDIA auto-ontology — 기업 AI 환각을 잡는 자동 온톨로지 오픈소스]] — 2026-11-05
 - [[kami-ai-agent-typesetting-skill-pdf-pptx|Kami — 에이전트가 만드는 문서의 조판을 맡는 스킬 (PDF·PNG·PPTX 출력)]] — 2026-11-05
+- [[claude-web-design-anti-ai-look-6-sites-prompt|Claude로 웹사이트 만들 때 AI 티 없애는 사이트 6개 + CLAUDE.md 프롬프트]] — 2026-11-10
