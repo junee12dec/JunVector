@@ -37,6 +37,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | `/inbox-batch` | `.claude/skills/inbox-batch/SKILL.md` | `00-queue/`에 쌓인 글을 한 번에 노트로 저장 |
 | `/digest` | `.claude/skills/digest/SKILL.md` | 최근 저장분을 주제별로 묶고 연결·딥다이브 후보 추천 |
 | `/card` | `.claude/skills/card/SKILL.md` | 노트를 카드뉴스 HTML로 변환 |
+| `/scout` | `.claude/skills/scout/SKILL.md` | Threads·논문에서 최근 글을 걸러 카테고리별로 추천하고 고른 것을 `00-queue/`에 넣음 |
 
 ---
 
@@ -97,6 +98,7 @@ source: "https://..."   # URL에서 저장했을 때만
 | 큐에 쌓인 글 일괄 저장 요청 | `/inbox-batch` 스킬 실행 |
 | 최근 저장분 요약·추천 요청 | `/digest` 스킬 실행 |
 | 카드뉴스 요청 | `/card` 스킬 실행 |
+| 새 지식 추천 요청 | `/scout` 스킬 실행 |
 
 ---
 
