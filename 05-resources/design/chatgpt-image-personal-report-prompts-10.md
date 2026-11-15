@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT 이미지로 나만의 보고서 만들기 — 재미있는 프롬프트 10선"
 date: 2026-04-24
-tags: [ai/image-generation, productivity/prompt, ai/chatgpt]
+tags: [ai/image, ai/prompt, ai/llm]
 description: "ChatGPT 이미지 생성으로 사주·퍼스널컬러·MBTI·궁합 등 개인 맞춤 보고서 이미지를 만드는 프롬프트 10가지. 대화 내역 또는 사진을 입력으로 활용."
 source: "https://www.threads.com/@choi.openai/post/DXfXyQOCJDk"
 ---

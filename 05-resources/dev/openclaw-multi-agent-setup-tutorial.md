@@ -1,7 +1,7 @@
 ---
 title: "OpenClaw Multi-Agent 설정 튜토리얼 — 스펀지밥 세계관으로 배우는 멀티 에이전트"
 date: 2026-04-05
-tags: [ai/agent, ai/openclaw, productivity/automation]
+tags: [ai/agent, productivity/automation]
 description: "OpenClaw에서 멀티 에이전트를 구성하고 Agent끼리 대화하게 설정하는 방법을 스펀지밥 세계관 예시로 설명한 2편 튜토리얼. 보안 담당자(CISO) 플랑크톤 에이전트를 추가하는 과정을 다룬다."
 source: "https://www.peters.place/ko/post/openclaw-multi-agent"
 ---

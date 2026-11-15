@@ -1,7 +1,7 @@
 ---
 title: "clean-architecture-skills — 로버트 마틴 클린 아키텍처 + 켄트 백 리팩토링 Claude Code 스킬"
 date: 2026-07-25
-tags: [ai/coding-agent, dev/architecture, dev/refactoring]
+tags: [ai/agent, dev/architecture]
 description: "한국 개발자가 만든 Claude Code 스킬 모음. 로버트 마틴의 클린 아키텍처 원칙으로 의존성·계층 구조·SOLID를 검토하고, 켄트 백 스타일로 리팩토링을 진행한다."
 source: "https://github.com/nathankim0/clean-architecture-skills"
 ---

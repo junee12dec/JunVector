@@ -1,7 +1,7 @@
 ---
 title: "AGENTS.md·Skill 파일 감사 프롬프트 — 불명확·충돌·중복 지침 찾아 정리하는 법"
 date: 2026-09-06
-tags: [ai/agent-skills, productivity/workflow, ai/prompt]
+tags: [ai/skill, productivity/workflow, ai/prompt]
 description: "오랫동안 방치된 AGENTS.md와 Skill 파일의 불명확·충돌·중복 지침을 AI에게 검토하게 하는 프롬프트. 불필요한 확인 요구를 줄이면서 의도된 안전 장치는 유지하는 방식으로 에이전트 설정을 최적화."
 source: "https://www.threads.com/share/BAUSpKlS0e/"
 ---

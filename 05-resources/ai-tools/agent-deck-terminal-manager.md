@@ -1,7 +1,7 @@
 ---
 title: "agent-deck — AI 에이전트 세션 통합 터미널 관리 도구"
 date: 2026-03-25
-tags: [ai/tools, dev/terminal, productivity/agent-management]
+tags: [ai/tools, dev/cli, ai/agent]
 description: "여러 AI 코딩 에이전트(Claude Code, Gemini 등)를 하나의 터미널에서 통합 관리하는 오픈소스 CLI 도구. 에이전트 상태 실시간 모니터링, MCP 연결, 비용 추적 등 지원."
 source: "https://github.com/asheshgoplani/agent-deck"
 ---

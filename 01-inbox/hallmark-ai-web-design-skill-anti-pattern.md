@@ -1,7 +1,7 @@
 ---
 title: "Hallmark — 'AI가 만든 티' 나는 웹디자인을 없애주는 디자인 매뉴얼 스킬 (★23,700)"
 date: 2026-08-08
-tags: [design/web, ai/claude-code, productivity/workflow]
+tags: [design/ui, ai/claude-code, productivity/workflow]
 description: "Claude Code·Codex 같은 AI 코딩 도구에 디자인 판단 기준을 심어주는 오픈소스 스킬. 뻔한 AI 디자인 패턴 회피·57개 품질 기준 검사·Design DNA 추출 등 4가지 모드로 웹사이트 품질을 끌어올린다."
 source: "https://github.com/Nutlope/hallmark"
 ---

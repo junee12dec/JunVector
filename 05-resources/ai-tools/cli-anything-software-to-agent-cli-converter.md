@@ -1,7 +1,7 @@
 ---
 title: "CLI-Anything — 모든 소프트웨어를 에이전트용 CLI로 변환하는 도구 (명령어 1개)"
 date: 2026-05-01
-tags: [agent/tool, dev/cli, ai/automation]
+tags: [ai/agent, dev/cli, productivity/automation]
 description: "GIMP·Blender·LibreOffice·OBS 등 어떤 소프트웨어든 명령어 하나로 에이전트 네이티브 CLI로 자동 생성. AI 에이전트가 GUI를 다루는 대신 CLI로 소프트웨어를 제어하게 만드는 핵심 도구."
 source: "https://www.threads.com/@githubprojects/post/DX8aPCvGp0N"
 ---

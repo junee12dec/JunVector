@@ -1,7 +1,7 @@
 ---
 title: "케이-스킬 — 한국인을 위한 AI 에이전트 스킬 모음"
 date: 2026-04-02
-tags: [dev/agent-skills, productivity/automation]
+tags: [ai/skill, productivity/automation]
 description: "한국 생활의 번거로운 작업(교통 예약, 쇼핑, 법령 검색 등)을 AI 에이전트가 자동화하도록 돕는 오픈소스 스킬 모음집. 스타 1.3k를 달성한 한국인 전용 프로젝트."
 source: "https://github.com/NomaDamas/k-skill"
 ---

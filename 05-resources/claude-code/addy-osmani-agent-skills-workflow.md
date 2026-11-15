@@ -1,7 +1,7 @@
 ---
 title: "Addy Osmani의 agent-skills — AI 에이전트에 시니어 엔지니어 습관 심기"
 date: 2026-04-06
-tags: [ai/agent-skills, dev/workflow, ai/coding-agent]
+tags: [ai/skill, productivity/workflow, ai/agent]
 description: "구글 Cloud AI 디렉터 Addy Osmani가 시니어 엔지니어의 워크플로 19개를 마크다운으로 패키징한 agent-skills 오픈소스 프로젝트 소개."
 source: "https://www.threads.com/@unclejobs.ai/post/DWy4tLakxU3"
 ---

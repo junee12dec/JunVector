@@ -1,7 +1,7 @@
 ---
 title: "OpenWiki — 코드베이스 문서를 자동으로 쓰고 유지하는 CLI (LangChain AI)"
 date: 2026-07-03
-tags: [dev/documentation, ai/coding-agent, dev/workflow]
+tags: [dev/tools, ai/agent, productivity/workflow]
 description: "코드베이스 전체를 스캔해 에이전트 친화적 문서를 자동 생성·갱신하는 CLI. CLAUDE.md·AGENTS.md를 자동 업데이트하고 매일 GitHub PR을 열어 문서를 최신 상태로 유지."
 source: "https://github.com/langchain-ai/openwiki"
 ---

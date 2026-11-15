@@ -1,7 +1,7 @@
 ---
 title: "code-graph-rag — 모노레포를 지식 그래프로 만들어 AI가 자연어로 코드를 검색·편집하는 RAG"
 date: 2026-08-08
-tags: [dev/tools, ai/rag, dev/code-analysis]
+tags: [dev/tools, ai/rag]
 description: "Tree-sitter로 다국어 코드베이스를 파싱해 Memgraph 지식 그래프를 구성하고, 자연어 쿼리로 함수·클래스 검색·수정·최적화까지 처리하는 모노레포 전용 RAG CLI. Python·TS·Rust·Go 등 13개 언어 지원."
 source: "https://github.com/vitali87/code-graph-rag"
 ---

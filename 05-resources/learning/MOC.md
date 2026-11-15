@@ -1,7 +1,7 @@
 ---
 title: "Learning MOC"
 date: 2026-03-13
-tags: [meta/moc, learning]
+tags: [meta/moc, learning/resources]
 description: "강의, 튜토리얼, 학습 자료 목차."
 ---
 

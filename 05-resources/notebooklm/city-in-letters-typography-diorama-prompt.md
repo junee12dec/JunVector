@@ -1,7 +1,7 @@
 ---
 title: "글자 속 도시 — 3D 타이포그래피 다이오라마 나노바나나 프롬프트"
 date: 2026-03-22
-tags: [ai/image-generation, productivity/prompts]
+tags: [ai/image, ai/prompt]
 description: "도시명을 입력하면 글자 자체가 미니어처 도시가 되는 3D 타이포그래피 아트를 생성하는 나노바나나 프롬프트. 한글/영문 모두 지원하며 Octane Render / Cinema 4D 스타일로 렌더링."
 source: "https://www.threads.com/@jeju_harry/post/DWLTVvmAaFV"
 ---

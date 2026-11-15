@@ -1,7 +1,7 @@
 ---
 title: "Open Design — Claude Design 오픈소스 대안 (아티팩트 우선, 로컬 Daemon + Vercel)"
 date: 2026-05-15
-tags: [design/tool, ai/agent-skill, design/system, dev/tool]
+tags: [design/resources, ai/skill, design/system, dev/tools]
 description: "Anthropic Claude Design의 클로즈드 소스 문제를 해결한 오픈소스 대안. 동일한 아티팩트 우선 루프를 웹앱 + 로컬 Daemon 아키텍처로 구현, BYOK·자가 호스팅·Vercel 배포 지원."
 source: "https://github.com/nexu-io/open-design"
 ---

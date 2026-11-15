@@ -1,7 +1,7 @@
 ---
 title: "DESIGN.md — AI 코딩 에이전트에 디자인 시스템 이식하는 법"
 date: 2026-04-02
-tags: [ai/agent, design/system, dev/tool]
+tags: [ai/agent, design/system, dev/tools]
 description: "Google Labs가 Apache 2.0으로 공개한 DESIGN.md — 프로젝트 루트에 파일 하나로 Claude Code·Cursor·Copilot이 모두 같은 브랜드로 UI를 만든다. YAML 토큰 + 마크다운 근거의 2층 구조."
 source: "https://www.threads.com/@choi.openai/post/DWn9J1mEpb4?xmt=AQF05j7XvNoE5u_XVpT_tEwKEjwiO0mR0Kbkpc4MSp7pGJm-62myMcPQ4LZCvdXiwJ3McgYF&slof=1"
 ---

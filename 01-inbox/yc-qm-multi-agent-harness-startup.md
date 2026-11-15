@@ -1,7 +1,7 @@
 ---
 title: "YC QM — 스타트업 전체를 에이전트로 돌리는 멀티 에이전트 하네스 오픈소스"
 date: 2026-07-26
-tags: [ai/agent, dev/ai-infra, strategy/organization]
+tags: [ai/agent, dev/infra, strategy/organization]
 description: "YC가 내부에서 쓰던 멀티 에이전트 실행 하네스 QM을 MIT로 공개. 개인이 아닌 조직 단위로 설계돼 회계·법무·엔지니어링 전부를 에이전트로 운영하며, 설치 문서의 첫 독자도 에이전트다."
 source: "https://github.com/yc-software/qm"
 ---

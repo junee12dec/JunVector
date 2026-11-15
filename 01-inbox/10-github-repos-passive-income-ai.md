@@ -1,7 +1,7 @@
 ---
 title: "자동으로 수익을 만드는 GitHub 레포 10선 — 트레이딩·광고·SEO·AI 도구"
 date: 2026-07-21
-tags: [ai/agent, dev/open-source, strategy/monetization]
+tags: [ai/agent, dev/open-source, strategy/business]
 description: "자동 헤지펀드, 바이브 트레이딩, AI 광고 생성, SEO 최적화, 핀테크 터미널 등 수익화 가능한 AI/에이전트 오픈소스 레포 10개 모음."
 source: "https://www.threads.com/@theultronai/post/DbKdAjfm80v"
 ---

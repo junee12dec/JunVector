@@ -1,7 +1,7 @@
 ---
 title: "Semiotic — MCP 서버 내장 React 데이터 시각화 오픈소스 (실시간·네트워크 그래프·대시보드)"
 date: 2026-09-07
-tags: [dev/frontend, ai/mcp, dev/dataviz]
+tags: [dev/frontend, ai/mcp, dev/data]
 description: "React용 데이터 시각화 라이브러리로 일반 차트·실시간 스트리밍·네트워크 그래프·대시보드를 지원. MCP 서버가 내장돼 Claude Code 같은 AI 코딩 도구가 스키마를 읽고 차트를 더 정확하게 생성할 수 있다."
 source: "https://github.com/nteract/semiotic"
 ---

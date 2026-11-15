@@ -1,7 +1,7 @@
 ---
 title: "LoopX — 장기 실행 AI 에이전트 팀을 위한 상태 커널 오픈소스"
 date: 2026-08-08
-tags: [ai/agent, dev/ai-infra, ai/claude-code]
+tags: [ai/agent, dev/infra, ai/claude-code]
 description: "Codex·Claude Code·Cursor와 호환되는 provider-neutral 에이전트 제어 평면. 목표·게이트·할일·증거·할당량을 세션을 넘어 유지하며 '루프는 계속, 판단은 사람이'라는 철학으로 설계된 Python 오픈소스."
 source: "https://github.com/huangruiteng/loopx"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "ai-knowledge-graph — LLM으로 비정형 텍스트를 지식 그래프로 변환하는 오픈소스"
 date: 2026-09-07
-tags: [ai/llm, dev/knowledge-graph, ai/rag]
+tags: [ai/llm, ai/rag]
 description: "비정형 텍스트를 LLM을 활용해 자동으로 지식 그래프로 변환하는 오픈소스 프로젝트. 엔티티와 관계를 추출해 그래프 구조로 저장하며, RAG 시스템이나 지식 관리에 활용할 수 있다."
 source: "https://github.com/robert-mcdermott/ai-knowledge-graph"
 ---

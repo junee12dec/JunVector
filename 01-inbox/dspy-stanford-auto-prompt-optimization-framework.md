@@ -1,7 +1,7 @@
 ---
 title: "DSPy — 프롬프트 대신 파이썬 코드로 LLM 파이프라인을 정의하고 자동 최적화하는 스탠포드 프레임워크"
 date: 2026-08-08
-tags: [ai/prompt-engineering, dev/llm, dev/python]
+tags: [ai/prompt, ai/llm, dev/tools]
 description: "LLM 호출을 파이썬 모듈로 추상화하고, 데이터셋만 주면 프롬프트 지시문과 Few-shot 예시를 알고리즘이 스스로 탐색·최적화하는 스탠포드 오픈소스. 수작업 프롬프트 튜닝을 코드 기반 최적화로 대체."
 source: "https://github.com/stanfordnlp/dspy"
 ---

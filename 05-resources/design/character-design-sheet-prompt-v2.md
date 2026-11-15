@@ -1,7 +1,7 @@
 ---
 title: "캐릭터 일관성 유지 디자인 시트 프롬프트 2탄"
 date: 2026-03-25
-tags: [ai/image-generation, design/character, productivity/prompt]
+tags: [ai/image, design/resources, ai/prompt]
 description: "레퍼런스 이미지 한 장으로 캐릭터·강아지 디자인 시트를 한 번에 생성하는 AI 프롬프트 모음. 여러 장 이미지를 따로 만들 필요 없이 정면·측면·후면 등 다각도 뷰를 한 장에 정리할 수 있다."
 source: "https://www.threads.com/@moongi_adventures/post/DWM1cgaktXi"
 ---

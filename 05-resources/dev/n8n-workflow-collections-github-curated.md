@@ -1,7 +1,7 @@
 ---
 title: "n8n 워크플로 모음집 — GitHub 4대 큐레이션 레포 정리 (최대 54.6k⭐)"
 date: 2026-05-23
-tags: [productivity/automation, dev/workflow, selfhosted/platform, dev/tool]
+tags: [productivity/automation, productivity/workflow, dev/self-hosted, dev/tools]
 description: "n8n 자동화 워크플로를 모아놓은 GitHub 레포 4개 비교 정리. Zie619의 4,343개 워크플로(54.6k⭐)부터 폴더 정리본·AI 에이전트 전용·검색 가능 인덱스까지 용도별로 골라 쓸 수 있다."
 source: "https://github.com/Zie619/n8n-workflows"
 ---

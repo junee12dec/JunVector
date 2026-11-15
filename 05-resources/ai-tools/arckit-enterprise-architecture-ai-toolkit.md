@@ -1,7 +1,7 @@
 ---
 title: "ArcKit — AI 네이티브 엔터프라이즈 아키텍처 거버넌스 툴킷 (68개 슬래시 명령, 10개 자율 에이전트)"
 date: 2026-05-23
-tags: [ai/agent, dev/tool, dev/architecture, agent/skill]
+tags: [ai/agent, dev/tools, dev/architecture, ai/skill]
 description: "Claude Code·Copilot·Gemini CLI·Codex에서 68개 슬래시 명령으로 아키텍처 산출물을 생성하는 오픈소스 툴킷. 10개 자율 리서치 에이전트, AWS/Azure/GCP MCP 서버, UK 정부 거버넌스 프레임워크 내장."
 source: "https://github.com/tractorjuice/arc-kit"
 ---

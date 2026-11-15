@@ -1,7 +1,7 @@
 ---
 title: "PageIndex — 벡터DB·청킹 없이 동작하는 Reasoning 기반 RAG 오픈소스"
 date: 2026-07-21
-tags: [ai/rag, dev/ai-infra, research/llm]
+tags: [ai/rag, dev/infra, ai/research]
 description: "임베딩·청킹·벡터DB 없이 문서 구조를 계층형 트리로 파싱하고 LLM이 목차처럼 추론하며 탐색하는 새로운 방식의 RAG. '유사도 ≠ 관련성' 문제를 해결한다."
 source: "https://github.com/VectifyAI/PageIndex"
 ---

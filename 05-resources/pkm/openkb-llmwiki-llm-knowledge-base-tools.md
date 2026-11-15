@@ -1,7 +1,7 @@
 ---
 title: "openkb·llmwiki로 LLM 지식베이스 구축하기 — 설치·사용법 실전 가이드"
 date: 2026-05-15
-tags: [ai/llm, pkm/knowledge-base, dev/tool, agent/mcp]
+tags: [ai/llm, productivity/pkm, dev/tools, ai/mcp]
 description: "Karpathy의 LLM Wiki 패턴을 실제로 구현한 두 오픈소스 도구 openkb(pip CLI)와 llmwiki(Claude MCP 연동)의 설치 방법, 주요 명령어, 작동 방식을 정리한 실전 가이드."
 source: "https://m.blog.naver.com/pjt3591oo/224280557887"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Claude로 웹사이트 만들 때 AI 티 없애는 사이트 6개 + CLAUDE.md 프롬프트"
 date: 2026-11-10
-tags: [ai/claude, design/web, productivity/tools]
+tags: [ai/claude, design/ui, productivity/tools]
 description: "Claude Opus 5.5로 웹사이트 만들 때 AI스러운 느낌을 없애주는 사이트 6곳과 CLAUDE.md에 바로 붙여 넣을 수 있는 프론트엔드 참고 지침 프롬프트."
 source: "https://www.threads.com/share/BA1iJfZyrk"
 ---

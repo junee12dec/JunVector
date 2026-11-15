@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT 이미지 감성 손그림 주석 프롬프트 — 인스타 스토리풍 꾸미기"
 date: 2026-04-24
-tags: [ai/image-generation, productivity/prompt, design/aesthetic]
+tags: [ai/image, ai/prompt, design/system]
 description: "업로드한 사진을 흰 펜 손그림 주석과 한글 손글씨로 감성적으로 꾸미는 ChatGPT 이미지 프롬프트. 인스타그램 스토리풍·잡지 메모풍으로 변환."
 source: "https://www.threads.com/@ddeoyooni/post/DXgEh3VAAso"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Nemotron-Personas-Korea — NVIDIA의 700만 한국어 페르소나 데이터셋"
 date: 2026-04-25
-tags: [dev/dataset, ai/llm, dev/korean-ai]
+tags: [dev/data, ai/llm]
 description: "NVIDIA가 한국 통계청 자료 기반으로 700만 명의 가상 한국인 페르소나를 통계학적으로 설계한 대규모 한국어 데이터셋. 국내 최초 규모의 한국어 페르소나 데이터셋."
 source: "https://www.threads.com/@sang_woon_82/post/DXk7-mbD9ec"
 ---

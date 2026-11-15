@@ -1,7 +1,7 @@
 ---
 title: "SIE — 임베딩·리랭킹·추출을 하나로 통합한 RAG 추론 API (Superlinked)"
 date: 2026-05-15
-tags: [ai/rag, dev/tool, ai/embedding, dev/api]
+tags: [ai/rag, dev/tools, ai/llm, dev/backend]
 description: "RAG 파이프라인에서 임베딩·리랭킹 서버를 따로 세팅할 필요 없이 85개 이상의 모델을 단일 API로 제공하는 오픈소스. OpenAI 규격 호환으로 기존 코드 수정 없이 로컬→프로덕션 배포 가능."
 source: "https://www.threads.com/@feelfree_ai/post/DYeQ_XbAey2"
 ---

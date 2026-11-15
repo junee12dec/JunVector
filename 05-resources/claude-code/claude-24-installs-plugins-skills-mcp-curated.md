@@ -1,7 +1,7 @@
 ---
 title: "Claude 성능 2배로 만드는 24가지 설치 목록 — 플러그인·스킬·MCP 서버 큐레이션"
 date: 2026-05-23
-tags: [ai/claude, agent/skill, productivity/automation, dev/tool]
+tags: [ai/claude, ai/skill, productivity/automation, dev/tools]
 description: "Claude Code에 설치하면 생산성을 2배로 높이는 24가지 목록. 플러그인 8개, 스킬 8개, MCP 서버 8개로 구성된 실전 큐레이션."
 source: "https://www.threads.com/@_aicentral/post/DYwGrvTlUm6"
 ---

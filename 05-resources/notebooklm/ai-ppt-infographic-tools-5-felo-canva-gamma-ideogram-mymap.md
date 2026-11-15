@@ -1,7 +1,7 @@
 ---
 title: "AI PPT·인포그래픽 도구 5선 — Felo · Canva · Gamma · Ideogram · MyMap AI"
 date: 2026-04-16
-tags: [ai/tools, productivity/presentation, design/tools]
+tags: [ai/tools, productivity/presentation, design/resources]
 description: "PPT 제작의 각 단계(조사·디자인·이미지·시각화)를 AI로 해결하는 도구 5가지 모음. 목적에 따라 골라 쓰는 실용 가이드."
 source: "https://www.threads.com/@coolseop_d/post/DXMNWc_metr"
 ---

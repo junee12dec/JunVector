@@ -1,7 +1,7 @@
 ---
 title: "agentOS — 크롬 V8 격리 기술로 에이전트를 탭처럼 돌리는 런타임"
 date: 2026-04-01
-tags: [ai/agent, dev/infrastructure, dev/backend]
+tags: [ai/agent, dev/infra, dev/backend]
 description: "Rivet 팀이 만든 AI 에이전트 운영체제. 크롬 V8 isolate 기술을 적용해 에이전트 시작 시간 6ms(기존 대비 516배 빠름), 메모리 131MB(기존 대비 1/8), 비용 1/32를 달성한 오픈소스 런타임."
 source: "https://www.threads.com/@unclejobs.ai/post/DWllOFACRxD"
 ---

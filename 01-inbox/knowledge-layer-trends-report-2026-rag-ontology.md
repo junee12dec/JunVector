@@ -1,7 +1,7 @@
 ---
 title: "지식 레이어 최신 동향 리포트 (2026.10) — RAG·LLM Wiki·Ontology 계층화 6개월 조사"
 date: 2026-10-23
-tags: [ai/rag, ai/agent, dev/knowledge-graph]
+tags: [ai/rag, ai/agent]
 description: "Hermes Knowledge Layer 업그레이드를 위해 조사한 최근 6개월 업계 동향 37페이지 PDF. RAG·LLM Wiki·Ontology 등 지식 저장소를 계층화해 적재적소에 활용하려는 시도들을 정리한 자료."
 source: "https://www.threads.com/share/BAl5XKHyIy/"
 ---

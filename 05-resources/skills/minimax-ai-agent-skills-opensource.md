@@ -1,7 +1,7 @@
 ---
 title: "MiniMax AI 에이전트 스킬 오픈소스 공개"
 date: 2026-03-23
-tags: [ai/tools, dev/agent]
+tags: [ai/tools, ai/agent]
 description: "MiniMax가 Claude Code·Cursor·Codex 등 주요 AI 에이전트를 위한 6종 스킬을 오픈소스로 공개. 프론트엔드·백엔드·모바일·GLSL·GIF 스티커 제작 지원, MiniMax 미디어 생성 API 내장."
 source: "https://www.threads.com/@daon_k/post/DWNbsWaCU83?xmt=AQF07otAtxd_cA2BREPi9DT3sb5naenp5HQ7YENeEL4gex3fHAJ3Uh27mZ7NaLvthVrNUt0H&slof=1"
 ---

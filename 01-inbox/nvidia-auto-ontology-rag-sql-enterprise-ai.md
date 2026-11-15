@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA auto-ontology — 기업 AI 환각을 잡는 자동 온톨로지 오픈소스"
 date: 2026-11-05
-tags: [ai/rag, dev/knowledge-graph, strategy/enterprise]
+tags: [ai/rag, strategy/enterprise]
 description: "NVIDIA가 공개한 오픈소스. DB 구조를 분석해 계산 기준·용어 의미를 자동 학습하고 SQL을 근거와 함께 생성해 기업 AI의 환각 문제를 완화. Apache 2.0."
 source: "https://github.com/NVIDIA/auto-ontology"
 ---

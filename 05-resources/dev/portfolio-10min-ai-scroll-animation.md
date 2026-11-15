@@ -1,7 +1,7 @@
 ---
 title: "10분 만에 완성하는 스크롤 애니메이션 포트폴리오 (AI 도구 활용)"
 date: 2026-03-19
-tags: [dev/frontend, productivity/vibe-coding, dev/portfolio]
+tags: [dev/frontend, productivity/workflow, strategy/career]
 description: "Google Whisk, ezgif, Google Antigravity를 조합해 스크롤 연동 이미지 시퀀스 애니메이션이 포함된 프리미엄 포트폴리오 웹사이트를 10분 안에 구축하는 단계별 가이드."
 ---
 

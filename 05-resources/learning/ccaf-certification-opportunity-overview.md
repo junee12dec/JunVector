@@ -1,7 +1,7 @@
 ---
 title: "CCAF 자격증 — 지금 잡아야 할 비대칭 기회"
 date: 2026-03-23
-tags: [ai/claude, learning/certification, career/opportunity]
+tags: [ai/claude, learning/certification, strategy/career]
 description: "Anthropic의 Claude Certified Architect Foundations 자격증이 무료로 취득 가능한 초기 단계. 대기업 도입 현황과 채용 시장 전망, 개인 응시 방법을 정리."
 source: "https://www.threads.com/@focusrefresh/post/DWNNzsEjwoe"
 ---

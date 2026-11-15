@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Mind — 엔지니어를 위한 완성형 Claude Code 외부 뇌"
 date: 2026-04-05
-tags: [tools/obsidian, ai/claude-code, productivity/pkm]
+tags: [productivity/pkm, ai/claude-code]
 description: "Claude Code와 연동해 세션을 넘어 지식·기억·성과를 자동으로 축적하는 완성형 Obsidian Vault 템플릿. 15개 슬래시 명령어와 9개 서브에이전트를 포함한다."
 source: "https://www.threads.com/@lucas_flatwhite/post/DWtbUjWEcCb"
 ---

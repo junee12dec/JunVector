@@ -1,7 +1,7 @@
 ---
 title: "David Ondrej의 Agent Skills — AI 에이전트 워크플로우 스킬 오픈소스 모음"
 date: 2026-07-05
-tags: [ai/coding-agent, ai/agent, dev/workflow]
+tags: [ai/agent, productivity/workflow]
 description: "AI 코딩·연구·워크플로우 에이전트를 연결하고 조율하는 재사용 가능한 스킬 모음. 에이전트 오케스트레이션부터 웹 조사, 문서화, 서버 설정까지 5개 카테고리."
 source: "https://github.com/davidondrej/skills"
 ---

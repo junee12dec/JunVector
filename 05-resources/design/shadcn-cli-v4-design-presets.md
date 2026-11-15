@@ -1,7 +1,7 @@
 ---
 title: "Shadcn CLI v4 — AI 친화적 디자인 시스템 프리셋 (2026-03)"
 date: 2026-03-19
-tags: [dev/frontend, dev/ui, productivity/vibe-coding]
+tags: [dev/frontend, productivity/workflow]
 description: "Shadcn CLI v4가 디자인 프리셋, AI 에이전트 스킬, 드라이런 플래그 등을 추가해 바이브코딩에 최적화된 디자인 시스템 도구로 진화했다."
 source: "https://ui.shadcn.com/docs/changelog/2026-03-cli-v4"
 ---

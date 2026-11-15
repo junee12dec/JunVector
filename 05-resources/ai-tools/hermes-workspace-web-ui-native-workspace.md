@@ -1,7 +1,7 @@
 ---
 title: "Hermes Workspace — Hermes Agent용 네이티브 Web UI 통합 작업공간 (4.7k⭐)"
 date: 2026-05-22
-tags: [ai/agent, ai/claude, dev/tool, selfhosted/platform]
+tags: [ai/agent, ai/claude, dev/tools, dev/self-hosted]
 description: "Hermes Agent의 CLI·텔레그램 대신 쓸 수 있는 Web UI 버전. 채팅·터미널·메모리·스킬·대시보드를 한 화면에서 관리하며 2,000개 이상 스킬 브라우징과 멀티프로필 설정 지원."
 source: "https://github.com/outsourc-e/hermes-workspace"
 ---

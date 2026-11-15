@@ -1,7 +1,7 @@
 ---
 title: "AI 에이전트 프로덕션 실패 해부 — Scientific Agent Skills와 Sandboxed Runtime"
 date: 2026-05-09
-tags: [agent/architecture, ai/rag, dev/production]
+tags: [ai/agent, ai/rag, dev/infra]
 description: "단순 RAG로 때우던 방식의 한계와, 필요한 절차적 지식만 런타임에 주입하는 Scientific Agent Skills + Sandboxed Runtime 접근법. 토큰 낭비를 줄이고 프로덕션 안정성을 높이는 방향."
 source: "https://www.threads.com/@opsoai/post/DYTIxVTkg9H"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "앤드류 응의 AI 엔지니어링 스킬 맵 — 모든 개발자가 갖춰야 할 4가지 역량"
 date: 2026-08-08
-tags: [ai/agent, strategy/career, dev/workflow]
+tags: [ai/agent, strategy/career, productivity/workflow]
 description: "1만 건 채용공고 분석과 수십 명 인터뷰를 바탕으로 앤드류 응이 정리한 AI 시대 개발자 필수 역량 4가지. 코드 작성 능력의 희소성은 낮아지고, AI 통제·기본기·에이전트 숙련도·무엇을 만들지 결정하는 판단력의 가치가 올라간다."
 source: "https://www.threads.com/share/BAVReCWhZA/"
 ---

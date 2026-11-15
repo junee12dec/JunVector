@@ -1,7 +1,7 @@
 ---
 title: "Claude Code 비주얼 가이드 — 예제 중심 copy-paste 템플릿 사이트"
 date: 2026-04-08
-tags: [ai/claude, dev/tools, productivity/templates]
+tags: [ai/claude, dev/tools, productivity/tools]
 description: "기본 개념부터 고급 에이전트까지, 예제 중심으로 구성된 Claude Code 비주얼 가이드. 바로 쓸 수 있는 copy-paste 템플릿을 제공한다."
 source: "https://osp.fyi/claude-howto/"
 ---

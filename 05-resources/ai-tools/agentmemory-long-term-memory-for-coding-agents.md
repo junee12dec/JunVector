@@ -1,7 +1,7 @@
 ---
 title: "agentmemory — AI 코딩 에이전트용 장기 기억 저장소 오픈소스 (11.2k⭐)"
 date: 2026-05-15
-tags: [ai/agent, dev/tool, agent/memory, productivity/automation]
+tags: [ai/agent, dev/tools, productivity/automation]
 description: "Claude Code, Codex CLI, Cursor, Gemini CLI 등 AI 코딩 에이전트의 세션 간 기억을 유지하는 오픈소스. 12개 자동 후크로 작업 내용을 캡처하고 다음 세션 시작 시 관련 기억을 주입한다."
 source: "https://www.threads.com/@ai_jjuun/post/DYbv-bOk4jU"
 ---

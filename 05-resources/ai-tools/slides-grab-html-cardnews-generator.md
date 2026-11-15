@@ -1,7 +1,7 @@
 ---
 title: "slides-grab — HTML 카드뉴스 자동 생성 시스템 (프롬프트 + 검증 + 에디터)"
 date: 2026-04-26
-tags: [productivity/automation, ai/image-generation, dev/tool]
+tags: [productivity/automation, ai/image, dev/tools]
 description: "프롬프트 단독이 아닌 자동 검증·에디터까지 합쳐진 오픈소스 카드뉴스 생성 시스템. HTML 디자인 기반으로 Claude Design 대용으로 활용 가능."
 source: "https://www.threads.com/@bunniesossdev/post/DXncfn-kwYv"
 ---

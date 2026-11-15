@@ -1,7 +1,7 @@
 ---
 title: "iii (three eye) — API·큐·스케줄러·옵저버빌리티를 하나로 합친 오픈소스 백엔드 런타임 (17k⭐)"
 date: 2026-05-29
-tags: [dev/backend, dev/tool, selfhosted/platform, productivity/automation]
+tags: [dev/backend, dev/tools, dev/self-hosted, productivity/automation]
 description: "Function·Trigger·Worker 3개 프리미티브로 API·큐·스케줄러·옵저버빌리티를 통합하는 단일 바이너리 런타임. TypeScript·Python·Rust 지원, CLI 한 줄로 새 도구 추가."
 source: "https://github.com/iii-hq/iii"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "한컴 open-data-loader v2.0 — GitHub 트렌딩 1위, PDF → AI 데이터 변환 오픈소스"
 date: 2026-03-24
-tags: [dev/llm-tooling, ai/data, dev/opensource]
+tags: [ai/tools, dev/data, dev/open-source]
 description: "한국 한컴이 만든 PDF → AI 데이터 변환 오픈소스. 출시 일주일 만에 7,000+ GitHub 스타로 전체 트렌딩 1위. 동종 대비 전 항목 최고 정확도, Apache 2.0."
 source: "https://www.threads.com/@aisolutiondev/post/DWP1pKygd-5"
 ---

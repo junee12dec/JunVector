@@ -1,7 +1,7 @@
 ---
 title: "500+ AI 에이전트 프로젝트 — 산업별 분류 오픈소스 모음"
 date: 2026-03-25
-tags: [ai/agents, dev/opensource, reference/curated]
+tags: [ai/agent, dev/open-source, learning/resources]
 description: "의료·금융·교육·리테일 등 다양한 산업별 AI 에이전트 구현체 500개 이상을 정리한 GitHub 레포. CrewAI, AutoGen, Agno, LangGraph 프레임워크별로도 분류되어 있다."
 source: "https://github.com/ashishpatel26/500-AI-Agents-Projects"
 ---

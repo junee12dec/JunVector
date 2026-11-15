@@ -1,7 +1,7 @@
 ---
 title: "프리미엄 미니멀 플랫벡터 도시 여행 포스터 프롬프트"
 date: 2026-06-21
-tags: [design/image-prompt, ai/image-generation, design/poster]
+tags: [ai/image, design/resources]
 description: "GPT Image 2.0으로 도시명만 바꾸면 프리미엄 플랫벡터 여행 포스터를 생성하는 완성형 프롬프트. 배경·구도·스타일·색상·무드·네거티브 프롬프트까지 전부 세팅된 템플릿."
 source: "https://www.threads.com/@jazzrang/post/DZ6XMzBCfPv"
 ---

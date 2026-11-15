@@ -1,7 +1,7 @@
 ---
 title: "SourceLoop — AI와 NotebookLM이 대화하는 자동 자료수집 에이전트"
 date: 2026-03-27
-tags: [agent/workflow, ai-tools/notebooklm, dev/automation]
+tags: [ai/agent, ai/notebooklm, dev/automation]
 description: "AI가 질문을 생성하고 NotebookLM과 질의응답하며 심층 분석 결과를 Obsidian Markdown으로 추출하는 로컬 리서치 자동화 툴. Codex·Claude Code·Gemini CLI에서 사용 가능."
 source: "https://www.threads.com/@2_taewoo/post/DWdXRDWlDnq"
 ---

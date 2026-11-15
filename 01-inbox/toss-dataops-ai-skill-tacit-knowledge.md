@@ -1,7 +1,7 @@
 ---
 title: "토스 DataOps — 담당자 머릿속 맥락을 AI 스킬로 꺼내 팀 전체가 쓰게 만든 이야기"
 date: 2026-10-24
-tags: [ai/agent, strategy/team, productivity/knowledge-management]
+tags: [ai/agent, strategy/organization, productivity/pkm]
 description: "토스 DataOps Manager 팀이 앱 로그 정의 작업을 AI 스킬로 만들어 담당자 머릿속에만 있던 암묵적 맥락을 팀 전체 자산으로 바꾼 과정. 품질을 가른 건 규칙이 아니라 맥락이었다."
 source: "https://toss.tech/article/dataops-log-definition-skill"
 ---

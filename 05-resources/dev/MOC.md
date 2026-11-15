@@ -1,7 +1,7 @@
 ---
 title: "Dev MOC"
 date: 2026-03-13
-tags: [meta/moc, dev]
+tags: [meta/moc, dev/tools]
 description: "개발 도구, no-code, vibe-coding 관련 자료 목차."
 ---
 

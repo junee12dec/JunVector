@@ -1,7 +1,7 @@
 ---
 title: "영글맨 — 현직교사 Obsidian·OpenClo·에르메스 활용 고수"
 date: 2026-04-08
-tags: [people/creator, ai/obsidian, ai/openclo, productivity/pkm]
+tags: [learning/people, productivity/pkm, ai/agent]
 description: "현직교사이자 Obsidian·OpenClo 고수. 시사기획창 출연, 에르메스 주력 사용, 초보자용 웹 UI 제공 중."
 source: "https://www.threads.com/@ai_younggle_man/post/DW30kHKk7L1"
 ---

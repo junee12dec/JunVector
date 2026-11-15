@@ -1,7 +1,7 @@
 ---
 title: "프로덕션 AI 에이전트 아키텍처 — security·evaluation·observability·.claude 4계층"
 date: 2026-05-09
-tags: [agent/architecture, dev/production, ai/llm]
+tags: [ai/agent, dev/infra, ai/llm]
 description: "데모는 파일 하나지만 프로덕션은 다르다 — security(입력·콘텐츠·출력 3중 가드), evaluation(골든 데이터셋+온라인 모니터), observability(단계별 트레이싱), .claude(코드베이스 컨텍스트)의 4계층 구조."
 source: "https://www.threads.com/@vishi_explores/post/DYHJTGemUxM"
 ---

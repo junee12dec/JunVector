@@ -1,7 +1,7 @@
 ---
 title: "Storybook — UI 컴포넌트 격리 개발·문서화·테스트 업계 표준 워크숍 (90k⭐)"
 date: 2026-05-15
-tags: [dev/frontend, dev/tool, dev/testing, design/system]
+tags: [dev/frontend, dev/tools, design/system]
 description: "React·Vue·Angular 등 13개 프레임워크에서 UI 컴포넌트를 격리 환경에서 개발·문서화·테스트하는 업계 표준 도구. 설계 시스템 구축과 컴포넌트 품질 관리에 필수."
 source: "https://www.threads.com/@githubprojects/post/DYjreheAAqF"
 ---

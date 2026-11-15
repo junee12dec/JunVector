@@ -1,7 +1,7 @@
 ---
 title: "Media MOC"
 date: 2026-03-13
-tags: [meta/moc, media]
+tags: [meta/moc, productivity/content]
 description: "아티클, 영상, 미디어 자료 목차."
 ---
 

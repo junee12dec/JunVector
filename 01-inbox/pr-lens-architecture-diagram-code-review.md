@@ -1,7 +1,7 @@
 ---
 title: "PR Lens — PR 코드 변경을 아키텍처 다이어그램·데이터 흐름 애니메이션으로 자동 시각화"
 date: 2026-09-08
-tags: [dev/code-review, ai/agent-skills, dev/tools]
+tags: [dev/tools, ai/skill]
 description: "Pull Request의 코드 변경을 분석해 아키텍처 다이어그램과 데이터 흐름 애니메이션을 자동 생성하고 PR 코멘트에 첨부하는 오픈소스. AI 코딩 에이전트용 Skill로도 사용 가능."
 source: "https://github.com/coldteadotai/pr-lens"
 ---

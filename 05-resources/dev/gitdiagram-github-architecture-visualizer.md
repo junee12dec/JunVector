@@ -1,7 +1,7 @@
 ---
 title: "GitDiagram — GitHub 레포지토리 아키텍처 다이어그램 자동 변환"
 date: 2026-03-22
-tags: [dev/tools, ai/visualization]
+tags: [dev/tools, design/diagram]
 description: "GitHub URL에서 'github'을 'gitdiagram'으로 바꾸면 레포지토리 구조가 즉시 인터랙티브 아키텍처 다이어그램으로 변환되는 오픈소스 도구."
 source: "https://github.com/ahmedkhaleel2004/gitdiagram"
 ---

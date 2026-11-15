@@ -1,7 +1,7 @@
 ---
 title: "Claude Code 시스템 프롬프트 아키텍처"
 date: 2026-03-31
-tags: [ai/claude-code, ai/prompting]
+tags: [ai/claude-code, ai/prompt]
 description: "Claude Code의 시스템 프롬프트는 고정 문자열이 아닌 모듈식 section-builder 함수로 런타임에 동적 조립된다. 전역 캐시 가능한 prefix와 세션별 suffix를 분리해 프롬프트 캐싱을 최적화한다."
 source: "https://www.threads.com/@lucas_flatwhite/post/DWjjh78kSes"
 ---

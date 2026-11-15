@@ -1,7 +1,7 @@
 ---
 title: "MarkItDown — LLM 입력 정리 레이어로 보는 마이크로소프트 오픈소스"
 date: 2026-04-11
-tags: [ai/tools, dev/llm-tooling, productivity/automation]
+tags: [ai/tools, productivity/automation]
 description: "MarkItDown은 단순 PDF→Markdown 변환기가 아니라 PDF·Word·PPT·Excel·이미지 OCR·오디오 전사·YouTube 자막·ZIP까지 LLM이 읽을 수 있는 형태로 정리해 주는 입력 레이어다."
 source: "https://github.com/microsoft/markitdown"
 ---

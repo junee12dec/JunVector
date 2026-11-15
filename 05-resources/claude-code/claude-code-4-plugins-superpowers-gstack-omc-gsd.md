@@ -1,7 +1,7 @@
 ---
 title: "Claude Code 4대 플러그인 완전 가이드 — Superpowers·G-stack·OMC·GSD 조합 전략"
 date: 2026-05-09
-tags: [ai/claude, dev/tool, productivity/workflow]
+tags: [ai/claude, dev/tools, productivity/workflow]
 description: "바이브코딩 필수 4대 플러그인 상세 가이드. Superpowers(실행+TDD)·G-stack(의사결정)·oh-my-claudecode(병렬 에이전트)·GSD(컨텍스트 안정화)의 역할과 추천 스킬, 3층 구조 조합 전략 수록."
 source: "https://www.threads.com/@elephant_coding/post/DYRyBRdCWwf"
 ---

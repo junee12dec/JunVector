@@ -1,7 +1,7 @@
 ---
 title: "아정당 AX 빌더 조직 구축 참고자료 250건 — 국내외 24개 회사 전환 사례 큐레이션"
 date: 2026-10-20
-tags: [ai/organization, strategy/ax, productivity/team]
+tags: [strategy/organization]
 description: "아정당이 AX 빌더 조직을 만들며 읽은 국내외 24개 회사의 블로그·핸드북·채용공고·밋업 발표 약 250건 큐레이션. 직군 통합·PM 역할·채용 평가 개편 등 같은 문제에 정반대 답을 낸 사례까지 원문 기준으로 정리."
 source: "https://ajd-builder-cases.netlify.app"
 ---

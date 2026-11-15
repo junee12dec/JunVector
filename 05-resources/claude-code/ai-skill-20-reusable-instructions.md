@@ -1,7 +1,7 @@
 ---
 title: "AI 스킬 20개 — 반복 지시를 파일 하나로 끝내는 법"
 date: 2026-04-07
-tags: [ai/productivity, productivity/automation]
+tags: [ai/tools, productivity/automation]
 description: "AI에게 반복하는 지시를 .md 스킬 파일로 만들어두면 매번 입력 없이 재사용할 수 있다. 글쓰기·시각화·리서치·영상·코딩 5개 카테고리 20개 범용 스킬 정리."
 source: "https://www.threads.com/@unclejobs.ai/post/DWn1ChvCcX-?xmt=AQF0iCcyezuhQtmpAYbVP-K9euvkXeFNZVDJs8q4N-MUWbdpqJOOzTWYyWs8fmkK_520Kfb9&slof=1"
 ---

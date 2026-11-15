@@ -1,7 +1,7 @@
 ---
 title: "Windmill — 스크립트를 웹훅·워크플로우·UI로 변환하는 오픈소스 개발자 플랫폼 (16.5k⭐)"
 date: 2026-05-15
-tags: [dev/tool, productivity/automation, dev/workflow, selfhosted/platform]
+tags: [dev/tools, productivity/automation, productivity/workflow, dev/self-hosted]
 description: "Python·TypeScript·Go·Bash 등 8개 언어 스크립트를 바로 웹훅·예약 작업·UI로 변환하는 오픈소스 플랫폼. Retool·Pipedream·Temporal의 자가 호스팅 대안으로 Airflow 대비 13배 빠름."
 source: "https://www.threads.com/@burhan_ali313/post/DYiqAplCGZi"
 ---

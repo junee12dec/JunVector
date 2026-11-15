@@ -1,7 +1,7 @@
 ---
 title: "GitHub Copilot SDK — 내 앱에 Copilot 에이전트를 직접 심는 멀티 언어 SDK (Python·TS·Go·.NET·Java·Rust)"
 date: 2026-06-05
-tags: [dev/tool, ai/agent, dev/sdk, ai/copilot]
+tags: [dev/tools, ai/agent, dev/backend, ai/tools]
 description: "GitHub Copilot의 에이전트 엔진을 직접 앱에 내장할 수 있는 공식 SDK. Python·TypeScript·Go·.NET·Java·Rust 6개 언어를 지원하며, GitHub 구독 없이 BYOK(자체 키)로도 사용 가능하다."
 source: "https://github.com/github/copilot-sdk"
 ---

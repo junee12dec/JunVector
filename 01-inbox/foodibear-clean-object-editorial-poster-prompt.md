@@ -1,7 +1,7 @@
 ---
 title: "FOODIBEAR 클린 오브제 에디토리얼 포스터 프롬프트 v1.0 — 사진 한 장으로 미니멀 포스터 완성"
 date: 2026-07-25
-tags: [design/poster, ai/image-generation, ai/prompt-engineering]
+tags: [design/resources, ai/image, ai/prompt]
 description: "사진 한 장을 넣으면 오브제·타이포·여백을 자동으로 잡아주는 에디토리얼 포스터 프롬프트. 음식·인물·동물·제품 등 모든 대상에 적용 가능하며 Oversized Typography + Single Hero Object + Negative Space가 핵심."
 source: "https://www.threads.com/share/BAUCpt9UWx/"
 ---

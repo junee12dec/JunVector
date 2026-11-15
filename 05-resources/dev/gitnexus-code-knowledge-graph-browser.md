@@ -1,7 +1,7 @@
 ---
 title: "GitNexus — 브라우저에서 즉시 실행되는 코드 지식 그래프 + Graph RAG 에이전트"
 date: 2026-03-17
-tags: [dev/tools, ai/rag, dev/code-analysis]
+tags: [dev/tools, ai/rag]
 description: "GitHub 레포나 ZIP을 드래그앤드롭하면 브라우저에서 코드 지식 그래프와 Graph RAG 에이전트가 즉시 생성된다. 서버·설치 없이 낯선 레포 구조를 빠르게 파악할 수 있다."
 source: "https://github.com/abhigyanpatwari/GitNexus"
 ---

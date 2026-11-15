@@ -1,7 +1,7 @@
 ---
 title: "html-plan — 구현 계획을 인터랙티브 HTML 한 장으로 만드는 Claude Code 커뮤니티 플러그인"
 date: 2026-10-23
-tags: [ai/claude, dev/tools, productivity/planning]
+tags: [ai/claude, dev/tools, productivity/workflow]
 description: "Claude Code 팀 Thariq가 만든 커뮤니티 플러그인. 구현 계획을 긴 마크다운 대신 한 장의 인터랙티브 HTML로 시각화해 빠르게 읽고 결정한 뒤 Claude에 붙여넣으면 더 정확한 구현이 가능하다."
 source: "https://www.threads.com/share/BAAbKOXQqY/"
 ---

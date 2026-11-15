@@ -1,7 +1,7 @@
 ---
 title: "AI 온보딩 완벽 가이드 — 챕터별 입문 사이트"
 date: 2026-03-31
-tags: [ai/learning, productivity/onboarding]
+tags: [learning/resources, productivity/workflow]
 description: "AI 트렌드 입문자를 위해 챕터별로 잘 정리된 온보딩 가이드 사이트. AI를 처음 접하거나 체계적으로 정리하고 싶을 때 참고 자료로 활용 가능."
 source: "https://www.threads.com/@aje.travel/post/DWkYVfJk6xs"
 ---

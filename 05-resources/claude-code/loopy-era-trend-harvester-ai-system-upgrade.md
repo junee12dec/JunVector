@@ -1,7 +1,7 @@
 ---
 title: "loopy-era-trend-harvester — AI 트렌드를 Claude Code 시스템에 자동 반영하는 스킬"
 date: 2026-04-06
-tags: [ai/claude-code, productivity/automation, dev/skills]
+tags: [ai/claude-code, productivity/automation, ai/skill]
 description: "GitHub 트렌딩·RSS로 AI 트렌드를 수집하고, Claude가 loopy-era 정합성 점수를 매겨 자동으로 시스템에 반영하는 5단계 파이프라인. 하네스를 만드는 하네스 시스템."
 source: "https://www.threads.com/@hue_0525/post/DWwOQCbkpkw"
 ---

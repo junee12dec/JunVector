@@ -1,7 +1,7 @@
 ---
 title: "MeiGen Gallery — AI 이미지·영상 프롬프트 Pinterest (1,000+ 바이럴 프롬프트 무료 라이브러리)"
 date: 2026-05-27
-tags: [ai/image, productivity/prompt, design/tool, ai/llm]
+tags: [ai/image, ai/prompt, design/resources, ai/llm]
 description: "GPT Image·Midjourney·Seedance·Veo·Nano Banana 등에서 검증된 바이럴 프롬프트 1,000개 이상을 모아둔 무료 갤러리. 가입 없이 브라우징하고 원클릭으로 이미지·영상 생성 가능."
 source: "https://meigenai.io/"
 ---

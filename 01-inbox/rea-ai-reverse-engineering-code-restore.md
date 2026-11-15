@@ -1,7 +1,7 @@
 ---
 title: "REA — AI 에이전트가 완성된 앱을 역공학으로 원본 수준 코드로 복원하는 오픈소스"
 date: 2026-10-11
-tags: [ai/agent, dev/tools, dev/security]
+tags: [ai/agent, dev/tools]
 description: "완성된 프로그램·앱을 AI 에이전트가 역공학으로 분석해 거의 원본 수준의 코드로 복원하는 오픈소스 프로젝트. 소프트웨어 해자가 코드에서 데이터·고객 경험으로 이동하는 시대를 알리는 신호."
 source: "https://github.com/morluto/rea"
 ---

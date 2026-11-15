@@ -1,7 +1,7 @@
 ---
 title: "Book-to-SKILL — 기술서적 PDF·EPUB을 Claude Code 스킬로 자동 변환하는 오픈소스 (2.3k⭐)"
 date: 2026-05-28
-tags: [ai/claude, agent/skill, productivity/pkm, dev/tool]
+tags: [ai/claude, ai/skill, productivity/pkm, dev/tools]
 description: "PDF·EPUB 등 기술 문서를 Claude Code 스킬 포맷으로 자동 변환하는 오픈소스 도구. 책에서 프레임워크·원칙·안티패턴을 추출해 구조화된 스킬로 만들어 작업 중 참조 가능."
 source: "https://github.com/virgiliojr94/book-to-skill"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Build Your Own X — 직접 만들며 배우는 개발 학습 오픈소스 모음"
 date: 2026-07-16
-tags: [learning/cs-fundamentals, dev/open-source, learning/project-based]
+tags: [learning/resources, dev/open-source]
 description: "유명 기술(DB·OS·Git·Docker 등)을 직접 구현해보며 내부 원리를 이해하는 단계별 튜토리얼 모음. 라이브러리 사용법이 아닌 '직접 만들기'로 개발 실력을 근본부터 키울 수 있다."
 source: "https://github.com/codecrafters-io/build-your-own-x"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Bash 로그 검색 스크립트 실전 가이드"
 date: 2026-03-23
-tags: [dev/bash, dev/linux, learning/scripting]
+tags: [dev/cli, dev/infra, learning/resources]
 description: "grep을 활용한 실무 로그 검색 기법. 날짜/시간 필터링, 다중 조건, 결과 저장, 재사용 함수까지 실전 예제로 익히는 Bash 스크립트 작성법."
 source: "https://www.threads.com/@ai.corder/post/DWNgjrEEawX"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Archify — 채팅 한 줄로 아키텍처 다이어그램을 그려주는 에이전트 스킬"
 date: 2026-07-15
-tags: [ai/coding-agent, dev/workflow, design/diagram]
+tags: [ai/agent, productivity/workflow, design/diagram]
 description: "Claude Code·Codex CLI에 설치해 자연어 한 줄로 아키텍처·시퀀스·워크플로우 등 5종 다이어그램을 생성하는 오픈소스 에이전트 스킬. 3개월 만에 4,500스타."
 source: "https://www.threads.com/@think.5x/post/DazsYlWH7Ef"
 ---

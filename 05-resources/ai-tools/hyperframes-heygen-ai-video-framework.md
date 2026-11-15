@@ -1,7 +1,7 @@
 ---
 title: "HyperFrames — HeyGen이 오픈소스로 푼 AI 전용 영상 프레임워크"
 date: 2026-04-18
-tags: [ai/tools, dev/video, productivity/automation]
+tags: [ai/tools, dev/tools, productivity/automation]
 description: "HeyGen(ARR 1,400억)이 Apache 2.0으로 공개한 HTML 기반 영상 제작 프레임워크. Claude Code에 한 줄 설치 후 텍스트 한 줄로 MP4를 뽑아내는 'AI 전용 도구'로, Remotion의 HTML 대안."
 source: "https://www.threads.com/@unclejobs.ai/post/DXTxldyif1h"
 ---

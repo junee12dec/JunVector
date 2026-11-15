@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Image2 실전 프롬프트 4종 — 광고·매거진·건축·기술 해설 이미지"
 date: 2026-04-19
-tags: [ai/image-generation, design/prompt, productivity/template]
+tags: [ai/image, ai/prompt, productivity/tools]
 description: "ChatGPT Image2로 만드는 고품질 이미지 프롬프트 4가지. 한국어 광고 이미지, 매거진 스타일 광고, 건축 계획서, 기술 해설 자료 등 실용적인 비즈니스 활용 예시."
 source: "https://www.threads.com/@jh_aicafe/post/DXY4TUXGXB3"
 ---

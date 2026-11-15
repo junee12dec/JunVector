@@ -1,7 +1,7 @@
 ---
 title: "Refero Styles — 세계 최고 제품 2,000개의 DESIGN.md 파일 라이브러리"
 date: 2026-04-30
-tags: [design/system, design/tool, ai/agent-skill]
+tags: [design/system, design/resources, ai/skill]
 description: "색상·타이포그래피·간격·레이아웃 등 디자인 핵심 요소가 담긴 세계 최고 제품 2000개의 DESIGN.md 파일 컬렉션. AI에게 바로 넘겨서 세계적 수준의 디자인을 참고하거나, 나만의 DESIGN.md를 만들 때 레퍼런스로 활용."
 source: "https://www.threads.com/@aicoffeechat/post/DXxehuoCjys"
 ---

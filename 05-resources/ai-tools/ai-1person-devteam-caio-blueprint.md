@@ -1,7 +1,7 @@
 ---
 title: "AI로 1인 개발팀 만드는 법 — Caio Blueprint 가이드 (초급 + 중급)"
 date: 2026-03-18
-tags: [ai/agent, productivity/automation, dev/workflow]
+tags: [ai/agent, productivity/automation, productivity/workflow]
 description: "AI로 1인 개발팀을 구성하는 두 단계 가이드. 24개 AI 부서 구성법·워크플로우 패턴·비용 비교(초급)부터 실전 중급 Blueprint까지 포함."
 source: "https://caio-blueprint.vercel.app"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "RAG-Anything — PDF 표·수식·차트까지 이해하는 멀티모달 RAG 프레임워크"
 date: 2026-04-25
-tags: [dev/rag, dev/llm-ops, ai/multimodal]
+tags: [ai/rag, dev/infra, ai/llm]
 description: "텍스트 전용 기존 RAG의 한계를 넘어 PDF·Office·이미지의 표·수식·차트까지 멀티모달로 처리하는 올인원 RAG 프레임워크. pip 한 줄로 설치."
 source: "https://www.threads.com/@hermes_agent_kr/post/DXgkeDEgojP"
 ---

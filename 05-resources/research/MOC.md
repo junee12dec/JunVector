@@ -1,7 +1,7 @@
 ---
 title: "Research MOC"
 date: 2026-03-23
-tags: [meta/moc, research]
+tags: [meta/moc, ai/research]
 description: "논문 작업, 연구 도구, 학술 워크플로우 관련 자료 모음."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Awesome Agent Skills — AI 에이전트 스킬 최대 큐레이션 라이브러리 (1000+ 스킬)"
 date: 2026-04-29
-tags: [ai/agent-skill, ai/claude, dev/tool]
+tags: [ai/skill, ai/claude, dev/tools]
 description: "Claude Code·Codex·Gemini CLI·Cursor 등 모든 코딩 에이전트와 호환되는 1000개 이상의 에이전트 스킬을 모아둔 최대 규모 오픈소스 큐레이션 컬렉션. 공식 팀과 커뮤니티가 함께 기여."
 source: "https://www.threads.com/@githubprojects/post/DXwUmqAGuAY"
 ---

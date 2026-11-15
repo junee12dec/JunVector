@@ -1,7 +1,7 @@
 ---
 title: "Claude + NotebookLM으로 30장 PPT 만드는 3단계 워크플로우"
 date: 2026-03-13
-tags: [ai/claude, ai/notebooklm, productivity/ppt, productivity/automation]
+tags: [ai/claude, ai/notebooklm, productivity/presentation, productivity/automation]
 description: "Claude에서 JSON 설계도를 받아 NotebookLM에 분할 주입하는 방식으로 30장 PPT를 체계적으로 생성하는 실전 워크플로우. 15장씩 두 파트로 나누는 것이 핵심."
 source: "https://www.threads.com/@ai__frontier/post/DVz3jkkEsjd"
 ---

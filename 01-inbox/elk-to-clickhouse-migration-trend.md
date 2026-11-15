@@ -1,7 +1,7 @@
 ---
 title: "ELK → ClickHouse 전환 트렌드 — 비용 70~90% 절감·표준 SQL·대용량 로그 처리"
 date: 2026-09-05
-tags: [dev/infrastructure, dev/database, dev/backend]
+tags: [dev/infra, dev/backend]
 description: "업계에서 ELK 스택 대신 ClickHouse로 전환하는 움직임. 인프라 비용 최대 70~90% 절감, 수십억 건 집계 초고속 처리, 표준 SQL 지원이 주요 이유이며 우버·클라우드플레어·이베이·깃랩 등이 이미 전환 완료."
 source: "https://nchime.github.io/blog/20260905-elk-to-clickhouse"
 ---

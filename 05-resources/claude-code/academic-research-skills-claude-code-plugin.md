@@ -1,7 +1,7 @@
 ---
 title: "Academic Research Skills — Claude Code로 논문 작성 전 과정 자동화 플러그인 (7.4k⭐)"
 date: 2026-05-15
-tags: [ai/claude, dev/tool, productivity/research, agent/multi-agent]
+tags: [ai/claude, dev/tools, ai/research, ai/agent]
 description: "Claude Code 플러그인 하나로 리서치→논문 작성→동료 검토 전 과정을 멀티 에이전트로 자동화. 30초 설치, 4개 스킬·42개 에이전트, APA/IEEE 등 주요 인용 형식 지원."
 source: "https://github.com/Imbad0202/academic-research-skills"
 ---

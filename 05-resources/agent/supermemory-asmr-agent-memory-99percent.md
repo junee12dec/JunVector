@@ -1,7 +1,7 @@
 ---
 title: "Supermemory ASMR — 벡터 DB 없이 에이전트 메모리 98.6% 달성"
 date: 2026-03-23
-tags: [ai/agent, ai/memory, dev/architecture]
+tags: [ai/agent, dev/architecture]
 description: "Supermemory가 벡터 DB 없이 에이전트 기반 검색(ASMR)으로 LongMemEval 98.6% 달성. 시간 추론과 지식 업데이트 문제를 벡터 유사도가 아닌 에이전트 직접 추론으로 해결한 접근법."
 source: "https://www.threads.com/@unclejobs.ai/post/DWL1PtLieRk"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "MIT Patrick Winston 발표 프레임워크 — 클로드 프롬프트 6가지"
 date: 2026-04-09
-tags: [productivity/presentation, ai/claude, ai/prompts]
+tags: [productivity/presentation, ai/claude, ai/prompt]
 description: "MIT Patrick Winston 교수의 40년 발표 프레임워크 'How to Speak'를 클로드 프롬프트 6개로 정리. 오프닝 설계부터 슬라이드 감사, 설득 구조, 스토리텔링까지 그대로 복붙해 쓸 수 있다."
 source: "https://www.threads.com/@ai.trend.kr/post/DW59YYGD8ln"
 ---

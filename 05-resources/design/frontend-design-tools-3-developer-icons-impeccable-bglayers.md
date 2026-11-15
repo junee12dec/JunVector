@@ -1,7 +1,7 @@
 ---
 title: "프론트엔드 개발자를 위한 디자인 도구 3선 — Developer Icons · Impeccable · bg.layers"
 date: 2026-04-16
-tags: [design/tools, dev/frontend, productivity/resources]
+tags: [design/resources, dev/frontend, productivity/tools]
 description: "개발자 아이콘 시스템, AI 코딩 툴 적용 가능한 UI 디자인 지침, CSS 배경 시각 편집기까지 실무에 바로 쓸 수 있는 프론트엔드 디자인 도구 3가지 모음."
 source: "https://www.threads.com/@bibibi.designer/post/DXNhv2wgKSP"
 ---

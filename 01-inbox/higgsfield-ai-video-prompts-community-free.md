@@ -1,7 +1,7 @@
 ---
 title: "Higgsfield AI 영상 프롬프트 구조 공개 — 실제 쓴 프롬프트·레퍼런스·설정값 무료 공개"
 date: 2026-07-22
-tags: [ai/video-generation, ai/prompt-engineering, design/visual]
+tags: [ai/video, ai/prompt, design/resources]
 description: "Higgsfield가 실제 제작에 쓴 영상 프롬프트·레퍼런스 파일·설정값을 커뮤니티에 무료 공개. 퀄리티 차이는 모델이 아닌 프롬프트 구조에서 나온다는 것을 보여주는 사례."
 source: "https://higgsfield.ai/community"
 ---

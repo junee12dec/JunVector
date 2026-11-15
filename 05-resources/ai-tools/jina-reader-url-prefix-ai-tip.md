@@ -1,7 +1,7 @@
 ---
 title: "URL 앞에 r.jina.ai/ 붙이면 AI가 웹을 깔끔하게 읽는다"
 date: 2026-03-24
-tags: [ai/tools, productivity/tip]
+tags: [ai/tools, productivity/tools]
 description: "AI에게 웹 페이지를 읽힐 때 URL 앞에 r.jina.ai/를 붙이면 HTML 노이즈 없이 핵심 콘텐츠만 마크다운으로 변환돼 전달된다."
 source: "https://www.threads.com/@unclejobs.ai/post/DWNi3dMCYU9"
 ---

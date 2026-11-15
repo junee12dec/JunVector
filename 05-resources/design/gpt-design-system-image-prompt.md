@@ -1,7 +1,7 @@
 ---
 title: "GPT 이미지로 디자인 시스템 생성하는 프롬프트 — 8px 그리드·타이포그래피·컬러 시스템"
 date: 2026-04-20
-tags: [design/system, ai/image-generation, design/prompt]
+tags: [design/system, ai/image, ai/prompt]
 description: "GPT 이미지 생성으로 8px 그리드 기반의 다중 페이지 디자인 시스템을 만드는 프롬프트. UI 컴포넌트·레이아웃·변형까지 일관성 있게 한 번에 생성."
 source: "https://www.threads.com/@juneec1979/post/DXbqoLjmS6v"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "NotebookLM으로 유튜브 채널 복제하는 8개 프롬프트"
 date: 2026-04-05
-tags: [notebooklm/youtube, productivity/content-creation]
+tags: [ai/notebooklm, productivity/content]
 description: "Google NotebookLM을 활용해 성공한 유튜브 채널을 분석하고 콘텐츠 전략부터 수익 구조까지 복제하는 8단계 프롬프트 모음."
 source: "https://www.threads.com/@human__bro/post/DWvrWIskhoE?xmt=AQF0jzm9VV6bremv5AsBnc8WzdEYljM92AJSHAOC9PWtQWzO6kFzKsMrMXp4BxpEjgDmx70&slof=1"
 ---

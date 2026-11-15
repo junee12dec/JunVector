@@ -1,7 +1,7 @@
 ---
 title: "Claude Code로 YouTube 영상 50개 분석 — NotebookLM-py 활용"
 date: 2026-03-21
-tags: [ai/claude, ai/notebooklm, productivity/automation, dev/python]
+tags: [ai/claude, ai/notebooklm, productivity/automation, dev/tools]
 description: "Claude Code를 NotebookLM과 연결해 유튜브 영상 50개를 일괄 분석하는 워크플로우. 환각 없이, 최소한의 토큰으로 프로덕션 수준의 인사이트를 추출한다."
 source: "https://www.threads.com/@buildc3/post/DWG-d2uGJpX"
 ---

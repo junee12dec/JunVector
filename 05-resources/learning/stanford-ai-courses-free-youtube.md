@@ -1,7 +1,7 @@
 ---
 title: "스탠포드 무료 AI 강좌 5개 — 유튜브 공개 CS 과정 (10만 달러 가치)"
 date: 2026-03-27
-tags: [learning/ai, learning/ml]
+tags: [learning/resources]
 description: "스탠포드 대학교가 유튜브에서 무료로 공개한 AI·ML·딥러닝·강화학습·LLM 핵심 5개 강좌 목록. 정규 수업 과정 그대로 무료로 수강 가능."
 source: "https://www.threads.com/@ai_created_lab/post/DWYwFfgjwSA"
 ---

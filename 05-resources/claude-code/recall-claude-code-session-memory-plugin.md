@@ -1,7 +1,7 @@
 ---
 title: "Recall — Claude Code 세션 기억을 이어주는 로컬 플러그인"
 date: 2026-06-21
-tags: [ai/coding-agent, dev/workflow, productivity/automation]
+tags: [ai/agent, productivity/workflow, productivity/automation]
 description: "Claude Code 세션마다 '어디까지 했더라'를 다시 설명하는 문제를 해결. 세션 기록을 .recall/에 로컬 저장하고 다음 세션에서 바로 이어받는 플러그인. API 키·외부 LLM 불필요."
 source: "https://github.com/raiyanyahya/recall"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Anthropic 2026 Agentic Coding Trends Report — 개발자는 오케스트레이터로 진화한다"
 date: 2026-04-10
-tags: [ai/trend, dev/agentic-coding, productivity/automation]
+tags: [ai/research, ai/agent, productivity/automation]
 description: "Anthropic의 2026 에이전틱 코딩 트렌드 리포트 요약. 개발자 역할이 코드 작성자에서 AI 에이전트 지휘자(오케스트레이터)로 전환되고 있으며, 8가지 핵심 흐름을 제시한다."
 source: "https://www.threads.com/@lian.lab71/post/DW7gU6KATXB"
 ---

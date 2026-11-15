@@ -1,7 +1,7 @@
 ---
 title: "opendataloader-pdf — PDF 구조화 데이터 추출 라이브러리 (GitHub Trending 1위)"
 date: 2026-03-19
-tags: [dev/python, ai/data, dev/llm-tooling]
+tags: [dev/tools, dev/data, ai/tools]
 description: "PDF에서 Markdown·JSON·HTML로 구조화된 데이터를 추출하는 오픈소스 라이브러리. 로컬 고속 모드와 AI 하이브리드 모드를 자동 선택하며, 표 정확도 0.93, 전체 정확도 0.90."
 source: "https://github.com/opendataloader-project/opendataloader-pdf"
 ---

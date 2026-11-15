@@ -1,7 +1,7 @@
 ---
 title: "satgat — KAMI 기반 한국형 문서 디자인 스킬 (한국어 사용자를 위한 입구)"
 date: 2026-05-30
-tags: [design/system, ai/claude, agent/skill, design/tool]
+tags: [design/system, ai/claude, ai/skill, design/resources]
 description: "tw93의 KAMI 디자인 스킬에 한국어 입구를 만든 오픈소스 프로젝트. 자연어 한 문장으로 이력서·명함·청첩장·IR 덱 등 13종 한국형 문서를 자동 생성하며 백자지·단청·명조 타이포그래피 등 한국식 미감을 담았다."
 source: "https://github.com/unclejobs-ai/satgat"
 ---

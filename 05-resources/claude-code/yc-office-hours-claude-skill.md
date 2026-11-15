@@ -1,7 +1,7 @@
 ---
 title: "YC Office Hours Claude 스킬 — 냉철한 비즈니스 분석 도구"
 date: 2026-03-31
-tags: [ai/claude-code, productivity/startup, skills/yc]
+tags: [ai/claude-code, strategy/business, ai/skill]
 description: "YC Office Hours 영상 전체를 분석해 만든 Claude 스킬. 사업 아이디어, 마케팅 전략, 제품 의사결정을 YC 방식으로 냉철하게 분석·조언·과제 제시한다."
 source: "https://www.threads.com/@crealwork/post/DWkLlkOgabN"
 ---

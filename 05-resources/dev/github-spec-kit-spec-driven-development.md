@@ -1,7 +1,7 @@
 ---
 title: "GitHub Spec Kit — 아이디어를 빌드 준비 스펙으로 바꾸는 스펙 주도 개발 도구 (112k⭐)"
 date: 2026-06-05
-tags: [dev/tool, ai/agent, productivity/workflow, dev/planning]
+tags: [dev/tools, ai/agent, productivity/workflow]
 description: "GitHub가 출시한 오픈소스 스펙 주도 개발(SDD) 툴킷. 아이디어 → 스펙 → 계획 → 태스크 → 구현 5단계를 슬래시 명령으로 처리하며 Claude Code·Copilot·Gemini 등 30개 이상의 AI 에이전트와 호환된다."
 source: "https://github.com/github/spec-kit"
 ---

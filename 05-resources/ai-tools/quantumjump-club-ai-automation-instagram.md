@@ -1,7 +1,7 @@
 ---
 title: "퀀텀점프클럽 — AI 자동화 시스템 Instagram 게시물"
 date: 2026-03-09
-tags: [ai/automation, business/1인기업]
+tags: [productivity/automation, strategy/business]
 description: "퀀텀점프클럽(@quantumjumpclub)의 AI 자동화 시스템 관련 Instagram 게시물. Claude Code 디자인 UI/UX 카드뉴스 관련 콘텐츠."
 source: "https://www.instagram.com/p/DVnHWBlEwtw/"
 ---

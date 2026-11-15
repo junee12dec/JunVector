@@ -1,7 +1,7 @@
 ---
 title: "Repo2RLEnv — GitHub 레포를 코딩 AI 강화학습 환경으로 자동 변환 (HuggingFace)"
 date: 2026-06-17
-tags: [ai/reinforcement-learning, dev/coding-agent, ai/training]
+tags: [ai/llm, ai/agent]
 description: "GitHub 레포 링크 하나면 실제 PR·버그 기록을 기반으로 검증 가능한 RL 훈련 태스크를 자동 생성. 코딩 에이전트 RL 훈련 데이터 구축의 수작업을 없앤다."
 source: "https://github.com/huggingface/Repo2RLEnv"
 ---

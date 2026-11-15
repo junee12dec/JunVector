@@ -1,7 +1,7 @@
 ---
 title: "Overture — AI 에이전트 오케스트레이션 전에 '무엇을 시킬지' 설계하는 도구"
 date: 2026-03-22
-tags: [ai/agent, productivity/strategy]
+tags: [ai/agent, strategy/business]
 description: "전략기획자가 만든 AI 워크플로우 설계 도구. 에이전트에게 일을 시키기 전, 무엇을 왜 어떤 순서로 할지를 4단계로 설계한다."
 source: "https://www.threads.com/@and__yc/post/DWJpS5ykdU9"
 ---

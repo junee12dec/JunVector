@@ -1,7 +1,7 @@
 ---
 title: "스탠포드 CS329A 5강 — 자기 개선 AI 에이전트의 Planning 구조 후기"
 date: 2026-08-08
-tags: [ai/agent, ai/research, dev/ai-infra]
+tags: [ai/agent, ai/research, dev/infra]
 description: "스탠포드 CS329A '자기 개선 AI 에이전트' 5강 후기. Planning의 상태-행동-전이-트리 탐색 구조와, 도메인 지식·휴리스틱을 사전학습 모델로 근사하는 방향 정리. 파인튜닝 vs 하네스 투자 판단 기준도 포함."
 source: "https://www.threads.com/share/BBjS66Yfgw/"
 ---

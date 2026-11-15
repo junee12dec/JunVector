@@ -1,7 +1,7 @@
 ---
 title: "Google Stitch 2.0 + Claude Code 디자인 워크플로우"
 date: 2026-03-30
-tags: [ai/claude-code, dev/workflow, ai/design]
+tags: [ai/claude-code, productivity/workflow, design/resources]
 description: "Google Stitch 2.0과 Claude Code를 조합해 디자인부터 배포까지 한 흐름으로 이어지는 워크플로우 소개. 디자인 시스템 파일이 전체 프로젝트의 일관성을 유지하는 핵심 역할을 한다."
 source: "https://www.threads.com/@cheoeum.ai/post/DWgbI5MDJlS?xmt=AQF0qXROn8z1SAdcTkpwOZULaF70jSNwlYX97-ACg_m3Pt8wMpXiZqgmBIK9novBAZ9gWijH&slof=1"
 ---

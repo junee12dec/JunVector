@@ -1,7 +1,7 @@
 ---
 title: "옵시디언 + Claude Code — MCP 없이 바로 연동, Canvas 시각화"
 date: 2026-03-12
-tags: [ai/claude, productivity/obsidian, tools/canvas]
+tags: [ai/claude, productivity/pkm, design/diagram]
 description: "옵시디언 노트가 마크다운 파일이라 Claude Code가 MCP 없이 직접 읽고 쓸 수 있다. Canvas 기능으로 시각화까지 가능. 3단계 설정법 정리."
 source: "https://www.threads.com/@devdesign.kr/post/DVyanGMks7X"
 ---

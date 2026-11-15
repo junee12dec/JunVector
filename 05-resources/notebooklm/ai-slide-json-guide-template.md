@@ -1,7 +1,7 @@
 ---
 title: "AI 슬라이드 JSON 가이드 코드 — 회사 PPT 양식을 한 번만 세팅하면 끝"
 date: 2026-04-07
-tags: [productivity/presentation, ai/workflow, productivity/automation]
+tags: [productivity/presentation, productivity/workflow, productivity/automation]
 description: "회사 PPT 템플릿의 HEX 코드·폰트·레이아웃 규칙을 JSON으로 구조화해 AI에 전달하면, 매번 동일한 회사 양식의 슬라이드를 자동 생성할 수 있다."
 source: "https://www.threads.com/@coding_beaver/post/DW0uMiglPcy"
 ---

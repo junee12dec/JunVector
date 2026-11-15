@@ -1,7 +1,7 @@
 ---
 title: "클로드 공식 Use Case 페이지 — 입문자를 위한 최고의 시작점"
 date: 2026-04-08
-tags: [ai/claude, productivity/getting-started]
+tags: [ai/claude, productivity/tools]
 description: "클로드를 처음 시작하는 사람들을 위한 공식 use case 페이지 소개. 금융·리서치·마케팅 등 카테고리별, 기능별로 실제 활용 사례를 확인할 수 있다."
 source: "https://www.threads.com/@pastel_herring/post/DW2f2ThEtj1"
 ---

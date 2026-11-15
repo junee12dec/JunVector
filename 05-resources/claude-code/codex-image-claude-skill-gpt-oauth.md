@@ -1,7 +1,7 @@
 ---
 title: "Codex 이미지 생성 Claude 스킬 — GPT 구독 OAuth로 API 과금 없이"
 date: 2026-04-23
-tags: [ai/claude, dev/tool, ai/image-generation]
+tags: [ai/claude, dev/tools, ai/image]
 description: "GPT 구독 OAuth를 활용해 API 과금 없이 Claude Code에서 Codex 이미지 생성을 사용하는 Claude 스킬. `/codex-image + 프롬프트`로 바로 실행."
 source: "https://www.threads.com/@dev_one_l/post/DXdafvemjmX"
 ---

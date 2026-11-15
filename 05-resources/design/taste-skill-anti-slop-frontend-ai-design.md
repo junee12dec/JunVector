@@ -1,7 +1,7 @@
 ---
 title: "Taste Skill — AI가 만든 티 나지 않는 UI를 위한 안티 슬롭 프론트엔드 스킬 프레임워크 (30.9k⭐)"
 date: 2026-06-01
-tags: [design/system, ai/claude, agent/skill, dev/frontend]
+tags: [design/system, ai/claude, ai/skill, dev/frontend]
 description: "AI 코딩 에이전트가 생성하는 평범하고 복사한 것 같은 UI 문제를 해결하는 스킬 모음. 레이아웃·타이포·여백·모션·정보 밀도를 규칙 기반으로 관리해 AI가 만든 티를 없앤다."
 source: "https://github.com/leonxlnx/taste-skill"
 ---

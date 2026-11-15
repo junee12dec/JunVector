@@ -1,7 +1,7 @@
 ---
 title: "woojinstartup 추천 — AI 프론트엔드·디자인 도구 5선"
 date: 2026-03-24
-tags: [design/tools, dev/frontend, ai/tools]
+tags: [design/resources, dev/frontend, ai/tools]
 description: "21st.dev, shadcn, Google Stitch, Anthropic Frontend Design 플러그인 등 AI로 프론트엔드 UI를 빠르게 만드는 핵심 도구 5가지 모음."
 ---
 

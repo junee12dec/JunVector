@@ -1,7 +1,7 @@
 ---
 title: "Claude Code + Excalidraw 스킬 — 아키텍처 다이어그램 자동 생성"
 date: 2026-03-16
-tags: [ai/claude-code, tool/skill, dev/documentation, tool/excalidraw]
+tags: [ai/claude-code, ai/skill, dev/tools, design/diagram]
 description: "Claude Code에 Excalidraw 스킬을 추가하면 코드 분석부터 아키텍처 다이어그램 생성까지 한 번에 자동화할 수 있다. 수작업 다이어그램 작업을 대체하는 실용 팁."
 source: "https://www.threads.com/@aisolutiondev/post/DV7ga5Rief5"
 ---
