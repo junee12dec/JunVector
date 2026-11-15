@@ -43,15 +43,15 @@
 
 | 서브폴더 | 분류 기준 | 대표 태그 |
 |----------|-----------|-----------|
-| `claude-code/` | Claude Code 스킬, 셋업, 에이전트, 워크플로우 | `ai/claude`, `ai/claude-code`, `tool/skill` |
-| `ai-tools/` | Claude Code 외 AI 도구, 에이전트 프레임워크, 자동화 | `ai/agent`, `productivity/automation`, `tool/*` |
+| `claude-code/` | Claude Code 스킬, 셋업, 에이전트, 워크플로우 | `ai/claude`, `ai/claude-code`, `ai/skill` |
+| `ai-tools/` | Claude Code 외 AI 도구, 에이전트 프레임워크, 자동화 | `ai/agent`, `ai/tools`, `productivity/automation` |
 | `notebooklm/` | NotebookLM 활용, 슬라이드, PPT 자동화 | `ai/notebooklm`, `productivity/presentation` |
 | `dev/` | 개발 도구, API, no-code, vibe-coding | `dev/*` |
-| `pkm/` | 제2두뇌, 노트 시스템, 옵시디언 관련 | `pkm/*`, `productivity/pkm` |
-| `pm/` | 프로덕트 매니지먼트, 기획, PM 스킬 | `pm/*` |
-| `people/` | 특정 인물 관련 정보, 인터뷰, 발언 모음 | `people/*` |
-| `media/` | 영상, 팟캐스트, 아티클 등 미디어 콘텐츠 | `media/*` |
-| `learning/` | 강의, 튜토리얼, 학습 자료 | `learning/*` |
+| `pkm/` | 제2두뇌, 노트 시스템, 옵시디언 관련 | `productivity/pkm` |
+| `pm/` | 프로덕트 매니지먼트, 기획, PM 스킬 | `productivity/pm` |
+| `people/` | 특정 인물 관련 정보, 인터뷰, 발언 모음 | `learning/people` |
+| `media/` | 영상, 팟캐스트, 아티클 등 미디어 콘텐츠 | `productivity/content` |
+| `learning/` | 강의, 튜토리얼, 학습 자료 | `learning/resources`, `learning/course` |
 
 **서브폴더가 없는 경우**: `05-resources/` 루트에 저장하고 새 서브폴더 생성을 제안한다.
 

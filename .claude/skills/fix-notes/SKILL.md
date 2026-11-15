@@ -15,6 +15,7 @@ Save 스킬을 거치지 않고 Obsidian에 직접 추가된 노트를 찾아, s
 | frontmatter 없음 | 파일 첫 줄이 `---`로 시작하지 않는 경우 |
 | 필수 필드 누락 | `title`, `date`, `tags` 중 하나라도 없는 경우 |
 | 파일명 비정형 | 한글, 공백, 특수문자, 언더스코어가 포함된 경우 |
+| 허용되지 않은 태그 | `99-meta/taxonomy.md`의 허용 태그 표에 없는 태그가 있는 경우 |
 
 - `MOC.md`, 파일명이 이미 kebab-case인 파일은 건너뛴다.
 - `99-meta/`의 템플릿 파일은 건너뛴다.
@@ -61,13 +62,13 @@ Save 스킬을 거치지 않고 Obsidian에 직접 추가된 노트를 찾아, s
 1. Peter Cha(@_petercha)님.md
    → 파일명: peter-cha-threads-post.md
    → title: "Peter Cha(@_petercha) Threads 게시물"
-   → tags: [people/creator]
+   → tags: [learning/people]
    → description: "Peter Cha의 Threads 게시물. URL만 보존."
 
 2. Untitled.md
    → 파일명: youtube-video-abc123.md
    → title: "YouTube 영상 — abc123"
-   → tags: [video/youtube]
+   → tags: [productivity/content]
    → description: "YouTube 영상 링크. URL만 보존."
 
 진행할까? (Y / 개별 수정 원하는 번호 입력)
