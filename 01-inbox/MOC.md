@@ -79,3 +79,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[kami-ai-agent-typesetting-skill-pdf-pptx|Kami — 에이전트가 만드는 문서의 조판을 맡는 스킬 (PDF·PNG·PPTX 출력)]] — 2026-11-05
 - [[claude-web-design-anti-ai-look-6-sites-prompt|Claude로 웹사이트 만들 때 AI 티 없애는 사이트 6개 + CLAUDE.md 프롬프트]] — 2026-11-10
 - [[kubai-icons-animated-2600-claude-skill|kubai-icons — 호버 애니메이션 아이콘 2,600개 + 같은 그림체로 새 아이콘 그려주는 Claude Code 스킬]] — 2026-11-11
+- [[designbookmark-ui-motion-claude-codex-prompt|DesignBookmark — 고른 UI 디자인을 Claude·Codex용 프롬프트로 복사해 주는 사이트]] — 2026-11-15
