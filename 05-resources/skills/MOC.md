@@ -1,7 +1,7 @@
 ---
 title: "Skills MOC"
 date: 2026-03-23
-tags: [meta/moc, tool/skill]
+tags: [meta/moc, ai/skill]
 description: "Claude Code·AI 에이전트용 스킬, 플러그인, 자동화 레시피 모음."
 ---
 

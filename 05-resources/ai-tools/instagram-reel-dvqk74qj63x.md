@@ -1,7 +1,7 @@
 ---
 title: "Kimi Claw — 핸드폰으로 AI 비서 자동화 시스템"
 date: 2026-03-09
-tags: [ai/automation, productivity/tools]
+tags: [productivity/automation, productivity/tools]
 description: "Kimi Claw를 활용해 핸드폰 명령 한 번으로 자료조사·엑셀 정리·콘텐츠 생성을 AI가 자동 처리하는 시스템 소개."
 source: "https://www.instagram.com/reel/DVqk74qj63x/?igsh=cnYwYW9hdzRrbmI3"
 ---

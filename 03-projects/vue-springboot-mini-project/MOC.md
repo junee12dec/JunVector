@@ -1,7 +1,7 @@
 ---
 title: "Vue.js + Spring Boot 학습용 미니프로젝트 — 프로젝트 MOC"
 date: 2026-03-10
-tags: [project/active, dev/vue, dev/springboot]
+tags: [meta/project, dev/frontend, dev/backend]
 description: "Vue.js와 Spring Boot를 함께 학습하기 위한 미니프로젝트. 풀스택 구현 경험을 쌓는 것이 목표."
 ---
 

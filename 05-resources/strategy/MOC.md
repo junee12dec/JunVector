@@ -1,7 +1,7 @@
 ---
 title: "Strategy MOC"
 date: 2026-03-22
-tags: [meta/moc, productivity/strategy]
+tags: [meta/moc, strategy/business]
 description: "AI 전략 설계, 워크플로우 기획, 의사결정 프레임워크 관련 자료 목차."
 ---
 

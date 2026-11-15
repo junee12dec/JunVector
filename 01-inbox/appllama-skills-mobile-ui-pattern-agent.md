@@ -1,7 +1,7 @@
 ---
 title: "Appllama Skills — 상위 매출 앱 UI 패턴을 학습해 Expo·React Native로 구현하는 에이전트 스킬"
 date: 2026-09-11
-tags: [ai/agent-skills, dev/mobile, dev/react-native]
+tags: [ai/skill, dev/frontend]
 description: "상위 매출 앱의 실제 화면·플로우·UI 패턴을 조사해 디자인 언어를 추출한 뒤 Expo·React Native로 구현하는 에이전트 스킬. 네비게이션·모션·네이티브 컨트롤까지 점검하고 시뮬레이터에서 전체 플로우를 검증한다."
 source: "https://github.com/Appllama/appllama-skills"
 ---

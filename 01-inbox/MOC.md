@@ -59,6 +59,23 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[prompts-chat-open-source-prompt-library|prompts.chat — 전 세계 사용자가 공유하는 오픈소스 Prompt Library]] — 2026-09-11
 - [[html-anything-ai-poster-card-news-generator|html-anything — 글·표를 붙여넣으면 AI가 카드뉴스·포스터·발표자료로 변환해주는 오픈소스]] — 2026-09-15
 - [[ai-learning-resources-10-with-prompts|링크만 저장 말고 직접 만들기 — AI 공부 자료 10선 + AI에게 시킬 프롬프트]] — 2026-09-17
+- [[rea-ai-reverse-engineering-code-restore|REA — AI 에이전트가 완성된 앱을 역공학으로 원본 수준 코드로 복원하는 오픈소스]] — 2026-10-11
+- [[xerj-local-ai-search-engine-agent-token-saving|xerj — 단일 바이너리 AI 로컬 검색 엔진 (에이전트 토큰 2.7~5배 절감)]] — 2026-10-17
 - [[skillry-opus-55-viral-videos-389-prompts|skillry.dev/ai-videos — Opus 5.5로 만든 바이럴 영상 389개 + 프롬프트 모음]] — 2026-09-29
 - [[claude-opus-55-vector-illustration-animation-rigging|Claude Opus 5.5로 정지된 벡터 일러스트를 캐릭터 애니메이션으로 만들기 (리깅 없이)]] — 2026-09-29
 - [[ruflo-claude-flow-multi-agent-dev-team|Ruflo (구 Claude Flow) — Claude Code에 역할별 AI 개발팀을 붙이는 무료 오픈소스]] — 2026-10-01
+- [[ajd-ax-builder-organization-250-cases|아정당 AX 빌더 조직 구축 참고자료 250건 — 국내외 24개 회사 전환 사례 큐레이션]] — 2026-10-20
+- [[hycli-website-reverse-deterministic-cli-automation|Hycli — 웹사이트를 리버싱해서 결정론적 CLI로 자동화하는 도구]] — 2026-10-21
+- [[html-plan-claude-code-interactive-plan-plugin|html-plan — 구현 계획을 인터랙티브 HTML 한 장으로 만드는 Claude Code 커뮤니티 플러그인]] — 2026-10-23
+- [[knowledge-layer-trends-report-2026-rag-ontology|지식 레이어 최신 동향 리포트 (2026.10) — RAG·LLM Wiki·Ontology 계층화 6개월 조사]] — 2026-10-23
+- [[anthropic-knowledge-work-plugins-11-opensource|Anthropic knowledge-work-plugins — 사무직 AI 비서 플러그인 11종 오픈소스]] — 2026-10-23
+- [[toss-dataops-ai-skill-tacit-knowledge|토스 DataOps — 담당자 머릿속 맥락을 AI 스킬로 꺼내 팀 전체가 쓰게 만든 이야기]] — 2026-10-24
+- [[ego-lite-ai-agent-browser-fast-auth-session|ego-lite — AI 에이전트용 경량 고속 브라우저 자동화 (GitHub 트렌딩 1위)]] — 2026-10-24
+- [[paperswithcode-huggingface-opensource-fastapi-mcp|Papers with Code 오픈소스 공개 — AI 논문·SOTA 리더보드 추적 플랫폼 전체 코드]] — 2026-10-27
+- [[ai-company-official-prompt-libraries-4|AI 회사 공식 프롬프트 모음 4곳 — OpenAI·Google·MS·Anthropic 무료 한국어 지원]] — 2026-11-03
+- [[claude-motion-skills-10-hyperframes-reference|Claude 모션 영상 스킬 10선 + 레퍼런스 사이트 3곳 — /hyperframes로 기획부터 MP4까지]] — 2026-11-03
+- [[corevis-library-ai-design-llmstxt-mcp|COREVIS Library — AI를 위한 디자인 자료실 1,273점 (llms.txt + MCP 지원)]] — 2026-11-04
+- [[nvidia-auto-ontology-rag-sql-enterprise-ai|NVIDIA auto-ontology — 기업 AI 환각을 잡는 자동 온톨로지 오픈소스]] — 2026-11-05
+- [[kami-ai-agent-typesetting-skill-pdf-pptx|Kami — 에이전트가 만드는 문서의 조판을 맡는 스킬 (PDF·PNG·PPTX 출력)]] — 2026-11-05
+- [[claude-web-design-anti-ai-look-6-sites-prompt|Claude로 웹사이트 만들 때 AI 티 없애는 사이트 6개 + CLAUDE.md 프롬프트]] — 2026-11-10
+- [[kubai-icons-animated-2600-claude-skill|kubai-icons — 호버 애니메이션 아이콘 2,600개 + 같은 그림체로 새 아이콘 그려주는 Claude Code 스킬]] — 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "무료 디자인·이미지·폰트 리소스 20선 — 폰트·스톡·아이콘·애니메이션·컬러"
 date: 2026-07-24
-tags: [design/resources, design/tools, dev/frontend]
+tags: [design/resources, dev/frontend]
 description: "한글 폰트(눈누)부터 스톡 이미지·SVG 아이콘·Lottie 애니메이션·컬러 팔레트까지, 상업적 이용 가능한 무료 디자인 리소스 20개 모음."
 source: "https://www.threads.com/@tipblogplus/post/DbVgRqqE3yB"
 ---

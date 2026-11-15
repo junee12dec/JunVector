@@ -1,7 +1,7 @@
 ---
 title: "Claude로 AI 유튜브 채널 운영하는 프롬프트 7종 — 90일 수익화 로드맵"
 date: 2026-07-22
-tags: [productivity/content, ai/prompt-engineering, strategy/monetization]
+tags: [productivity/content, ai/prompt, strategy/business]
 description: "니치 선정부터 스크립트·SEO·수익화·콘텐츠 재활용까지, Claude 프롬프트 7개로 유튜브 채널을 크리에이터 에이전시처럼 운영하는 시스템."
 source: "https://www.threads.com/@aicreatorbase/post/DbJ0pp_DXWh"
 ---

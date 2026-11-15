@@ -1,7 +1,7 @@
 ---
 title: "oh-my-agent — 실전 회사원이 만든 하네스 워크플로우 오픈소스"
 date: 2026-04-25
-tags: [ai/claude, dev/agent, productivity/workflow]
+tags: [ai/claude, ai/agent, productivity/workflow]
 description: "Claude Max 5x 유저가 실무에서 직접 쓰는 oh-my 하네스 시리즈 기반 에이전트 워크플로우. Obsidian HTML 정리 방식을 곁들인 실패 없는 코딩 워크플로우 오픈소스."
 source: "https://www.threads.com/@devscene_/post/DXfjNj4E1WZ"
 ---

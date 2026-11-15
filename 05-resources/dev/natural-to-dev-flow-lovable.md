@@ -1,7 +1,7 @@
 ---
 title: "Natural-to-Dev Flow — Lovable.app 데모"
 date: 2026-03-10
-tags: [dev/no-code, ai/vibe-coding]
+tags: [dev/automation, productivity/workflow]
 description: "자연어로 앱을 만드는 흐름을 보여주는 Lovable.app 기반 데모. 아이디어를 설명하면 AI가 풀스택 앱을 자동 생성한다."
 source: "https://natural-to-dev-flow.lovable.app/"
 ---

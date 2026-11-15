@@ -1,7 +1,7 @@
 ---
 title: "시니어 엔지니어 핸드북 — 성장 리소스 모음집"
 date: 2026-06-17
-tags: [dev/career, learning/resources, dev/senior-engineer]
+tags: [strategy/career, learning/resources]
 description: "시니어 엔지니어를 목표로 하는 개발자를 위한 뉴스레터 50개+, 책, 유튜브, 팟캐스트, 커뮤니티를 카테고리별로 정리한 오픈소스 핸드북."
 source: "https://github.com/jordan-cutler/path-to-senior-engineer-handbook"
 ---

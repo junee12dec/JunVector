@@ -1,7 +1,7 @@
 ---
 title: "tufte.ai — 텍스트 기반 ASCII 차트 생성 도구"
 date: 2026-06-15
-tags: [dev/tool, design/visualization, productivity/utility]
+tags: [dev/tools, design/diagram, productivity/tools]
 description: "Edward Tufte의 데이터 시각화 철학(데이터-잉크 비율 최대화)을 ASCII 차트로 구현한 웹 도구. 별도 설치 없이 브라우저에서 바로 사용 가능하다."
 source: "https://tufte.ai"
 ---

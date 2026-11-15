@@ -1,7 +1,7 @@
 ---
 title: "Claude Code 에이전트 흐름 시각화 — 유출 소스 기반 분석"
 date: 2026-04-02
-tags: [ai/claude, dev/agent-design]
+tags: [ai/claude, dev/architecture]
 description: "유출된 Claude Code 소스를 기반으로 에이전트 전체 흐름을 도식화한 분석. 가짜 도구·감정 감지·언더커버 모드 등 내부 구조를 텍스트보다 훨씬 빠르게 파악할 수 있다."
 source: "https://www.threads.com/@yeopo92/post/DWlps8AmCU5?xmt=AQF0NFzRwYDTEraY6LlF5FwTmD1XVpsqJBCxaZbjb8QLOjeLgYZ7pq1wj_Q3pG6mq9Z8KTZ9&slof=1"
 ---

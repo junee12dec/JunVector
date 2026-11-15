@@ -1,7 +1,7 @@
 ---
 title: "Prime Agent 기술 심화 — RLM + Continual Harness로 ARC-AGI-3 인간 전문가 돌파"
 date: 2026-08-08
-tags: [ai/agent, dev/ai-infra, ai/research]
+tags: [ai/agent, dev/infra, ai/research]
 description: "Prime Intellect의 Prime Agent 기술 상세 정리. 코드로 서브에이전트를 호출하는 RLM 구조와, 실행 중 하네스 상태를 스스로 고치는 Continual Harness가 핵심. ARC-AGI-3에서 95.5%로 인간 전문가 기준선 돌파."
 source: "https://www.threads.com/share/BAZb4JASDz/"
 ---

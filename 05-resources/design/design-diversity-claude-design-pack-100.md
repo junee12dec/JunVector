@@ -1,7 +1,7 @@
 ---
 title: "Design Diversity — Claude Code 산출물 디자인 다양성 확보 프롬프트형 디자인 팩 100종 카탈로그"
 date: 2026-05-26
-tags: [design/system, ai/claude, agent/skill, dev/frontend]
+tags: [design/system, ai/claude, ai/skill, dev/frontend]
 description: "공개 디자인 시스템을 증류한 100종 디자인 팩(PPT 50 + 웹 50) 카탈로그. Claude Code 스킬로 설치하면 미적 설명만으로 디자인 팩을 추천받거나 지정한 스타일 그대로 적용 가능."
 source: "https://github.com/epoko77-ai/design-diversity"
 ---

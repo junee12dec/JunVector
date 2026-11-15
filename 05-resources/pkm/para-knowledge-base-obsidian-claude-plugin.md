@@ -1,7 +1,7 @@
 ---
 title: "para-knowledge-base — PARA + Obsidian 최적화 Claude Code 지식 컴파일러"
 date: 2026-04-14
-tags: [ai/claude, productivity/obsidian, dev/tools]
+tags: [ai/claude, productivity/pkm, dev/tools]
 description: "Karpathy의 LLM Knowledge Base 패턴을 PARA + Obsidian에 맞게 최적화한 Claude Code 플러그인. 매 세션마다 vault를 재스캔하는 대신 지식을 한 번 컴파일하고 계층형 인덱스로 유지관리한다."
 source: "https://www.threads.com/@vibevault.nesto/post/DXF8VetE_rm"
 ---

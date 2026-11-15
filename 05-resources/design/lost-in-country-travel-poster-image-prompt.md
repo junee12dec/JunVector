@@ -1,7 +1,7 @@
 ---
 title: "LOST IN [country] — AI 여행 포스터 그래픽 콜라주 이미지 생성 프롬프트"
 date: 2026-04-25
-tags: [ai/image-generation, productivity/prompt, design/aesthetic]
+tags: [ai/image, ai/prompt, design/system]
 description: "나라 이름만 바꾸면 어느 나라든 적용되는 여행 포스터 이미지 생성 프롬프트. 관광객 인물 + 아이코닉 랜드마크 + 그래픽 콜라주 스타일의 프리미엄 에디토리얼 포스터."
 source: "https://www.threads.com/@hermes_agent_kr/post/DXjv9wNkRJH"
 ---

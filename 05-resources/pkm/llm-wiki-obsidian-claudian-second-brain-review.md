@@ -1,7 +1,7 @@
 ---
 title: "LLM Wiki + Obsidian 세컨드 브레인 직접 구축 후기"
 date: 2026-04-11
-tags: [productivity/obsidian, ai/knowledge-management, ai/claude]
+tags: [productivity/pkm, ai/claude]
 description: "Karpathy의 LLM Wiki를 Obsidian + Claude Code로 직접 구현한 후기. 153개 파일에서 146개 요약, 48개 엔티티, 29개 컨셉을 자동 생성하는 세컨드 브레인 구축 경험기."
 source: "https://www.threads.com/@aboutcorelab/post/DW-fojLk2RS?xmt=AQF0lYs6qL6g9Q6vFpceSXNEuoI8c9d82CW1eYG1PvJfPdcj66CaTE7Zi69DZ_tgGqGUhS69&slof=1"
 ---

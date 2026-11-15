@@ -1,7 +1,7 @@
 ---
 title: "Karpathy의 Knowledge Base — LLM이 사관이 되는 개인 위키"
 date: 2026-04-05
-tags: [ai/pkm, ai/llm, productivity/knowledge-management]
+tags: [productivity/pkm, ai/llm]
 description: "Karpathy가 제안한 LLM 기반 개인 지식 관리 방식. raw data를 LLM이 wiki로 compile하고, 관계 기반 연결로 지식을 축적한다."
 source: "https://www.threads.com/@larrabee.kor/post/DWu0F2ZE206"
 ---

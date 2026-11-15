@@ -1,7 +1,7 @@
 ---
 title: "Design MOC"
 date: 2026-03-23
-tags: [meta/moc, design]
+tags: [meta/moc, design/resources]
 description: "디자인 시스템, UI/UX, 타이포그래피, AI 디자인 도구 관련 자료 목차."
 ---
 

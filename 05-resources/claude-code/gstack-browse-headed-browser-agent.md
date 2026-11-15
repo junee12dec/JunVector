@@ -1,7 +1,7 @@
 ---
 title: "GStack Browse — Claude Code 에이전트에 눈을 달다"
 date: 2026-04-05
-tags: [ai/claude, dev/browser-automation, dev/tools]
+tags: [ai/claude, dev/automation, dev/tools]
 description: "YC CEO Garry Tan이 공개한 GStack Browse는 Claude Code에서 실제 브라우저를 100ms 속도로 조작하고 실시간으로 모니터링할 수 있는 headed 브라우저 자동화 도구다."
 source: "https://www.threads.com/@unclejobs.ai/post/DWvpO8hCUhN"
 ---

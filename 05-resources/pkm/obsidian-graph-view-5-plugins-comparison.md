@@ -1,7 +1,7 @@
 ---
 title: "Obsidian 그래프뷰 5종 비교 — 기본·3D·Juggl·Living·Extended 언제 무엇을 쓸까"
 date: 2026-06-05
-tags: [pkm/obsidian, productivity/knowledge-management]
+tags: [productivity/pkm]
 description: "Obsidian Graph View의 5가지 플러그인을 용도별로 비교 정리. 노드가 1,000개를 넘으면 탐색이 아닌 별자리 감상이 된다는 전제 아래, 각 그래프의 장단점과 상황별 선택 기준을 제시한다."
 source: "https://www.threads.com/@danielchoi.ai/post/DZZRD-Tidso"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Huashu Design — Claude Design 역설계 오픈소스, 토큰 절약형 디자인 스킬"
 date: 2026-04-23
-tags: [design/tool, ai/agent-skill, productivity/automation]
+tags: [design/resources, ai/skill, productivity/automation]
 description: "중국 개발자 화슈(Huashu)가 Claude Design을 역설계해 오픈소스로 공개한 AI 디자인 스킬. 토큰 소모를 줄이면서 클릭 가능한 앱 프로토타입·PPTX·애니메이션을 한 번의 지시로 생성."
 source: "https://www.threads.com/@choi.openai/post/DXeTAltgs1D"
 ---

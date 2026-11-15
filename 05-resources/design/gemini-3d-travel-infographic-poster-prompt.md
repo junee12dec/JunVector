@@ -1,7 +1,7 @@
 ---
 title: "Gemini 3D 여행 인포그래픽 포스터 프롬프트 — 나라/도시 이름만 넣으면 완성"
 date: 2026-04-15
-tags: [ai/image-generation, design/prompt, productivity/template]
+tags: [ai/image, ai/prompt, productivity/tools]
 description: "Gemini로 초현실적인 3D 여행 인포그래픽 포스터를 만드는 프롬프트 템플릿. 나라나 도시 이름만 바꾸면 3D 지형 위에 랜드마크가 배치된 프리미엄 여행 가이드 포스터가 완성된다."
 source: "https://www.threads.com/@jh_aicafe/post/DXIx2JUmYSw"
 ---

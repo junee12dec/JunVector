@@ -1,7 +1,7 @@
 ---
 title: "UI/UX 엔지니어를 위한 Top 8 Claude 스킬"
 date: 2026-03-09
-tags: [ai/claude, dev/ui-ux, productivity/skills]
+tags: [ai/claude, dev/frontend, ai/skill]
 description: "Claude Skills 중 UI/UX 엔지니어에게 유용한 8가지를 소개. 창의적 디자인, 접근성, 컴포넌트 패턴 등을 커버한다."
 source: "https://snyk.io/articles/top-claude-skills-ui-ux-engineers/"
 ---

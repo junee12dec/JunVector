@@ -1,7 +1,7 @@
 ---
 title: "Spectrum — 무료 SVG 라이브러리 100개+ (랜딩 페이지·썸네일·브랜드 비주얼용)"
 date: 2026-05-29
-tags: [design/tool, design/resource, dev/frontend]
+tags: [design/resources, dev/frontend]
 description: "100개 이상의 SVG 이미지를 무료로 제공하는 Framer 기반 라이브러리 사이트. 랜딩 페이지·썸네일·그래픽 요소·브랜드 비주얼 무드 작업에 활용하기 좋다."
 source: "https://spectrums.framer.website/"
 ---

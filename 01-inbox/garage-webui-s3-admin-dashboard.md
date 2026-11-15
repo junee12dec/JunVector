@@ -1,7 +1,7 @@
 ---
 title: "Garage Web UI — 셀프호스팅 S3 스토리지를 브라우저로 관리하는 어드민 대시보드"
 date: 2026-07-26
-tags: [dev/storage, dev/self-hosted, dev/tools]
+tags: [dev/infra, dev/self-hosted, dev/tools]
 description: "Garage S3 호환 오브젝트 스토리지에 시각적 대시보드를 제공하는 경량 오픈소스 어드민. 버킷 관리·오브젝트 탐색·액세스 키 관리를 브라우저에서 처리하며 단일 바이너리 또는 Docker로 배포 가능."
 source: "https://github.com/khairul169/garage-webui"
 ---

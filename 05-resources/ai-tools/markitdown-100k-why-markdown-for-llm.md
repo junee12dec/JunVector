@@ -1,7 +1,7 @@
 ---
 title: "MarkItDown 10만 스타 — LLM 파이프라인에서 Markdown이어야 하는 이유"
 date: 2026-04-14
-tags: [dev/llm-tooling, ai/tools, dev/pipeline]
+tags: [ai/tools, dev/data]
 description: "Microsoft MarkItDown이 10만 스타를 넘기며 재조명. 단순 변환기가 아닌 LLM 전처리 레이어로서, '왜 Markdown인가'를 파이프라인 관점에서 명쾌하게 설명한 분석."
 source: "https://www.threads.com/@unclejobs.ai/post/DXF5bLIk03R"
 ---

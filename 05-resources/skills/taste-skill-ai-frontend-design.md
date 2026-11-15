@@ -1,7 +1,7 @@
 ---
 title: "Taste Skill — AI 프론트엔드 디자인 품질을 높이는 4개 스킬 모음"
 date: 2026-03-16
-tags: [dev/frontend, ai/claude, tool/skill, productivity/vibe-coding]
+tags: [dev/frontend, ai/claude, ai/skill, productivity/workflow]
 description: "바이브코딩 결과물에서 'AI가 만든 티'를 제거하는 오픈소스 스킬 모음. taste-skill·redesign-skill·soft-skill·output-skill 4개를 조합해 프리미엄 프론트엔드를 구현한다."
 source: "https://www.threads.com/@unclejobs.ai/post/DV7oKhnidGz"
 ---

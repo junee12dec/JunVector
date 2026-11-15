@@ -1,7 +1,7 @@
 ---
 title: "Agent-Reach — API 키 없이 AI 에이전트에게 인터넷 절반을 연결하는 Python CLI (31.9k⭐)"
 date: 2026-06-16
-tags: [ai/agent, dev/tool, productivity/automation, dev/cli]
+tags: [ai/agent, dev/tools, productivity/automation, dev/cli]
 description: "Claude Code·Cursor·Windsurf 등 AI 에이전트가 API 비용 없이 웹·YouTube·Twitter·Reddit·GitHub·LinkedIn·RSS 등을 읽을 수 있게 해주는 오픈소스 CLI. 에이전트에게 설치 문서 URL을 주면 자동 설치된다."
 source: "https://github.com/Panniantong/Agent-Reach"
 ---

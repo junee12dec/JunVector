@@ -1,7 +1,7 @@
 ---
 title: "PRD-Taskmaster — 코딩 시작 전 제품 요구사항을 명확히 정의하는 Claude Code 스킬 (477⭐)"
 date: 2026-05-31
-tags: [ai/claude, agent/skill, dev/tool, productivity/automation]
+tags: [ai/claude, ai/skill, dev/tools, productivity/automation]
 description: "막연한 아이디어를 코딩하기 전에 12개 이상의 질문으로 PRD·사용자 스토리·아키텍처 문서를 자동 생성하는 Claude Code 스킬. AI 에이전트가 추측 없이 명확한 지도를 갖고 개발을 시작하게 한다."
 source: "https://github.com/anombyte93/prd-taskmaster"
 ---

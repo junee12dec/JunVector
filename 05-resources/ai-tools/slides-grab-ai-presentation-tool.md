@@ -1,7 +1,7 @@
 ---
 title: "slides-grab — AI 에이전트 + 드래그 편집 슬라이드 도구"
 date: 2026-03-31
-tags: [ai/tools, productivity/presentation, dev/html]
+tags: [ai/tools, productivity/presentation, dev/frontend]
 description: "슬라이드를 HTML/CSS로 관리해 AI 에이전트가 쉽게 수정하고 비개발자도 드래그로 편집할 수 있는 오픈소스 프레젠테이션 도구. 토픽만 입력하면 슬라이드 자동 생성 → PDF/PPTX 내보내기까지 가능."
 source: "https://www.threads.com/@ai_younggle_man/post/DWkS4mtE7PZ"
 ---

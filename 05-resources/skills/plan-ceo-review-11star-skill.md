@@ -1,7 +1,7 @@
 ---
 title: "/plan-ceo-review — Brian Chesky의 11-star 프레임워크를 구현한 Claude 스킬"
 date: 2026-03-16
-tags: [ai/claude, tool/skill, productivity/product-thinking, ux/design]
+tags: [ai/claude, ai/skill, productivity/pm, design/ui]
 description: "Airbnb 창업자 Brian Chesky의 '11-star experience' 사고방식을 Claude 스킬로 구현. 요청을 글자 그대로 구현하는 대신 사용자의 진짜 니즈를 파고들어 훨씬 더 놀라운 버전의 제품을 찾아낸다."
 source: "https://www.threads.com/@gptersorg/post/DV8U4oIkS4n"
 ---

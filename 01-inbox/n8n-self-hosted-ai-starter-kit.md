@@ -1,7 +1,7 @@
 ---
 title: "n8n Self-Hosted AI Starter Kit — n8n·Ollama·Qdrant·Postgres로 로컬 AI 워크플로우 환경 구축"
 date: 2026-08-08
-tags: [dev/self-hosted, ai/workflow, dev/tools]
+tags: [dev/self-hosted, productivity/workflow, dev/tools]
 description: "n8n이 큐레이션한 Docker Compose 템플릿으로 로컬 AI 개발 환경을 빠르게 구축. n8n(400개+ 통합 로우코드 플랫폼)·Ollama(로컬 LLM)·Qdrant(벡터 DB)·PostgreSQL을 한 번에 구성하며 데이터를 외부에 보내지 않고 AI 워크플로우 운영 가능."
 source: "https://github.com/n8n-io/self-hosted-ai-starter-kit"
 ---

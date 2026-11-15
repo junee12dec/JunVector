@@ -1,7 +1,7 @@
 ---
 title: "Agentic Design Patterns — Google 시니어 엔지니어의 421페이지 AI 에이전트 설계 바이블"
 date: 2026-04-18
-tags: [ai/agent, dev/llm-tooling, dev/architecture]
+tags: [ai/agent, ai/tools, dev/architecture]
 description: "Google 시니어 엔지니어가 공개한 421페이지 무료 AI 에이전트 설계 문서. 프롬프트 체이닝·라우팅·메모리·MCP·멀티 에이전트·가드레일·추론·플래닝까지 코드 예제와 함께 체계적으로 정리."
 source: "https://www.threads.com/@vishi_explores/post/DXTfCXGmUqh"
 ---

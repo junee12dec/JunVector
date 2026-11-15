@@ -1,7 +1,7 @@
 ---
 title: "Claude를 10배 더 유용하게 만드는 커스텀 스킬 6가지"
 date: 2026-03-25
-tags: [ai/claude, skills/claude-code, dev/tools]
+tags: [ai/claude, ai/skill, dev/tools]
 description: "CLAUDE.md 하나에 다 욱여넣는 대신 온디맨드로 로드하는 모듈형 스킬 구조 설명과, frontend-design·ui-ux-pro-max·seo·code-review·remotion·owasp-security 6가지 실전 스킬 설치 가이드."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Productivity MOC"
 date: 2026-03-26
-tags: [meta/moc, productivity]
+tags: [meta/moc, productivity/tools]
 description: "생산성 도구, 워크플로우, 유틸리티 관련 자료 목차."
 ---
 

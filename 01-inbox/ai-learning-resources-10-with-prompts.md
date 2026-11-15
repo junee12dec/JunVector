@@ -1,7 +1,7 @@
 ---
 title: "링크만 저장 말고 직접 만들기 — AI 공부 자료 10선 + AI에게 시킬 프롬프트"
 date: 2026-09-17
-tags: [ai/learning, ai/agent, productivity/resources]
+tags: [learning/resources, ai/agent, productivity/tools]
 description: "Agent·Prompt·Cookbook·실전 Workflow·기업 사례까지 아우르는 AI 핵심 학습 자료 10개와 각 자료를 '읽는 공부'가 아닌 '직접 만드는 공부'로 전환하는 AI 프롬프트 모음."
 source: "https://www.threads.com/share/_nsA-ClKH/"
 ---

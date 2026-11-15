@@ -1,7 +1,7 @@
 ---
 title: "YouTube 영상 — Ml1TwnCkK4w"
 date: 2026-03-09
-tags: [video/youtube]
+tags: [productivity/content]
 description: "YouTube 영상 링크. 크롤링 불가로 URL만 보존."
 source: "https://youtube.com/watch?v=Ml1TwnCkK4w"
 ---

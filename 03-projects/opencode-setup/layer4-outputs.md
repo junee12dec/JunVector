@@ -1,7 +1,7 @@
 ---
 title: "Layer 4 — Outputs"
 date: 2026-04-12
-tags: [project/opencode, layer4, outputs, automation]
+tags: [meta/project, productivity/automation]
 description: "산출물 정의와 feedback loop 를 다루는 최종 출력 레이어. 코드 리뷰·문서·업무 자동화·인수인계 위키 4종이 wiki 로 환류되는 복리 구조."
 type: concept
 status: active

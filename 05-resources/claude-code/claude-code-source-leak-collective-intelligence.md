@@ -1,7 +1,7 @@
 ---
 title: "Claude Code 소스 코드 유출과 집단 지성의 해체"
 date: 2026-03-31
-tags: [ai/claude-code, ai/community]
+tags: [ai/claude-code, learning/resources]
 description: "Claude Code 소스 코드 유출 직후 개발자 커뮤니티가 수 시간 만에 아키텍처를 완전 분석한 사례. 정보 공개와 집단 지성의 속도를 보여준 사건."
 source: "https://www.threads.com/@choi.openai/post/DWjLsrLCsdg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "루프 엔지니어링 — 프롬프트 대신 자동화 루프 설계하기"
 date: 2026-06-17
-tags: [ai/agent, dev/workflow, ai/coding-agent]
+tags: [ai/agent, productivity/workflow]
 description: "Boris Cherny(Claude Code 개발자)의 인사이트: 이제 프롬프트를 쓰는 시대는 끝났고, 스스로 작업·검토·개선하는 루프를 설계하는 시대다. 6단계 루프 프레임워크."
 source: "https://www.threads.com/@charliehills/post/DZukK6ek93Y"
 ---

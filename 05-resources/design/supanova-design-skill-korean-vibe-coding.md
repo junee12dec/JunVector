@@ -1,7 +1,7 @@
 ---
 title: "Supanova Design Skill — 한국어 서비스 AI 디자인 티 제거 스킬"
 date: 2026-04-01
-tags: [design/ui, dev/frontend, productivity/vibe-coding, ai/claude]
+tags: [design/ui, dev/frontend, productivity/workflow, ai/claude]
 description: "바이브코딩 결과물에서 AI 냄새(보라 그라데이션·Inter 폰트·이모지)를 원천 차단하고 Pretendard·한국어 최적화 레이아웃을 강제하는 Claude Code 디자인 스킬. 한국어 서비스 제작자에게 특히 유용."
 source: "https://www.threads.com/@grit_with_me/post/DWltdc4kvdS"
 ---

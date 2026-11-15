@@ -1,7 +1,7 @@
 ---
 title: "Anthropic Knowledge Work Plugins — Claude를 직무 전문가로 만드는 공식 플러그인 모음"
 date: 2026-07-22
-tags: [ai/claude, ai/coding-agent, productivity/automation]
+tags: [ai/claude, ai/agent, productivity/automation]
 description: "Anthropic이 공개한 Claude Cowork용 직무별 플러그인 11종. 엔지니어링·영업·PM·데이터·법무 등 각 역할에 맞는 슬래시 커맨드·스킬·도구 연결을 한 번에 구성한다."
 source: "https://github.com/anthropics/knowledge-work-plugins"
 ---

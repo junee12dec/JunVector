@@ -1,7 +1,7 @@
 ---
 title: "Claude Code 팀 에이전트 키트 — tmux로 기획자·FE·BE·QA·리더 5개 동시 실행"
 date: 2026-04-29
-tags: [ai/claude, agent/multi-agent, dev/tool]
+tags: [ai/claude, ai/agent, dev/tools]
 description: "터미널 한 번으로 업무 역할별 Claude 5개를 한 화면에서 동시에 소환하는 팀 에이전트 키트. macOS·Linux·Windows 네이티브 모두 지원하며 mintorain-tmux-ocastra로 공개."
 source: "https://www.threads.com/@mintorain/post/DXuHyq5D9Rn"
 ---

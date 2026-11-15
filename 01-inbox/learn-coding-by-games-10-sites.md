@@ -1,7 +1,7 @@
 ---
 title: "게임으로 코딩 배우는 사이트 10선 — Kubernetes·Git·Python·보안까지"
 date: 2026-07-23
-tags: [learning/coding, dev/tools, learning/gamification]
+tags: [learning/resources, dev/tools]
 description: "Kubernetes·DevOps·Linux·Git·Python·CSS·사이버보안까지 게임 방식으로 배울 수 있는 무료 사이트 10개 모음. 완전 초보부터 25개 이상 언어 학습까지 커버한다."
 source: "https://www.threads.com/@ammaryasser314/post/DbRPIFKDCMH"
 ---

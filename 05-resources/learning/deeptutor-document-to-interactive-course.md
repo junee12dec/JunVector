@@ -1,7 +1,7 @@
 ---
 title: "DeepTutor — 문서를 맞춤형 인터랙티브 학습 코스로 변환하는 오픈소스"
 date: 2026-04-07
-tags: [ai/education, ai/agents, productivity/learning]
+tags: [learning/resources, ai/agent]
 description: "수백 페이지 문서를 AI 멀티 에이전트가 분석해 다이어그램·퀴즈가 포함된 웹 기반 인터랙티브 학습 코스로 자동 생성해주는 오픈소스 툴."
 source: "https://github.com/HKUDS/DeepTutor"
 ---

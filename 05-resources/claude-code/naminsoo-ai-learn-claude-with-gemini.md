@@ -1,7 +1,7 @@
 ---
 title: "학습도 AI화 — Gemini로 Claude 마스터 가이드북 빠르게 파악하기"
 date: 2026-03-24
-tags: [ai/claude, productivity/learning]
+tags: [ai/claude, learning/resources]
 description: "Claude 마스터 가이드북을 한땀한땀 읽는 대신 Gemini에 올려서 '뭐부터 시작하면 됨?'으로 AI 보조 학습하는 방법 제안. 가이드북 PDF 링크 포함."
 source: "https://www.threads.com/@naminsoo_ai/post/DWQzkblEcn4?xmt=AQF0-OBZuliY1KmM5CqQIe0_bzRkOTgFgSOiPE0DZZ5zzSqrGpA_YupGL7nMMuda7yPug5I&slof=1"
 ---

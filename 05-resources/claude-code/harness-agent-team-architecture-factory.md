@@ -1,7 +1,7 @@
 ---
 title: "Harness — 프로젝트 설명 한 줄로 에이전트 팀 아키텍처를 찍어내는 factory"
 date: 2026-04-27
-tags: [ai/claude, dev/agent, productivity/automation]
+tags: [ai/claude, ai/agent, productivity/automation]
 description: "도메인 설명 한 줄을 입력하면 6가지 패턴 중 적합한 에이전트 팀 구조와 .claude/agents/, .claude/skills/ 산출물을 자동 생성하는 Claude Code용 팀 아키텍처 factory."
 source: "https://www.threads.com/@hermes_agent_kr/post/DXq447Uk_E_"
 ---

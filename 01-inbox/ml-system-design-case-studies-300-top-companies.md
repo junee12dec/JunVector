@@ -1,7 +1,7 @@
 ---
 title: "ML 시스템 디자인 케이스 스터디 300+ — 탑 기업 실제 사례 무료 큐레이션"
 date: 2026-08-08
-tags: [dev/ml, strategy/career, dev/system-design]
+tags: [dev/data, strategy/career, dev/architecture]
 description: "Google·Meta·Netflix 등 탑 기업의 실제 ML 시스템 디자인 사례 300개 이상을 무료로 정리한 GitHub 레포. 토이 프로젝트 대신 실제 비즈니스 문제를 다루는 포트폴리오가 채용 신호임을 강조."
 source: "https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies"
 ---

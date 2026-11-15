@@ -1,7 +1,7 @@
 ---
 title: "OpenCode 완전 개발자 가이드 — 에이전트·스킬·플러그인·MCP 통합 총정리"
 date: 2026-08-08
-tags: [dev/ai-tools, ai/agent, ai/mcp]
+tags: [ai/tools, ai/agent, ai/mcp]
 description: "GitHub 별 182K+, 월 800만 사용자의 오픈소스 AI 코딩 에이전트 OpenCode의 에이전트·스킬·커스텀 명령어·플러그인·MCP 통합을 커뮤니티가 정리한 개발자 가이드. 헤드리스·CI 활용법까지 포함."
 source: "https://github.com/wesammustafa/OpenCode-Everything-You-Need-to-Know"
 ---

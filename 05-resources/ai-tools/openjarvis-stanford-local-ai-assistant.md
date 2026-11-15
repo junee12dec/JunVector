@@ -1,7 +1,7 @@
 ---
 title: "OpenJarvis — 스탠퍼드가 만든 무료 로컬 AI 비서"
 date: 2026-03-16
-tags: [ai/local, ai/open-source, productivity/automation]
+tags: [ai/llm, dev/open-source, productivity/automation]
 description: "스탠퍼드 연구팀이 공개한 온디바이스 AI 비서. 인터넷·구독료 없이 내 컴퓨터에서 직접 실행되며, 일상 질문의 89%를 로컬에서 처리한다."
 source: "https://www.threads.com/@manag.erkim/post/DV9AXXYGW-9?xmt=AQF0QMZXxX-V_4So6dG2wp8eef-VgosnOm2N5OqBVnLf5ISSLS0dVhP2wpvKGfFDZihfflM&slof=1"
 ---

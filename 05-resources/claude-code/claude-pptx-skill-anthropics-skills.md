@@ -1,7 +1,7 @@
 ---
 title: "Claude PPTX Skill — 코드로 만드는 픽셀 단위 슬라이드"
 date: 2026-03-25
-tags: [ai/claude, skills/pptx, productivity/presentation]
+tags: [ai/claude, ai/skill, productivity/presentation]
 description: "Anthropic 공식 skills 레포에서 공개한 Claude PPTX 스킬. GUI 도구(Gamma, Beautiful.ai)가 못 하는 픽셀 단위 템플릿 제어와 자동 QA 루프로 슬라이드 생성 성공률을 67%에서 94%로 끌어올렸다."
 source: "https://github.com/anthropics/skills"
 ---

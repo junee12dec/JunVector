@@ -1,7 +1,7 @@
 ---
 title: "kepano/obsidian-skills — Steph Ango의 Obsidian AI 노트 관리 스킬 5종 오픈소스"
 date: 2026-08-19
-tags: [ai/agent-skills, productivity/obsidian, dev/tools]
+tags: [ai/skill, productivity/pkm, dev/tools]
 description: "Obsidian 창시자 Steph Ango가 공개한 마크다운 메모·Bases·JSON Canvas·볼트 열기·웹 클리핑 등 5종 AI 스킬 묶음. Agent Skills 규격으로 Claude Code·Codex·OpenCode에서 그대로 동작하며 MIT 라이선스."
 source: "https://github.com/kepano/obsidian-skills"
 ---

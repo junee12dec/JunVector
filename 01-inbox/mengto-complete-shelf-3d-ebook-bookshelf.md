@@ -1,7 +1,7 @@
 ---
 title: "Complete Shelf — MengTo의 3D 웹 서재 오픈소스 + 전자책 포장을 바꾸는 방법"
 date: 2026-08-05
-tags: [dev/frontend, design/ebook, ai/claude-code]
+tags: [dev/frontend, design/document, ai/claude-code]
 description: "index.html 파일 하나로 동작하는 3D 회전 서재 오픈소스. Claude Code에 레포를 던져 40분 만에 내 책으로 교체 가능하며, MengTo가 텍스처 잡는 데 쓴 프롬프트까지 공개되어 있다."
 source: "https://www.threads.com/share/_xuNb4l4U/"
 ---

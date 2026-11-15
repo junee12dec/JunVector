@@ -1,7 +1,7 @@
 ---
 title: "Icon Explorer — 무한 캔버스로 탐색하는 아이콘 브라우저 (Iconify 200,000개)"
 date: 2026-05-27
-tags: [design/tool, dev/frontend, dev/vue]
+tags: [design/resources, dev/frontend]
 description: "Iconify의 200,000개 이상 아이콘을 무한 캔버스(Infinite Canvas)로 탐색하는 Vue 3 기반 도구. 사방으로 스크롤하며 탐색하고 SVG·PNG·Vue·React 형식으로 다운로드 가능."
 source: "https://github.com/BroKarim/icon"
 ---

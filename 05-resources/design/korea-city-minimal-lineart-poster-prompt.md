@@ -1,7 +1,7 @@
 ---
 title: "한국 도시 미니멀 라인아트 여행 포스터 프롬프트 — 지역명만 바꾸면 완성 (8K)"
 date: 2026-05-09
-tags: [ai/image-generation, productivity/prompt, travel/guide, design/aesthetic]
+tags: [ai/image, ai/prompt, life/travel, design/system]
 description: "지역명 하나만 바꾸면 스위스 모더니스트 미학의 미니멀 라인아트 도시 여행 포스터를 8K 해상도로 생성하는 상세 프롬프트. 단색 실크스크린 스타일, 일상 거리 장면, 지역 색상 자동 선택."
 source: "https://www.threads.com/@rm.visualizer/post/DYH6imNk3Cc"
 ---

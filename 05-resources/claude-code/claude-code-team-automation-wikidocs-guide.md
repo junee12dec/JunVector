@@ -1,7 +1,7 @@
 ---
 title: "Claude Code 팀 자동화 완성 — 에이전트·원격 제어 실전 가이드 (위키독스)"
 date: 2026-05-15
-tags: [ai/claude, agent/multi-agent, dev/workflow, productivity/automation]
+tags: [ai/claude, ai/agent, productivity/workflow, productivity/automation]
 description: "tmux 팀 에이전트 구성부터 모바일 원격 제어, gstack·superpowers·GSD 플러그인 통합까지 Claude Code 팀 자동화 전 과정을 다루는 한국어 위키독스 실전 가이드북."
 source: "https://wikidocs.net/book/19736"
 ---

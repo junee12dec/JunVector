@@ -1,7 +1,7 @@
 ---
 title: "헤르메스 에이전트 입문 가이드 A to Z — Eric 작성"
 date: 2026-07-05
-tags: [ai/agent, learning/guide, ai/coding-agent]
+tags: [ai/agent, learning/resources]
 description: "Hermes Agent가 무엇인지, 왜 좋은지, 어떻게 사용하는지, 실제 활용 사례까지 담은 한국어 입문 가이드. 처음 시작하는 사람에게 적합."
 source: "https://eric-ux.notion.site/Hermes-Agent-A-to-Z-39af2d65d70e801a8796d296c2ea00db"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "AI/ML 면접 준비 완전 가이드 — 300+ Q&A GitHub 레포"
 date: 2026-03-25
-tags: [ai/interview, learning/career, dev/ai-engineering]
+tags: [strategy/career, learning/resources, ai/llm]
 description: "LLM, RAG, AI 에이전트, MCP, 파인튜닝, 벡터DB, LLMOps, AI 안전 등 14개 카테고리에 걸쳐 300개 이상의 Q&A를 제공하는 무료 AI 엔지니어링 면접 준비 레포."
 source: "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Semble — AI 에이전트용 초고속 코드 검색 MCP 서버 (CPU 전용, 2k⭐)"
 date: 2026-05-15
-tags: [ai/agent, dev/tool, agent/mcp, dev/search]
+tags: [ai/agent, dev/tools, ai/mcp]
 description: "전체 레포 인덱싱 263ms, 쿼리 응답 1.5ms로 GPU·API 키 없이 CPU만으로 작동하는 에이전트용 코드 검색 라이브러리. MCP 서버로 Claude Code, Cursor, Codex에서 즉시 사용 가능."
 source: "https://www.threads.com/@github.awesome/post/DYdj4sYmnR2"
 ---

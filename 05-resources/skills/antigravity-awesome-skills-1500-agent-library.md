@@ -1,7 +1,7 @@
 ---
 title: "Antigravity Awesome Skills — 1,500+ 에이전트 스킬 설치형 라이브러리 (Claude·Gemini·Codex·Cursor·Copilot)"
 date: 2026-06-05
-tags: [ai/agent-skill, ai/claude, dev/tool, productivity/automation]
+tags: [ai/skill, ai/claude, dev/tools, productivity/automation]
 description: "Claude Code·Gemini CLI·Codex CLI·Cursor·GitHub Copilot 등 모든 주요 AI 코딩 어시스턴트에서 사용할 수 있는 1,500개 이상의 에이전트 스킬 설치형 라이브러리. `npx antigravity-awesome-skills` 한 줄로 원하는 도구에 즉시 설치된다."
 source: "https://github.com/sickn33/antigravity-awesome-skills"
 ---

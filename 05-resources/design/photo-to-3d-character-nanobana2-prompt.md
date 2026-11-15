@@ -1,7 +1,7 @@
 ---
 title: "사진 한 장으로 3D 캐릭터 만들기 — 나노바나나2 무료 워크플로우 + 프롬프트"
 date: 2026-04-07
-tags: [ai/image-generation, ai/prompt, creativity/design]
+tags: [ai/image, ai/prompt, design/resources]
 description: "사진 한 장을 나노바나나2에 업로드하고 정해진 프롬프트를 입력하면 매트 비닐 토이 스타일의 입체감 있는 3D 캐릭터를 즉시 생성할 수 있다."
 source: "https://www.threads.com/@beyondbetterbrand/post/DW0pxVPk-d9"
 ---

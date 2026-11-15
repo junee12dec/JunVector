@@ -1,7 +1,7 @@
 ---
 title: "AI·디자인 유용 웹사이트 5개 북마크"
 date: 2026-03-25
-tags: [design/tools, design/reference, productivity/resources]
+tags: [design/resources, productivity/tools]
 description: "이미지 디더링, 앱 UX 레퍼런스, 컬러 팔레트, 소셜 미디어 그래픽, 광고 스펙까지 디자이너에게 유용한 웹사이트 5개 모음."
 source: "https://www.threads.com/@adventure__dori/post/DWTpW_CE_ds"
 ---

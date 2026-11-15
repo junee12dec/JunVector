@@ -1,7 +1,7 @@
 ---
 title: "Agency Agents — 회사 조직 구조로 짜인 147개 AI 에이전트 라이브러리 (100k⭐)"
 date: 2026-05-22
-tags: [ai/agent, productivity/automation, dev/tool, agent/skill]
+tags: [ai/agent, productivity/automation, dev/tools, ai/skill]
 description: "12개 부서(Engineering·Design·Marketing·Sales·PM 등)로 구성된 147개 전문 AI 에이전트 라이브러리. 단순 프롬프트 모음이 아니라 페르소나·워크플로·산출물까지 정의된 실전 에이전트 팀."
 source: "https://github.com/msitarzewski/agency-agents"
 ---

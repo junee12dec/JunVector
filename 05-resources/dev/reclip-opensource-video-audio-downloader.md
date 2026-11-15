@@ -1,7 +1,7 @@
 ---
 title: "ReClip — 광고 없는 오픈소스 영상·오디오 다운로더"
 date: 2026-04-11
-tags: [dev/tools, productivity/tools, open-source]
+tags: [dev/tools, productivity/tools, dev/open-source]
 description: "1,000개 이상 사이트에서 영상·오디오를 로컬에서 다운로드하는 오픈소스 도구. 파이썬 150줄, 의존성 2개, 광고·트래커·계정 없음."
 source: "https://github.com/averygan/reclip"
 ---

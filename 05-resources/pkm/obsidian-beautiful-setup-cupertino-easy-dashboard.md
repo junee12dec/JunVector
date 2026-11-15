@@ -1,7 +1,7 @@
 ---
 title: "Obsidian 예쁘게 세팅하기 — Cupertino 테마 + easy-dashboard 플러그인 3단계"
 date: 2026-05-01
-tags: [pkm/obsidian, productivity/setup, pkm/dashboard]
+tags: [productivity/pkm, productivity/tools]
 description: "Cupertino 테마 + Dataview + Templater + easy-dashboard 플러그인 조합으로 아름다운 Obsidian 대시보드를 3단계로 구성하는 튜토리얼. 폴더 설정 후 페이지 자동 생성까지."
 source: "https://www.threads.com/@annyurevna/post/DX_U3YICaMJ"
 ---

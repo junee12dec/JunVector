@@ -1,7 +1,7 @@
 ---
 title: "GitHub 트렌딩 오픈소스 TOP 8 — 2026-03-26"
 date: 2026-03-26
-tags: [dev/tools, ai/agent, productivity/resources]
+tags: [dev/tools, ai/agent, productivity/tools]
 description: "GitHub 트렌딩 실시간 1위권 오픈소스 8개 정리. 학습 로드맵 생성기부터 Claude Code 툴팩, ByteDance 워크플로우 엔진, 멀티 에이전트 프레임워크까지 개발자 필수 탐색 목록."
 source: "https://www.threads.com/@ck_06_01_/post/DWYoEZ2GBZU"
 ---

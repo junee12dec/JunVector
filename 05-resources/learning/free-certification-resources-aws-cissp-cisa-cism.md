@@ -1,7 +1,7 @@
 ---
 title: "무료 자격증 학습 자료 모음 — AWS, CISSP, CISA, CISM, 디지털 마케팅"
 date: 2026-03-17
-tags: [certification/cloud, certification/security, certification/marketing, resource/free]
+tags: [learning/certification, learning/resources]
 description: "AWS, CISSP, CISA, CISM, 디지털 마케팅 자격증 학습에 필요한 무료 자료를 Google Drive로 공유한 모음. 비용 없이 주요 IT·보안·마케팅 자격증을 준비할 수 있다."
 source: "https://www.threads.com/@vikas.learn.ai/post/DV-Bla7GOC6?xmt=AQF0rgUZfXVtjmEbeMlmsH18kLUFb8bwD1sixs5bl-CXDciQx7itcUZJVTR32dajZl1KUqxZ&slof=1"
 ---

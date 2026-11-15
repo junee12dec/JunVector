@@ -1,7 +1,7 @@
 ---
 title: "Graphify — 코드 폴더를 즉시 쿼리 가능한 지식 그래프로 변환"
 date: 2026-04-15
-tags: [dev/knowledge-graph, ai/tools, dev/llm-tooling]
+tags: [ai/rag, ai/tools]
 description: "Karpathy의 LLM Wiki 방식의 토큰 과소비 문제를 해결하는 하이브리드 도구. 기계적 전처리로 지식 뼈대를 먼저 추출한 뒤 에이전트에게 넘겨 효율을 극대화한다."
 source: "https://www.threads.com/@limedaddy_8924/post/DXEhIISFCPt"
 ---

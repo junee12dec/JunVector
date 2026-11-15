@@ -1,7 +1,7 @@
 ---
 title: "JunVector CLAUDE.md — Obsidian 볼트 Claude 운영 규칙"
 date: 2026-04-09
-tags: [meta/claude-instructions, productivity/obsidian, productivity/automation]
+tags: [meta/project, productivity/pkm, productivity/automation]
 description: "이 볼트에서 Claude가 따르는 운영 규칙 전체. PARA 구조, 스킬 파일 위치, 노트 형식, MOC 관리, 콘텐츠 워크플로우를 정의한다."
 ---
 

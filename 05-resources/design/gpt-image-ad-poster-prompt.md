@@ -1,7 +1,7 @@
 ---
 title: "GPT Image로 1분 만에 상업용 광고 포스터 만들기"
 date: 2026-06-17
-tags: [ai/image-generation, marketing/advertising, productivity/automation]
+tags: [ai/image, strategy/business, productivity/automation]
 description: "GPT Image를 활용해 제품명만 입력하면 무료로 고품질 상업용 광고 포스터를 생성하는 프롬프트 템플릿."
 source: "https://www.threads.com/@human__bro/post/DZn2N0VkqJd"
 ---

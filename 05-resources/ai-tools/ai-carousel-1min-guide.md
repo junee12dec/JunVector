@@ -1,7 +1,7 @@
 ---
 title: "AI 캐러셀 1분만에 만들기"
 date: 2026-03-25
-tags: [ai/tools, productivity/content-creation, sns/instagram]
+tags: [ai/tools, productivity/content]
 description: "AI를 활용해 인스타그램 캐러셀 콘텐츠를 1분 안에 만드는 방법을 소개하는 가이드. Notion 페이지에 단계별 따라하기 자료가 정리되어 있다."
 source: "https://www.instagram.com/reel/DVrii8BkyGM/?igsh=MTY1b2Z6OG05dnphNg=="
 ---

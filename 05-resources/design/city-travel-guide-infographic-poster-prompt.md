@@ -1,7 +1,7 @@
 ---
 title: "도시 여행 가이드 인포그래픽 포스터 프롬프트 템플릿 — 소년잡지풍 애니메이션 스타일"
 date: 2026-04-29
-tags: [ai/image-generation, productivity/prompt, design/template, travel/guide]
+tags: [ai/image, ai/prompt, design/resources, life/travel]
 description: "도시명·분위기·색감만 입력하면 소년잡지풍 애니메이션 스타일의 한국어 여행 가이드 인포그래픽 포스터를 생성하는 상세 프롬프트 템플릿. 9개 필수 콘텐츠 구성(명소·음식·활동·로컬바이브·팁·코믹장면·미니맵)과 비주얼·타이포·편집 가이드 포함."
 source: "https://www.threads.com/@reactor_art/post/DXtJ8ywmjaB"
 ---

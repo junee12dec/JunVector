@@ -1,7 +1,7 @@
 ---
 title: "리소그라프 인쇄풍 미니멀 일러스트 프롬프트 — GPT Image (주제·색상만 입력)"
 date: 2026-05-01
-tags: [ai/image-generation, productivity/prompt, design/aesthetic]
+tags: [ai/image, ai/prompt, design/system]
 description: "인물·장면·계절과 색상 2~3개만 입력하면 리소그라프 인쇄풍 미니멀 일러스트를 생성하는 GPT 프롬프트. 굵은 윤곽선·빈티지 잉크 질감·넓은 여백의 감성 포스터 스타일."
 source: "https://www.threads.com/@reactor_art/post/DX8A70ZGT-3"
 ---

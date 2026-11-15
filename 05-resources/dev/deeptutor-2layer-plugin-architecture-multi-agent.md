@@ -1,7 +1,7 @@
 ---
 title: "DeepTutor 아키텍처 심층 분석 — 2-Layer Plugin과 멀티에이전트 파이프라인"
 date: 2026-04-09
-tags: [ai/education, ai/agents, dev/architecture]
+tags: [learning/resources, ai/agent, dev/architecture]
 description: "홍콩대학교 HKUDS의 DeepTutor가 채택한 2-Layer Plugin 아키텍처와 Plan→ReAct→Write 멀티에이전트 파이프라인을 분석한 노트. 교육 플랫폼을 넘어 범용 멀티에이전트 시스템 설계의 참고 사례."
 source: "https://www.threads.com/@github.trending/post/DW5EibPEij1"
 ---

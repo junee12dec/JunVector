@@ -1,7 +1,7 @@
 ---
 title: "LangWatch — LLM 사용량 분석 및 프롬프트 최적화 오픈소스 플랫폼"
 date: 2026-07-19
-tags: [ai/llm-ops, dev/observability, ai/prompt-engineering]
+tags: [ai/llm, dev/infra, ai/prompt]
 description: "개발자가 LLM 사용량을 분석하고 프롬프트를 최적화할 수 있는 오픈소스 플랫폼. LLM 프로덕션 운영의 관측 가능성(observability)을 확보하는 도구."
 source: "https://github.com/langwatch/langwatch"
 ---

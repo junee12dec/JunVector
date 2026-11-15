@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Agent Client — 노트에서 Claude Code·Gemini·Codex 직접 실행"
 date: 2026-03-17
-tags: [tool/obsidian, ai/claude-code, productivity/pkm]
+tags: [productivity/pkm, ai/claude-code]
 description: "Obsidian 노트에서 터미널 없이 AI 에이전트를 직접 실행하는 플러그인. 출시 6개월 만에 75,000 다운로드, 세컨드 브레인을 자연어 IDE로 전환한다."
 source: "https://www.threads.com/@aisolutiondev/post/DV-iL8wFKwP?xmt=AQF00NcxT19n9i8Pr7rDEQcXo9Y6BcCvtL1eGtf2WnIXOgJthqwGboLfOYvshfqt_8GbFQQ&slof=1"
 ---

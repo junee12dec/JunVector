@@ -1,7 +1,7 @@
 ---
 title: "Ruflo (구 Claude Flow) — Claude Code에 기획·개발·테스트·리뷰·보안 역할별 AI 개발팀을 붙이는 무료 오픈소스"
 date: 2026-10-01
-tags: [ai/claude-code, ai/multi-agent, dev/tools]
+tags: [ai/claude-code, ai/agent, dev/tools]
 description: "Claude Code에 팀장 AI가 작업을 쪼개 역할별 AI에게 나눠주고 공용 메모리에 학습 내용을 남기는 멀티에이전트 하네스. Node.js 20 이상과 Claude Code만 있으면 npx 한 줄로 시작 가능."
 source: "https://www.gymcoding.co/articles/ruflo-claude-code-multi-agent-guide"
 ---

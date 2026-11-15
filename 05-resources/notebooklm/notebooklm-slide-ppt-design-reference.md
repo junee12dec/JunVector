@@ -1,7 +1,7 @@
 ---
 title: "NotebookLM 슬라이드용 PPT 디자인 레퍼런스"
 date: 2026-03-15
-tags: [productivity/ppt, design/color, design/typography]
+tags: [productivity/presentation, design/resources]
 description: "NotebookLM 슬라이드 프롬프트 창에 복붙해서 쓰는 PPT 디자인 가이드. 색상 코드, 폰트, 핵심 효과 스펙 포함."
 source: "https://www.threads.com/@smart.honey9/post/DV6ITVME9RU"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Second Brain 구축 — 프로젝트 MOC"
 date: 2026-03-10
-tags: [project/active, productivity/pkm, tools/obsidian]
+tags: [meta/project, productivity/pkm]
 description: "Obsidian + Claude Code 기반 AI 세컨드 브레인 구축 프로젝트. 볼트 구조 설계부터 워크플로우 완성까지."
 ---
 

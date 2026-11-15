@@ -1,7 +1,7 @@
 ---
 title: "Layer 3 — Agent Harness"
 date: 2026-04-12
-tags: [project/opencode, layer3, agent-harness, ecc, agents, skills, hooks, mcp]
+tags: [meta/project, ai/agent, ai/skill, ai/claude-code, ai/mcp]
 description: "OpenCode 6개 구성요소와 Git 연동 3경로를 다루는 에이전트 하네스 레이어. ECC 패턴을 사내 Spring Boot + Vue.js 스택에 적용."
 type: concept
 status: active

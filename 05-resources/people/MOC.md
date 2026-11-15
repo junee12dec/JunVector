@@ -1,7 +1,7 @@
 ---
 title: "People MOC"
 date: 2026-03-13
-tags: [meta/moc, people]
+tags: [meta/moc, learning/people]
 description: "팔로우할 만한 크리에이터, 인플루언서 관련 자료 목차."
 ---
 

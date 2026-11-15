@@ -1,7 +1,7 @@
 ---
 title: "Tony Cho(flowkater) 블로그 — AI는 당신만큼 똑똑하다"
 date: 2026-04-01
-tags: [people/tech-leader, ai/trend, productivity/vibe-coding]
+tags: [learning/people, ai/research, productivity/workflow]
 description: "개발자 → CTO → 대표를 거친 Tony Cho(@flowkater)의 기술 블로그. 15년+ 경험 인사이트와 AI·바이브코딩 트렌드 글이 담겨 있으며, 'AI는 당신만큼만 똑똑하다'는 글이 특히 인상적."
 source: "https://www.threads.com/@unclejobs.ai/post/DWl3d0HCfDo"
 ---

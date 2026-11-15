@@ -1,7 +1,7 @@
 ---
 title: "Superpowers — AI 코딩 필수 스킬, LLM 추론을 시스템 액션으로 자동화"
 date: 2026-03-17
-tags: [ai/claude-code, tool/skill, productivity/automation]
+tags: [ai/claude-code, ai/skill, productivity/automation]
 description: "숙련된 개발자가 AI로 개발하던 프로세스를 자동화·규격화한 스킬. 코드 분석·plan 작성·오류 자동 수정을 자동화해 코드 품질을 높이고 개발자 개입을 줄인다."
 source: "https://www.threads.com/@choihc7/post/DV83Q3rE9c8?xmt=AQF0mebetY2jiZvLf0xrabhXwheJwzhRHLBMxkKhHpTATutTrz23c3BtMEWOGWl6BGl01jfW&slof=1"
 ---

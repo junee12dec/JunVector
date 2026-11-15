@@ -1,7 +1,7 @@
 ---
 title: "Axton — AI로 다이어그램을 생성하는 Obsidian 플러그인"
 date: 2026-07-21
-tags: [pkm/obsidian, ai/tools, design/diagram]
+tags: [productivity/pkm, ai/tools, design/diagram]
 description: "Obsidian 안에서 AI를 이용해 다이어그램을 자동 생성하는 오픈소스 플러그인. 별도 도구 없이 노트 안에서 바로 시각화를 만들 수 있다."
 source: "https://github.com/axtonliu/axton-obsidian-visual-skills"
 ---

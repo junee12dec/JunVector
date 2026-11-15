@@ -1,7 +1,7 @@
 ---
 title: "Flowise — 드래그 앤 드롭으로 AI 에이전트 빌드하는 노코드 플랫폼 (52.5k stars)"
 date: 2026-04-30
-tags: [agent/tool, dev/no-code, ai/workflow]
+tags: [ai/agent, dev/automation, productivity/workflow]
 description: "드래그 앤 드롭 시각적 인터페이스로 AI 에이전트·챗봇·워크플로우를 코딩 없이 구축하는 오픈소스 플랫폼. OpenAI·LangChain·RAG 통합 지원, Apache 2.0 라이선스."
 source: "https://www.threads.com/@mlworkz/post/DXy7dLQk-Ct"
 ---

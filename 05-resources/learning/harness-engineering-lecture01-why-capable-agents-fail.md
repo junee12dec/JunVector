@@ -1,7 +1,7 @@
 ---
 title: "Harness Engineering 강의 1 — 강력한 모델이 실제 작업에서 실패하는 이유"
 date: 2026-05-15
-tags: [agent/architecture, ai/agent, dev/production, agent/harness]
+tags: [ai/agent, dev/infra]
 description: "벤치마크 성능과 실제 엔지니어링 결과 사이의 '능력 격차'를 분석한 Harness Engineering 입문 강의. 모델의 문제가 아니라 실행 환경(하네스)의 구조적 결함이 실패 원인임을 Anthropic 실험으로 증명."
 source: "https://walkinglabs.github.io/learn-harness-engineering/ko/lectures/lecture-01-why-capable-agents-still-fail/"
 ---

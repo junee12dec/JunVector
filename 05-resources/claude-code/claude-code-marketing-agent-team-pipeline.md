@@ -1,7 +1,7 @@
 ---
 title: "Claude Code로 마케팅 에이전트 팀 구축하기 — 4단계 실전 파이프라인"
 date: 2026-04-20
-tags: [ai/claude, productivity/automation, productivity/marketing]
+tags: [ai/claude, productivity/automation, strategy/business]
 description: "Claude Code로 리서치·콘텐츠·디자인·검수 에이전트 팀을 구성해 '카드뉴스 5장 만들어줘' 한 마디로 브랜드 맞춤 콘텐츠를 자동 생성하는 4단계 마케팅 자동화 파이프라인."
 source: "https://www.threads.com/@aitrendmaster/post/DXa9pFviClB"
 ---

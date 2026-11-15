@@ -1,7 +1,7 @@
 ---
 title: "draw.io 공식 MCP 서버 — Claude에게 말하면 다이어그램이 바로 나온다"
 date: 2026-04-03
-tags: [ai/claude, tool/mcp, dev/diagram]
+tags: [ai/claude, ai/mcp, design/diagram]
 description: "draw.io가 공식 MCP 서버를 출시해 Claude에게 자연어로 요청하면 아키텍처·플로우차트·ERD가 바로 생성된다. 설치 없이 원격 서버만 추가해도 대화 안에 다이어그램이 인라인 렌더링된다."
 source: "https://www.threads.com/@jokerburg.builder/post/DWq7KQoEzYc"
 ---

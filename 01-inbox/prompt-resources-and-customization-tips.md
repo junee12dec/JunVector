@@ -1,7 +1,7 @@
 ---
 title: "AI 프롬프트 리소스 4선 + 남의 프롬프트 내 걸로 만드는 3가지 관점"
 date: 2026-08-03
-tags: [ai/prompt-engineering, productivity/tools, productivity/workflow]
+tags: [ai/prompt, productivity/tools, productivity/workflow]
 description: "PromptHero·Lexica·FlowGPT·carat 등 프롬프트 검색 사이트 4곳과, 남의 프롬프트를 그대로 쓰지 않고 내 브랜드 도구로 만드는 맥락·구조·검증 3가지 관점 정리."
 source: "https://www.threads.com/share/BAZBpqWeP5/"
 ---

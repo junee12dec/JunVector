@@ -1,7 +1,7 @@
 ---
 title: "Koboyo — 손그림 스타일 무한 캔버스 다이어그램 도구 + 9만 개 SVG 아이콘 무료 제공"
 date: 2026-08-05
-tags: [design/tool, design/diagram, ai/mcp]
+tags: [design/resources, design/diagram, ai/mcp]
 description: "손으로 그린 듯한 다이어그램·프레젠테이션을 무한 캔버스에서 만드는 도구. AI·비즈니스·교육 등 9만 개 이상의 손그림 SVG 아이콘을 상업적으로 무료 제공하며, MCP로 AI 에이전트와 연결 가능."
 source: "https://koboyo.com"
 ---

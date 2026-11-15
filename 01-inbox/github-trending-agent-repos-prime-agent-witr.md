@@ -1,7 +1,7 @@
 ---
 title: "GitHub 하루 급상승 에이전트 레포 3선 — prime-agent·agent-skills·witr"
 date: 2026-08-08
-tags: [ai/agent, dev/ai-infra, dev/tools]
+tags: [ai/agent, dev/infra, dev/tools]
 description: "사람 없이 며칠짜리 작업을 돌리는 자율 에이전트 레포가 하루 만에 별 2,319개를 받은 사건. prime-agent(자율 RLM 에이전트), agent-skills(엔지니어링 규율 스킬), witr(프로세스 역추적 CLI) 세 레포 정리."
 source: "https://www.threads.com/share/BBcajaqdIA/"
 ---

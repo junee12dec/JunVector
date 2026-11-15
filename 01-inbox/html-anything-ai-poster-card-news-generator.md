@@ -1,7 +1,7 @@
 ---
 title: "html-anything — 글·표를 붙여넣으면 AI가 카드뉴스·포스터·발표자료로 변환해주는 오픈소스"
 date: 2026-09-15
-tags: [productivity/content, ai/tools, dev/design]
+tags: [productivity/content, ai/tools, dev/architecture]
 description: "텍스트나 표를 붙여넣고 템플릿을 고르면 AI가 실시간으로 카드뉴스·포스터·발표자료를 만들어주는 오픈소스. 발표자료 템플릿 20종 포함, PNG 내보내기 지원. 디자인 지식 없이도 콘텐츠 제작 가능."
 source: "https://github.com/nexu-io/html-anything"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "cloudflare/cloudflare-os — Cloudflare 전 직원이 쓰는 사내 AI 운영체제 오픈소스 공개"
 date: 2026-08-22
-tags: [dev/self-hosted, ai/infrastructure, dev/cloudflare]
+tags: [dev/self-hosted, dev/infra]
 description: "Cloudflare가 실제 사내 운영 중인 AI OS를 오픈소스로 공개. 유저별 독립 인스턴스(Gadget), OAuth·로깅 보안 계층(Gatekeepers), 로컬 한 줄 실행, v2 얼리 액세스 등 사내 AI 인프라 설계 레퍼런스로 가치 있는 사례."
 source: "https://www.threads.com/share/BBlCsKwVzZ/"
 ---

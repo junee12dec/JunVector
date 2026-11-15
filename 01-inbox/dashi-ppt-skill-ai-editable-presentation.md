@@ -1,7 +1,7 @@
 ---
 title: "dashi-ppt-skill — AI가 짜고 브라우저에서 직접 고치는 편집 가능한 발표자료 도구"
 date: 2026-08-22
-tags: [productivity/presentation, ai/agent-skills, dev/tools]
+tags: [productivity/presentation, ai/skill, dev/tools]
 description: "문서를 AI 에이전트에 던지면 슬라이드를 짜주고, 페이지마다 편집 콘솔이 붙어 브라우저에서 바로 수정 후 실제 편집 가능한 PPTX로 내보내는 도구. 테마 12종·레이아웃 1,020장·편집 요소 8,576개."
 source: "https://www.threads.com/share/BAXpVOk4tP/"
 ---

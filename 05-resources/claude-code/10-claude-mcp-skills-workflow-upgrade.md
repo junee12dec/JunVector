@@ -1,7 +1,7 @@
 ---
 title: "워크플로우를 업그레이드하는 10가지 Claude MCP 스킬"
 date: 2026-03-24
-tags: [ai/claude, productivity/automation, dev/mcp]
+tags: [ai/claude, productivity/automation, ai/mcp]
 description: "Claude를 PM·시스템 아키텍트·시장조사 분석가·스프레드시트 엔진·Figma-to-code 브릿지로 전환하는 10가지 MCP 스킬 모음. 창업자·개발자·AI 빌더의 2026 필수 도구."
 source: "https://www.instagram.com/p/DWJ2uQEmJYy/?img_index=11&igsh=OGFsNHVmNXk0bnhl"
 ---

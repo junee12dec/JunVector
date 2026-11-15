@@ -1,7 +1,7 @@
 ---
 title: "PPT 퀄리티 3배, 작업 시간 3배 단축해주는 AI 툴 5가지"
 date: 2026-03-25
-tags: [ai/tools, productivity/presentation, productivity/content-creation]
+tags: [ai/tools, productivity/presentation, productivity/content]
 description: "Felo, Canva, Gamma, Ideogram, MyMap AI — PPT 제작 시간을 3배 단축해주는 AI 도구 5가지. 조사·디자인·이미지 생성·인포그래픽까지 단계별 도구를 정리했다."
 ---
 

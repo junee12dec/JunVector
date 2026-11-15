@@ -1,7 +1,7 @@
 ---
 title: "EO 매거진 — 아티클 40068"
 date: 2026-03-10
-tags: [media/article]
+tags: [productivity/content]
 description: "eopla.net 매거진 아티클. 페이지 접근 차단(403)으로 본문을 가져오지 못해 URL만 저장."
 source: "https://eopla.net/magazines/40068"
 ---

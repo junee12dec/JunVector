@@ -1,7 +1,7 @@
 ---
 title: "Generative AI for Beginners — Microsoft의 무료 21강 생성형 AI 입문 커리큘럼 (112k⭐)"
 date: 2026-06-16
-tags: [ai/education, ai/llm, dev/learning]
+tags: [learning/resources, ai/llm]
 description: "Microsoft가 만든 무료 21강 생성형 AI 개발 커리큘럼. LLM 기초부터 RAG·파인튜닝·AI 에이전트까지 다루며, Python·TypeScript 코드 샘플과 50개 이상 언어 번역을 제공해 AI 경험이 없는 개발자도 시작할 수 있다."
 source: "https://github.com/microsoft/generative-ai-for-beginners"
 ---

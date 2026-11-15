@@ -1,7 +1,7 @@
 ---
 title: "AI·테크 큐레이션 — X, 뉴스레터, 유튜브 추천 계정"
 date: 2026-03-29
-tags: [resource/curation, ai/community, productivity/learning]
+tags: [learning/resources]
 description: "AI·테크 분야에서 팔로우할 만한 X 계정, 뉴스레터, 유튜브 채널을 정리한 큐레이션 목록."
 source: "https://www.instagram.com/reel/DWclenWEdjF/?igsh=MWVnM2RscDV4dXRnZg=="
 ---

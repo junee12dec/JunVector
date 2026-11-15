@@ -1,7 +1,7 @@
 ---
 title: "Gemini Gem — 유튜브 영상 전문 콘텐츠 분석가 프롬프트"
 date: 2026-04-20
-tags: [ai/tools, productivity/prompt, productivity/workflow]
+tags: [ai/tools, ai/prompt, productivity/workflow]
 description: "유튜브 영상을 단순 요약이 아닌 강연자의 논리를 복원하는 수준으로 상세 분석해주는 Gemini Gem 프롬프트. 수십 번 업데이트로 완성된 실전 템플릿."
 source: "https://www.threads.com/@bohe76/post/DXaBh1mkjRM"
 ---

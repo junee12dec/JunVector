@@ -1,7 +1,7 @@
 ---
 title: "Y2K 다마고치 픽셀 변환 프롬프트 — GPT Image 2 (2종)"
 date: 2026-04-29
-tags: [ai/image-generation, productivity/prompt, design/aesthetic]
+tags: [ai/image, ai/prompt, design/system]
 description: "사진을 90년대 Y2K 다마고치 액정 화면 스타일 8비트 픽셀로 변환하는 GPT Image 2 프롬프트 2종. 레트로 UI 풀버전과 말풍선+원본색상 간소화 버전 수록."
 source: "https://www.threads.com/@ppaulcasso/post/DXv8Q5CkuoF"
 ---

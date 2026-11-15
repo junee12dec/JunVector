@@ -1,7 +1,7 @@
 ---
 title: "Karpathy LLM 위키 — Obsidian 노트를 자동 연결하는 AI 지식 시스템"
 date: 2026-04-08
-tags: [ai/pkm, ai/llm, productivity/knowledge-management, productivity/obsidian]
+tags: [productivity/pkm, ai/llm]
 description: "카파시가 운영 중인 LLM 위키 시스템. 자료를 넣으면 AI가 위키 페이지를 자동 생성하고, 새 자료 추가 시 기존 문서 10-15개를 업데이트하며 백링크도 자동 생성한다."
 source: "https://www.threads.com/@aboutcorelab/post/DW32d-Vk5GM"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "prompts.chat — 전 세계 사용자가 공유하는 오픈소스 Prompt Library"
 date: 2026-09-11
-tags: [ai/prompt, productivity/resources, ai/llm]
+tags: [ai/prompt, productivity/tools, ai/llm]
 description: "전 세계 사용자들이 공유한 프롬프트를 검색·복사·추가할 수 있는 오픈소스 프롬프트 라이브러리. X나 Reddit에서 하나씩 찾아 저장할 필요 없이 한 곳에서 탐색 가능."
 source: "https://github.com/f/prompts.chat"
 ---

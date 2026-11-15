@@ -1,7 +1,7 @@
 ---
 title: "G-Stack + SuperPowers 조합 AI 개발 워크플로우 6단계 — Claude Code·Codex"
 date: 2026-05-09
-tags: [ai/claude, dev/workflow, productivity/automation]
+tags: [ai/claude, productivity/workflow, productivity/automation]
 description: "AI에게 코딩을 맡기기 전 먼저 '일하는 순서'를 설계하는 6단계 워크플로우. G-Stack과 SuperPowers 스킬을 조합해 요구사항 정리부터 서브 에이전트 개발까지 구조화된 흐름으로 진행."
 source: "https://www.threads.com/@windynomads_official/post/DYWOQqfk2Yi"
 ---

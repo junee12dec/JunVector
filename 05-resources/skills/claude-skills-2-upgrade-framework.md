@@ -1,7 +1,7 @@
 ---
 title: "Claude Skills 2.0 업그레이드 프레임워크"
 date: 2026-03-15
-tags: [ai/claude, productivity/automation, dev/skills]
+tags: [ai/claude, productivity/automation, ai/skill]
 description: "앤트로픽의 Skills 2.0 프레임워크 개요와, 기존 스킬 파일을 자동 진단·최적화해주는 skills-2.0-upgrade 툴 소개."
 source: "https://www.threads.com/@tofukyung/post/DV68fjngkf3"
 ---

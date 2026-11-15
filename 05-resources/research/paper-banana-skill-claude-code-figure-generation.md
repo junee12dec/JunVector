@@ -1,7 +1,7 @@
 ---
 title: "Paper-Banana를 Claude Code 스킬로 — 논문 그림 생성 자동화"
 date: 2026-03-23
-tags: [ai/claude-code, tool/skill, research/paper, ai/image-generation]
+tags: [ai/claude-code, ai/skill, ai/research, ai/image]
 description: "paper-banana 논문의 반복적 그림 생성·비평·수정 파이프라인을 Claude Code 스킬로 등록하면, pip 설치 없이 논문 figure를 Claude Code 안에서 바로 생성할 수 있다."
 source: "https://www.threads.com/@ed_hjpark/post/DWLw_tpEynm?xmt=AQF0KRH3JDzOV2Pi_upp80wmSCtmQ5WC0lsiV47c_wwqEP7H7011gWAgS2Jiv4iOrGa4goA&slof=1"
 ---
