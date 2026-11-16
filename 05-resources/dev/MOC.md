@@ -37,3 +37,11 @@ description: "개발 도구, no-code, vibe-coding 관련 자료 목차."
 - [[quarkdown-markdown-superpowers-typesetting|Quarkdown — 논문·프레젠테이션·웹사이트·책을 하나의 Markdown 문법으로 (14k⭐)]] — 2026-05-15
 - [[storybook-ui-component-workshop|Storybook — UI 컴포넌트 격리 개발·문서화·테스트 업계 표준 워크숍 (90k⭐)]] — 2026-05-15
 - [[windmill-script-to-workflow-ui-platform|Windmill — 스크립트를 웹훅·워크플로우·UI로 변환하는 오픈소스 개발자 플랫폼 (16.5k⭐)]] — 2026-05-15
+- [[cloudflare-os-ai-enterprise-infrastructure|cloudflare/cloudflare-os — Cloudflare 전 직원이 쓰는 사내 AI 운영체제 오픈소스 공개]] — 2026-08-22
+- [[code-graph-rag-monorepo-knowledge-graph|code-graph-rag — 모노레포를 지식 그래프로 만들어 AI가 자연어로 코드를 검색·편집하는 RAG]] — 2026-08-08
+- [[elk-to-clickhouse-migration-trend|ELK → ClickHouse 전환 트렌드 — 비용 70~90% 절감·표준 SQL·대용량 로그 처리]] — 2026-09-05
+- [[garage-webui-s3-admin-dashboard|Garage Web UI — 셀프호스팅 S3 스토리지를 브라우저로 관리하는 어드민 대시보드]] — 2026-07-26
+- [[mengto-complete-shelf-3d-ebook-bookshelf|Complete Shelf — MengTo의 3D 웹 서재 오픈소스 + 전자책 포장을 바꾸는 방법]] — 2026-08-05
+- [[n8n-self-hosted-ai-starter-kit|n8n Self-Hosted AI Starter Kit — n8n·Ollama·Qdrant·Postgres로 로컬 AI 워크플로우 환경 구축]] — 2026-08-08
+- [[pr-lens-architecture-diagram-code-review|PR Lens — PR 코드 변경을 아키텍처 다이어그램·데이터 흐름 애니메이션으로 자동 시각화]] — 2026-09-08
+- [[semiotic-react-dataviz-mcp|Semiotic — MCP 서버 내장 React 데이터 시각화 오픈소스 (실시간·네트워크 그래프·대시보드)]] — 2026-09-07

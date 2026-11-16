@@ -26,3 +26,8 @@ description: "AI 에이전트 프레임워크, 메모리, 설계 패턴 관련 �
 - [[anthropic-2026-agentic-coding-trends-report|Anthropic 2026 Agentic Coding Trends Report — 개발자는 오케스트레이터로 진화한다]] — 2026-04-10
 - [[agentic-design-patterns-421-google-engineer|Agentic Design Patterns — Google 시니어 엔지니어의 421페이지 AI 에이전트 설계 바이블]] — 2026-04-18
 - [[opensre-ai-sre-agent-incident-investigation|OpenSRE — 프로덕션 인시던트를 자동 조사하는 오픈소스 AI SRE 에이전트]] — 2026-04-25
+- [[github-trending-agent-repos-prime-agent-witr|GitHub 하루 급상승 에이전트 레포 3선 — prime-agent·agent-skills·witr]] — 2026-08-08
+- [[hermes-agent-intro-guide-eric|헤르메스 에이전트 입문 가이드 A to Z — Eric 작성]] — 2026-07-05
+- [[loopx-stateful-control-plane-long-running-agent|LoopX — 장기 실행 AI 에이전트 팀을 위한 상태 커널 오픈소스]] — 2026-08-08
+- [[prime-agent-rlm-continual-harness-deep|Prime Agent 기술 심화 — RLM + Continual Harness로 ARC-AGI-3 인간 전문가 돌파]] — 2026-08-08
+- [[yc-qm-multi-agent-harness-startup|YC QM — 스타트업 전체를 에이전트로 돌리는 멀티 에이전트 하네스 오픈소스]] — 2026-07-26

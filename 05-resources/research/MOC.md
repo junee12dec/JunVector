@@ -19,3 +19,4 @@ description: "논문 작업, 연구 도구, 학술 워크플로우 관련 자료
 - [[production-ai-agent-architecture-4layers|프로덕션 AI 에이전트 아키텍처 — security·evaluation·observability·.claude 4계층]] — 2026-05-09
 - [[rl-environment-llm-agents-e-t-h-v-s-c-framework|LLM 에이전트 RL 환경 공식 — E={T,H,V,S,C} 프레임워크]] — 2026-05-27
 - [[repo2rlenv-github-to-rl-training-env|Repo2RLEnv — GitHub 레포를 코딩 AI 강화학습 환경으로 자동 변환 (HuggingFace)]] — 2026-06-17
+- [[paperswithcode-huggingface-opensource-fastapi-mcp|Papers with Code 오픈소스 공개 — AI 논문·SOTA 리더보드 추적 플랫폼 전체 코드]] — 2026-10-27

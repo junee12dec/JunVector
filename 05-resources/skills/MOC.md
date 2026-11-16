@@ -20,6 +20,12 @@ description: "Claude Code·AI 에이전트용 스킬, 플러그인, 자동화 �
 - [[plan-ceo-review-11star-skill|/plan-ceo-review — Brian Chesky의 11-star 프레임워크를 구현한 Claude 스킬]] — 2026-03-16
 - [[superpowers-skill-ai-coding-automation|Superpowers — AI 코딩 필수 스킬, LLM 추론을 시스템 액션으로 자동화]] — 2026-03-17
 - [[minimax-ai-agent-skills-opensource|MiniMax AI 에이전트 스킬 오픈소스 공개]] — 2026-03-23
+- [[agents-md-skill-audit-prompt|AGENTS.md·Skill 파일 감사 프롬프트 — 불명확·충돌·중복 지침 찾아 정리하는 법]] — 2026-09-06
+- [[appllama-skills-mobile-ui-pattern-agent|Appllama Skills — 상위 매출 앱 UI 패턴을 학습해 Expo·React Native로 구현하는 에이전트 스킬]] — 2026-09-11
+- [[archify-diagram-agent-skill|Archify — 채팅 한 줄로 아키텍처 다이어그램을 그려주는 에이전트 스킬]] — 2026-07-15
+- [[clean-architecture-skills-nathankim|clean-architecture-skills — 로버트 마틴 클린 아키텍처 + 켄트 백 리팩토링 Claude Code 스킬]] — 2026-07-25
+- [[david-ondrej-agent-skills|David Ondrej의 Agent Skills — AI 에이전트 워크플로우 스킬 오픈소스 모음]] — 2026-07-05
+- [[kami-ai-agent-typesetting-skill-pdf-pptx|Kami — 에이전트가 만드는 문서의 조판을 맡는 스킬 (PDF·PNG·PPTX 출력)]] — 2026-11-05
 
 ## PM 스킬
 
