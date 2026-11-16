@@ -13,3 +13,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 ## 노트 목록
 
 
+- [[dr-dci-agentic-search-dynamic-workspace-expansion|DR-DCI — 검색으로 작업 공간을 넓히고 셸 명령으로 증거를 확인하는 에이전트 검색 (논문·코드 공개)]] — 2026-11-16
