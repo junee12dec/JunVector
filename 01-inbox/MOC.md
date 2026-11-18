@@ -19,3 +19,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[swarms-multi-agent-orchestration-framework|Swarms — 여러 AI 에이전트를 순차·병렬·계층 워크플로우로 묶는 파이썬 멀티 에이전트 프레임워크]] — 2026-11-18
 - [[anatomy-claude-skill-isometric-interactive-explainer|Anatomy — 개념을 실제로 움직이는 아이소메트릭 기계 그림으로 만들어 설명하는 Claude 스킬 (MIT)]] — 2026-11-18
 - [[business-ai-app-5-tools-mastra-composio-mem0-langfuse-promptfoo|비즈니스 AI 앱 만드는 오픈소스 5종 — Mastra·Composio·Mem0·Langfuse·Promptfoo]] — 2026-11-18
+- [[mengto-ui-design-skills-emil-kowalski-solid-glass|Meng To가 고른 UI 디자인 스킬 — Emil Kowalski 애니메이션 스킬·MengTo/skills·Solid Glass]] — 2026-11-18
