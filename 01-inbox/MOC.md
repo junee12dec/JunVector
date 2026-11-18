@@ -25,4 +25,3 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[anti-ai-slop-ui-libraries-5-horizonx-grainient-arcui|AI slop을 없애는 UI 라이브러리 5곳 — HorizonX·Grainient·Arc UI·uberdesigner·Bencho]] — 2026-11-18
 - [[protocol-explorer-interactive-internet-protocols|Protocol Explorer — 인터넷 프로토콜 39종이 패킷 단위로 어떻게 오가는지 움직이는 그림으로 보는 학습 사이트]] — 2026-11-18
 - [[lemo-opuscar-claude-code-film-style-library-99|Lemo-Opuscar — Claude Code가 코드만으로 영상을 만드는 스타일 라이브러리 99종 (수채화·3D·모션그래픽)]] — 2026-11-18
-- [[logo-design-skill-claude-1400-logo-library-svg|logo-design-skill — 실제 로고 1,400개를 참고해 SVG 로고 시안 3개를 만들고 16px까지 시험하는 에이전트 스킬 (MIT)]] — 2026-11-18
