@@ -63,4 +63,4 @@ source: "https://www.threads.com/@choi.openai/post/Df3-VM-Dfi3"
 
 - 처음 저장할 때는 사이트가 네트워크 정책에 막혀 영상 첫 화면만으로 정리했다. 이후 사이트를 허용해 목차와 첫 레슨을 직접 확인했다 (전체 레슨은 40개이고, 처음에 첫 화면에서 "48"로 읽은 것은 잘못이었다).
 - 상단의 Practice · Design Lab · Cheatsheets 탭은 확인할 때 눌러도 레슨 화면에서 바뀌지 않아 내용을 보지 못했다.
-- 공개 GitHub 저장소는 없다. 만든 사람의 GitHub(https://github.com/dilums)에 공개 저장소 115개가 있지만 이 사이트의 저장소는 없다.
+- 이 사이트의 공개 GitHub 저장소는 찾지 못했다. 만든 사람의 GitHub(https://github.com/dilums)의 공개 저장소 115개 중에도 없다.
