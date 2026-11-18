@@ -22,3 +22,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[mengto-ui-design-skills-emil-kowalski-solid-glass|Meng To가 고른 UI 디자인 스킬 — Emil Kowalski 애니메이션 스킬·MengTo/skills·Solid Glass]] — 2026-11-18
 - [[stick-scene-agent-skill-stick-figure-explainer-animation|stick-scene — 한 줄 설명을 졸라맨 애니메이션 장면으로 만들어 주는 에이전트 스킬 (roadmap.sh 제작자, MIT)]] — 2026-11-18
 - [[designed-to-scale-interactive-system-design-course|Designed to Scale — 시스템 설계를 움직이는 그림으로 직접 조작하며 배우는 무료 학습 사이트 (40개 과정)]] — 2026-11-18
+- [[anti-ai-slop-ui-libraries-5-horizonx-grainient-arcui|AI slop을 없애는 UI 라이브러리 5곳 — HorizonX·Grainient·Arc UI·uberdesigner·Bencho]] — 2026-11-18
