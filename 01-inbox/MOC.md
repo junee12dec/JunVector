@@ -20,3 +20,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[anatomy-claude-skill-isometric-interactive-explainer|Anatomy — 개념을 실제로 움직이는 아이소메트릭 기계 그림으로 만들어 설명하는 Claude 스킬 (MIT)]] — 2026-11-18
 - [[business-ai-app-5-tools-mastra-composio-mem0-langfuse-promptfoo|비즈니스 AI 앱 만드는 오픈소스 5종 — Mastra·Composio·Mem0·Langfuse·Promptfoo]] — 2026-11-18
 - [[mengto-ui-design-skills-emil-kowalski-solid-glass|Meng To가 고른 UI 디자인 스킬 — Emil Kowalski 애니메이션 스킬·MengTo/skills·Solid Glass]] — 2026-11-18
+- [[stick-scene-agent-skill-stick-figure-explainer-animation|stick-scene — 한 줄 설명을 졸라맨 애니메이션 장면으로 만들어 주는 에이전트 스킬 (roadmap.sh 제작자, MIT)]] — 2026-11-18
