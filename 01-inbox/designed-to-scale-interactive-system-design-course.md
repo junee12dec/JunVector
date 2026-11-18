@@ -20,10 +20,7 @@ source: "https://www.threads.com/@choi.openai/post/Df3-VM-Dfi3"
 
 상단 메뉴: Learn · Practice · Design Lab · Cheatsheets, 검색, 언어(EN), 테마 전환.
 
-**왼쪽 — 과정 목차 (9장, 48 lessons로 표시)**
-01 Foundations · 02 Scaling · 03 Data & Storage · 04 Communication · 05 Reliability · 06 Architecture · 07 Security · 08 Shipping · 09 Whole Systems
-
-02 Scaling 안의 레슨: Vertical vs Horizontal Scaling · Load Balancing · Stateless Services · Caching · Content Delivery
+**왼쪽 — 과정 목차** (전체 목록은 아래 "40개 과정 전체" 참고)
 
 **가운데 — 레슨 화면 예: "Vertical vs Horizontal Scaling"** (11분, Beginner, 11단계)
 - 질문: "서버 하나가 녹아내리고 있다. 더 큰 서버 하나를 살까, 더 많이 살까?"
@@ -38,7 +35,32 @@ source: "https://www.threads.com/@choi.openai/post/Df3-VM-Dfi3"
 
 진행률 표시: 8 / 40.
 
+## 40개 과정 전체 (사이트 기준, 2026-11-18 확인)
+
+| 장 | 레슨 |
+|----|------|
+| 01. Foundations (3) | How a Request Travels · Latency & Throughput · Napkin Math |
+| 02. Scaling (5) | Vertical vs Horizontal · Load Balancing · Stateless Services · Caching · Content Delivery |
+| 03. Data & Storage (11) | SQL vs NoSQL · Indexes · Storage Engines · Replication · Sharding · Consistent Hashing · Unique IDs at Scale · CAP & Consistency · Consensus & Leaders · Transactions & Isolation · Files & Media |
+| 04. Communication (4) | REST, RPC & GraphQL · Message Queues · Pub/Sub & Events · Real-time Updates |
+| 05. Reliability (4) | Redundancy & Failover · Rate Limiting · Timeouts & Retries · Observability |
+| 06. Architecture (4) | Monolith vs Microservices · Service Discovery · Sagas & Distributed Tx · Batch & Stream Processing |
+| 07. Security (3) | Authentication · Authorization · Encryption & Secrets |
+| 08. Shipping (2) | Testing · CI/CD & Deployments |
+| 09. Whole Systems (4) | HLD & LLD · Design a URL Shortener · Design a News Feed · Design a Chat System |
+
+레슨마다 주소가 따로 있다 (예: `https://designed-to-scale.vercel.app/#/caching/1`, `#/sharding/1`, `#/design-chat/1`).
+
+## 레슨 예: 01-1 "How a Request Travels" (10분, Beginner, 10단계)
+
+- 목표: 페이지 하나가 뜰 때까지 요청을 한 단계씩 따라가며 시간이 실제로 어디서 쓰이는지 찾는다.
+- 실시간 수치: DNS 조회 · 연결 · 요청+서버 처리 · 다운로드 · 합계
+- 단계: Enter 누르기 → 주소 찾기 → 연결 → 요청 → 데이터 가져오기 → 응답 → 추가 파일 → 느린 쿼리 → 먼 거리 → 정리
+- 1단계 "문제": 사용자들이 쇼핑몰이 느리다고 한다. 빠르게 만들려면 먼저 시간이 어디서 쓰이는지 알아야 하니, 페이지 로드 하나를 따라가 본다.
+- 핵심 아이디어: 모든 웹 요청은 기계끼리의 대화이고, 단계마다 시간이 들며 그 비용이 쌓인다.
+
 ## 참고
 
-- 사이트는 저장할 때 네트워크 정책에 막혀 직접 읽지 못했다. 위 화면 구성은 첨부 영상의 첫 화면에 보이는 것만 옮겼다. 첫 화면에는 목차가 "48 lessons"로 보이지만 소개 글은 "40개 과정"이라고 적고 있다.
-- 공개 GitHub 저장소는 찾지 못했다.
+- 처음 저장할 때는 사이트가 네트워크 정책에 막혀 영상 첫 화면만으로 정리했다. 이후 사이트를 허용해 목차와 첫 레슨을 직접 확인했다 (전체 레슨은 40개이고, 처음에 첫 화면에서 "48"로 읽은 것은 잘못이었다).
+- 상단의 Practice · Design Lab · Cheatsheets 탭은 확인할 때 눌러도 레슨 화면에서 바뀌지 않아 내용을 보지 못했다.
+- 공개 GitHub 저장소는 없다. 만든 사람의 GitHub(https://github.com/dilums)에 공개 저장소 115개가 있지만 이 사이트의 저장소는 없다.
