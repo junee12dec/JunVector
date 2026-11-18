@@ -27,3 +27,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[lemo-opuscar-claude-code-film-style-library-99|Lemo-Opuscar — Claude Code가 코드만으로 영상을 만드는 스타일 라이브러리 99종 (수채화·3D·모션그래픽)]] — 2026-11-18
 - [[designer-bookmark-tools-shotreel-amicons-graphicalui-drawably|디자이너 북마크 도구 — shotreel·amicons·graphicalui·drawably]] — 2026-11-18
 - [[free-ai-design-skills-5-logo-ppt-card-illustration|디자이너 대신 쓰는 무료 AI 디자인 스킬·앱 5개 — 캐릭터 로고·잡지형 발표자료·맥 로컬 그림·카드뉴스·손그림 삽화]] — 2026-11-18
+- [[vibe-coding-ui-overlay-terms-modal-popover-toast|바이브 코딩 화면 용어 6개 — 모달·팝오버·툴팁·토스트·시트·드로어]] — 2026-11-18
