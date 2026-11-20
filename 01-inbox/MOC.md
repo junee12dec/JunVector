@@ -37,3 +37,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[n8n-visual-ai-agent-workflow-automation|n8n — 화면에서 블록을 이어 AI 에이전트와 자동화 흐름을 만드는 도구 (연동 1,500+·템플릿 9,000+)]] — 2026-11-20
 - [[claude-code-docs-5-essential-pages|Claude Code 공식 문서, 이 5쪽만 저장해 두기 — 빠른 시작·모범 사례·대화 모드·비용 관리·문제 해결]] — 2026-11-20
 - [[vibe-design-tips-skills-ui-continuity-transitions|Vibe Design Tips 스킬 — 바이브 코딩 제품의 완성도를 올리는 디자인 팁 21개 (화면 전환은 진단부터)]] — 2026-11-20
+- [[knowledgeclaw-omnimodal-hypergraph-agentic-knowledge-engineering|KnowledgeClaw — 문서·이미지·영상이 섞인 사내 지식 베이스를 하이퍼그래프로 엮고 계속 최신으로 유지하는 에이전트 (논문·코드 공개)]] — 2026-11-20
