@@ -34,3 +34,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-artifacts-name-the-chart-sankey-process-flow|Claude에게는 도표 이름까지 말하라 — 42쪽 절차서를 Sankey 흐름도로 만든 공식 Artifacts 사례]] — 2026-11-19
 - [[free-local-ai-tools-qwenpaw-anythingllm-pake|내 컴퓨터에서 쓰는 무료 AI 도구 3개 — QwenPaw(개인 AI 비서)·AnythingLLM(문서 챗봇)·Pake(웹사이트를 데스크톱 앱으로)]] — 2026-11-20
 - [[official-prompting-guides-openai-anthropic-google-2026|AI 회사 공식 프롬프트 가이드 3개 (2026 최신판) — OpenAI·Anthropic·Google]] — 2026-11-20
+- [[n8n-visual-ai-agent-workflow-automation|n8n — 화면에서 블록을 이어 AI 에이전트와 자동화 흐름을 만드는 도구 (연동 1,500+·템플릿 9,000+)]] — 2026-11-20
