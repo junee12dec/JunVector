@@ -35,3 +35,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[free-local-ai-tools-qwenpaw-anythingllm-pake|내 컴퓨터에서 쓰는 무료 AI 도구 3개 — QwenPaw(개인 AI 비서)·AnythingLLM(문서 챗봇)·Pake(웹사이트를 데스크톱 앱으로)]] — 2026-11-20
 - [[official-prompting-guides-openai-anthropic-google-2026|AI 회사 공식 프롬프트 가이드 3개 (2026 최신판) — OpenAI·Anthropic·Google]] — 2026-11-20
 - [[n8n-visual-ai-agent-workflow-automation|n8n — 화면에서 블록을 이어 AI 에이전트와 자동화 흐름을 만드는 도구 (연동 1,500+·템플릿 9,000+)]] — 2026-11-20
+- [[claude-code-docs-5-essential-pages|Claude Code 공식 문서, 이 5쪽만 저장해 두기 — 빠른 시작·모범 사례·대화 모드·비용 관리·문제 해결]] — 2026-11-20
