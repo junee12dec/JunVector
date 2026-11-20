@@ -32,3 +32,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[firecrawl-agent-web-scrape-crawl-markdown-mcp|Firecrawl — 웹사이트를 깨끗한 마크다운으로 바꿔 에이전트에 먹이는 검색·스크레이핑·크롤링 도구 (로컬 바이너리 + MCP)]] — 2026-11-19
 - [[free-ai-automation-tools-5-agents-browser-desktop|반복 업무를 맡기는 무료 AI 자동화 도구 5개 — AI 전문가 팀·내 크롬 조작·페이지 내 AI 도우미·데스크톱 앱 조작·AI용 헤드리스 브라우저]] — 2026-11-19
 - [[claude-artifacts-name-the-chart-sankey-process-flow|Claude에게는 도표 이름까지 말하라 — 42쪽 절차서를 Sankey 흐름도로 만든 공식 Artifacts 사례]] — 2026-11-19
+- [[free-local-ai-tools-qwenpaw-anythingllm-pake|내 컴퓨터에서 쓰는 무료 AI 도구 3개 — QwenPaw(개인 AI 비서)·AnythingLLM(문서 챗봇)·Pake(웹사이트를 데스크톱 앱으로)]] — 2026-11-20
