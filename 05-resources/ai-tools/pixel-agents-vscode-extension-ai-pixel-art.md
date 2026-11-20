@@ -1,7 +1,7 @@
 ---
 title: "Pixel Agents — AI 에이전트를 픽셀 아트 캐릭터로 시각화하는 VS Code 확장 (7.6k⭐)"
 date: 2026-05-15
-tags: [ai/agent, dev/vscode, dev/tool, design/aesthetic]
+tags: [ai/agent, dev/tools, design/system]
 description: "Claude Code 터미널마다 픽셀 아트 캐릭터가 배정되어 가상 오피스 안에서 실제 작업(코드 작성·파일 검색·명령 실행)에 따라 애니메이션으로 움직이는 무료 VS Code 확장."
 source: "https://www.threads.com/@drcintas/post/DYhPrdpEif2"
 ---

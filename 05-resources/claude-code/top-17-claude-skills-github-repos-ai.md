@@ -1,7 +1,7 @@
 ---
 title: "Top 17 Claude Skills & GitHub Repos — AI 필수 목록 (06~22번)"
 date: 2026-03-24
-tags: [ai/claude, productivity/skills]
+tags: [ai/claude, ai/skill]
 description: "Claude Code에서 활용할 수 있는 디자인·개발·마케팅·지식관리 분야 17개 스킬 및 GitHub 레포 큐레이션. 프론트엔드 디자인, 디버깅, SEO, NotebookLM 연동까지 포함."
 source: "https://www.instagram.com/p/DWQqHmaEY10/?img_index=2&igsh=MXBheXNqYWUzbWNz"
 ---

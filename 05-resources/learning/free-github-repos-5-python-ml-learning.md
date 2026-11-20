@@ -1,7 +1,7 @@
 ---
 title: "무료 GitHub 레포 5개 — Python·ML·프로젝트 학습 완전판"
 date: 2026-06-21
-tags: [learning/resources, dev/python, ai/machine-learning]
+tags: [learning/resources, dev/tools, ai/llm]
 description: "유료 강의보다 낫다고 평가받는 무료 GitHub 레포 5개 모음. Python 입문부터 ML, 프로젝트 기반 학습까지 페이월 없이 전부 공개."
 source: "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"
 ---

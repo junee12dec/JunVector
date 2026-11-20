@@ -1,7 +1,7 @@
 ---
 title: "Obsidian + Claude Code로 AI 세컨드 브레인 구축하기"
 date: 2026-03-10
-tags: [productivity/pkm, ai/claude, tools/obsidian]
+tags: [productivity/pkm, ai/claude]
 description: "Obsidian과 Claude Code를 연결해 15분 만에 AI 세컨드 브레인을 만드는 무료 셋업 가이드. CLAUDE.md와 메모리 파일을 핵심으로 사용한다."
 source: "https://www.notion.so/Steal-My-AI-Second-Brain-Setup-With-Obsidian-Claude-Code-For-Free-7011022ac01683a4a2bf01fa9f378954"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "SaaS Korea — 국산 SaaS 310개 AI 추천 디렉터리"
 date: 2026-06-17
-tags: [dev/saas, productivity/tools, korea/startup]
+tags: [dev/backend, productivity/tools, strategy/business]
 description: "한국에서 운영되는 SaaS 310개를 20개 분야로 정리한 국산 SaaS 디렉터리. 키워드 검색 또는 한 줄 요청으로 AI가 적합한 서비스를 골라준다."
 source: "https://saaskorea.com"
 ---

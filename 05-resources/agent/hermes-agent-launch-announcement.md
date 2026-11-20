@@ -1,7 +1,7 @@
 ---
 title: "hermes-agent 출시 — LLM 만든 팀이 설계한 에이전트 프레임워크"
 date: 2026-03-30
-tags: [ai/agent, dev/framework, ai/opensource]
+tags: [ai/agent, dev/tools, dev/open-source]
 description: "NousResearch(Hermes·Capybara LLM 제작팀)가 hermes-agent 프레임워크를 공개. 출시 하루 만에 ★917을 기록하며 주목받은 '쓸수록 성장하는 에이전트' 콘셉트 소개."
 source: "https://www.threads.com/@bizmentor_kr/post/DWfkvJzk-jl"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Quarkdown — 논문·프레젠테이션·웹사이트·책을 하나의 Markdown 문법으로 (14k⭐)"
 date: 2026-05-15
-tags: [dev/tool, productivity/writing, design/document]
+tags: [dev/tools, productivity/content, design/document]
 description: "Markdown에 함수·조건문·루프를 더한 Turing 완전 조판 시스템. 단일 문법으로 학술논문, 슬라이드, 정적 웹사이트, 기술 문서, 도서를 모두 출력한다."
 source: "https://www.threads.com/@githubprojects/post/DYf0sjUEjQl"
 ---

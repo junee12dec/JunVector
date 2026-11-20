@@ -1,7 +1,7 @@
 ---
 title: "Layer 1 — Raw Sources"
 date: 2026-04-12
-tags: [project/opencode, layer1, raw-sources, ingest]
+tags: [meta/project]
 description: "OpenCode 세팅에 필요한 원본 소스 수집 레이어. 사내 모든 지식 흐름의 진입점이자 LLM 이 절대 수정하지 않는 verification baseline."
 type: concept
 status: active

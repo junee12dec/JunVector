@@ -1,7 +1,7 @@
 ---
 title: "음식 사진 → 추상 그래픽 아트 포스터 변환 프롬프트 시스템 — Matisse×스위스 미니멀"
 date: 2026-05-09
-tags: [ai/image-generation, productivity/prompt, design/aesthetic]
+tags: [ai/image, ai/prompt, design/system]
 description: "음식 사진을 업로드하면 Matisse 컷아웃×스칸디나비안×스위스 미니멀 타이포 스타일의 현대 갤러리 포스터로 변환하는 8단계 프롬프트 시스템. 2~4색 팔레트, 오버사이즈 타이포, 실크스크린 질감, 자동 텍스트 생성 포함."
 source: "https://www.threads.com/@rm.visualizer/post/DYNosXVkxOg"
 ---

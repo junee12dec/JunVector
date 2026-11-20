@@ -1,7 +1,7 @@
 ---
 title: "Karpathy의 AutoResearch — AI 에이전트가 이틀에 700개 실험"
 date: 2026-03-23
-tags: [ai/agent, research/automation, productivity/workflow]
+tags: [ai/agent, ai/research, productivity/workflow]
 description: "Karpathy가 만든 AutoResearch는 AI 에이전트가 논문 읽기·가설 수립·실험 설계를 자동화해 이틀에 700개 실험을 수행. 학계뿐 아니라 시장조사·경쟁사 분석에도 적용 가능한 구조."
 source: "https://www.threads.com/@automation_claire/post/DWOP7zYE_EC"
 ---

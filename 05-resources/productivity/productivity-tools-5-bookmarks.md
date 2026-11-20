@@ -1,7 +1,7 @@
 ---
 title: "생산성 꿀팁 웹사이트 5개 — 이메일·이미지·파일 도구 모음"
 date: 2026-03-26
-tags: [productivity/tools, design/tools, productivity/resources]
+tags: [productivity/tools, design/resources]
 description: "일회용 이메일, 배경 제거, 화질 개선, 폰트 찾기, 파일 변환까지 일상 업무에서 바로 쓸 수 있는 무료 웹 도구 5가지 북마크 모음."
 source: "https://www.threads.com/@dailyadstudio/post/DWTmOPUGGtv"
 ---

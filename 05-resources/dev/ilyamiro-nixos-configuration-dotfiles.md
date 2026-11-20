@@ -1,7 +1,7 @@
 ---
 title: "ilyamiro NixOS Configuration — QML 기반 데스크톱 환경 설정 (3.7k stars)"
 date: 2026-04-30
-tags: [dev/nixos, dev/linux, dev/dotfiles]
+tags: [dev/infra, dev/cli]
 description: "QML 89% 기반의 개성 있는 NixOS 데스크톱 환경 설정을 공유한 저장소. 3,700개 이상의 스타를 받은 커뮤니티 인기 dotfiles로, 10개의 데스크톱 미리보기 스크린샷 포함."
 source: "https://www.threads.com/@saadkhalidhere/post/DXwsf9bjdLb"
 ---

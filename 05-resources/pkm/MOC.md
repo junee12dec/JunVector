@@ -25,3 +25,5 @@ description: "개인 지식 관리(PKM), Obsidian, 세컨드 브레인 관련 �
 - [[obsidian-graph-view-5-plugins-comparison|Obsidian 그래프뷰 5종 비교 — 기본·3D·Juggl·Living·Extended 언제 무엇을 쓸까]] — 2026-06-05
 - [[openkb-llmwiki-llm-knowledge-base-tools|openkb·llmwiki로 LLM 지식베이스 구축하기 — 설치·사용법 실전 가이드]] — 2026-05-15
 - [[wiki-obsidian-ggq-korean-llm-wiki-template|wiki-obsidian-ggq — PDF·HWP·이미지·OCR·벡터 검색을 한 번에 통합한 한국형 Obsidian LLM 위키]] — 2026-06-05
+- [[axton-obsidian-ai-diagram-plugin|Axton — AI로 다이어그램을 생성하는 Obsidian 플러그인]] — 2026-07-21
+- [[kepano-obsidian-skills-ai-note-taking|kepano/obsidian-skills — Steph Ango의 Obsidian AI 노트 관리 스킬 5종 오픈소스]] — 2026-08-19

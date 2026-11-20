@@ -1,7 +1,7 @@
 ---
 title: "OpenCode Setup — MOC"
 date: 2026-04-12
-tags: [project/opencode, ai-agent, workflow, automation, claude-code]
+tags: [meta/project, ai/agent, productivity/workflow, productivity/automation, ai/claude-code]
 description: "OpenCode 세팅 프로젝트의 허브 페이지. 4개 Layer로 분기되는 전체 구조를 한눈에 파악한다."
 type: MOC
 status: active
@@ -55,3 +55,5 @@ ECC(Everything Claude Code), GBrain, Karpathy LLM Wiki — 3개 프레임워크�
 
 - JunVector CLAUDE.md 운영 규칙과 병행 운영 가능 — 이 wiki 는 에이전트 중심, JunVector 는 인간 중심
 - 참고: [[anthropic-2026-agentic-coding-trends-report]] (개발자 = AI 오케스트레이터 흐름)
+- [[knowledge-layer-trends-report-2026-rag-ontology|지식 레이어 최신 동향 리포트 (2026.10) — RAG·LLM Wiki·Ontology 계층화 6개월 조사]] — 2026-10-23
+- [[opencode-everything-developer-guide|OpenCode 완전 개발자 가이드 — 에이전트·스킬·플러그인·MCP 통합 총정리]] — 2026-08-08

@@ -1,7 +1,7 @@
 ---
 title: "Everything Claude Code — 토큰 비용 절감 & 생산성 극대화 레포지토리"
 date: 2026-03-22
-tags: [claude-code/optimization, dev/productivity]
+tags: [ai/claude-code, dev/tools]
 description: "Claude Code 사용 시 토큰 비용을 최대 70% 절감하고 생산성을 높여주는 종합 레포지토리. 28개 전문 에이전트, 116개+ 스킬, 59개 명령어가 포함된 프로덕션급 시스템."
 source: "https://github.com/affaan-m/everything-claude-code"
 ---

@@ -88,3 +88,11 @@ description: "Claude Code 활용 가이드, 에이전트, 워크플로우 관련
 - [[recall-claude-code-session-memory-plugin|Recall — Claude Code 세션 기억을 이어주는 로컬 플러그인]] — 2026-06-21
 - [[design-md-google-ai-design-system-standard|DESIGN.md — AI 코딩 에이전트용 디자인 시스템 파일 표준 (구글 OSS, 16.5k⭐)]] — 2026-06-25
 - [[openwiki-codebase-docs-auto-cli|OpenWiki — 코드베이스 문서를 자동으로 쓰고 유지하는 CLI (LangChain AI)]] — 2026-07-03
+- [[aitmpl-claude-code-components-collection|AITMPL — Claude Code 컴포넌트 대규모 오픈소스 모음 (스킬·에이전트·훅·MCP·플러그인)]] — 2026-08-22
+- [[anthropic-knowledge-work-plugins-11-opensource|Anthropic knowledge-work-plugins — 사무직 AI 비서 플러그인 11종 오픈소스]] — 2026-10-23
+- [[anthropic-knowledge-work-plugins-cowork|Anthropic Knowledge Work Plugins — Claude를 직무 전문가로 만드는 공식 플러그인 모음]] — 2026-07-22
+- [[claude-code-5-essential-plugins|Claude Code 필수 플러그인 5선 — Context7·Strix·Playwright·Supabase·Skill UI]] — 2026-08-08
+- [[claude-code-web-motion-reference-site-tip|Claude Code에 레퍼런스 사이트 링크 던지고 웹 모션 구현하기]] — 2026-08-05
+- [[eli5-claude-code-community-skill-thariq|ELI5 — Anthropic 사내 유행 Claude Code 스킬 (글 줄이고 그림 키운 HTML 한 장 설명)]] — 2026-08-22
+- [[html-plan-claude-code-interactive-plan-plugin|html-plan — 구현 계획을 인터랙티브 HTML 한 장으로 만드는 Claude Code 커뮤니티 플러그인]] — 2026-10-23
+- [[ruflo-claude-flow-multi-agent-dev-team|Ruflo (구 Claude Flow) — Claude Code에 기획·개발·테스트·리뷰·보안 역할별 AI 개발팀을 붙이는 무료 오픈소스]] — 2026-10-01

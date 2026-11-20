@@ -1,7 +1,7 @@
 ---
 title: "프롬프트 레퍼런스 사이트 4가지 북마크"
 date: 2026-03-26
-tags: [ai/prompt, productivity/resources, design/reference]
+tags: [ai/prompt, productivity/tools, design/resources]
 description: "처음부터 프롬프트를 직접 쓰는 대신 참고할 수 있는 국내외 프롬프트 라이브러리 4곳. 업무용·이미지 생성·검증 템플릿까지 용도별로 정리."
 source: "https://www.threads.com/@prompt_recipe_/post/DWWJgeOgUzr"
 ---

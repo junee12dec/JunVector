@@ -1,7 +1,7 @@
 ---
 title: "PM Skills MOC"
 date: 2026-03-23
-tags: [meta/moc, tool/skill, productivity/pm]
+tags: [meta/moc, ai/skill, productivity/pm]
 description: "PM 업무 자동화를 위한 AI 스킬·플러그인 모음."
 ---
 

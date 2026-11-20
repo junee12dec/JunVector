@@ -1,7 +1,7 @@
 ---
 title: "Chip Huyen의 AI Engineering 책 동반 레포 — 무료 학습 자료 전집"
 date: 2026-06-17
-tags: [ai/engineering, learning/resources, ai/llm]
+tags: [ai/tools, learning/resources, ai/llm]
 description: "Chip Huyen의 O'Reilly AI Engineering 책 동반 GitHub 레포. 챕터 요약, 학습 노트, 케이스 스터디, 엔지니어링 블로그, ML 이론을 모두 무료로 제공."
 source: "https://github.com/chiphuyen/aie-book"
 ---

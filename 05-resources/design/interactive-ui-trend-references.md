@@ -1,7 +1,7 @@
 ---
 title: "인터랙티브 UI 트렌드 레퍼런스 모음"
 date: 2026-03-25
-tags: [design/ui, design/reference, dev/frontend]
+tags: [design/ui, design/resources, dev/frontend]
 description: "글로벌 웹 디자인 트렌드와 인터랙티브 UI 레퍼런스를 수집할 수 있는 수상 플랫폼 5곳 정리. 디자인 영감과 완성도 기준을 확인하기 좋은 북마크 모음."
 source: "https://www.threads.com/@sionbroski/post/DWUG74-FCD_"
 ---

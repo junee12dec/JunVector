@@ -1,7 +1,7 @@
 ---
 title: "하네스 엔지니어링 — AI 에이전트가 실수하지 않는 구조 설계 (oh-my-agent)"
 date: 2026-03-18
-tags: [ai/agent, dev/workflow, productivity/automation]
+tags: [ai/agent, productivity/workflow, productivity/automation]
 description: "AI 에이전트에게 '다시 해봐'를 반복하는 대신, 에이전트가 실수하지 않는 구조(하네스)를 설계하는 접근법. oh-my-agent는 역할 기반 멀티 에이전트 오케스트레이션 프레임워크."
 source: "https://github.com/first-fluke/oh-my-agent"
 ---

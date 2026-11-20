@@ -1,7 +1,7 @@
 ---
 title: "Unsloth Studio — LLM 파인튜닝 오픈소스 웹 UI"
 date: 2026-03-17
-tags: [ai/fine-tuning, ai/llm, dev/tools]
+tags: [ai/llm, dev/tools]
 description: "Unsloth AI가 공개한 오픈소스 웹 UI로, VRAM 70% 절감·훈련 속도 2배 향상과 자동 데이터셋 생성 기능으로 개인 개발자도 쉽게 LLM을 파인튜닝할 수 있다."
 source: "https://www.threads.com/@choi.openai/post/DV_1JfbD-NU?xmt=AQF0JvMytepnP987HqDecnOF9Cmi5_6zRRSMGwA6pPHqzKVfv4-0rocb913dq_x9rrFrgCTS&slof=1"
 ---

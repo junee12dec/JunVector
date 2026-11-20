@@ -1,7 +1,7 @@
 ---
 title: "LLM Wiki — 문서를 자기 갱신 위키로 만드는 Karpathy 패턴"
 date: 2026-04-29
-tags: [ai/llm, pkm/knowledge-base, agent/tool]
+tags: [ai/llm, productivity/pkm, ai/agent]
 description: "RAG처럼 매번 원문을 재검색하는 대신, LLM이 문서를 읽어 구조화된 마크다운 위키를 점진적으로 구축·유지하는 패턴. Karpathy가 제안했고, 다수의 오픈소스 구현체가 등장했다."
 source: "https://www.threads.com/@githubprojects/post/DXtbMfbFAEi"
 ---

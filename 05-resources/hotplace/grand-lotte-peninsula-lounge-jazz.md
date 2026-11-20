@@ -1,7 +1,7 @@
 ---
 title: "더그랜드롯데 서울 페닌슐라 라운지&바 — 재즈 라이브 + 인공 폭포 통창"
 date: 2026-10-11
-tags: [lifestyle/hotplace, lifestyle/date, lifestyle/seoul]
+tags: [life/hotplace]
 description: "서울 도심 5성 호텔 로비 라운지. 인공 폭포가 통창으로 보이고 재즈 라이브 공연이 화~일 저녁마다 열린다. 음료 2만원 선에 공연까지 즐길 수 있어 고급 분위기 대비 가성비 좋은 데이트 코스."
 source: "https://www.threads.com/share/_09ABapW_/"
 ---

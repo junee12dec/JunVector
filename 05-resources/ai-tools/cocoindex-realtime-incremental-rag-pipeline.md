@@ -1,7 +1,7 @@
 ---
 title: "CocoIndex — 실시간 증분 RAG 데이터 파이프라인 엔진 (7.3k stars)"
 date: 2026-04-30
-tags: [agent/tool, ai/rag, dev/data-pipeline]
+tags: [ai/agent, ai/rag, dev/data]
 description: "매일 밤 전체 배치 재처리 없이 변경된 데이터만 골라 재작업하는 실시간 증분 RAG 엔진. Rust 기반 엔진 위에서 Python으로 동작하며, Slack·PDF·코드베이스를 지연 없이 최신화."
 source: "https://www.threads.com/@feelfree_ai/post/DX0kj4rgYqc"
 ---

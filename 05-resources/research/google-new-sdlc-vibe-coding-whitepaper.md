@@ -1,7 +1,7 @@
 ---
 title: "구글 'The New SDLC with Vibe Coding' 리포트 — 바이브 코딩 이후 개발 방식 51페이지 무료 공개"
 date: 2026-06-15
-tags: [ai/agent, dev/workflow, dev/sdlc, ai/engineering]
+tags: [ai/agent, productivity/workflow, dev/architecture, ai/tools]
 description: "구글이 Kaggle에 공개한 51페이지 무료 백서. 바이브 코딩과 에이전틱 엔지니어링의 차이부터 context engineering, 새로운 SDLC 구조, 개발자가 코더에서 오케스트레이터로 전환하는 흐름까지 다룬다."
 source: "https://www.kaggle.com/whitepaper-the-new-SDLC-with-vibe-coding"
 ---

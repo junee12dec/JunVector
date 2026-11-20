@@ -1,7 +1,7 @@
 ---
 title: "Rowboat — Gmail·회의 노트를 지식 그래프로 만드는 로컬 AI 코워커 (14.5k⭐)"
 date: 2026-05-26
-tags: [ai/agent, productivity/pkm, selfhosted/platform, ai/llm]
+tags: [ai/agent, productivity/pkm, dev/self-hosted, ai/llm]
 description: "Gmail·캘린더·회의 노트를 연결해 개인 지식 그래프를 구축하고 행동으로 옮기는 100% 로컬·오픈소스 AI 코워커. Obsidian 호환 Markdown 볼트, MCP 확장, 음성 입출력 지원."
 source: "https://github.com/rowboatlabs/rowboat"
 ---

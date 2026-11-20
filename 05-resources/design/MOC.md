@@ -1,7 +1,7 @@
 ---
 title: "Design MOC"
 date: 2026-03-23
-tags: [meta/moc, design]
+tags: [meta/moc, design/resources]
 description: "디자인 시스템, UI/UX, 타이포그래피, AI 디자인 도구 관련 자료 목차."
 ---
 
@@ -51,3 +51,15 @@ description: "디자인 시스템, UI/UX, 타이포그래피, AI 디자인 도�
 - [[y2k-tamagotchi-pixel-prompt-gpt-image2|Y2K 다마고치 픽셀 변환 프롬프트 — GPT Image 2 (2종)]] — 2026-04-29
 - [[gpt-image-ad-poster-prompt|GPT Image로 1분 만에 상업용 광고 포스터 만들기]] — 2026-06-17
 - [[flat-vector-city-travel-poster-prompt|프리미엄 미니멀 플랫벡터 도시 여행 포스터 프롬프트]] — 2026-06-21
+- [[claude-motion-skills-10-hyperframes-reference|Claude 모션 영상 스킬 10선 + 레퍼런스 사이트 3곳 — /hyperframes로 기획부터 MP4까지]] — 2026-11-03
+- [[claude-opus-55-vector-illustration-animation-rigging|Claude Opus 5.5로 정지된 벡터 일러스트를 캐릭터 애니메이션으로 만들기 (리깅 없이)]] — 2026-09-29
+- [[claude-web-design-anti-ai-look-6-sites-prompt|Claude로 웹사이트 만들 때 AI 티 없애는 사이트 6개 + CLAUDE.md 프롬프트]] — 2026-11-10
+- [[corevis-library-ai-design-llmstxt-mcp|COREVIS Library — AI를 위한 디자인 자료실 1,273점 (llms.txt + MCP 지원)]] — 2026-11-04
+- [[designbookmark-ui-motion-claude-codex-prompt|DesignBookmark — 고른 UI 디자인을 Claude·Codex용 프롬프트로 복사해 주는 사이트]] — 2026-11-15
+- [[foodibear-clean-object-editorial-poster-prompt|FOODIBEAR 클린 오브제 에디토리얼 포스터 프롬프트 v1.0 — 사진 한 장으로 미니멀 포스터 완성]] — 2026-07-25
+- [[free-design-image-font-resources-20|무료 디자인·이미지·폰트 리소스 20선 — 폰트·스톡·아이콘·애니메이션·컬러]] — 2026-07-24
+- [[hallmark-ai-web-design-skill-anti-pattern|Hallmark — 'AI가 만든 티' 나는 웹디자인을 없애주는 디자인 매뉴얼 스킬 (★23,700)]] — 2026-08-08
+- [[higgsfield-ai-video-prompts-community-free|Higgsfield AI 영상 프롬프트 구조 공개 — 실제 쓴 프롬프트·레퍼런스·설정값 무료 공개]] — 2026-07-22
+- [[koboyo-handdrawn-diagram-canvas-icons|Koboyo — 손그림 스타일 무한 캔버스 다이어그램 도구 + 9만 개 SVG 아이콘 무료 제공]] — 2026-08-05
+- [[kubai-icons-animated-2600-claude-skill|kubai-icons — 호버 애니메이션 아이콘 2,600개 + 같은 그림체로 새 아이콘 그려주는 Claude Code 스킬]] — 2026-11-11
+- [[skillry-opus-55-viral-videos-389-prompts|skillry.dev/ai-videos — Opus 5.5로 만든 바이럴 영상 389개 + 프롬프트 모음]] — 2026-09-29

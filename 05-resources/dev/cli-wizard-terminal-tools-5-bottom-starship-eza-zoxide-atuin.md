@@ -1,7 +1,7 @@
 ---
 title: "CLI 마법사가 되는 터미널 도구 5선 — bottom·starship·eza·zoxide·atuin"
 date: 2026-06-05
-tags: [dev/cli, dev/tool, productivity/terminal]
+tags: [dev/cli, dev/tools]
 description: "htop·ls·cd·history 등 기본 셸 명령을 현대적으로 대체하는 Rust 기반 터미널 도구 5개 모음. 시스템 모니터·커스텀 프롬프트·파일 목록·디렉터리 점프·셸 히스토리 검색을 각각 업그레이드한다."
 source: "https://www.threads.com/@githubprojects/post/DZWcNngFEj_"
 ---

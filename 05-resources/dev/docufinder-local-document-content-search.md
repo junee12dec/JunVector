@@ -1,7 +1,7 @@
 ---
 title: "Docufinder v2.5.0 — 파일 내용으로 PC 문서 전체를 검색하는 로컬 도구"
 date: 2026-04-19
-tags: [productivity/tools, dev/tools, productivity/search]
+tags: [productivity/tools, dev/tools]
 description: "파일명 몰라도 내용으로 찾아주는 로컬 문서 검색 도구. HWP·워드·PDF·엑셀·스캔 이미지(OCR)까지 지원하며, 회사 PC·오프라인·네트워크 공유 폴더에서도 작동한다."
 source: "https://www.threads.com/@chris_gomdori/post/DXV4jeikWfv"
 ---

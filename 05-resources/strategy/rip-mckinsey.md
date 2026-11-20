@@ -1,7 +1,7 @@
 ---
 title: "RIP McKinsey"
 date: 2026-03-16
-tags: [ai/prompting, business/strategy, productivity/consulting]
+tags: [ai/prompt, strategy/business]
 description: "AI를 맥킨지 파트너처럼 활용하는 10가지 전략 프롬프트 모음. 역할·방법론·출력 구조를 명확히 지정해 컨설팅 수준의 전략 분석을 직접 실행하는 법을 다룬다."
 source: "https://natanmohart.substack.com/p/rip-mckinsey"
 ---

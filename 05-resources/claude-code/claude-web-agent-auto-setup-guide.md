@@ -1,7 +1,7 @@
 ---
 title: "Claude Code 웹 에이전트 팀 자동 세팅 가이드 파일 — 시몬"
 date: 2026-04-05
-tags: [ai/claude, dev/agent, productivity/automation]
+tags: [ai/claude, ai/agent, productivity/automation]
 description: "파일 하나를 멘션하면 Claude Code가 대화형으로 질문하면서 4개 에이전트(PM·디자이너·프론트엔드·리뷰어)와 파이프라인 스킬, 디자인 시스템까지 약 10분 만에 자동 세팅해주는 가이드 파일."
 source: "https://www.threads.com/@simon.dsgn/post/DWwFTQIkq8K"
 ---

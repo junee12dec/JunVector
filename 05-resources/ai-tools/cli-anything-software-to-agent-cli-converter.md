@@ -1,7 +1,7 @@
 ---
 title: "CLI-Anything — 모든 소프트웨어를 에이전트용 CLI로 변환하는 도구 (명령어 1개)"
 date: 2026-05-01
-tags: [agent/tool, dev/cli, ai/automation]
+tags: [ai/agent, dev/cli, productivity/automation]
 description: "GIMP·Blender·LibreOffice·OBS 등 어떤 소프트웨어든 명령어 하나로 에이전트 네이티브 CLI로 자동 생성. AI 에이전트가 GUI를 다루는 대신 CLI로 소프트웨어를 제어하게 만드는 핵심 도구."
 source: "https://www.threads.com/@githubprojects/post/DX8aPCvGp0N"
 ---
@@ -60,3 +60,22 @@ Blender / GIMP / Inkscape / Audacity / Godot / FreeCAD / n8n / Ollama / ComfyUI 
 ## 호환 에이전트
 
 Claude Code / OpenClaw / Pi / Codex / OpenCode / Goose 등
+
+---
+
+## 2026-11-18 업데이트
+
+출처: @ai.mogoo (Threads, 2026-11-18) — https://www.threads.com/@ai.mogoo/post/Df5jiZRDyqB
+
+- 저장소: https://github.com/HKUDS/CLI-Anything (Python, Apache 2.0)
+- 규모: 별 약 6만 개(글에는 59,653개), 기여자 115명, 포크 약 5천 개
+- 테스트: 2,461건 통과 (5월 기록 2,280건 이상에서 늘어남)
+- CLI-Hub 사이트: https://clianything.cc/
+- 커뮤니티 CLI 설치·관리:
+
+  ```bash
+  pip install cli-anything-hub
+  cli-hub install <이름>
+  ```
+
+- 글의 제안: 에이전트에게 반복 GUI 작업을 맡기고 싶다면, 자주 쓰는 앱부터 CLI로 바꿔 본다.

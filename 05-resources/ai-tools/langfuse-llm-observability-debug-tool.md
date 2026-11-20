@@ -1,7 +1,7 @@
 ---
 title: "Langfuse — LLM 디버깅을 console.log에서 벗어나게 해주는 옵저버빌리티 툴"
 date: 2026-04-24
-tags: [dev/llm-ops, dev/observability, productivity/automation]
+tags: [dev/infra, productivity/automation]
 description: "LLM 프롬프트·응답·비용을 한 곳에서 추적하는 오픈소스 옵저버빌리티 플랫폼. console.log 대신 Langfuse 하나로 AI 헛소리 디버깅과 비용 관리를 해결."
 source: "https://www.threads.com/@opsoai/post/DXgmrt3EtOj"
 ---

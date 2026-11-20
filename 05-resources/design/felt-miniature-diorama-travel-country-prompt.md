@@ -1,7 +1,7 @@
 ---
 title: "국가별 펠트 미니어처 디오라마 여행 이미지 프롬프트 — ChatGPT (나라명만 입력)"
 date: 2026-04-29
-tags: [ai/image-generation, productivity/prompt, travel/guide, design/aesthetic]
+tags: [ai/image, ai/prompt, life/travel, design/system]
 description: "국가명 하나만 입력하면 폭신폭신한 양모 펠트·니들펠트 수공예 미니어처 디오라마 스타일로 그 나라의 풍경·생활·문화를 담은 감성 이미지를 생성하는 상세 ChatGPT 프롬프트. 3단계 레이어(fore·mid·background) 구도로 통일된 한 장면 구성."
 source: "https://www.threads.com/@iam_betteryoon/post/DXv8iaJmVEi"
 ---

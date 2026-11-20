@@ -1,7 +1,7 @@
 ---
 title: "LEANN — 벡터 DB 저장 공간 97% 절감, 로컬 완전 프라이빗 RAG"
 date: 2026-06-17
-tags: [dev/vector-db, ai/rag, dev/open-source]
+tags: [dev/data, ai/rag, dev/open-source]
 description: "그래프 기반 선택적 재계산 기술로 6천만 개 텍스트 청크를 201GB→6GB로 압축. 클라우드·GPU 없이 노트북에서 실행되는 오픈소스 벡터 DB."
 source: "https://github.com/StarTrail-org/LEANN"
 ---

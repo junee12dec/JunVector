@@ -1,7 +1,7 @@
 ---
 title: "Awesome NotebookLM Prompts — 슬라이드 생성 프롬프트 모음"
 date: 2026-03-15
-tags: [ai/notebooklm, productivity/presentation, tool/prompt]
+tags: [ai/notebooklm, productivity/presentation, ai/prompt]
 description: "NotebookLM과 Kael.im에서 논문·노트를 구조화된 슬라이드로 변환하는 프롬프트 템플릿 모음. 에디토리얼·팝·타이포·예술 등 다양한 디자인 스타일 제공."
 source: "https://github.com/serenakeyitan/awesome-notebookLM-prompts"
 ---

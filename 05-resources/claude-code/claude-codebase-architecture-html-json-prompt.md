@@ -1,7 +1,7 @@
 ---
 title: "Claude로 코드베이스 아키텍처를 HTML+JSON으로 매핑하는 프롬프트 — 에이전트 핸드오프용"
 date: 2026-05-15
-tags: [ai/claude, productivity/prompt, dev/architecture, agent/workflow]
+tags: [ai/claude, ai/prompt, dev/architecture, ai/agent]
 description: "코드베이스를 Claude에게 한 번 넣으면 사람이 읽는 인터랙티브 HTML 다이어그램과 다음 에이전트가 읽는 구조화된 JSON을 동시에 생성하는 3파트 프롬프트. 세션 간 컨텍스트 손실을 없애는 고효율 패턴."
 source: "https://www.threads.com/@artificiallyinfluenced/post/DYXjZBpjFoh"
 ---

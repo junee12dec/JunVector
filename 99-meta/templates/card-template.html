@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{제목}}</title>
+<style>
+  :root {
+    --bg: #f6f3ee;
+    --ink: #1c1b19;
+    --muted: #6f6a62;
+    --line: #d9d3c8;
+    --accent: #c2410c;
+    --page: #e9e5dd;
+    --card-w: 1080px;
+    --card-h: 1350px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--page);
+    color: var(--ink);
+    font-family: "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
+    word-break: keep-all;
+    overflow-wrap: anywhere;
+  }
+  .deck { display: flex; flex-direction: column; align-items: center; gap: 32px; padding: 32px 16px; }
+  .frame { width: min(100%, 540px); aspect-ratio: 4 / 5; position: relative; overflow: hidden; }
+  .card {
+    width: var(--card-w); height: var(--card-h);
+    background: var(--bg);
+    padding: 96px 88px 88px;
+    display: flex; flex-direction: column;
+    position: absolute; top: 0; left: 0;
+    transform-origin: top left;
+    transform: scale(var(--scale, 0.5));
+  }
+  .kicker { font-size: 30px; font-weight: 600; color: var(--accent); letter-spacing: 0.02em; }
+  .card h1 { font-size: 92px; line-height: 1.18; font-weight: 800; letter-spacing: -0.02em; margin-top: 36px; }
+  .card h2 { font-size: 68px; line-height: 1.22; font-weight: 800; letter-spacing: -0.02em; margin-top: 28px; }
+  .card p { font-size: 40px; line-height: 1.55; color: var(--ink); margin-top: 40px; }
+  .card p.sub { color: var(--muted); }
+  .card ul { list-style: none; margin-top: 48px; display: flex; flex-direction: column; gap: 34px; }
+  .card li { font-size: 40px; line-height: 1.45; padding-left: 44px; position: relative; }
+  .card li::before { content: ""; position: absolute; left: 0; top: 0.62em; width: 18px; height: 4px; background: var(--accent); }
+  .card li b { font-weight: 700; }
+  .card blockquote { font-size: 56px; line-height: 1.4; font-weight: 700; margin-top: 56px; padding-left: 36px; border-left: 8px solid var(--accent); }
+  .card code { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; font-size: 0.86em; background: #ebe6dc; padding: 0.08em 0.3em; border-radius: 6px; }
+  .spacer { flex: 1; }
+  .foot { display: flex; justify-content: space-between; align-items: baseline; border-top: 2px solid var(--line); padding-top: 28px; font-size: 28px; color: var(--muted); }
+  .cover { justify-content: flex-end; }
+  .cover .foot { margin-top: 72px; }
+</style>
+</head>
+<body>
+<main class="deck">
+
+  <!-- 표지: 한 장 -->
+  <div class="frame"><section class="card cover">
+    <div class="kicker">{{분류}}</div>
+    <h1>{{제목}}</h1>
+    <p class="sub">{{한 줄 설명}}</p>
+    <div class="foot"><span>{{출처 이름}}</span><span>1 / N</span></div>
+  </section></div>
+
+  <!-- 본문: 요점 하나에 한 장. 목록형 -->
+  <div class="frame"><section class="card">
+    <div class="kicker">01</div>
+    <h2>{{소제목}}</h2>
+    <ul>
+      <li><b>{{핵심어}}</b> {{설명}}</li>
+      <li>{{항목}}</li>
+      <li>{{항목}}</li>
+    </ul>
+    <div class="spacer"></div>
+    <div class="foot"><span>{{제목 짧게}}</span><span>2 / N</span></div>
+  </section></div>
+
+  <!-- 본문: 문장형 -->
+  <div class="frame"><section class="card">
+    <div class="kicker">02</div>
+    <h2>{{소제목}}</h2>
+    <p>{{두세 문장}}</p>
+    <div class="spacer"></div>
+    <div class="foot"><span>{{제목 짧게}}</span><span>3 / N</span></div>
+  </section></div>
+
+  <!-- 인용: 원문에서 가장 강한 한 문장 -->
+  <div class="frame"><section class="card">
+    <div class="kicker">핵심</div>
+    <blockquote>{{인용문}}</blockquote>
+    <div class="spacer"></div>
+    <div class="foot"><span>{{제목 짧게}}</span><span>4 / N</span></div>
+  </section></div>
+
+  <!-- 마지막: 정리와 출처 -->
+  <div class="frame"><section class="card">
+    <div class="kicker">정리</div>
+    <h2>{{한 문장 결론}}</h2>
+    <p class="sub">{{출처 URL}}</p>
+    <div class="spacer"></div>
+    <div class="foot"><span>{{제목 짧게}}</span><span>N / N</span></div>
+  </section></div>
+
+</main>
+<script>
+  function fit() {
+    document.querySelectorAll('.frame').forEach(function (f) {
+      f.style.setProperty('--scale', f.clientWidth / 1080);
+    });
+  }
+  window.addEventListener('resize', fit);
+  fit();
+</script>
+</body>
+</html>

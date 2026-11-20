@@ -1,7 +1,7 @@
 ---
 title: "wiki-obsidian-ggq — PDF·HWP·이미지·OCR·벡터 검색을 한 번에 통합한 한국형 Obsidian LLM 위키"
 date: 2026-06-05
-tags: [pkm/obsidian, ai/llm, pkm/knowledge-management, dev/tool]
+tags: [productivity/pkm, ai/llm, dev/tools]
 description: "링크나 파일을 주고 '내 위키로 만들어줘' 한 마디면 PDF·HWP·이미지·OCR까지 처리해 자동 벡터라이즈·위키 컴파일까지 해주는 Obsidian 기반 개인 지식베이스 템플릿. 한국어 OCR 최고 정확도(0.907)를 지원한다."
 source: "https://github.com/ggqgga/wiki-obsidian-ggq"
 ---

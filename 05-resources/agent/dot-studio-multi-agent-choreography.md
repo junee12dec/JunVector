@@ -1,7 +1,7 @@
 ---
 title: "dot-studio — drag & drop 멀티 에이전트 런타임과 Choreography"
 date: 2026-04-11
-tags: [ai/multi-agent, dev/tools]
+tags: [ai/agent, dev/tools]
 description: "스킬·시스템프롬프트·모델·오케스트레이션을 drag & drop으로 구성하는 멀티 에이전트 런타임. 페르소나+관계+룰을 에이전트에 부여해 이벤트 기반으로 자율 협업하는 choreography 기능이 핵심."
 source: "https://www.threads.com/@junhao_321/post/DW-VbOWj9ox?xmt=AQF0DY2KzIrN-7cpRhU3BwP34jbuwkga0MgzEfXCqYW-b0OO29D78eavqrQzF_hCm0_7v1VU&slof=1"
 ---

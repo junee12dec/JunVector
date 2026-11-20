@@ -1,7 +1,7 @@
 ---
 title: "awesome-ai-agents — AI 에이전트 전체 지도 큐레이션 레포 (⭐25.8K)"
 date: 2026-03-26
-tags: [ai/agent, dev/tools, productivity/resources]
+tags: [ai/agent, dev/tools, productivity/tools]
 description: "e2b-dev가 관리하는 AI 에이전트 큐레이션 레포. 코딩·연구·개인 비서·멀티에이전트까지 오픈소스·클로즈드소스 에이전트를 망라한 AI 에이전트 생태계 나침반."
 source: "https://github.com/e2b-dev/awesome-ai-agents"
 ---

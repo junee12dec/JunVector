@@ -1,7 +1,7 @@
 ---
 title: "Google NotebookLM으로 유튜브 채널 분석·복제하는 8개 프롬프트"
 date: 2026-03-27
-tags: [ai-tools/notebooklm, content/youtube, productivity/prompt]
+tags: [ai/notebooklm, productivity/content, ai/prompt]
 description: "Google NotebookLM을 활용해 성공한 유튜브 채널을 분석하고 스크립트·제목·썸네일·수익 구조까지 자동화하는 8단계 프롬프트 가이드."
 source: "https://www.threads.com/@human__bro/post/DWYt0JYklK6"
 ---

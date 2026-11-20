@@ -1,7 +1,7 @@
 ---
 title: "DeerFlow 2.0 — ByteDance의 오픈소스 슈퍼 에이전트 (리서치·코딩·제작 자동화, 71k⭐)"
 date: 2026-06-15
-tags: [ai/agent, dev/framework, ai/llm, selfhosted/platform]
+tags: [ai/agent, dev/tools, ai/llm, dev/self-hosted]
 description: "ByteDance가 만든 오픈소스 슈퍼 에이전트 프레임워크. 하위 에이전트·메모리·샌드박스·도구를 통합해 복잡한 리서치·코딩·제작 작업을 끝까지 처리한다. GitHub Trending 1위, MIT 라이선스."
 source: "https://github.com/bytedance/deer-flow"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Odysseus — PewDiePie가 공개한 셀프호스팅 AI 워크스페이스 (출시 24시간 만에 15k⭐)"
 date: 2026-06-02
-tags: [ai/tool, dev/selfhosted, ai/agent, productivity/workspace]
+tags: [ai/tools, dev/self-hosted, ai/agent, productivity/tools]
 description: "세계 최대 유튜버 PewDiePie가 출시한 오픈소스 셀프호스팅 AI 워크스페이스. 대화·에이전트·MCP·파일·메모리·웹 검색·이메일·문서 편집을 하나의 인터페이스에서 제공하며 출시 24시간 만에 GitHub 15,000 스타를 돌파했다."
 source: "https://github.com/pewdiepie-archdaemon/odysseus"
 ---

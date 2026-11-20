@@ -1,7 +1,7 @@
 ---
 title: "andrej-karpathy-skills — 카파시 LLM 코딩 철학을 CLAUDE.md로 이식하기"
 date: 2026-04-15
-tags: [ai/claude, dev/llm-coding, productivity/automation]
+tags: [ai/claude, ai/llm, productivity/automation]
 description: "Karpathy의 LLM 코딩 원칙을 CLAUDE.md 파일 하나로 Claude Code에 주입하는 GitHub 프로젝트. 반복 실수 방지와 코드 생성 품질 향상에 즉시 적용 가능."
 source: "https://www.threads.com/@kjconsulting_team/post/DXIu8zUD3vP"
 ---

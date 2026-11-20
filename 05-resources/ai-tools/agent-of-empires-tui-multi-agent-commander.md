@@ -1,7 +1,7 @@
 ---
 title: "Agent of Empires — 다중 코딩 에이전트를 한 TUI 화면에서 지휘하는 도구 (1.6k⭐)"
 date: 2026-05-23
-tags: [ai/agent, dev/tool, dev/cli, productivity/automation]
+tags: [ai/agent, dev/tools, dev/cli, productivity/automation]
 description: "tmux 위에 얹은 TUI 껍데기로 여러 Claude Code·Codex·Gemini 에이전트를 한 화면에서 상태 확인·격리 실행. git worktree로 에이전트끼리 파일 충돌을 원천 차단."
 source: "https://github.com/njbrake/agent-of-empires"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "motionsites.ai — 모션 사이트 제작용 복붙 프롬프트 모음"
 date: 2026-04-19
-tags: [ai/tools, design/prompt, productivity/template]
+tags: [ai/tools, ai/prompt, productivity/tools]
 description: "모션 사이트 제작에 바로 쓸 수 있는 복붙 프롬프트를 제공하는 사이트. 샘플 자료 클릭하면 즉시 사용 가능한 프롬프트를 확인할 수 있다."
 source: "https://motionsites.ai/"
 ---

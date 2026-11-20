@@ -59,3 +59,12 @@ description: "AI 도구, 에이전트, 자동화 관련 자료 목차."
 - [[sie-superlinked-inference-engine-rag-unified-api|SIE — 임베딩·리랭킹·추출을 하나로 통합한 RAG 추론 API (Superlinked)]] — 2026-05-15
 - [[leann-vector-db-97-percent-smaller|LEANN — 벡터 DB 저장 공간 97% 절감, 로컬 완전 프라이빗 RAG]] — 2026-06-17
 - [[dify-open-source-ai-chatbot-builder|Dify — 코드 없이 사업용 AI 챗봇 만드는 오픈소스 (140k⭐)]] — 2026-06-17
+- [[ai-knowledge-graph-llm-unstructured-text|ai-knowledge-graph — LLM으로 비정형 텍스트를 지식 그래프로 변환하는 오픈소스]] — 2026-09-07
+- [[dspy-stanford-auto-prompt-optimization-framework|DSPy — 프롬프트 대신 파이썬 코드로 LLM 파이프라인을 정의하고 자동 최적화하는 스탠포드 프레임워크]] — 2026-08-08
+- [[ego-lite-ai-agent-browser-fast-auth-session|ego-lite — AI 에이전트용 경량 고속 브라우저 자동화 (GitHub 트렌딩 1위)]] — 2026-10-24
+- [[hycli-website-reverse-deterministic-cli-automation|Hycli — 웹사이트를 리버싱해서 결정론적 CLI로 자동화하는 도구]] — 2026-10-21
+- [[langwatch-llm-observability-prompt-optimizer|LangWatch — LLM 사용량 분석 및 프롬프트 최적화 오픈소스 플랫폼]] — 2026-07-19
+- [[nvidia-auto-ontology-rag-sql-enterprise-ai|NVIDIA auto-ontology — 기업 AI 환각을 잡는 자동 온톨로지 오픈소스]] — 2026-11-05
+- [[pageindex-reasoning-rag-no-vectordb|PageIndex — 벡터DB·청킹 없이 동작하는 Reasoning 기반 RAG 오픈소스]] — 2026-07-21
+- [[rea-ai-reverse-engineering-code-restore|REA — AI 에이전트가 완성된 앱을 역공학으로 원본 수준 코드로 복원하는 오픈소스]] — 2026-10-11
+- [[xerj-local-ai-search-engine-agent-token-saving|xerj — 단일 바이너리 AI 로컬 검색 엔진 (에이전트 토큰 2.7~5배 절감)]] — 2026-10-17

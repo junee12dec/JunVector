@@ -1,7 +1,7 @@
 ---
 title: "Trellis — AI 코딩 툴 설정 파일을 16개 플랫폼에 자동 통합"
 date: 2026-06-17
-tags: [dev/workflow, ai/coding-agent, productivity/automation]
+tags: [productivity/workflow, ai/agent, productivity/automation]
 description: ".cursorrules·CLAUDE.md 등 파편화된 설정 파일을 하나로 통합. 한 번 규칙을 작성하면 Cursor·Claude Code 등 16개 플랫폼에 자동 주입하고 프로젝트 히스토리도 기억."
 source: "https://github.com/mindfold-ai/Trellis"
 ---

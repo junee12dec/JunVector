@@ -1,7 +1,7 @@
 ---
 title: "옛날 사진 복원·컬러화 프롬프트 — 인물 원본 100% 유지 + 고해상도 업스케일"
 date: 2026-04-29
-tags: [ai/image-generation, productivity/prompt, design/photo]
+tags: [ai/image, ai/prompt, design/resources]
 description: "옛날 사진을 AI로 복원할 때 인물 얼굴·의상을 절대 변경하지 않으면서 해상도만 높이고 컬러화하는 프롬프트. '그때 그 시절' 사진을 훼손 없이 선명하게 되살릴 때 사용."
 source: "https://www.threads.com/@hunyfocus/post/DXsZutVk7Bp"
 ---

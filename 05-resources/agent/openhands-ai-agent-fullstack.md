@@ -1,7 +1,7 @@
 ---
 title: "OpenHands — 코드·터미널·웹을 혼자 다 하는 오픈소스 AI 에이전트"
 date: 2026-03-25
-tags: [ai/agent, dev/automation, productivity/agent-management]
+tags: [ai/agent, dev/automation]
 description: "코드 작성, 터미널 실행, 웹 브라우징, API 호출, GitHub 푸시까지 혼자 처리하는 완전 오픈소스 AI 에이전트. Claude/GPT/Gemini 등 모든 모델과 호환되며 SWEBench 77.6점을 달성했다."
 source: "https://github.com/OpenHands/OpenHands"
 ---

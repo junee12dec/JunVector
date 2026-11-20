@@ -1,7 +1,7 @@
 ---
 title: "Obsidian + Claude Code로 LLM Wiki·GraphRAG·AI 에이전트 봇 구축하기 — 원리부터 실전 가이드"
 date: 2026-06-05
-tags: [pkm/obsidian, ai/llm, ai/agent, dev/graphrag]
+tags: [productivity/pkm, ai/llm, ai/agent, ai/rag]
 description: "Obsidian과 Claude Code·Codex를 결합해 LLM Wiki를 만들고, 부분적인 GraphRAG를 구축하며, 각 위키 파트를 담당하는 AI 에이전트 봇까지 설정하는 방법을 단계별로 정리한 실전 가이드."
 source: "https://tofu-llmwiki-manual.manus.space"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "랜딩페이지 몰입감을 높이는 3D 리소스 4가지"
 date: 2026-04-10
-tags: [design/3d, design/resources, tools/figma]
+tags: [design/resources]
 description: "피그마 플러그인부터 무료 에셋 사이트까지, 랜딩페이지와 작업물에 3D 효과를 더하는 무료 도구 4가지 모음."
 source: "https://www.threads.com/@bibibi.designer/post/DW7gIFME9mH"
 ---

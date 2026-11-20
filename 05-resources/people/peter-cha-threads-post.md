@@ -1,7 +1,7 @@
 ---
 title: "Peter Cha(@_petercha) Threads 게시물"
 date: 2026-03-09
-tags: [people/creator]
+tags: [learning/people]
 description: "Peter Cha(@_petercha)의 Threads 게시물. 크롤링 불가로 URL만 보존."
 source: "https://www.threads.com/@_petercha/post/DVq35qeASz9"
 ---

@@ -12,6 +12,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 | 폴더 | 용도 |
 |------|------|
+| `00-queue/` | 수집 큐 — 저장 대기 중인 원문 (`/inbox-batch`가 처리) |
 | `01-inbox/` | 미분류 노트 — 모든 새 노트의 기본 저장 위치 |
 | `02-daily-notes/` | 일일 노트 (`YYYY/MM/YYYY-MM-DD.md`) |
 | `03-projects/` | 진행 중인 프로젝트 (끝이 있는 일) |
@@ -33,6 +34,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | `/deep-dive` | `.claude/skills/deep-dive/SKILL.md` | 노트 주제를 대화로 탐구하고 원본 노트에 추가 |
 | `/fix-notes` | `.claude/skills/fix-notes/SKILL.md` | save 규칙을 따르지 않는 노트를 일괄 정규화 |
 | `/organize-resources` | `.claude/skills/organize-resources/SKILL.md` | `/organize`의 확장판 — `05-resources/` 서브폴더까지 2단계 분류 |
+| `/inbox-batch` | `.claude/skills/inbox-batch/SKILL.md` | `00-queue/`에 쌓인 글을 한 번에 노트로 저장 |
+| `/digest` | `.claude/skills/digest/SKILL.md` | 최근 저장분을 주제별로 묶고 연결·딥다이브 후보 추천 |
+| `/card` | `.claude/skills/card/SKILL.md` | 노트를 카드뉴스 HTML로 변환 |
+| `/scout` | `.claude/skills/scout/SKILL.md` | Threads·논문에서 최근 글을 걸러 카테고리별로 추천하고 고른 것을 `00-queue/`에 넣음 |
 
 ---
 
@@ -51,7 +56,7 @@ source: "https://..."   # URL에서 저장했을 때만
 ```
 
 - **파일명**: 영어 소문자 kebab-case (예: `my-note-title.md`)
-- **tags 형식**: `카테고리/소주제` (예: `ai/claude`, `productivity/automation`)
+- **tags 형식**: `대분류/소주제`. `99-meta/taxonomy.md`의 허용 태그만 쓴다 (노트당 1~4개, 새 태그를 임의로 만들지 않는다)
 
 ---
 
@@ -90,6 +95,10 @@ source: "https://..."   # URL에서 저장했을 때만
 | 정리 요청 (PARA 수준) | `/organize` 스킬 실행 |
 | 정리 요청 (서브폴더까지) | `/organize-resources` 스킬 실행 |
 | 직접 추가한 노트 정규화 요청 | `/fix-notes` 스킬 실행 |
+| 큐에 쌓인 글 일괄 저장 요청 | `/inbox-batch` 스킬 실행 |
+| 최근 저장분 요약·추천 요청 | `/digest` 스킬 실행 |
+| 카드뉴스 요청 | `/card` 스킬 실행 |
+| 새 지식 추천 요청 | `/scout` 스킬 실행 |
 
 ---
 

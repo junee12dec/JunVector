@@ -1,7 +1,7 @@
 ---
 title: "유아(6~7세) 추천 그림책 Top7 — 25탄"
 date: 2026-04-08
-tags: [books/children, parenting/reading, books/picturebook]
+tags: [life/kids]
 description: "6~7세 유아를 위한 추천 그림책 7권. 배려, 말의 무게, 용기, 상상력 등 정서·사회성 발달에 좋은 책 목록."
 source: "https://www.threads.com/@spora_reading_writing/post/DW3WjYyCQ9p"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "UI/UX 엔지니어를 위한 Claude 스킬 4선 — interface-design · canvas-design · web-artifacts-builder · taste-skill"
 date: 2026-04-24
-tags: [ai/agent-skill, design/tool, dev/frontend]
+tags: [ai/skill, design/resources, dev/frontend]
 description: "UI/UX 엔지니어가 Claude Code에 설치해 활용할 수 있는 디자인·프론트엔드 스킬 4종. Anthropic 공식 스킬 2개 + 커뮤니티 스킬 2개 포함."
 source: "https://www.threads.com/@lucas_flatwhite/post/DXhB2nCEQ_l"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Chromex — Codex 기반 Chrome 사이드패널 AI 어시스턴트 (이미지 프롬프트 추출·웹 요약·PPT)"
 date: 2026-04-29
-tags: [ai/tool, dev/extension, productivity/browser]
+tags: [ai/tools, dev/frontend, productivity/tools]
 description: "클릭 한 번으로 이미지 프롬프트를 추출하고 Codex를 Chrome에서 Gemini처럼 쓸 수 있는 100% 오픈소스 크롬 확장. 웹 요약·인포그래픽·PPT·음성 모드·브라우저 제어까지 지원."
 source: "https://www.threads.com/@choi.openai/post/DXtljgcDPa-"
 ---

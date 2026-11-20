@@ -1,7 +1,7 @@
 ---
 title: "RMUX — Rust로 만든 AI 에이전트용 터미널 멀티플렉서 (tmux 호환 + 타입 SDK)"
 date: 2026-05-23
-tags: [ai/agent, dev/cli, dev/tool, dev/rust]
+tags: [ai/agent, dev/cli, dev/tools]
 description: "SSH 끊김에도 세션이 유지되는 Rust 터미널 멀티플렉서. tmux 90개 명령 완전 호환 + Playwright 스타일 타입 SDK로 AI 에이전트가 CLI·TUI 앱을 코드로 구동 가능."
 source: "https://github.com/Helvesec/rmux"
 ---

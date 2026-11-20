@@ -1,7 +1,7 @@
 ---
 title: "Moai-ADK — Claude Code용 하네스 엔지니어링 기반 AI 에이전트 개발 키트 (1.1k⭐)"
 date: 2026-06-05
-tags: [ai/claude, ai/agent, dev/tool, agent/harness]
+tags: [ai/claude, ai/agent, dev/tools]
 description: "24개 전문 AI 에이전트와 52개 스킬로 구성된 Claude Code 전용 에이전트 개발 키트. 하네스 엔지니어링 방식으로 TDD·DDD를 자동화하며 교보문고 IT 도서 1위 저자가 만든 국산 오픈소스다."
 source: "https://github.com/modu-ai/moai-adk"
 ---

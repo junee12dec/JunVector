@@ -1,7 +1,7 @@
 ---
 title: "Hermes Desktop — GitHub Actions로 자동 배포하는 Hermes Agent 데스크톱 앱"
 date: 2026-05-15
-tags: [ai/agent, dev/electron, dev/tool, productivity/automation]
+tags: [ai/agent, dev/frontend, dev/tools, productivity/automation]
 description: "NousResearch Hermes Agent를 CLI 없이 사용할 수 있는 Electron 기반 크로스플랫폼 데스크톱 앱. GitHub Actions로 배포 자동화, 10+ LLM 프로바이더 지원, 22개 슬래시 명령 내장."
 source: "https://www.threads.com/@viralmoneyai/post/DYVcQE3mK1X"
 ---

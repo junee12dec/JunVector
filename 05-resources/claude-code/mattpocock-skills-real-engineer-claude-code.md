@@ -1,7 +1,7 @@
 ---
 title: "mattpocock/skills — 진짜 엔지니어링을 위한 Claude Code 에이전트 스킬 모음"
 date: 2026-04-26
-tags: [ai/agent-skill, dev/workflow, productivity/automation]
+tags: [ai/skill, productivity/workflow, productivity/automation]
 description: "TypeScript 교육가 Matt Pocock이 실무 .claude 디렉토리에서 꺼낸 Claude Code 스킬 모음 22개. TDD·PRD·grill-me·git 안전망·Obsidian 연동 등 절차 있는 엔지니어링 워크플로우."
 source: "https://www.threads.com/@lucas_flatwhite/post/DXnbJxwD7bu"
 ---

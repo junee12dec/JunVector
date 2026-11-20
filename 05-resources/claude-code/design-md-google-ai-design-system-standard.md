@@ -1,7 +1,7 @@
 ---
 title: "DESIGN.md — AI 코딩 에이전트용 디자인 시스템 파일 표준 (구글 OSS, 16.5k⭐)"
 date: 2026-06-25
-tags: [design/system, ai/coding-agent, dev/workflow]
+tags: [design/system, ai/agent, productivity/workflow]
 description: "CLAUDE.md가 코딩 규칙을 정의하듯, DESIGN.md는 색상·폰트·여백·컴포넌트를 YAML+마크다운으로 정의해 AI가 매번 동일한 디자인 판단을 하게 만드는 구글 공식 오픈소스."
 source: "https://github.com/google-labs-code/design.md"
 ---

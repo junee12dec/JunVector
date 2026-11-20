@@ -1,7 +1,7 @@
 ---
 title: "자소서 GPT 프롬프트 6종 — 지원동기부터 첨삭까지"
 date: 2026-07-03
-tags: [productivity/writing, career/job-application, ai/prompt]
+tags: [productivity/content, strategy/career, ai/prompt]
 description: "인사담당자를 멈추게 하는 지원동기, STAR 스토리텔링, 근거 있는 강점, 직무 적합성, 입사 후 포부, 냉정한 첨삭까지 — 자소서 전 과정을 커버하는 ChatGPT 프롬프트 6종."
 source: "https://www.threads.com/@gpt_park/post/DaUtS3YmDCs"
 ---

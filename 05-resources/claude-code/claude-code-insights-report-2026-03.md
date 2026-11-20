@@ -1,7 +1,7 @@
 ---
 title: "Claude Code 사용 패턴 인사이트 리포트 (2026-03)"
 date: 2026-03-19
-tags: [productivity/automation, meta/review, ai/claude]
+tags: [productivity/automation, meta/project, ai/claude]
 description: "10일간 49개 세션에서 발견된 Obsidian 볼트 자동화 워크플로우의 강점·마찰 포인트·개선 제안. /save와 /organize-resources 스킬 중심의 지식 관리 시스템 운영 현황."
 ---
 

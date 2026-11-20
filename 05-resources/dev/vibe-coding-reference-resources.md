@@ -1,7 +1,7 @@
 ---
 title: "바이브코딩 참고자료 모음 — 클로드 코드 가이드·전자책·디자인 가이드"
 date: 2026-04-07
-tags: [dev/vibe-coding, ai/claude-code]
+tags: [productivity/workflow, ai/claude-code]
 description: "바이브코딩 학습에 유용한 국내 참고자료 3종 모음. 클로드 코드 가이드, 전자책, 웹페이지 디자인 가이드."
 source: "https://www.threads.com/@lian.lab71/post/DWz31Ywj8OD?xmt=AQF0wz1ZP8kL5baPIaBXEGDDOH-0sf1ztXx5jDrU8CQLQEjzgNu057VjUm_wIR7zR4gfzPY&slof=1"
 ---

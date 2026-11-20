@@ -1,7 +1,7 @@
 ---
 title: "GBrain — YC CEO 개리 탄의 AI 메모리 시스템 오픈소스 공개"
 date: 2026-04-11
-tags: [ai/agent-memory, productivity/second-brain]
+tags: [ai/agent, productivity/pkm]
 description: "Y Combinator CEO 개리 탄이 실제 업무에 쓰던 AI 기억 시스템 GBrain을 오픈소스로 공개했다. OpenClaw·Hermes 에이전트와 연동해 방대한 개인 데이터를 오차 없이 기억하고 꺼내 쓸 수 있는 프로덕션급 인프라다."
 source: "https://www.threads.com/@choi.openai/post/DW-3MzwCUnD"
 ---

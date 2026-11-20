@@ -1,7 +1,7 @@
 ---
 title: "Awesome Selfhosted Picks — 셀프호스팅 오픈소스 60개 큐레이션"
 date: 2026-05-09
-tags: [dev/self-hosted, dev/tool, productivity/infrastructure]
+tags: [dev/self-hosted, dev/tools, dev/infra]
 description: "자체 서버에서 운영 가능한 오픈소스 프로젝트 60개를 12개 카테고리로 정리한 큐레이션 저장소. 생산성·커뮤니케이션·저장소·미디어·보안·인프라 등 실무에 바로 쓸 수 있는 도구 모음."
 source: "https://www.threads.com/@kalypsodesigns/post/DYUO_WAmut6"
 ---

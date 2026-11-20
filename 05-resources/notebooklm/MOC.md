@@ -24,3 +24,4 @@ description: "NotebookLM 활용 및 PPT 자동화 워크플로우 관련 자료 
 - [[ai-slide-json-guide-template|AI 슬라이드 JSON 가이드 코드 — 회사 PPT 양식을 한 번만 세팅하면 끝]] — 2026-04-07
 - [[ai-ppt-infographic-tools-5-felo-canva-gamma-ideogram-mymap|AI PPT·인포그래픽 도구 5선 — Felo · Canva · Gamma · Ideogram · MyMap AI]] — 2026-04-16
 - [[slideland-tech-presentation-tool|Slideland — 슬라이드 제작 플랫폼]] — 2026-04-13
+- [[dashi-ppt-skill-ai-editable-presentation|dashi-ppt-skill — AI가 짜고 브라우저에서 직접 고치는 편집 가능한 발표자료 도구]] — 2026-08-22

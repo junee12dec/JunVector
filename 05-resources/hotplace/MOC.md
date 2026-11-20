@@ -1,7 +1,7 @@
 ---
 title: "Hotplace MOC"
 date: 2026-10-11
-tags: [meta/moc, lifestyle/hotplace]
+tags: [meta/moc, life/hotplace]
 description: "서울 및 국내 핫플레이스 목차. 카페, 레스토랑, 바, 데이트 코스 등."
 ---
 

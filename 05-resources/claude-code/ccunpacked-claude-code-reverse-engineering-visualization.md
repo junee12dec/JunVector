@@ -1,7 +1,7 @@
 ---
 title: "CCUnpacked — 클로드 코드 소스 리버스 엔지니어링 인터랙티브 시각화"
 date: 2026-04-06
-tags: [claude-code/internals, dev/reverse-engineering, ai/visualization]
+tags: [ai/claude-code, dev/tools, design/diagram]
 description: "클로드 코드의 소스를 리버스 엔지니어링해 인터랙티브하게 시각화한 사이트. 내부 구조와 동작 원리를 탐색할 수 있다."
 source: "https://ccunpacked.dev/"
 ---

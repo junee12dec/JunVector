@@ -12,53 +12,29 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 
 ## 노트 목록
 
-- [[david-ondrej-agent-skills|David Ondrej의 Agent Skills — AI 에이전트 워크플로우 스킬 오픈소스 모음]] — 2026-07-05
-- [[hermes-agent-intro-guide-eric|헤르메스 에이전트 입문 가이드 A to Z — Eric 작성]] — 2026-07-05
-- [[archify-diagram-agent-skill|Archify — 채팅 한 줄로 아키텍처 다이어그램을 그려주는 에이전트 스킬]] — 2026-07-15
-- [[build-your-own-x-github-learning-repo|Build Your Own X — 직접 만들며 배우는 개발 학습 오픈소스 모음]] — 2026-07-16
-- [[langwatch-llm-observability-prompt-optimizer|LangWatch — LLM 사용량 분석 및 프롬프트 최적화 오픈소스 플랫폼]] — 2026-07-19
-- [[10-github-repos-passive-income-ai|자동으로 수익을 만드는 GitHub 레포 10선 — 트레이딩·광고·SEO·AI 도구]] — 2026-07-21
-- [[axton-obsidian-ai-diagram-plugin|Axton — AI로 다이어그램을 생성하는 Obsidian 플러그인]] — 2026-07-21
-- [[pageindex-reasoning-rag-no-vectordb|PageIndex — 벡터DB·청킹 없이 동작하는 Reasoning 기반 RAG 오픈소스]] — 2026-07-21
-- [[anthropic-knowledge-work-plugins-cowork|Anthropic Knowledge Work Plugins — Claude를 직무 전문가로 만드는 공식 플러그인 모음]] — 2026-07-22
-- [[claude-youtube-channel-7-prompts-monetize|Claude로 AI 유튜브 채널 운영하는 프롬프트 7종 — 90일 수익화 로드맵]] — 2026-07-22
-- [[higgsfield-ai-video-prompts-community-free|Higgsfield AI 영상 프롬프트 구조 공개 — 실제 프롬프트·레퍼런스·설정값 무료]] — 2026-07-22
-- [[learn-coding-by-games-10-sites|게임으로 코딩 배우는 사이트 10선 — Kubernetes·Git·Python·보안까지]] — 2026-07-23
-- [[free-design-image-font-resources-20|무료 디자인·이미지·폰트 리소스 20선 — 폰트·스톡·아이콘·애니메이션·컬러]] — 2026-07-24
-- [[clean-architecture-skills-nathankim|clean-architecture-skills — 로버트 마틴 클린 아키텍처 + 켄트 백 리팩토링 Claude Code 스킬]] — 2026-07-25
-- [[foodibear-clean-object-editorial-poster-prompt|FOODIBEAR 클린 오브제 에디토리얼 포스터 프롬프트 v1.0]] — 2026-07-25
-- [[yc-qm-multi-agent-harness-startup|YC QM — 스타트업 전체를 에이전트로 돌리는 멀티 에이전트 하네스 오픈소스]] — 2026-07-26
-- [[garage-webui-s3-admin-dashboard|Garage Web UI — 셀프호스팅 S3 스토리지를 브라우저로 관리하는 어드민 대시보드]] — 2026-07-26
-- [[prompt-resources-and-customization-tips|AI 프롬프트 리소스 4선 + 남의 프롬프트 내 걸로 만드는 3가지 관점]] — 2026-08-03
-- [[koboyo-handdrawn-diagram-canvas-icons|Koboyo — 손그림 스타일 무한 캔버스 다이어그램 도구 + 9만 개 SVG 아이콘 무료 제공]] — 2026-08-05
-- [[claude-code-web-motion-reference-site-tip|Claude Code에 레퍼런스 사이트 링크 던지고 웹 모션 구현하기]] — 2026-08-05
-- [[mengto-complete-shelf-3d-ebook-bookshelf|Complete Shelf — MengTo의 3D 웹 서재 오픈소스 + 전자책 포장을 바꾸는 방법]] — 2026-08-05
-- [[loopx-stateful-control-plane-long-running-agent|LoopX — 장기 실행 AI 에이전트 팀을 위한 상태 커널 오픈소스]] — 2026-08-08
-- [[github-trending-agent-repos-prime-agent-witr|GitHub 하루 급상승 에이전트 레포 3선 — prime-agent·agent-skills·witr]] — 2026-08-08
-- [[stanford-cs329a-lecture5-planning-agent-review|스탠포드 CS329A 5강 — 자기 개선 AI 에이전트의 Planning 구조 후기]] — 2026-08-08
-- [[prime-agent-rlm-continual-harness-deep|Prime Agent 기술 심화 — RLM + Continual Harness로 ARC-AGI-3 인간 전문가 돌파]] — 2026-08-08
-- [[dspy-stanford-auto-prompt-optimization-framework|DSPy — 프롬프트 대신 파이썬 코드로 LLM 파이프라인을 정의하고 자동 최적화하는 스탠포드 프레임워크]] — 2026-08-08
-- [[code-graph-rag-monorepo-knowledge-graph|code-graph-rag — 모노레포를 지식 그래프로 만들어 AI가 자연어로 코드를 검색·편집하는 RAG]] — 2026-08-08
-- [[hallmark-ai-web-design-skill-anti-pattern|Hallmark — 'AI가 만든 티' 나는 웹디자인을 없애주는 디자인 매뉴얼 스킬 (★23,700)]] — 2026-08-08
-- [[ml-system-design-case-studies-300-top-companies|ML 시스템 디자인 케이스 스터디 300+ — 탑 기업 실제 사례 무료 큐레이션]] — 2026-08-08
-- [[andrew-ng-ai-engineering-skills-map|앤드류 응의 AI 엔지니어링 스킬 맵 — 모든 개발자가 갖춰야 할 4가지 역량]] — 2026-08-08
-- [[opencode-everything-developer-guide|OpenCode 완전 개발자 가이드 — 에이전트·스킬·플러그인·MCP 통합 총정리]] — 2026-08-08
-- [[n8n-self-hosted-ai-starter-kit|n8n Self-Hosted AI Starter Kit — n8n·Ollama·Qdrant·Postgres로 로컬 AI 워크플로우 환경 구축]] — 2026-08-08
-- [[claude-code-5-essential-plugins|Claude Code 필수 플러그인 5선 — Context7·Strix·Playwright·Supabase·Skill UI]] — 2026-08-08
-- [[kepano-obsidian-skills-ai-note-taking|kepano/obsidian-skills — Steph Ango의 Obsidian AI 노트 관리 스킬 5종 오픈소스]] — 2026-08-19
-- [[eli5-claude-code-community-skill-thariq|ELI5 — Anthropic 사내 유행 Claude Code 스킬 (글 줄이고 그림 키운 HTML 한 장 설명)]] — 2026-08-22
-- [[dashi-ppt-skill-ai-editable-presentation|dashi-ppt-skill — AI가 짜고 브라우저에서 직접 고치는 편집 가능한 발표자료 도구]] — 2026-08-22
-- [[cloudflare-os-ai-enterprise-infrastructure|cloudflare/cloudflare-os — Cloudflare 전 직원이 쓰는 사내 AI 운영체제 오픈소스 공개]] — 2026-08-22
-- [[aitmpl-claude-code-components-collection|AITMPL — Claude Code 컴포넌트 대규모 오픈소스 모음 (스킬·에이전트·훅·MCP·플러그인)]] — 2026-08-22
-- [[elk-to-clickhouse-migration-trend|ELK → ClickHouse 전환 트렌드 — 비용 70~90% 절감·표준 SQL·대용량 로그 처리]] — 2026-09-05
-- [[agents-md-skill-audit-prompt|AGENTS.md·Skill 파일 감사 프롬프트 — 불명확·충돌·중복 지침 찾아 정리하는 법]] — 2026-09-06
-- [[ai-knowledge-graph-llm-unstructured-text|ai-knowledge-graph — LLM으로 비정형 텍스트를 지식 그래프로 변환하는 오픈소스]] — 2026-09-07
-- [[semiotic-react-dataviz-mcp|Semiotic — MCP 서버 내장 React 데이터 시각화 오픈소스 (실시간·네트워크 그래프·대시보드)]] — 2026-09-07
-- [[pr-lens-architecture-diagram-code-review|PR Lens — PR 코드 변경을 아키텍처 다이어그램·데이터 흐름 애니메이션으로 자동 시각화]] — 2026-09-08
-- [[appllama-skills-mobile-ui-pattern-agent|Appllama Skills — 상위 매출 앱 UI 패턴을 학습해 Expo·React Native로 구현하는 에이전트 스킬]] — 2026-09-11
-- [[prompts-chat-open-source-prompt-library|prompts.chat — 전 세계 사용자가 공유하는 오픈소스 Prompt Library]] — 2026-09-11
-- [[html-anything-ai-poster-card-news-generator|html-anything — 글·표를 붙여넣으면 AI가 카드뉴스·포스터·발표자료로 변환해주는 오픈소스]] — 2026-09-15
-- [[ai-learning-resources-10-with-prompts|링크만 저장 말고 직접 만들기 — AI 공부 자료 10선 + AI에게 시킬 프롬프트]] — 2026-09-17
-- [[skillry-opus-55-viral-videos-389-prompts|skillry.dev/ai-videos — Opus 5.5로 만든 바이럴 영상 389개 + 프롬프트 모음]] — 2026-09-29
-- [[claude-opus-55-vector-illustration-animation-rigging|Claude Opus 5.5로 정지된 벡터 일러스트를 캐릭터 애니메이션으로 만들기 (리깅 없이)]] — 2026-09-29
-- [[ruflo-claude-flow-multi-agent-dev-team|Ruflo (구 Claude Flow) — Claude Code에 역할별 AI 개발팀을 붙이는 무료 오픈소스]] — 2026-10-01
+
+- [[dr-dci-agentic-search-dynamic-workspace-expansion|DR-DCI — 검색으로 작업 공간을 넓히고 셸 명령으로 증거를 확인하는 에이전트 검색 (논문·코드 공개)]] — 2026-11-16
+- [[ztd-charts-react-47-charts-zero-deps-mcp|ztd-charts — 의존성 0인 React 차트 47종 + AI가 쓰는 JSON 스펙·CLI·MCP (MIT)]] — 2026-11-17
+- [[stageshow-faux-product-ui-agent-skill|Stageshow — 에이전트가 실제 제품처럼 보이는 가짜 제품 UI·커서 데모를 React로 만들게 하는 스킬]] — 2026-11-18
+- [[swarms-multi-agent-orchestration-framework|Swarms — 여러 AI 에이전트를 순차·병렬·계층 워크플로우로 묶는 파이썬 멀티 에이전트 프레임워크]] — 2026-11-18
+- [[anatomy-claude-skill-isometric-interactive-explainer|Anatomy — 개념을 실제로 움직이는 아이소메트릭 기계 그림으로 만들어 설명하는 Claude 스킬 (MIT)]] — 2026-11-18
+- [[business-ai-app-5-tools-mastra-composio-mem0-langfuse-promptfoo|비즈니스 AI 앱 만드는 오픈소스 5종 — Mastra·Composio·Mem0·Langfuse·Promptfoo]] — 2026-11-18
+- [[mengto-ui-design-skills-emil-kowalski-solid-glass|Meng To가 고른 UI 디자인 스킬 — Emil Kowalski 애니메이션 스킬·MengTo/skills·Solid Glass]] — 2026-11-18
+- [[stick-scene-agent-skill-stick-figure-explainer-animation|stick-scene — 한 줄 설명을 졸라맨 애니메이션 장면으로 만들어 주는 에이전트 스킬 (roadmap.sh 제작자, MIT)]] — 2026-11-18
+- [[designed-to-scale-interactive-system-design-course|Designed to Scale — 시스템 설계를 움직이는 그림으로 직접 조작하며 배우는 무료 학습 사이트 (40개 과정)]] — 2026-11-18
+- [[anti-ai-slop-ui-libraries-5-horizonx-grainient-arcui|AI slop을 없애는 UI 라이브러리 5곳 — HorizonX·Grainient·Arc UI·uberdesigner·Bencho]] — 2026-11-18
+- [[protocol-explorer-interactive-internet-protocols|Protocol Explorer — 인터넷 프로토콜 39종이 패킷 단위로 어떻게 오가는지 움직이는 그림으로 보는 학습 사이트]] — 2026-11-18
+- [[lemo-opuscar-claude-code-film-style-library-99|Lemo-Opuscar — Claude Code가 코드만으로 영상을 만드는 스타일 라이브러리 99종 (수채화·3D·모션그래픽)]] — 2026-11-18
+- [[designer-bookmark-tools-shotreel-amicons-graphicalui-drawably|디자이너 북마크 도구 — shotreel·amicons·graphicalui·drawably]] — 2026-11-18
+- [[free-ai-design-skills-5-logo-ppt-card-illustration|디자이너 대신 쓰는 무료 AI 디자인 스킬·앱 5개 — 캐릭터 로고·잡지형 발표자료·맥 로컬 그림·카드뉴스·손그림 삽화]] — 2026-11-18
+- [[vibe-coding-ui-overlay-terms-modal-popover-toast|바이브 코딩 화면 용어 6개 — 모달·팝오버·툴팁·토스트·시트·드로어]] — 2026-11-18
+- [[doksam-ui-shadcn-korean-ui-standard-catalog|doksam-ui — shadcn/ui 기반 한국어 공통 UI 표준 카탈로그 (컴포넌트 104·패턴 31·템플릿 16, 폐쇄망 우선)]] — 2026-11-18
+- [[firecrawl-agent-web-scrape-crawl-markdown-mcp|Firecrawl — 웹사이트를 깨끗한 마크다운으로 바꿔 에이전트에 먹이는 검색·스크레이핑·크롤링 도구 (로컬 바이너리 + MCP)]] — 2026-11-19
+- [[free-ai-automation-tools-5-agents-browser-desktop|반복 업무를 맡기는 무료 AI 자동화 도구 5개 — AI 전문가 팀·내 크롬 조작·페이지 내 AI 도우미·데스크톱 앱 조작·AI용 헤드리스 브라우저]] — 2026-11-19
+- [[claude-artifacts-name-the-chart-sankey-process-flow|Claude에게는 도표 이름까지 말하라 — 42쪽 절차서를 Sankey 흐름도로 만든 공식 Artifacts 사례]] — 2026-11-19
+- [[free-local-ai-tools-qwenpaw-anythingllm-pake|내 컴퓨터에서 쓰는 무료 AI 도구 3개 — QwenPaw(개인 AI 비서)·AnythingLLM(문서 챗봇)·Pake(웹사이트를 데스크톱 앱으로)]] — 2026-11-20
+- [[official-prompting-guides-openai-anthropic-google-2026|AI 회사 공식 프롬프트 가이드 3개 (2026 최신판) — OpenAI·Anthropic·Google]] — 2026-11-20
+- [[n8n-visual-ai-agent-workflow-automation|n8n — 화면에서 블록을 이어 AI 에이전트와 자동화 흐름을 만드는 도구 (연동 1,500+·템플릿 9,000+)]] — 2026-11-20
+- [[claude-code-docs-5-essential-pages|Claude Code 공식 문서, 이 5쪽만 저장해 두기 — 빠른 시작·모범 사례·대화 모드·비용 관리·문제 해결]] — 2026-11-20
+- [[vibe-design-tips-skills-ui-continuity-transitions|Vibe Design Tips 스킬 — 바이브 코딩 제품의 완성도를 올리는 디자인 팁 21개 (화면 전환은 진단부터)]] — 2026-11-20
+- [[knowledgeclaw-omnimodal-hypergraph-agentic-knowledge-engineering|KnowledgeClaw — 문서·이미지·영상이 섞인 사내 지식 베이스를 하이퍼그래프로 엮고 계속 최신으로 유지하는 에이전트 (논문·코드 공개)]] — 2026-11-20

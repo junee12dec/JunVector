@@ -1,7 +1,7 @@
 ---
 title: "diagram-design — 웹사이트 컬러 추출해 에디토리얼 퀄리티 다이어그램 생성하는 스킬"
 date: 2026-04-18
-tags: [ai/claude, design/tools, dev/tools]
+tags: [ai/claude, design/resources, dev/tools]
 description: "텍스트만으로 13가지 유형의 다이어그램을 HTML·SVG로 생성하는 Claude 스킬. 웹사이트 URL을 주면 배경색·폰트·강조색을 자동 추출해 브랜드에 맞는 에디토리얼 디자인으로 출력한다."
 source: "https://www.threads.com/@choi.openai/post/DXSmjqAiASi"
 ---

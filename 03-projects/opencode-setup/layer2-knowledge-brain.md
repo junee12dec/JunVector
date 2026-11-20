@@ -1,7 +1,7 @@
 ---
 title: "Layer 2 — Knowledge Brain"
 date: 2026-04-12
-tags: [project/opencode, layer2, knowledge-brain, wiki, ingest, query, lint]
+tags: [meta/project, productivity/pkm]
 description: "Wiki 구조 및 ingest / query / lint 3대 오퍼레이션을 포함한 지식 브레인 레이어. GBrain brain-agent loop + Karpathy 3계층 패턴 결합."
 type: concept
 status: active

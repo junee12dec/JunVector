@@ -1,7 +1,7 @@
 ---
 title: "12-Factor Agents — 데모를 넘어 프로덕션 AI 에이전트를 만드는 12가지 원칙 (20.6k⭐)"
 date: 2026-05-15
-tags: [agent/architecture, ai/agent, dev/production, agent/best-practice]
+tags: [ai/agent, dev/infra]
 description: "수백 명의 테크 창업자 인터뷰를 바탕으로 만든 프로덕션 AI 에이전트 엔지니어링 오픈소스 가이드. 컨텍스트 관리·도구 호출·상태 모델링·에러 처리 등 데모를 실제 서비스로 만드는 12가지 실천법."
 source: "https://www.threads.com/@notyetsmart/post/DYgBQMBmbsO"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Understand Anything — Codebase를 Knowledge Graph로 변환하는 Claude Code 플러그인"
 date: 2026-03-18
-tags: [ai/claude-code, dev/tools, tool/skill]
+tags: [ai/claude-code, dev/tools, ai/skill]
 description: "Claude Code용 오픈소스 플러그인. 코드베이스를 Knowledge Graph로 시각화해 전체 구조를 빠르게 파악할 수 있다."
 source: "https://www.threads.com/@laeyoung/post/DWAcniNCXc7"
 ---

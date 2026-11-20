@@ -1,7 +1,7 @@
 ---
 title: "System Design Notes — Alex Xu 책 챕터별 무료 정리 노트 (28개 시스템)"
 date: 2026-06-21
-tags: [dev/system-design, learning/resources, dev/interview]
+tags: [dev/architecture, learning/resources, strategy/career]
 description: "Alex Xu의 System Design Interview 1·2권을 챕터별로 정리한 GitHub 노트. YouTube·Google Drive·Uber·Stripe 등 28개 시스템 설계 프레임워크와 원본 논문 링크 무료 제공."
 source: "https://github.com/liquidslr/system-design-notes"
 ---

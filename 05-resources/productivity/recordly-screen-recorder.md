@@ -1,7 +1,7 @@
 ---
 title: "Recordly — 자동 줌·커서 애니메이션으로 프로 데모 영상 만드는 오픈소스 화면 녹화 툴"
 date: 2026-03-26
-tags: [productivity/tools, dev/tools, media/video]
+tags: [productivity/tools, dev/tools, productivity/content]
 description: "자동 줌, 커서 바운스·모션 블러, 웹캠 오버레이 등 Screen Studio 느낌의 연출을 무료로 제공하는 오픈소스 화면 녹화·편집 도구. Windows·Linux·macOS 모두 지원."
 source: "https://github.com/webadderall/Recordly"
 ---

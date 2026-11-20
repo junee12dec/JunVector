@@ -1,7 +1,7 @@
 ---
 title: "oh-my-skills — Codex·Claude Code 설치 스킬을 한눈에 관리하는 로컬 대시보드"
 date: 2026-05-28
-tags: [ai/claude, agent/skill, dev/tool, productivity/automation]
+tags: [ai/claude, ai/skill, dev/tools, productivity/automation]
 description: "설치한 AI 스킬이 너무 많아 뭘 깔았는지 모를 때 쓰는 로컬 스킬 관리 대시보드. Codex·Claude Code·Agent Skills를 스캔해 검색·중복 감지·편집까지 한 화면에서 처리."
 source: "https://github.com/AIjunja/oh-my-skills"
 ---

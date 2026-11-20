@@ -1,7 +1,7 @@
 ---
 title: "Claude Code Cheat Sheet v2.1.81"
 date: 2026-03-24
-tags: [ai/claude, dev/cli, productivity/reference]
+tags: [ai/claude, dev/cli, productivity/tools]
 description: "Claude Code v2.1.81 전체 치트시트. 키보드 단축키, 슬래시 커맨드, 워크플로우, MCP 서버, 스킬/에이전트, CLI 플래그를 한 페이지에 정리한 레퍼런스."
 source: "https://cc.storyfox.cz"
 ---

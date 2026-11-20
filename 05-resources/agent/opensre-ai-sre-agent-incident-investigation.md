@@ -1,7 +1,7 @@
 ---
 title: "OpenSRE — 프로덕션 인시던트를 자동 조사하는 오픈소스 AI SRE 에이전트"
 date: 2026-04-25
-tags: [dev/sre, dev/agent, dev/observability]
+tags: [dev/infra, ai/agent]
 description: "서버 장애 발생 시 로그·메트릭·트레이스를 자동 수집·분석하고 런북 기반 추론으로 원인을 찾아주는 오픈소스 AI SRE 에이전트 프레임워크. 60+ 도구 통합, 멀티 LLM 지원."
 source: "https://github.com/Tracer-Cloud/opensre"
 ---

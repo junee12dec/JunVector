@@ -1,7 +1,7 @@
 ---
 title: "PPT에서 Claude AI로 디자인하는 3단계 워크플로우"
 date: 2026-03-15
-tags: [productivity/ppt, ai/claude, productivity/automation]
+tags: [productivity/presentation, ai/claude, productivity/automation]
 description: "슬라이드 마스터 설정 → 노션 정리 → Claude 실행의 3단계로 AI가 일관된 디자인의 PPT를 자동 생성하는 방법."
 source: "https://www.threads.com/@nakseo.growth/post/DV5RQ9nE2-K"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "도메인 특화 아이콘 사이트 7선"
 date: 2026-04-02
-tags: [design/icons, design/resources]
+tags: [design/resources]
 description: "의료·날씨·게임·지도·이모지·UI·브랜드 등 도메인별 전문 아이콘 사이트 모음. 범용 아이콘 대신 딱 맞는 전문 컬렉션으로 검색 시간을 줄일 수 있다."
 source: "https://www.threads.com/@siwon.designer/post/DWm477PE_qX?xmt=AQF0-Y9M3h_TpzTDu9B1rBDQ_RzTOx8NBbrRXHQ5fTEUwe5gMgTllRrrZ7ev32dsOpXyktow&slof=1"
 ---

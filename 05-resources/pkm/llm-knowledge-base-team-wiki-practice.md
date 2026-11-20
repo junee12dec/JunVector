@@ -1,7 +1,7 @@
 ---
 title: "LLM Knowledge Base 실전 구현 — 개인 위키에서 팀 위키로"
 date: 2026-04-06
-tags: [ai/pkm, productivity/knowledge-management, ai/llm, productivity/team]
+tags: [productivity/pkm, ai/llm, strategy/organization]
 description: "Karpathy의 LLM Knowledge Base 개념을 Claude Code 환경에서 직접 구현한 경험 공유. 메모 36개 → 9개 주제, 38페이지 위키. wiki/CLAUDE.md/LESSONS.md/MEMORY.md 구조 제안."
 source: "https://www.threads.com/@pyopyo___/post/DWxwcMMkjtK"
 ---

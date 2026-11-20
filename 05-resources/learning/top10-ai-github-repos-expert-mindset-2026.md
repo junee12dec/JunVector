@@ -1,7 +1,7 @@
 ---
 title: "세계 최고 개발자 사고방식을 담은 AI GitHub 저장소 10선 (2026)"
 date: 2026-05-09
-tags: [ai/resource, dev/tool, ai/agent-skill]
+tags: [ai/tools, dev/tools, ai/skill]
 description: "단순 툴이 아니라 전문가의 작업 방식·연구 흐름·문제 해결 패턴을 로컬에서 실행 가능하게 공개한 2026년 주목 AI GitHub 저장소 10개 큐레이션."
 source: "https://www.threads.com/@jay_h_stark/post/DYOygPIk_1l"
 ---

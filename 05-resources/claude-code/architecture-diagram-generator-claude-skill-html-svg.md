@@ -1,7 +1,7 @@
 ---
 title: "Architecture Diagram Generator — 아키텍처 다이어그램을 HTML/SVG로 자동 생성하는 Claude 스킬 (5.2k⭐)"
 date: 2026-05-22
-tags: [ai/claude, dev/tool, agent/skill, design/diagram]
+tags: [ai/claude, dev/tools, ai/skill, design/diagram]
 description: "텍스트 설명만으로 다크 테마 시스템 아키텍처 다이어그램을 독립형 HTML/SVG 파일로 생성하는 Claude AI 스킬. Hermes에서는 /architecture-diagram 프롬프트로도 사용 가능."
 source: "https://github.com/Cocoon-AI/architecture-diagram-generator"
 ---

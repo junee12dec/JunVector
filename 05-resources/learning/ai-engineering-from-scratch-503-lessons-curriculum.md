@@ -1,7 +1,7 @@
 ---
 title: "AI Engineering from Scratch — 수학부터 자율 에이전트까지 503개 레슨 커리큘럼 (30.6k⭐)"
 date: 2026-06-05
-tags: [ai/education, dev/learning, ai/agent, dev/ml]
+tags: [learning/resources, ai/agent, dev/data]
 description: "수학 기초부터 프로덕션 AI 시스템·멀티 에이전트까지 20단계 503개 레슨으로 구성된 AI 엔지니어링 커리큘럼. 프레임워크 사용 전에 직접 구현을 먼저 해보는 방식으로 깊은 이해를 추구한다."
 source: "https://github.com/rohitg00/ai-engineering-from-scratch"
 ---

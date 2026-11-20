@@ -1,7 +1,7 @@
 ---
 title: "Public APIs — 무료 공개 API 종합 목록"
 date: 2026-03-14
-tags: [dev/api, dev/resources]
+tags: [dev/backend, learning/resources]
 description: "커뮤니티가 수동으로 큐레이션한 무료 공개 API 종합 목록. 50개 이상의 카테고리에서 개발 시 바로 활용 가능한 API를 찾을 수 있다."
 source: "https://github.com/public-apis/public-apis"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Learning MOC"
 date: 2026-03-13
-tags: [meta/moc, learning]
+tags: [meta/moc, learning/resources]
 description: "강의, 튜토리얼, 학습 자료 목차."
 ---
 
@@ -30,3 +30,9 @@ description: "강의, 튜토리얼, 학습 자료 목차."
 - [[chip-huyen-ai-engineering-book-repo|Chip Huyen의 AI Engineering 책 동반 레포 — 무료 학습 자료 전집]] — 2026-06-17
 - [[system-design-notes-alex-xu-28-chapters|System Design Notes — Alex Xu 책 챕터별 무료 정리 노트 (28개 시스템)]] — 2026-06-21
 - [[free-github-repos-5-python-ml-learning|무료 GitHub 레포 5개 — Python·ML·프로젝트 학습 완전판]] — 2026-06-21
+- [[ai-learning-resources-10-with-prompts|링크만 저장 말고 직접 만들기 — AI 공부 자료 10선 + AI에게 시킬 프롬프트]] — 2026-09-17
+- [[andrew-ng-ai-engineering-skills-map|앤드류 응의 AI 엔지니어링 스킬 맵 — 모든 개발자가 갖춰야 할 4가지 역량]] — 2026-08-08
+- [[build-your-own-x-github-learning-repo|Build Your Own X — 직접 만들며 배우는 개발 학습 오픈소스 모음]] — 2026-07-16
+- [[learn-coding-by-games-10-sites|게임으로 코딩 배우는 사이트 10선 — Kubernetes·Git·Python·보안까지]] — 2026-07-23
+- [[ml-system-design-case-studies-300-top-companies|ML 시스템 디자인 케이스 스터디 300+ — 탑 기업 실제 사례 무료 큐레이션]] — 2026-08-08
+- [[stanford-cs329a-lecture5-planning-agent-review|스탠포드 CS329A 5강 — 자기 개선 AI 에이전트의 Planning 구조 후기]] — 2026-08-08

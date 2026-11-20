@@ -1,7 +1,7 @@
 ---
 title: "강의 퀄리티 기준 — 네이버 부스트코스 무료강의 이상이어야 팔린다"
 date: 2026-03-25
-tags: [learning/online-course, strategy/content-business, productivity/learning]
+tags: [learning/course, strategy/business, learning/resources]
 description: "유료 강의를 판매하려면 네이버 부스트코스 수준의 무료강의보다 확실히 나아야 한다는 관점. 강의 제작·판매를 고려할 때 품질 기준으로 삼을 수 있는 인사이트."
 source: "https://www.threads.com/@turtle_buff/post/DWNimQfD_KJ"
 ---

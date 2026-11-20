@@ -1,7 +1,7 @@
 ---
 title: "Prompt Engineering Skills — Claude Code·GPTs·Gemini Gems 공용 프롬프트 엔지니어링 스킬 모음"
 date: 2026-05-15
-tags: [ai/claude, productivity/prompt, ai/llm, agent/skill]
+tags: [ai/claude, ai/prompt, ai/llm, ai/skill]
 description: "Claude Code, ChatGPT GPTs, Gemini Gems에서 함께 쓸 수 있는 프롬프트 엔지니어링 스킬 8개 영역. 모델별 전략·이미지·리서치·슬라이드·Context Engineering을 단일 통합본 또는 분할 가이드로 설치."
 source: "https://github.com/treylom/prompt-engineering-skills"
 ---

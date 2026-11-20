@@ -1,7 +1,7 @@
 ---
 title: "CodeGraph — AI 코딩 에이전트용 코드 지식 그래프 인덱서 (토큰 57% 절감, 31k⭐)"
 date: 2026-05-28
-tags: [ai/agent, dev/tool, dev/coding, productivity/automation]
+tags: [ai/agent, dev/tools, productivity/automation]
 description: "프로젝트를 미리 코드 지식 그래프로 인덱싱해 AI 에이전트의 반복적인 파일 읽기를 구조화된 그래프 조회로 대체. 공식 벤치마크 기준 토큰 57% 절감, 비용 35% 절감, 속도 46% 향상."
 source: "https://github.com/colbymchenry/codegraph"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "프로덕션 AI 에이전트를 위한 10가지 필수 스킬"
 date: 2026-03-16
-tags: [ai/agent-skills, tool/skill, productivity/automation, dev/claude-code]
+tags: [ai/skill, productivity/automation, ai/claude-code]
 description: "Claude Code, Cursor 등 AI 코딩 에이전트에 도입해야 할 10가지 핵심 스킬 목록. 단순 플러그인이 아닌 에이전트 전문성을 극대화하는 인프라로 소개."
 source: "https://www.threads.com/@kanjseok/post/DV7kyKakhFM"
 ---
