@@ -40,3 +40,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[knowledgeclaw-omnimodal-hypergraph-agentic-knowledge-engineering|KnowledgeClaw — 문서·이미지·영상이 섞인 사내 지식 베이스를 하이퍼그래프로 엮고 계속 최신으로 유지하는 에이전트 (논문·코드 공개)]] — 2026-11-20
 - [[ui-diff-pr-before-after-screenshot-skill|ui-diff — UI를 바꾼 PR에 수정 전·후 화면과 달라진 픽셀을 PR 댓글 하나로 보여 주는 에이전트 스킬 (MIT)]] — 2026-11-21
 - [[designinwords-ui-design-terms-97-ai-prompt|DesignInWords — UI 디자인 용어 97개를 전후 비교로 보고, AI에 붙여넣을 한국어 프롬프트를 조립하는 사이트]] — 2026-11-20
+- [[stark-dual-graph-agent-memory-episodes-insights|STARK — 사건(에피소드)과 행동 패턴(통찰)을 두 그래프로 따로 남기는 개인화 에이전트 메모리 (논문)]] — 2026-11-21
