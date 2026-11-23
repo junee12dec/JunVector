@@ -42,3 +42,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[designinwords-ui-design-terms-97-ai-prompt|DesignInWords — UI 디자인 용어 97개를 전후 비교로 보고, AI에 붙여넣을 한국어 프롬프트를 조립하는 사이트]] — 2026-11-20
 - [[stark-dual-graph-agent-memory-episodes-insights|STARK — 사건(에피소드)과 행동 패턴(통찰)을 두 그래프로 따로 남기는 개인화 에이전트 메모리 (논문)]] — 2026-11-21
 - [[toss-design-skill-v2-unofficial-agent-skill|토스 디자인 스킬 v2 — toss.tech 디자인 아티클 143편의 판단 기준을 출처와 함께 담은 비공식 에이전트 스킬]] — 2026-11-23
+- [[board-rag-react-springboot-fastapi-langgraph-one-page|게시판 AI 검색(RAG) 한 장 정리 — React·Spring Boot·FastAPI(LangChain·LangGraph) 구조]] — 2026-11-22
