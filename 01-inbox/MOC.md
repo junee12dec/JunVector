@@ -44,3 +44,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[toss-design-skill-v2-unofficial-agent-skill|토스 디자인 스킬 v2 — toss.tech 디자인 아티클 143편의 판단 기준을 출처와 함께 담은 비공식 에이전트 스킬]] — 2026-11-23
 - [[board-rag-react-springboot-fastapi-langgraph-one-page|게시판 AI 검색(RAG) 한 장 정리 — React·Spring Boot·FastAPI(LangChain·LangGraph) 구조]] — 2026-11-22
 - [[free-design-reference-sites-15-landing-font-color-icon|디자인 참고 무료 사이트 15곳 — 랜딩 페이지 레퍼런스·폰트·색 조합·아이콘·목업]] — 2026-11-22
+- [[floorplan-claude-codex-codebase-plain-english-map|Floorplan — Claude Code·Codex가 코드베이스를 읽고 쉬운 말로 된 확대 가능한 앱 지도를 그려 주는 플러그인 (MIT)]] — 2026-11-23
