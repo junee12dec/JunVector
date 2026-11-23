@@ -52,6 +52,28 @@ uv run dci-agent-lite --terminal --provider openai --model gpt-5.4-nano \
 - BrowseComp-Plus, BRIGHT, 위키피디아식 QA, OpenResearcher식 문서 집합용 실행 스크립트가 들어 있다.
 - 타임아웃, 출력 자르기, 컨텍스트 관리, 작업 공간 캐시 같은 장시간 실행 옵션을 CLI 플래그와 환경 변수로 조정한다.
 
+## 배경 — 원래 DCI 연구 (2026-11-23 추가)
+
+DR-DCI의 바탕이 된 선행 연구. 출처: @ax_central (Threads, 2026-11-23, https://www.threads.com/@ax_central/post/DgE8A9XFiDC), 논문 초록.
+
+- 논문: *Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction* (arXiv 2605.05242, 2026-05) — https://arxiv.org/abs/2605.05242
+- 저자: Zhuofeng Li, Haoxiang Zhang 외 (Yejin Choi, James Zou, Jiawei Han, Wenhu Chen, Jimmy Lin 포함). DR-DCI와 저자가 상당수 겹친다.
+- Threads 글에 따르면 NeurIPS 2026에 채택됐다 (초록에는 표기 없음).
+
+**문제 제기**: 기존 검색(어휘든 의미든)은 문서 모음을 고정된 유사도 인터페이스로만 보여 주고, 추론 전에 **상위 k개를 뽑는 한 단계**로 접근을 압축한다. 에이전트형 검색에서는 이게 병목이다.
+- 정확한 키워드 조건, 흩어진 약한 단서의 조합, 앞뒤 문맥 확인, 여러 단계의 가설 수정을 일반 검색기 호출로는 하기 어렵다.
+- **처음에 걸러진 근거는 뒤에서 아무리 잘 추론해도 되살릴 수 없다.**
+
+**방법 (DCI)**: 임베딩 모델·벡터 색인·검색 API 없이, 에이전트가 grep·파일 읽기·셸 명령·가벼운 스크립트로 **원본 문서를 직접** 뒤진다. 미리 색인을 만들 필요가 없어 **자주 바뀌는 로컬 문서 모음에도 바로** 쓸 수 있다.
+
+**결과**: BRIGHT·BEIR의 여러 데이터셋에서 강한 희소·밀집·재순위화 방식을 크게 앞섰고, BrowseComp-Plus와 multi-hop QA에서도 일반 의미 검색기 없이 높은 정확도를 냈다.
+
+**해석**: 에이전트가 강해질수록 검색 품질은 추론 능력뿐 아니라 **문서에 접근하는 인터페이스의 해상도**에도 달려 있다.
+
+**한계와 DR-DCI로 이어짐**: 문서가 수백만 건을 넘으면 전체에 grep을 돌리기가 느려지고 불안정해진다 → DR-DCI는 검색을 버리지 않고 "작업 공간을 넓히는 행동"으로 역할을 바꿨다 (위 본문).
+
+글쓴이의 결론: 검색이냐 grep이냐의 문제가 아니라 **검색으로 넓게 모으고 도구로 정밀하게 확인하는 조합**이다. 사내 RAG를 에이전트형으로 바꾸고 있다면, 에이전트에게 문서를 직접 뒤질 도구를 줄지 검토해 볼 만하다.
+
 ## Deep Dive
 
 > 탐구 주제: DR-DCI의 핵심 철학을 사내 보안 환경(DB는 접근 가능, 엑셀·PPT·PDF 보안 문서는 에이전트가 읽지 못함)에 맞춰 madi 레포에 적용하기
