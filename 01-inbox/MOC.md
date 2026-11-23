@@ -47,3 +47,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[floorplan-claude-codex-codebase-plain-english-map|Floorplan — Claude Code·Codex가 코드베이스를 읽고 쉬운 말로 된 확대 가능한 앱 지도를 그려 주는 플러그인 (MIT)]] — 2026-11-23
 - [[ruben-hassid-full-claude-course-15-guides|Full Claude Course — 주말에 Claude를 처음부터 익히는 무료 가이드 15편 (Ruben Hassid)]] — 2026-11-21
 - [[official-mcp-reference-servers-5-claude-code|공식 MCP 레퍼런스 서버 5개 — sequential-thinking·memory·filesystem·fetch·git (설치 명령 포함)]] — 2026-11-23
+- [[claude-bughunter-security-skill-bundle-domain-packaging|Claude-BugHunter — 버그 바운티·외부 레드팀 업무를 83개 에이전트 스킬로 나눈 번들 (도메인 지식 패키징 사례, MIT)]] — 2026-11-23
