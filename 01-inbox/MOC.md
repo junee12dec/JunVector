@@ -48,3 +48,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[ruben-hassid-full-claude-course-15-guides|Full Claude Course — 주말에 Claude를 처음부터 익히는 무료 가이드 15편 (Ruben Hassid)]] — 2026-11-21
 - [[official-mcp-reference-servers-5-claude-code|공식 MCP 레퍼런스 서버 5개 — sequential-thinking·memory·filesystem·fetch·git (설치 명령 포함)]] — 2026-11-23
 - [[claude-bughunter-security-skill-bundle-domain-packaging|Claude-BugHunter — 버그 바운티·외부 레드팀 업무를 83개 에이전트 스킬로 나눈 번들 (도메인 지식 패키징 사례, MIT)]] — 2026-11-23
+- [[microsoft-waza-agent-workflow-skill-eval-cli|Microsoft Waza — AI 에이전트 워크플로·스킬·커스텀 에이전트를 반복 가능한 시나리오로 평가하는 CLI (MIT)]] — 2026-11-23
