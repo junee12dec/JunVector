@@ -56,3 +56,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[mr-office-ai-office-suite-mcp-word-excel-ppt|MR Office — Word·Excel·PowerPoint·PDF를 브라우저에서 편집하는 오픈소스 AI 오피스, MCP로 Claude·Codex가 실제 Office 파일을 만들고 고친다 (AGPL-3.0)]] — 2026-11-24
 - [[claude-code-ultimate-guide-harness-engineering|Claude Code Ultimate Guide — 기초부터 프로덕션 운영까지: 하네스·컨텍스트 엔지니어링, Skill·Agent·MCP 선택 기준, AI FinOps (CC BY-SA 4.0)]] — 2026-11-24
 - [[ai-youtubers-3-jeff-su-liam-ottley-jack-roberts|AI 공부·수익화용 유튜버 3명 — Jeff Su·Liam Ottley·Jack Roberts]] — 2026-11-24
+- [[rag-index-after-commit-transactional-event-listener|글이 바뀌면 AI도 알아야 한다 — Spring 게시판 RAG의 커밋 이후 색인 (@TransactionalEventListener + 색인 상태)]] — 2026-11-24
