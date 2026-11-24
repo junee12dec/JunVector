@@ -54,3 +54,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[genai4simpy-event-log-to-manufacturing-simulation-agent|GenAI4SimPy — 공장 이벤트 로그에서 실행 가능한 공정 시뮬레이션 모델을 자동으로 만드는 로컬 멀티 에이전트 (논문·코드 공개)]] — 2026-11-24
 - [[rederive-skill-re-derive-design-decisions-by-questions|rederive — AI가 짠 코드의 설계를 질문만으로 스스로 다시 떠올리게 하는 학습 스킬 (MIT)]] — 2026-11-24
 - [[mr-office-ai-office-suite-mcp-word-excel-ppt|MR Office — Word·Excel·PowerPoint·PDF를 브라우저에서 편집하는 오픈소스 AI 오피스, MCP로 Claude·Codex가 실제 Office 파일을 만들고 고친다 (AGPL-3.0)]] — 2026-11-24
+- [[claude-code-ultimate-guide-harness-engineering|Claude Code Ultimate Guide — 기초부터 프로덕션 운영까지: 하네스·컨텍스트 엔지니어링, Skill·Agent·MCP 선택 기준, AI FinOps (CC BY-SA 4.0)]] — 2026-11-24
