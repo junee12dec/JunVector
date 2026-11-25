@@ -15,3 +15,4 @@ description: "진행 중인 프로젝트 목차. 끝이 있는 일들을 관리�
 - [[second-brain-setup/MOC|Second Brain 구축]] — 2026-03-10
 - [[vue-springboot-mini-project/MOC|Vue.js + Spring Boot 미니프로젝트]] — 2026-03-10
 - [[um-ui-catalog/MOC|UM 과제 UI 카탈로그화]] — 2026-11-19
+- [[madi-rag/MOC|madi RAG — 근거가 바뀌면 AI도 알게 하기]] — 2026-11-25

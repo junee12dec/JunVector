@@ -42,7 +42,6 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[designinwords-ui-design-terms-97-ai-prompt|DesignInWords — UI 디자인 용어 97개를 전후 비교로 보고, AI에 붙여넣을 한국어 프롬프트를 조립하는 사이트]] — 2026-11-20
 - [[stark-dual-graph-agent-memory-episodes-insights|STARK — 사건(에피소드)과 행동 패턴(통찰)을 두 그래프로 따로 남기는 개인화 에이전트 메모리 (논문)]] — 2026-11-21
 - [[toss-design-skill-v2-unofficial-agent-skill|토스 디자인 스킬 v2 — toss.tech 디자인 아티클 143편의 판단 기준을 출처와 함께 담은 비공식 에이전트 스킬]] — 2026-11-23
-- [[board-rag-react-springboot-fastapi-langgraph-one-page|게시판 AI 검색(RAG) 한 장 정리 — React·Spring Boot·FastAPI(LangChain·LangGraph) 구조]] — 2026-11-22
 - [[free-design-reference-sites-15-landing-font-color-icon|디자인 참고 무료 사이트 15곳 — 랜딩 페이지 레퍼런스·폰트·색 조합·아이콘·목업]] — 2026-11-22
 - [[floorplan-claude-codex-codebase-plain-english-map|Floorplan — Claude Code·Codex가 코드베이스를 읽고 쉬운 말로 된 확대 가능한 앱 지도를 그려 주는 플러그인 (MIT)]] — 2026-11-23
 - [[ruben-hassid-full-claude-course-15-guides|Full Claude Course — 주말에 Claude를 처음부터 익히는 무료 가이드 15편 (Ruben Hassid)]] — 2026-11-21
@@ -56,4 +55,3 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[mr-office-ai-office-suite-mcp-word-excel-ppt|MR Office — Word·Excel·PowerPoint·PDF를 브라우저에서 편집하는 오픈소스 AI 오피스, MCP로 Claude·Codex가 실제 Office 파일을 만들고 고친다 (AGPL-3.0)]] — 2026-11-24
 - [[claude-code-ultimate-guide-harness-engineering|Claude Code Ultimate Guide — 기초부터 프로덕션 운영까지: 하네스·컨텍스트 엔지니어링, Skill·Agent·MCP 선택 기준, AI FinOps (CC BY-SA 4.0)]] — 2026-11-24
 - [[ai-youtubers-3-jeff-su-liam-ottley-jack-roberts|AI 공부·수익화용 유튜버 3명 — Jeff Su·Liam Ottley·Jack Roberts]] — 2026-11-24
-- [[rag-index-after-commit-transactional-event-listener|글이 바뀌면 AI도 알아야 한다 — Spring 게시판 RAG의 커밋 이후 색인 (@TransactionalEventListener + 색인 상태)]] — 2026-11-24
