@@ -58,3 +58,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[skill-creator-anthropic-official-skill-making-skill|skill-creator — 내 스킬을 대신 써 주는 Anthropic 공식 스킬 (평소 하던 일을 말로 설명하면 SKILL.md로 정리)]] — 2026-11-26
 - [[gpt-researcher-open-deep-research-agent|GPT Researcher — 웹과 내 로컬 문서를 함께 뒤져 출처 인용이 붙은 장문 리포트를 쓰는 오픈소스 심층 리서치 에이전트 (Apache-2.0)]] — 2026-11-26
 - [[mcp-vs-api-who-decides-which-call|MCP vs API — 어떤 호출을 할지 누가 정하나: 개발자가 미리 정하는 API, 모델이 실행 중에 고르는 MCP]] — 2026-11-26
+- [[pdfmathtranslate-bilingual-paper-pdf-translator|PDFMathTranslate — 수식·표·그림·목차를 그대로 살려 논문 PDF를 이중언어(원문+번역)로 바꿔 주는 오픈소스 (pdf2zh, AGPL-3.0)]] — 2026-11-26
