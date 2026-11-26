@@ -56,3 +56,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[claude-code-ultimate-guide-harness-engineering|Claude Code Ultimate Guide — 기초부터 프로덕션 운영까지: 하네스·컨텍스트 엔지니어링, Skill·Agent·MCP 선택 기준, AI FinOps (CC BY-SA 4.0)]] — 2026-11-24
 - [[ai-youtubers-3-jeff-su-liam-ottley-jack-roberts|AI 공부·수익화용 유튜버 3명 — Jeff Su·Liam Ottley·Jack Roberts]] — 2026-11-24
 - [[skill-creator-anthropic-official-skill-making-skill|skill-creator — 내 스킬을 대신 써 주는 Anthropic 공식 스킬 (평소 하던 일을 말로 설명하면 SKILL.md로 정리)]] — 2026-11-26
+- [[gpt-researcher-open-deep-research-agent|GPT Researcher — 웹과 내 로컬 문서를 함께 뒤져 출처 인용이 붙은 장문 리포트를 쓰는 오픈소스 심층 리서치 에이전트 (Apache-2.0)]] — 2026-11-26
