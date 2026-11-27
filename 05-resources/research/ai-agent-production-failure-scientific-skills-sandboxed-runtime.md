@@ -60,6 +60,19 @@ source: "https://www.threads.com/@opsoai/post/DYTIxVTkg9H"
 
 ---
 
+## 저장소 현황 (2026-11-27 추가)
+
+출처: @gitrepos_ (Threads, 2026-11-26, https://www.threads.com/@gitrepos_/post/DgOPR2aFF15) — "scientific-agent-skills ⭐ 58k, 133개 과학 연구 스킬" + 저장소 README.
+
+- 저장소: https://github.com/K-Dense-AI/scientific-agent-skills (MIT, 별 약 5만 8,600개, v2.72.0)
+- 글의 "133개"와 첨부 이미지(별 1만 8,800개, v2.37.1)는 옛 README 캡처다. **현재는 스킬 177개**, 데이터베이스 100개 이상.
+- 전신은 Claude Scientific Skills. 이름이 바뀌어 Agent Skills 표준을 지원하는 Cursor·Claude Code·Codex·Antigravity에서 쓴다.
+- 분야: 생물정보·화학정보·단백질체·임상·신경과학·재료·물리·지구과학·데이터 분석·과학 글쓰기·연구 방법론 등.
+- 구성: 데이터베이스 조회 스킬(80개 DB 문서화), 파이썬 패키지 스킬 70개 이상, 연구 도구 연동 스킬 9개, 분석·커뮤니케이션 도구 30개 이상.
+- 스킬마다 `SKILL.md`(목적·워크플로우·버전)가 있고, 일부는 실행 스크립트·템플릿을 포함한다.
+- 논문: arXiv 2609.00065. 이 스킬들로 돌아가는 무료 데스크톱 AI 공동 연구자 K-Dense BYOK가 따로 있다.
+- 2.72.0부터 `docx`·`pdf`·`pptx`·`xlsx` 문서 스킬은 Anthropic 라이선스 때문에 번들에서 뺐다.
+
 ## 관련 노트
 
 - [[production-ai-agent-architecture-4layers]] — security·eval·observability 4계층 프로덕션 구조
