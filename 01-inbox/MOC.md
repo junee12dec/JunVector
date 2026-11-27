@@ -61,3 +61,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[pdfmathtranslate-bilingual-paper-pdf-translator|PDFMathTranslate — 수식·표·그림·목차를 그대로 살려 논문 PDF를 이중언어(원문+번역)로 바꿔 주는 오픈소스 (pdf2zh, AGPL-3.0)]] — 2026-11-26
 - [[ai-native-database-context-optimizer-postgresql-start|AI 시대의 데이터베이스 — 조회가 아니라 지식·경험·출처를 다루는 AI-Native DB와 Context Optimizer, PostgreSQL 위에서 시작하자]] — 2026-11-27
 - [[9-free-claude-skills-vibe-coding-design-look|바이브코딩 결과물이 덜 '기본값'처럼 보이게 하는 무료 Claude 스킬 9종 (모션·UI 스타일·SVG 아이콘·디자인 토큰·로고·PPT)]] — 2026-11-27
+- [[memo-memory-as-a-model-frozen-llm-no-rag|MeMo: Memory as a Model — 문서를 작은 Memory 모델에 학습시키고, 얼려 둔 LLM은 그 모델에 물어서 답하는 RAG 대안 (arXiv 2605.15156)]] — 2026-11-27
