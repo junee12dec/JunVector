@@ -59,3 +59,4 @@ description: "미분류 노트 목차. 모든 새 노트의 기본 저장 위치
 - [[gpt-researcher-open-deep-research-agent|GPT Researcher — 웹과 내 로컬 문서를 함께 뒤져 출처 인용이 붙은 장문 리포트를 쓰는 오픈소스 심층 리서치 에이전트 (Apache-2.0)]] — 2026-11-26
 - [[mcp-vs-api-who-decides-which-call|MCP vs API — 어떤 호출을 할지 누가 정하나: 개발자가 미리 정하는 API, 모델이 실행 중에 고르는 MCP]] — 2026-11-26
 - [[pdfmathtranslate-bilingual-paper-pdf-translator|PDFMathTranslate — 수식·표·그림·목차를 그대로 살려 논문 PDF를 이중언어(원문+번역)로 바꿔 주는 오픈소스 (pdf2zh, AGPL-3.0)]] — 2026-11-26
+- [[ai-native-database-context-optimizer-postgresql-start|AI 시대의 데이터베이스 — 조회가 아니라 지식·경험·출처를 다루는 AI-Native DB와 Context Optimizer, PostgreSQL 위에서 시작하자]] — 2026-11-27
